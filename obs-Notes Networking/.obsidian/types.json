@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "date": "date",
+    "members": "multitext",
+    "Project": "multitext",
+    "Nhóm": "multitext",
+    "Type": "multitext",
+    "Ngày phỏng vấn": "date"
+  }
+}

@@ -1,0 +1,23 @@
+---
+aliases: 
+date: 2024-07-11
+tags:
+  - "#new_note"
+---
+
+- [ ] Xử lý audit cho dự án Midea
+	- 2 database 
+	- db audit thiếu view
+	- Chuyển cho Tin.Nguyễn check tiếp
+- [x] Xử lý xss giúp Sáng 
+- [ ] xử lý ràng buộc xóa [[7360 - Xóa Data khỏi db]] 
+- [ ] Họp leader
+	- dd
+	- d
+
+### Vấn đề bảo hiểm
+ Dự án Taisun [[Phan-tich-bao-hiem-TS-235946]]
+	 - Vấn đề: nhân viên nghỉ việc rơi vào 26/05, chu kỳ 26-25. Bảo báo đóng
+	 - Mong muốn : báo giảm nghỉ việc
+
+

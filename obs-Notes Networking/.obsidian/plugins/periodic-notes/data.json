@@ -1,0 +1,33 @@
+{
+  "showGettingStartedBanner": true,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "yyyy-MMM-W/ddd-HHmmss",
+    "folder": "TungLy/0. Daily",
+    "template": "TungLy/2. RESOURCE/template/New notes.md",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "gggg-[W]ww",
+    "template": "Demo Vault 2/2. RESOURCE/template/Weekly Journal.md",
+    "folder": "Demo Vault 2/0. JOURNAL",
+    "enabled": false
+  },
+  "monthly": {
+    "format": "YYYY-MM",
+    "template": "src/Template/Monthly Journal.md",
+    "folder": "Demo Vault 2/0. JOURNAL",
+    "enabled": false
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  }
+}

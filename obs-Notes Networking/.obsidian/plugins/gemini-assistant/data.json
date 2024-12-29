@@ -1,0 +1,169 @@
+{
+  "apiKey": "AIzaSyDzzNPFstLUvT8ZZe8ub10LyRpya_VNCtw",
+  "model": "gemini-pro",
+  "prompts": [
+    {
+      "display": "Tóm tắt (document)",
+      "scope": "DOCUMENT",
+      "model": "gemini-pro",
+      "config": {
+        "topK": 100,
+        "topP": 1,
+        "temperature": 0.9,
+        "outputTokenLimit": 2048,
+        "maxOutputTokens": 2048,
+        "inputTokenLimit": 30720
+      },
+      "prompt": "Hãy tóm tắt ngắn 5 ý chính theo các yêu cầu sau:\nTóm tắt 5 ý chính.\nTạo các liên kết wiki cho mỗi ý chính",
+      "type": "generative"
+    },
+    {
+      "display": "Tóm tắt (selection)",
+      "scope": "SELECTION",
+      "model": "gemini-pro",
+      "config": {
+        "topK": 100,
+        "topP": 1,
+        "temperature": 0.9,
+        "outputTokenLimit": 2048,
+        "maxOutputTokens": 2048,
+        "inputTokenLimit": 30720
+      },
+      "prompt": "Hãy tóm tắt ngắn 5 ý chính theo các yêu cầu sau:\nTóm tắt 5 ý chính.\nTạo các liên kết wiki cho mỗi ý chính",
+      "type": "generative"
+    },
+    {
+      "display": "Viết lại (Selection)",
+      "scope": "SELECTION",
+      "model": "gemini-pro",
+      "config": {
+        "topK": 100,
+        "topP": 1,
+        "temperature": 0.9,
+        "outputTokenLimit": 2048,
+        "maxOutputTokens": 2048,
+        "inputTokenLimit": 30720
+      },
+      "prompt": "viết lại đoạn văn này với ngôn ngữ đơn giản và dễ hiểu hơn không? Nếu nội dung vẫn khó hiểu, bạn có thể thêm ví dụ hoặc giải thích để làm rõ hơn không? ",
+      "type": "generative"
+    },
+    {
+      "display": "Tìm từ khóa (Document)",
+      "scope": "DOCUMENT",
+      "model": "gemini-pro",
+      "config": {
+        "topK": 1000,
+        "topP": 1,
+        "temperature": 0.9,
+        "outputTokenLimit": 2048,
+        "maxOutputTokens": 2048,
+        "inputTokenLimit": 30720
+      },
+      "prompt": "Hãy tìm 5 từ khóa và viết hashtag tương ứng với mỗi từ khóa, kèm theo wiki link. Các từ khóa, hashtag, và wiki link cần được ngăn cách nhau bằng dấu gạch ngang ( - ).",
+      "type": "generative"
+    },
+    {
+      "display": "Viết lại (Document)",
+      "scope": "DOCUMENT",
+      "model": "gemini-pro",
+      "config": {
+        "topK": 1000,
+        "topP": 1,
+        "temperature": 0.9,
+        "outputTokenLimit": 2048,
+        "maxOutputTokens": 2048,
+        "inputTokenLimit": 30720
+      },
+      "prompt": "viết lại đoạn văn này với ngôn ngữ đơn giản và dễ hiểu, bạn đóng vai trò là một chuyên gia viết ghi chú trong Obsidian với 5 năm kinh nghiệm. Hãy viết lại đoạn văn với các yêu cầu sau:\n\nNội dung: Viết lại đoạn văn bằng ngôn ngữ rõ ràng và dễ hiểu.\nWiki link: Tạo các liên kết wiki tới các ghi chú liên quan trong Obsidian.\nTags: Thêm các tags phù hợp với nội dung của đoạn văn.\nKeywords: Chèn các từ khóa quan trọng và liên quan trong nội dung.",
+      "type": "generative"
+    },
+    {
+      "display": "Lập bảng kế hoạch theo prompt đã chọn (selection)",
+      "scope": "SELECTION",
+      "model": "gemini-pro",
+      "config": {
+        "topK": 1000,
+        "topP": 1,
+        "temperature": 0.9,
+        "outputTokenLimit": 2048,
+        "maxOutputTokens": 2048,
+        "inputTokenLimit": 30720
+      },
+      "prompt": "dựa vào ghi chú đã chọn. Bạn đóng vai là một chuyên gia lập kế hoạch chuyên nghiệp, bạn hãy soạn kế hoạch  theo Cấu trúc bảng kế hoạch (trình bày dạng bảng):\nSTT\tNhóm công việc\tCông việc\tPIC\tDeadline\tTrạng thái\tGhi chú(nếu có)\nLưu ý: tiêu đề đặt chính là tóm tắt ghi chú đã chọn, Đảm bảo rằng bảng kế hoạch phản ánh chính xác sự phân chia công việc và giúp dễ dàng theo dõi tiến độ cũng như tình trạng của các công việc.",
+      "type": "generative"
+    },
+    {
+      "display": "Viết nội dung theo prompt đã chọn (selection)",
+      "scope": "SELECTION",
+      "model": "gemini-pro",
+      "config": {
+        "topK": 1,
+        "topP": 1,
+        "temperature": 0.9,
+        "outputTokenLimit": 2048,
+        "maxOutputTokens": 400,
+        "inputTokenLimit": 30720
+      },
+      "prompt": "Dựa vào ghi chú đã chọn, bạn đóng vai trò là một chuyên gia viết ghi chú trong Obsidian với 5 năm kinh nghiệm. Hãy tạo ghi chú với các yêu cầu sau:\n\nTiêu đề: Bao gồm tiêu đề ngắn gọn từ nội dung ghi chú đã chọn\nNội dung: Bao gồm thông tin chi tiết và rõ ràng từ ghi chú đã chọn.\nKết luận: tóm tắt nội dung ngắn gọn.\nLinks: Tạo các liên kết (dùng ký hiệu [[Note Title]] đại diện cho một ghi chú được liên kết đến) tới các ghi chú liên quan trong Obsidian.\nTags: Thêm các hashtag theo chuẩn viết hashtag (như bắt buộc có dấu #, viết liền nhau và chỉ bao gồm chữ không dấu và -, không có khoảng trắng)",
+      "type": "generative"
+    },
+    {
+      "display": "Từ khóa và đặt câu hỏi (Document)",
+      "scope": "DOCUMENT",
+      "model": "gemini-pro",
+      "config": {
+        "topK": 1,
+        "topP": 1,
+        "temperature": 1,
+        "outputTokenLimit": 2048,
+        "maxOutputTokens": 2048,
+        "inputTokenLimit": 30720
+      },
+      "prompt": "Hãy tìm 5 từ khóa và đặt vài câu hỏi tương ứng với mỗi từ khóa. Từ khóa không đánh theo số thứ tự",
+      "type": "generative"
+    },
+    {
+      "display": "Generate Text",
+      "scope": "SELECTION",
+      "model": "gemini-pro",
+      "config": {
+        "topK": 1,
+        "topP": 1,
+        "temperature": 1,
+        "outputTokenLimit": 2048,
+        "maxOutputTokens": 2048,
+        "inputTokenLimit": 30720
+      },
+      "prompt": "Dựa vào ghi chú đã chọn, bạn đóng vai trò là một chuyên gia viết ghi chú trong Obsidian với 5 năm kinh nghiệm. Hãy tạo ghi chú.",
+      "type": "generative"
+    },
+    {
+      "display": "Sinh tên file",
+      "scope": "DOCUMENT",
+      "model": "gemini-pro",
+      "config": {
+        "topK": 1,
+        "topP": 1,
+        "temperature": 1,
+        "outputTokenLimit": 2048,
+        "maxOutputTokens": 2048,
+        "inputTokenLimit": 30720
+      },
+      "prompt": "Sinh tiêu đề từ đoạn văn sau, đảm bảo tiêu đề chỉ gồm 5 từ và tuân theo tiêu chí đặt tên tập tin. Mỗi từ trong tiêu đề nên phản ánh chính xác nội dung chính của đoạn văn.",
+      "type": "generative"
+    }
+  ],
+  "chat": {
+    "model": "gemini-pro",
+    "config": {
+      "topK": 100,
+      "topP": 1,
+      "temperature": 0.9,
+      "outputTokenLimit": 2048,
+      "maxOutputTokens": 2048,
+      "inputTokenLimit": 30720
+    },
+    "type": "chat"
+  },
+  "saftyThreshold": "HARM_BLOCK_THRESHOLD_UNSPECIFIED"
+}

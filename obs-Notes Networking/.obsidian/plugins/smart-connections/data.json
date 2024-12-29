@@ -1,0 +1,68 @@
+{
+  "new_user": false,
+  "legacy_transformers": false,
+  "enable_mobile": true,
+  "actions": {
+    "lookup": true
+  },
+  "smart_notices": {
+    "muted": {
+      "no_entity": true,
+      "Notice_muted": true
+    }
+  },
+  "system_prompts_folder": "smart prompts",
+  "smart_chat_folder": "smart-chats",
+  "smart_chat_folder_last": "smart-chats",
+  "chat_model_platform_key": "google_gemini",
+  "open_router": {
+    "api_key": "AIzaSyDzzNPFstLUvT8ZZe8ub10LyRpya_VNCtw",
+    "model_name": "google/gemini-pro-1.5",
+    "description": "Google: Gemini Pro 1.5",
+    "type": "API",
+    "endpoint": "https://openrouter.ai/api/v1/chat/completions",
+    "streaming": true,
+    "adapter": "OpenRouter",
+    "fetch_models": true,
+    "default_model": "meta-llama/llama-3.1-8b-instruct:free",
+    "signup_url": "https://accounts.openrouter.ai/sign-up?redirect_url=https%3A%2F%2Fopenrouter.ai%2Fkeys",
+    "key": "google/gemini-pro-1.5",
+    "max_input_tokens": 2000000,
+    "actions": false,
+    "multimodal": false,
+    "raw": {
+      "id": "google/gemini-pro-1.5",
+      "name": "Google: Gemini Pro 1.5",
+      "created": 1712620800,
+      "description": "Google's latest multimodal model, supporting image and video in text or chat prompts.\n\nOptimized for language tasks including:\n\n- Code generation\n- Text generation\n- Text editing\n- Problem solving\n- Recommendations\n- Information extraction\n- Data extraction or generation\n- AI agents\n\nUsage of Gemini is subject to Google's [Gemini Terms of Use](https://ai.google.dev/terms).\n\n#multimodal",
+      "context_length": 2000000,
+      "architecture": {
+        "modality": "text+image->text",
+        "tokenizer": "Gemini",
+        "instruct_type": null
+      },
+      "pricing": {
+        "prompt": "0.00000125",
+        "completion": "0.000005",
+        "image": "0.0006575",
+        "request": "0"
+      },
+      "top_provider": {
+        "context_length": 2000000,
+        "max_completion_tokens": 8192,
+        "is_moderated": false
+      },
+      "per_request_limits": null
+    }
+  },
+  "api_key": "",
+  "excluded_headings": "",
+  "folder_exclusions": "smart-chats",
+  "show_full_path": false,
+  "expanded_view": true,
+  "language": "en",
+  "version": "2.2.82",
+  "google_gemini": {
+    "api_key": "AIzaSyDzzNPFstLUvT8ZZe8ub10LyRpya_VNCtw"
+  }
+}

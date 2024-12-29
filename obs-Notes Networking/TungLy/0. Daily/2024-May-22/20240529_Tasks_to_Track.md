@@ -1,0 +1,15 @@
+---
+aliases: 
+date: 28905/2024
+tags:
+  - "#daily"
+permalink: "[[20240529_00]]"
+---
+
+# 1.  Công việc cần theo dõi
+- Hệ thống lại phân quyền danh mục [[Phân Quyền Danh Mục]]
+- Quản lý nhân tài [[ke-can-chu-chot-duyet-mh]]
+- Kế hoạch chuẩn hóa tài liệu [[Docs - Tài liệu chuẩn hóa]]
+- Tìm hiểu Okta [[Tích hợp Okta vào HRM]]
+- Báo cáo hàng ngày của Nghĩa [[20240529_NghiaHuynhHieu - Sonar]]
+

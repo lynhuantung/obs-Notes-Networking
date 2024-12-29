@@ -1,0 +1,41 @@
+{
+  "settings": {
+    "migrated": 5,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasBahai",
+      "Fas0",
+      "RiBook3Fill",
+      "RiQuillPenFill",
+      "IbTarget"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "Demo Vault 2/0. MAP.md": "FasMap",
+  "Demo Vault 2/4. VISUAL NOTES": "RiFlowChart",
+  "Demo Vault 2/3. ARCHIEVED": "FasBoxArchive",
+  "Demo Vault 2/2. RESOURCE": "FasTruck",
+  "Demo Vault 2/1. PROJECT": "IbTarget",
+  "Hướng dẫn sử dụng.md": "RiBook3Fill"
+}

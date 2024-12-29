@@ -1,0 +1,13 @@
+---
+aliases: 
+date: 2024-07-01
+tags:
+  - "#new_note"
+---
+
+- Họp quản lý nhân tài [[H-LTG-TAL-020724]]
+- Hỗ trợ dũng.hoàng check link skype
+- Xử lý bảo mật [[Bảo mật HRM - Misa]]
+
+
+
