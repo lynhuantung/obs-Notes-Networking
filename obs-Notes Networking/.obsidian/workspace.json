@@ -149,7 +149,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -393,18 +394,18 @@
       "audio-recorder:Start/stop recording": false,
       "zk-prefixer:Create new unique note": false,
       "publish:Publish changes...": false,
-      "periodic-notes:Open today": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "gemini-assistant:New Gemini chat": false,
       "templater-obsidian:Templater": false,
       "obsidian-review-notes-plugin:View Recent Notes": false,
       "smart-random-note:Open Random Note from Search": false,
+      "fit:Fit Sync": false,
+      "periodic-notes:Open today": false,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false,
-      "fit:Fit Sync": false
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "bc125fbb4b26d229",
+  "active": "74f5c6d78eb7a264",
   "lastOpenFiles": [
     "TungLy/0. Daily/2024-Dec-52/Mon-2024-12-23 013217.md",
     "TungLy/0. Daily/2024-Dec-52/Sun-2024-12-29 033906.md",
