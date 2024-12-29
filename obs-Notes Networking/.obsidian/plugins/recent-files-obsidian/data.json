@@ -13,10 +13,6 @@
       "path": "TungLy/3. ARCHIEVED/Thông Tin/Thông tin.md"
     },
     {
-      "basename": "20240605-2359",
-      "path": "TungLy/0. Daily/2024-Jun-23/20240605-2359.md"
-    },
-    {
       "basename": "TVC-Hỗ trợ VNPay",
       "path": "TungLy/0. Daily/2024-Dec-52/TVC-Hỗ trợ VNPay.md"
     },
@@ -25,20 +21,8 @@
       "path": "TungLy/3. ARCHIEVED/Working/Remind.md"
     },
     {
-      "basename": "Tạo assembly Vnrsource.Clr",
-      "path": "TungLy/0. Daily/2024-Oct-40/Tạo assembly Vnrsource.Clr.md"
-    },
-    {
-      "basename": "Ma_Hoa_Luong_kysoDll",
-      "path": "TungLy/0. Daily/2024-Oct-40/Ma_Hoa_Luong_kysoDll.md"
-    },
-    {
       "basename": "Chu kỳ báo tăng LĐ mới",
       "path": "Truy vết/Thiết lập bảo hiểm/Cấu hình chứng từ/Chu kỳ báo tăng LĐ mới.md"
-    },
-    {
-      "basename": "Hotfix_Mẫu_C70_ Nghỉ_Việc_Ốm_Dài_Ngày",
-      "path": "TungLy/0. Daily/2024-Jun-23/Hotfix_Mẫu_C70_ Nghỉ_Việc_Ốm_Dài_Ngày.md"
     },
     {
       "basename": "Vấn đề về quyền mẫu Role Template",
@@ -53,18 +37,6 @@
       "path": "Publish/1. Projects/Index/Report/0.Report.md"
     },
     {
-      "basename": "Redis-Cache-Memory-Optimization",
-      "path": "TungLy/0. Daily/2024-Aug-34/Redis-Cache-Memory-Optimization.md"
-    },
-    {
-      "basename": "Xu-ly-quyen-danh-muc-OPA-FIT",
-      "path": "TungLy/0. Daily/2024-Aug-34/Xu-ly-quyen-danh-muc-OPA-FIT.md"
-    },
-    {
-      "basename": "hrm_dwh_sp_get_EmployeeList",
-      "path": "TungLy/0. Daily/2024-Oct-44/hrm_dwh_sp_get_EmployeeList.md"
-    },
-    {
       "basename": "0. 2024-29 Tổng hợp",
       "path": "Publish/2. RESOURCE/Summary/2024-Jul/0. 2024-29 Tổng hợp.md"
     },
@@ -73,24 +45,12 @@
       "path": "Publish/1. Projects/Index/ChucNang/Thành Phần BH/Tổng hợp công.md"
     },
     {
-      "basename": "0. 2024-41 Tổng hợp",
-      "path": "TungLy/0. Daily/2024-Oct-41/0. 2024-41 Tổng hợp.md"
-    },
-    {
-      "basename": "2024-11-07 084423",
-      "path": "TungLy/0. Daily/2024-Nov-45/2024-11-07 084423.md"
-    },
-    {
       "basename": "in out",
       "path": "Truy vết/Thành Phần BH/in out.md"
     },
     {
       "basename": "Para-Resources",
       "path": "Publish/2. RESOURCE/Học Hỏi/Para-Resources.md"
-    },
-    {
-      "basename": "SSO okta",
-      "path": "TungLy/0. Daily/2024-Dec-49/SSO okta.md"
     },
     {
       "basename": "Phân hệ bảo hiểm - Tháng 07-2024",
@@ -103,10 +63,6 @@
     {
       "basename": "Phân hệ bảo mật hệ thống - Tháng 07-2024",
       "path": "Publish/2. RESOURCE/Học Hỏi/Jira Epic/Phân hệ bảo mật hệ thống - Tháng 07-2024.md"
-    },
-    {
-      "basename": "HoTro_Api_Them_Xoa_Sua_NguoiDung",
-      "path": "TungLy/0. Daily/2024-Jul-30/HoTro_Api_Them_Xoa_Sua_NguoiDung.md"
     },
     {
       "basename": "Thiết lập BH",
@@ -127,10 +83,6 @@
     {
       "basename": "Hướng dẫn chạy AI local",
       "path": "Publish/2. RESOURCE/Confluence/AI/Hướng dẫn chạy AI local.md"
-    },
-    {
-      "basename": "2024-12-11 100538",
-      "path": "TungLy/0. Daily/2024-Dec-50/2024-12-11 100538.md"
     },
     {
       "basename": "Lịch sử BH",
@@ -161,16 +113,8 @@
       "path": "Publish/1. Projects/Index/ChucNang/TruyVet/0.Truy vết.md"
     },
     {
-      "basename": "Ho-tro-check-link-CGV",
-      "path": "TungLy/0. Daily/2024-Sep-38/Ho-tro-check-link-CGV.md"
-    },
-    {
       "basename": "Drafts-Nháp",
       "path": "TungLy/Drafts-Nháp.md"
-    },
-    {
-      "basename": "Daily_meeting_30052024",
-      "path": "TungLy/0. Daily/2024-May-22/Daily_meeting_30052024.md"
     },
     {
       "basename": "Thiết lập BH",
@@ -195,10 +139,6 @@
     {
       "basename": "TRUY VẤN SOCRATES",
       "path": "TungLy/2. RESOURCE/Học Hỏi/TRUY VẤN SOCRATES.md"
-    },
-    {
-      "basename": "Log-HRM-Presentation-Insurance-Analyze",
-      "path": "TungLy/0. Daily/2024-Jun-23/Log-HRM-Presentation-Insurance-Analyze.md"
     }
   ],
   "omittedPaths": []
