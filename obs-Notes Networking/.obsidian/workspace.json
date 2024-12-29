@@ -149,8 +149,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -405,7 +404,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "74f5c6d78eb7a264",
+  "active": "91ea0f5f7cc6bb54",
   "lastOpenFiles": [
     "TungLy/0. Daily/2024-Dec-52/Mon-2024-12-23 013217.md",
     "TungLy/0. Daily/2024-Dec-52/Sun-2024-12-29 033906.md",
