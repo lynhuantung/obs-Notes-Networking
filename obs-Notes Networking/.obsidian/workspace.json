@@ -135,12 +135,21 @@
             "state": {
               "type": "recent-files",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "10799e7cc59a2531",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
               "icon": "clock",
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -279,6 +288,16 @@
             "state": {
               "type": "reminder-list",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "717f09ae17160738",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
               "icon": "clock",
               "title": "Reminders"
             }
@@ -374,21 +393,22 @@
       "audio-recorder:Start/stop recording": false,
       "zk-prefixer:Create new unique note": false,
       "publish:Publish changes...": false,
+      "periodic-notes:Open today": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "gemini-assistant:New Gemini chat": false,
       "templater-obsidian:Templater": false,
       "obsidian-review-notes-plugin:View Recent Notes": false,
       "smart-random-note:Open Random Note from Search": false,
-      "fit:Fit Sync": false,
-      "periodic-notes:Open today": false,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "fit:Fit Sync": false
     }
   },
   "active": "bc125fbb4b26d229",
   "lastOpenFiles": [
-    "TungLy/3. ARCHIEVED/Thông Tin/Thông tin.md",
+    "TungLy/0. Daily/2024-Dec-52/Mon-2024-12-23 013217.md",
     "TungLy/0. Daily/2024-Dec-52/Sun-2024-12-29 033906.md",
+    "TungLy/3. ARCHIEVED/Thông Tin/Thông tin.md",
     "TungLy/0. Daily/2024-Jun-23/20240605-2359.md",
     "TungLy/0. Daily/2024-Dec-52/TVC-Hỗ trợ VNPay.md",
     "_fit/README.md",
@@ -416,7 +436,6 @@
     "Publish/1. Projects/Index/ChucNang/Thành Phần BH/Tổng hợp công.md",
     "TungLy/0. Daily/2024-Oct-41/0. 2024-41 Tổng hợp.md",
     "TungLy/0. Daily/2024-Nov-45/2024-11-07 084423.md",
-    "Truy vết/Thành Phần BH/in out.md",
     "TungLy/0. Daily/2024-Dec-52",
     "src/Pasted image 20241218134538.png",
     "src/Pasted image 20241218092533.png",
