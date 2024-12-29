@@ -1,7 +1,0 @@
----
-aliases: 
-date: 2024-07-23
-tags:
-  - "#ins_map"
----
-[[Truy vết/Thành Phần BH/Loại hợp đồng]]

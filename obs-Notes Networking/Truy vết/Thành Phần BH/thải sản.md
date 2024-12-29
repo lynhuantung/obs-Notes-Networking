@@ -1,4 +1,0 @@
-- Nghỉ thai sản 6 tháng
-- Dựa vào check thai  sản trong [[loại ngày nghỉ]] hoặc dựa vào [[loại chứng từ]]
-- Nếu nghỉ hơn 14 ngày [[Truy vết/Thành Phần BH/Nghỉ 14 ngày|Nghỉ 14 ngày]] => tính thai sản
-- Nghỉ ít hơn 14 ngày vẫn đóng bhxh
