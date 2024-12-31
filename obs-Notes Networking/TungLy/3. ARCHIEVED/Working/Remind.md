@@ -7,7 +7,7 @@
 - [x] Chức năng xóa [^4] => đang tiến hành làm
 - [x] Tạo liên kết module bảo hiểm
 - [x] 0184537 : Thêm API xác thực đăng nhập trên Portal/App (FGL)
-- [ ] [[Chỉ huy dự án]]
+- [ ] [[0.Chỉ huy dự án]]
 
 
 [^1]: Tích hợp OKTA vào HRM : [[Tích hợp Okta vào HRM]] 

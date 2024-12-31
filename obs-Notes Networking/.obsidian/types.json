@@ -8,6 +8,8 @@
     "Project": "multitext",
     "Nhóm": "multitext",
     "Type": "multitext",
-    "Ngày phỏng vấn": "date"
+    "Ngày phỏng vấn": "date",
+    "Giai đoạn": "multitext",
+    "Trạng thái": "multitext"
   }
 }
