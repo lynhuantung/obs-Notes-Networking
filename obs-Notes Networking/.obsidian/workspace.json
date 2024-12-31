@@ -148,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 498.5
+    "width": 498.5,
+    "collapsed": true
   },
   "right": {
     "id": "b4716a1b82e52f01",
@@ -366,7 +367,7 @@
               "type": "mindmap",
               "state": {},
               "icon": "dot-network",
-              "title": "Mind Map of No file"
+              "title": "Mind Map of FGL-Project"
             }
           }
         ],
@@ -399,7 +400,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "91ea0f5f7cc6bb54",
+  "active": "36d9bbb4ed2ba4f6",
   "lastOpenFiles": [
     "TungLy/1. Projects/Chỉ Huy dự án/0.Chỉ huy dự án.md",
     "TungLy/3. ARCHIEVED/Working/Remind.md",
