@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Ngoc.Nong",
-      "path": "TungLy/1. Projects/Nguồn lực/Ngoc.Nong.md"
+      "basename": "FGL-Project",
+      "path": "TungLy/1. Projects/Chỉ Huy dự án/FGL-Project/FGL-Project.md"
+    },
+    {
+      "basename": "0.Chỉ huy dự án",
+      "path": "TungLy/1. Projects/Chỉ Huy dự án/0.Chỉ huy dự án.md"
+    },
+    {
+      "basename": "Remind",
+      "path": "TungLy/3. ARCHIEVED/Working/Remind.md"
+    },
+    {
+      "basename": "H-Karcher-INS-281124",
+      "path": "TungLy/1. Projects/Karcher/H-Karcher-INS-281124.md"
+    },
+    {
+      "basename": "0.H-TrungDong",
+      "path": "TungLy/1. Projects/TrungDong/0.H-TrungDong.md"
+    },
+    {
+      "basename": "Đang làm việc",
+      "path": "TungLy/1. Projects/Nguồn lực/Trạng thái nguồn lực/Đang làm việc.md"
+    },
+    {
+      "basename": "Sẵn sàng tham gia",
+      "path": "TungLy/1. Projects/Nguồn lực/Trạng thái nguồn lực/Sẵn sàng tham gia.md"
+    },
+    {
+      "basename": "Quá tải",
+      "path": "TungLy/1. Projects/Nguồn lực/Trạng thái nguồn lực/Quá tải.md"
     },
     {
       "basename": "Nghỉ phép",
       "path": "TungLy/1. Projects/Nguồn lực/Trạng thái nguồn lực/Nghỉ phép.md"
+    },
+    {
+      "basename": "Ngoc.Nong",
+      "path": "TungLy/1. Projects/Nguồn lực/Ngoc.Nong.md"
     },
     {
       "basename": "Meeting_ddMM Template",
@@ -15,10 +47,6 @@
     {
       "basename": "Chặn phân tích bảo hiểm ở tương lai",
       "path": "TungLy/1. Projects/Thiết lập bảo hiểm/Cấu hình chứng từ/Chặn phân tích bảo hiểm ở tương lai.md"
-    },
-    {
-      "basename": "TVC-project",
-      "path": "TungLy/1. Projects/Chỉ Huy dự án/TVC-project.md"
     },
     {
       "basename": "So sánh ETL và ELT",
@@ -61,10 +89,6 @@
       "path": "TungLy/1. Projects/VCBs/H-VCBS-FAC-290624/phiếu nhập tài sản.md"
     },
     {
-      "basename": "Quá tải",
-      "path": "TungLy/1. Projects/Nguồn lực/Trạng thái nguồn lực/Quá tải.md"
-    },
-    {
       "basename": "H-LTG-TAL-200724",
       "path": "TungLy/1. Projects/LTG/H-LTG-TAL-200724.md"
     },
@@ -75,10 +99,6 @@
     {
       "basename": "H-TrungDong-Eva-31122024",
       "path": "TungLy/1. Projects/TrungDong/H-TrungDong-Eva-31122024.md"
-    },
-    {
-      "basename": "0.H-TrungDong",
-      "path": "TungLy/1. Projects/TrungDong/0.H-TrungDong.md"
     },
     {
       "basename": "0.H-TBV",
@@ -127,10 +147,6 @@
     {
       "basename": "Thanh lý tài sản",
       "path": "TungLy/1. Projects/VCBs/H-VCBS-FAC-290624/Thanh lý tài sản.md"
-    },
-    {
-      "basename": "Colgate-Project",
-      "path": "TungLy/1. Projects/Chỉ Huy dự án/Colgate-Project.md"
     },
     {
       "basename": "Thông tin nhân viên",
@@ -183,22 +199,6 @@
     {
       "basename": "Meeting_1028",
       "path": "TungLy/1. Projects/SaaS - VnR/xmind/Bien_Ban_Hop/Meeting_1028.md"
-    },
-    {
-      "basename": "cấu hình bảo hiểm",
-      "path": "TungLy/1. Projects/Thiết lập bảo hiểm/cấu hình bảo hiểm.md"
-    },
-    {
-      "basename": "Meeting_0722",
-      "path": "TungLy/1. Projects/SaaS - VnR/xmind/Bien_Ban_Hop/Meeting_0722.md"
-    },
-    {
-      "basename": "Tổng Quan TOS",
-      "path": "TungLy/Area/Data-WareHouse/ETL-TOS/Tổng Quan TOS.md"
-    },
-    {
-      "basename": "Cấu hình BH",
-      "path": "TungLy/1. Projects/Thành Phần BH/Cấu hình BH.md"
     }
   ],
   "omittedPaths": []

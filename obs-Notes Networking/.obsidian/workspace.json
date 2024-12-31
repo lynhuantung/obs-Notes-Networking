@@ -25,13 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TungLy/1. Projects/Nguồn lực/Ngoc.Nong.md",
+                "file": "TungLy/1. Projects/Chỉ Huy dự án/FGL-Project/FGL-Project.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ngoc.Nong"
+              "title": "FGL-Project"
             }
           }
         ],
@@ -148,8 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 498.5,
-    "collapsed": true
+    "width": 498.5
   },
   "right": {
     "id": "b4716a1b82e52f01",
@@ -312,11 +311,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TungLy/1. Projects/Nguồn lực/Ngoc.Nong.md",
+                "file": "TungLy/1. Projects/Chỉ Huy dự án/FGL-Project/FGL-Project.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 2,
+                  "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
@@ -340,7 +339,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Ngoc.Nong"
+              "title": "Graph of FGL-Project"
             }
           }
         ]
@@ -367,7 +366,7 @@
               "type": "mindmap",
               "state": {},
               "icon": "dot-network",
-              "title": "Mind Map of Ngoc.Nong"
+              "title": "Mind Map of No file"
             }
           }
         ],
@@ -400,44 +399,44 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "36d9bbb4ed2ba4f6",
+  "active": "91ea0f5f7cc6bb54",
   "lastOpenFiles": [
+    "TungLy/1. Projects/Chỉ Huy dự án/0.Chỉ huy dự án.md",
+    "TungLy/3. ARCHIEVED/Working/Remind.md",
+    "TungLy/1. Projects/Karcher/H-Karcher-INS-281124.md",
+    "TungLy/1. Projects/Chỉ Huy dự án/An Phước-Project/An Phước-Project.md",
+    "TungLy/1. Projects/Chỉ Huy dự án/An Phước-Project",
+    "TungLy/1. Projects/Chỉ Huy dự án/New folder",
+    "TungLy/1. Projects/Chỉ Huy dự án/Colgate-Project/Colgate-Project.md",
+    "TungLy/1. Projects/Chỉ Huy dự án/Colgate-Project",
+    "TungLy/1. Projects/Chỉ Huy dự án/FGL-Project/FGL-Project.md",
+    "TungLy/1. Projects/Chỉ Huy dự án/FGL-Project",
+    "TungLy/1. Projects/Chỉ Huy dự án/INOAC-Project/INOAC-Project.md",
+    "TungLy/1. Projects/Chỉ Huy dự án/INOAC-Project",
+    "TungLy/1. Projects/Chỉ Huy dự án/Marico-Project/Marico-Project.md",
+    "TungLy/1. Projects/Chỉ Huy dự án/Marico-Project",
+    "TungLy/1. Projects/Chỉ Huy dự án/PEWVN-Project/PEWVN-Project.md",
+    "TungLy/1. Projects/Chỉ Huy dự án/PEWVN-Project",
+    "TungLy/1. Projects/Chỉ Huy dự án/TBCBall -Project/TBCBall -Project.md",
+    "TungLy/1. Projects/Chỉ Huy dự án/TBCBall -Project",
+    "TungLy/1. Projects/Chỉ Huy dự án/TVC-project.md",
+    "TungLy/1. Projects/Chỉ Huy dự án/TVC-project/TVC-project.md",
+    "TungLy/1. Projects/Chỉ Huy dự án/TVC-project",
+    "TungLy/1. Projects/Chỉ Huy dự án/TrungDong-Project.md",
+    "TungLy/1. Projects/Chỉ Huy dự án/TrungDong-Project/TrungDong-Project.md",
+    "TungLy/1. Projects/Chỉ Huy dự án/TrungDong-Project",
+    "TungLy/1. Projects/TrungDong/0.H-TrungDong.md",
+    "TungLy/1. Projects/Nguồn lực/Trạng thái nguồn lực/Đang làm việc.md",
+    "TungLy/1. Projects/Nguồn lực/Trạng thái nguồn lực/Sẵn sàng tham gia.md",
+    "TungLy/1. Projects/Nguồn lực/Trạng thái nguồn lực/Quá tải.md",
     "TungLy/1. Projects/Nguồn lực/Trạng thái nguồn lực/Nghỉ phép.md",
+    "TungLy/1. Projects/Nguồn lực/Ngoc.Nong.md",
     "TungLy/1. Projects/SaaS - VnR/xmind/Bien_Ban_Hop/Meeting_ddMM Template.md",
     "TungLy/1. Projects/Thiết lập bảo hiểm/Cấu hình chứng từ/Chặn phân tích bảo hiểm ở tương lai.md",
-    "TungLy/1. Projects/Chỉ Huy dự án/TVC-project.md",
     "TungLy/Area/Data-WareHouse/ELT - Airbyte/So sánh ETL và ELT.md",
     "TungLy/Area/Data-WareHouse/ETL-TOS/tInput.md",
     "TungLy/1. Projects/0.Dự án.md",
     "TungLy/1. Projects/Terumo/H-TERUMO-SYS-181224.md",
-    "TungLy/1. Projects/Thành Phần BH/Nghỉ 14 ngày.md",
-    "TungLy/1. Projects/07-2024 tổng hợp/Epic0724-1 - Epic- Bảo mật, check Link, Support.md",
-    "TungLy/1. Projects/07-2024 tổng hợp/Story0724-1-3 - Support nghiệp vụ.md",
-    "TungLy/1. Projects/Index/KeHoach/0.KeHoach.md",
-    "TungLy/1. Projects/Thành Phần BH/Loại hợp đồng.md",
-    "TungLy/1. Projects/VCBs/H-VCBS-FAC-290624/phiếu nhập tài sản.md",
-    "TungLy/1. Projects/Nguồn lực/Trạng thái nguồn lực/Quá tải.md",
-    "TungLy/1. Projects/LTG/H-LTG-TAL-200724.md",
-    "TungLy/1. Projects/VCBs/H-VCBS-FAC-290624/Chi tiết tài sản.md",
-    "TungLy/1. Projects/TrungDong/H-TrungDong-Eva-31122024.md",
-    "TungLy/1. Projects/TrungDong/0.H-TrungDong.md",
-    "TungLy/1. Projects/TBV/0.H-TBV.md",
-    "TungLy/1. Projects/TBV/H-TBV-INS-160924.md",
-    "TungLy/1. Projects/Toyota/0.H-TOYOTA.md",
-    "TungLy/1. Projects/Toyota/H-TMV-SYS-210924.md",
-    "TungLy/1. Projects/Nguồn lực/Ngoc.Nong.md",
-    "TungLy/1. Projects/SaaS - VnR/xmind/Bien_Ban_Hop/Meeting_1014.md",
-    "TungLy/1. Projects/SaaS - VnR/xmind/Bien_Ban_Hop/Meeting_0930.md",
-    "TungLy/1. Projects/VCBs/H-VCBS-FAC-290624",
-    "TungLy/1. Projects/VCBs",
-    "TungLy/1. Projects/UNI",
-    "TungLy/1. Projects/Toyota",
-    "TungLy/1. Projects/TieuChuanTaiLieu",
-    "TungLy/1. Projects/Thiết lập bảo hiểm/Cấu hình chứng từ",
-    "TungLy/1. Projects/Thiết lập bảo hiểm",
-    "TungLy/1. Projects/Thành Phần BH",
-    "TungLy/1. Projects/Terumo",
-    "TungLy/1. Projects/TBV",
     "TungLy/1. Projects/SaaS - VnR/xmind/Hình ảnh/Tham khảo/Meeting_1008/Tenant_05.png",
     "TungLy/1. Projects/SaaS - VnR/xmind/Hình ảnh/Tham khảo/Meeting_1008/Tenant_04.png",
     "TungLy/1. Projects/SaaS - VnR/xmind/Hình ảnh/Tham khảo/Meeting_1008/Tenant_03.png",
