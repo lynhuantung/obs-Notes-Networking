@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:\"TungLy/1. Projects\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -53,6 +53,6 @@
   "repelStrength": 8.48958333333333,
   "linkStrength": 0,
   "linkDistance": 416,
-  "scale": 0.4963091476524142,
+  "scale": 0.3540051368955257,
   "close": false
 }
