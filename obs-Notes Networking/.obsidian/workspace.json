@@ -12,65 +12,30 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TungLy/3. ARCHIEVED/Working/Remind.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Remind"
+              "title": "New tab"
             }
           },
           {
-            "id": "5539f229f2ea6707",
+            "id": "36d9bbb4ed2ba4f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TungLy/0. Daily/2024-Dec-1/Tue-2024-12-31 085647.md",
+                "file": "TungLy/1. Projects/HVN/H-HVN-SYS-060924.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tue-2024-12-31 085647"
-            }
-          },
-          {
-            "id": "aed5b773d886b547",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TungLy/1. Projects/Meetings/H-TrungDong-Eva-31122024.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "H-TrungDong-Eva-31122024"
-            }
-          },
-          {
-            "id": "a0de7f6ea9936735",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TungLy/1. Projects/Chỉ Huy dự án/TVC-project.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TVC-project"
+              "title": "H-HVN-SYS-060924"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SecretID",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -346,7 +311,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TungLy/1. Projects/Meetings/H-TrungDong-Eva-31122024.md",
+                "file": "TungLy/1. Projects/HVN/H-HVN-SYS-060924.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -374,7 +339,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of H-TrungDong-Eva-31122024"
+              "title": "Graph of H-HVN-SYS-060924"
             }
           }
         ]
@@ -401,7 +366,7 @@
               "type": "mindmap",
               "state": {},
               "icon": "dot-network",
-              "title": "Mind Map of H-TrungDong-Eva-31122024"
+              "title": "Mind Map of H-HVN-SYS-060924"
             }
           }
         ],
@@ -433,63 +398,63 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "aed5b773d886b547",
+  "active": "36d9bbb4ed2ba4f6",
   "lastOpenFiles": [
-    "src/Pasted image 20241231120254.png",
-    "TungLy/1. Projects/Chỉ Huy dự án/TrungDong-Project.md",
-    "TungLy/1. Projects/Meetings/H-TrungDong-Eva-31122024.md",
-    "src/Pasted image 20241231091342.png",
-    "TungLy/1. Projects/Meetings",
-    "TungLy/2. RESOURCE/template/Bien_Ban_Hop - H-FIT-SYS-ddMMyy.md",
-    "TungLy/1. Projects/Chỉ Huy dự án/PEWVN-Project.md",
-    "TungLy/1. Projects/Chỉ Huy dự án/TVC-project.md",
-    "TungLy/1. Projects/Nguồn lực/Tung.Ly.md",
-    "TungLy/1. Projects/Chỉ Huy dự án/0.Chỉ huy dự án.md",
-    "TungLy/0. Daily/2024-Dec-1/Tue-2024-12-31 085647.md",
-    "TungLy/0. Daily/2024-Dec-1",
-    "TungLy/1. Projects/Nguồn lực/Ngoc.Nong.md",
-    "TungLy/1. Projects/Chỉ Huy dự án/INOAC-Project.md",
-    "TungLy/1. Projects/Nguồn lực/Trạng thái nguồn lực/Trạng thái nguồn lực.md",
-    "TungLy/1. Projects/Nguồn lực/Trạng thái nguồn lực/Đang làm việc.md",
-    "TungLy/1. Projects/Chỉ Huy dự án/TBCBall -Project.md",
-    "TungLy/1. Projects/Chỉ Huy dự án/Colgate-Project.md",
-    "TungLy/1. Projects/Chỉ Huy dự án/FGL-Project.md",
-    "TungLy/1. Projects/Chỉ Huy dự án/An Phước-Project.md",
-    "TungLy/1. Projects/Chỉ Huy dự án/Marico-Project.md",
-    "TungLy/1. Projects/Danh sách dự án/Dự án Colgate.md",
-    "TungLy/1. Projects/Nguồn lực/Trạng thái nguồn lực/Nghỉ phép.md",
-    "TungLy/1. Projects/Nguồn lực/Trạng thái nguồn lực/Quá tải.md",
-    "TungLy/1. Projects/Nguồn lực/Trạng thái nguồn lực/Sẵn sàng tham gia.md",
-    "TungLy/1. Projects/Nguồn lực/Trạng thái nguồn lực",
-    "TungLy/1. Projects/Nguồn lực",
-    "TungLy/1. Projects/Chỉ Huy dự án/TVC-project 1.md",
-    "TungLy/0. Daily/2024-Dec-52/Sun-2024-12-29 033906.md",
-    "TungLy/0. Daily/2024-Dec-52/Mon-2024-12-23 013217.md",
-    "TungLy/3. ARCHIEVED/Thông Tin/Thông tin.md",
-    "_fit/TungLy/2. RESOURCE/template",
-    "_fit/TungLy/2. RESOURCE",
-    "_fit/TungLy",
-    "_fit",
-    "TungLy/0. Daily/2024-Dec-52",
-    "src/Pasted image 20241218134538.png",
-    "src/Pasted image 20241218092533.png",
+    "TungLy/2. RESOURCE/BookMark/BookMark Chrome.md",
+    "TungLy/1. Projects/VCBs/H-VCBS-FAC-290624/Thanh lý tài sản.md",
+    "TungLy/1. Projects/VCBs/H-VCBS-FAC-290624/Quy trình kiểm kê tài sản.md",
+    "TungLy/1. Projects/VCBs/H-VCBS-FAC-290624/Phiếu xuất tài sản.md",
+    "TungLy/1. Projects/VCBs/H-VCBS-FAC-290624/Quản lý công việc bằng Jira.md",
+    "TungLy/1. Projects/VCBs/H-VCBS-FAC-290624/Phiếu bảo trì sửa chữa tài sản.md",
+    "TungLy/1. Projects/VCBs/H-VCBS-FAC-290624/Phiếu điều chuyển tài sản.md",
+    "TungLy/1. Projects/VCBs/H-VCBS-FAC-290624/phiếu nhập tài sản.md",
+    "TungLy/1. Projects/VCBs/H-VCBS-FAC-290624/H-VCBS-FAC-290624.md",
+    "TungLy/1. Projects/VCBs/H-VCBS-FAC-290624/Chi tiết tài sản.md",
+    "TungLy/1. Projects/VCBs/H-VCBS-TAL-220724.md",
+    "TungLy/1. Projects/VCBs/H-VCBS-FAC-290624",
+    "TungLy/1. Projects/VCBs",
+    "TungLy/1. Projects/UNI/H-UNI-INS-200824.md",
+    "TungLy/1. Projects/UNI/H-UNI-INS-100624.md",
+    "TungLy/1. Projects/UNI",
+    "TungLy/1. Projects/Toyota/H-TMV-SYS-210924.md",
+    "TungLy/1. Projects/Toyota/0.H-TOYOTA.md",
+    "TungLy/1. Projects/Toyota",
+    "TungLy/1. Projects/TieuChuanTaiLieu/Tóm-tắt-tiêu-chuẩn-SE-Nghĩa.md",
+    "TungLy/1. Projects/TieuChuanTaiLieu/Tieuchuan_30052024.md",
+    "TungLy/1. Projects/TieuChuanTaiLieu/Kế hoạch chuyển Doc từ wiki sang confluence.md",
+    "TungLy/1. Projects/TieuChuanTaiLieu",
+    "TungLy/1. Projects/Thiết lập bảo hiểm/Cấu hình chứng từ/Phân tích cho nhân viên nhân bản.md",
+    "TungLy/1. Projects/Thiết lập bảo hiểm/Cấu hình chứng từ/Phân tích BH theo Hợp đồng.md",
+    "TungLy/1. Projects/Thiết lập bảo hiểm/Cấu hình chứng từ/NV nghỉ việc đóng BHYT.md",
+    "TungLy/1. Projects/Thiết lập bảo hiểm/Cấu hình chứng từ/Ngày nghỉ thai sản.md",
+    "TungLy/1. Projects/Thiết lập bảo hiểm/Cấu hình chứng từ/Chặn phân tích bảo hiểm ở tương lai.md",
+    "TungLy/1. Projects/Thiết lập bảo hiểm/Cấu hình chứng từ/Chu kỳ thay đổi lương.md",
+    "TungLy/1. Projects/Thiết lập bảo hiểm/Cấu hình chứng từ/Chu kỳ bảo hiểm.md",
+    "TungLy/1. Projects/Thiết lập bảo hiểm/Cấu hình chứng từ/Chu kỳ báo tăng LĐ mới.md",
+    "TungLy/1. Projects/Thiết lập bảo hiểm/Cấu hình chứng từ",
+    "TungLy/1. Projects/Thiết lập bảo hiểm",
+    "TungLy/1. Projects/Thành Phần BH",
     "TungLy/1. Projects/Terumo",
-    "src/Pasted image 20241210082830.png",
-    "src/Pasted image 20241210082827.png",
-    "src/Pasted image 20241128085501.png",
-    "src/Pasted image 20241128085458.png",
-    "src/Pasted image 20241113092012.png",
-    "src/Pasted image 20241118100641.png",
-    "src/Pasted image 20241121164911.png",
-    "TungLy/4. VISUAL NOTES/Canvas/Hướng dẫn sử dụng canvas.canvas",
-    "TungLy/4. VISUAL NOTES/Canvas/Kế Hoạch Chuẩn Hóa Tài Liệu.canvas",
+    "TungLy/1. Projects/TBV",
+    "TungLy/1. Projects/SaaS - VnR/xmind/Hình ảnh/Tham khảo/Meeting_1008/Tenant_05.png",
+    "TungLy/1. Projects/SaaS - VnR/xmind/Hình ảnh/Tham khảo/Meeting_1008/Tenant_04.png",
+    "TungLy/1. Projects/SaaS - VnR/xmind/Hình ảnh/Tham khảo/Meeting_1008/Tenant_03.png",
+    "TungLy/1. Projects/SaaS - VnR/xmind/Hình ảnh/Tham khảo/Meeting_1008/Tenant_02.png",
+    "TungLy/1. Projects/SaaS - VnR/xmind/Hình ảnh/Tham khảo/Meeting_1008/Tenant_01.png",
+    "TungLy/1. Projects/SaaS - VnR/xmind/Hình ảnh/Meeting_2608/Hop2608_1000002170.jpg",
+    "TungLy/1. Projects/SaaS - VnR/xmind/Hình ảnh/Meeting_2608/Hop2608_1000002167.jpg",
+    "TungLy/1. Projects/SaaS - VnR/xmind/Hình ảnh/Meeting_2608/Hop2608_1000002165.jpg",
+    "TungLy/1. Projects/SaaS - VnR/xmind/Hình ảnh/Meeting_2608/Hop2608_1000002164.jpg",
+    "TungLy/1. Projects/SaaS - VnR/xmind/Hình ảnh/Meeting_1208/TimePhoto_20230812_120653.jpg",
     "TungLy/4. VISUAL NOTES/Canvas/Plan.canvas",
+    "TungLy/4. VISUAL NOTES/Canvas/Kế Hoạch Chuẩn Hóa Tài Liệu.canvas",
+    "TungLy/4. VISUAL NOTES/Canvas/Hướng dẫn sử dụng canvas.canvas",
     "TungLy/4. VISUAL NOTES/Plan.canvas",
     "TungLy/4. VISUAL NOTES/Kế Hoạch Chuẩn Hóa Tài Liệu.canvas",
     "TungLy/4. VISUAL NOTES/Hướng dẫn sử dụng canvas.canvas",
-    "Untitled.canvas",
-    "Demo Vault 2/4. VISUAL NOTES/Kế Hoạch Chuẩn Hóa Tài Liệu.canvas",
-    "Demo Vault 2/4. VISUAL NOTES/Hướng dẫn sử dụng canvas.canvas",
-    "Demo Vault 2/4. VISUAL NOTES/Plan.canvas"
+    "TungLy-2024/4. VISUAL NOTES/Canvas/Plan.canvas",
+    "TungLy-2024/4. VISUAL NOTES/Canvas/Kế Hoạch Chuẩn Hóa Tài Liệu.canvas",
+    "TungLy-2024/4. VISUAL NOTES/Canvas/Hướng dẫn sử dụng canvas.canvas",
+    "TungLy-2024/4. VISUAL NOTES/Plan.canvas"
   ]
 }
