@@ -10,7 +10,7 @@ members:
   - tiendang
   - phuoc.trandac
   - minh.nguyenvan
-Related: "[[0.Meeting]]"
+Related: "[[0.H-TrungDong]]"
 Link: https://amisapp.misa.vn/task/project?Type=3&ProjectID=85346&DepartmentID=62436
 Project:
   - TrungDong

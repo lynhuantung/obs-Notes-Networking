@@ -25,13 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TungLy/1. Projects/HVN/H-HVN-SYS-060924.md",
+                "file": "TungLy/1. Projects/Nguồn lực/Ngoc.Nong.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "H-HVN-SYS-060924"
+              "title": "Ngoc.Nong"
             }
           }
         ],
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"TungLy/1. Projects/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 498.5
+    "width": 498.5,
+    "collapsed": true
   },
   "right": {
     "id": "b4716a1b82e52f01",
@@ -311,11 +312,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TungLy/1. Projects/HVN/H-HVN-SYS-060924.md",
+                "file": "TungLy/1. Projects/Nguồn lực/Ngoc.Nong.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
@@ -339,7 +340,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of H-HVN-SYS-060924"
+              "title": "Graph of Ngoc.Nong"
             }
           }
         ]
@@ -366,7 +367,7 @@
               "type": "mindmap",
               "state": {},
               "icon": "dot-network",
-              "title": "Mind Map of H-HVN-SYS-060924"
+              "title": "Mind Map of Ngoc.Nong"
             }
           }
         ],
@@ -374,7 +375,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 431.5
+    "width": 431.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -400,37 +402,37 @@
   },
   "active": "36d9bbb4ed2ba4f6",
   "lastOpenFiles": [
-    "TungLy/2. RESOURCE/BookMark/BookMark Chrome.md",
-    "TungLy/1. Projects/VCBs/H-VCBS-FAC-290624/Thanh lý tài sản.md",
-    "TungLy/1. Projects/VCBs/H-VCBS-FAC-290624/Quy trình kiểm kê tài sản.md",
-    "TungLy/1. Projects/VCBs/H-VCBS-FAC-290624/Phiếu xuất tài sản.md",
-    "TungLy/1. Projects/VCBs/H-VCBS-FAC-290624/Quản lý công việc bằng Jira.md",
-    "TungLy/1. Projects/VCBs/H-VCBS-FAC-290624/Phiếu bảo trì sửa chữa tài sản.md",
-    "TungLy/1. Projects/VCBs/H-VCBS-FAC-290624/Phiếu điều chuyển tài sản.md",
+    "TungLy/1. Projects/Nguồn lực/Trạng thái nguồn lực/Nghỉ phép.md",
+    "TungLy/1. Projects/SaaS - VnR/xmind/Bien_Ban_Hop/Meeting_ddMM Template.md",
+    "TungLy/1. Projects/Thiết lập bảo hiểm/Cấu hình chứng từ/Chặn phân tích bảo hiểm ở tương lai.md",
+    "TungLy/1. Projects/Chỉ Huy dự án/TVC-project.md",
+    "TungLy/Area/Data-WareHouse/ELT - Airbyte/So sánh ETL và ELT.md",
+    "TungLy/Area/Data-WareHouse/ETL-TOS/tInput.md",
+    "TungLy/1. Projects/0.Dự án.md",
+    "TungLy/1. Projects/Terumo/H-TERUMO-SYS-181224.md",
+    "TungLy/1. Projects/Thành Phần BH/Nghỉ 14 ngày.md",
+    "TungLy/1. Projects/07-2024 tổng hợp/Epic0724-1 - Epic- Bảo mật, check Link, Support.md",
+    "TungLy/1. Projects/07-2024 tổng hợp/Story0724-1-3 - Support nghiệp vụ.md",
+    "TungLy/1. Projects/Index/KeHoach/0.KeHoach.md",
+    "TungLy/1. Projects/Thành Phần BH/Loại hợp đồng.md",
     "TungLy/1. Projects/VCBs/H-VCBS-FAC-290624/phiếu nhập tài sản.md",
-    "TungLy/1. Projects/VCBs/H-VCBS-FAC-290624/H-VCBS-FAC-290624.md",
+    "TungLy/1. Projects/Nguồn lực/Trạng thái nguồn lực/Quá tải.md",
+    "TungLy/1. Projects/LTG/H-LTG-TAL-200724.md",
     "TungLy/1. Projects/VCBs/H-VCBS-FAC-290624/Chi tiết tài sản.md",
-    "TungLy/1. Projects/VCBs/H-VCBS-TAL-220724.md",
+    "TungLy/1. Projects/TrungDong/H-TrungDong-Eva-31122024.md",
+    "TungLy/1. Projects/TrungDong/0.H-TrungDong.md",
+    "TungLy/1. Projects/TBV/0.H-TBV.md",
+    "TungLy/1. Projects/TBV/H-TBV-INS-160924.md",
+    "TungLy/1. Projects/Toyota/0.H-TOYOTA.md",
+    "TungLy/1. Projects/Toyota/H-TMV-SYS-210924.md",
+    "TungLy/1. Projects/Nguồn lực/Ngoc.Nong.md",
+    "TungLy/1. Projects/SaaS - VnR/xmind/Bien_Ban_Hop/Meeting_1014.md",
+    "TungLy/1. Projects/SaaS - VnR/xmind/Bien_Ban_Hop/Meeting_0930.md",
     "TungLy/1. Projects/VCBs/H-VCBS-FAC-290624",
     "TungLy/1. Projects/VCBs",
-    "TungLy/1. Projects/UNI/H-UNI-INS-200824.md",
-    "TungLy/1. Projects/UNI/H-UNI-INS-100624.md",
     "TungLy/1. Projects/UNI",
-    "TungLy/1. Projects/Toyota/H-TMV-SYS-210924.md",
-    "TungLy/1. Projects/Toyota/0.H-TOYOTA.md",
     "TungLy/1. Projects/Toyota",
-    "TungLy/1. Projects/TieuChuanTaiLieu/Tóm-tắt-tiêu-chuẩn-SE-Nghĩa.md",
-    "TungLy/1. Projects/TieuChuanTaiLieu/Tieuchuan_30052024.md",
-    "TungLy/1. Projects/TieuChuanTaiLieu/Kế hoạch chuyển Doc từ wiki sang confluence.md",
     "TungLy/1. Projects/TieuChuanTaiLieu",
-    "TungLy/1. Projects/Thiết lập bảo hiểm/Cấu hình chứng từ/Phân tích cho nhân viên nhân bản.md",
-    "TungLy/1. Projects/Thiết lập bảo hiểm/Cấu hình chứng từ/Phân tích BH theo Hợp đồng.md",
-    "TungLy/1. Projects/Thiết lập bảo hiểm/Cấu hình chứng từ/NV nghỉ việc đóng BHYT.md",
-    "TungLy/1. Projects/Thiết lập bảo hiểm/Cấu hình chứng từ/Ngày nghỉ thai sản.md",
-    "TungLy/1. Projects/Thiết lập bảo hiểm/Cấu hình chứng từ/Chặn phân tích bảo hiểm ở tương lai.md",
-    "TungLy/1. Projects/Thiết lập bảo hiểm/Cấu hình chứng từ/Chu kỳ thay đổi lương.md",
-    "TungLy/1. Projects/Thiết lập bảo hiểm/Cấu hình chứng từ/Chu kỳ bảo hiểm.md",
-    "TungLy/1. Projects/Thiết lập bảo hiểm/Cấu hình chứng từ/Chu kỳ báo tăng LĐ mới.md",
     "TungLy/1. Projects/Thiết lập bảo hiểm/Cấu hình chứng từ",
     "TungLy/1. Projects/Thiết lập bảo hiểm",
     "TungLy/1. Projects/Thành Phần BH",
