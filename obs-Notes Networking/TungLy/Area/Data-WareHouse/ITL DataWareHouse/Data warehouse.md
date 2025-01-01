@@ -6,7 +6,7 @@ tags:
   - datawarehouse
 ---
 
-[[ETL]] và Data Warehouse: Tách quá trình xử lý dữ liệu và tổng hợp báo cáo bằng cách sử dụng ETL để đưa dữ liệu từ hệ thống chính vào một kho dữ liệu (Data Warehouse). Tại kho dữ liệu, dữ liệu có thể được tối ưu hóa và cấu trúc lại để phù hợp cho việc truy xuất và xuất báo cáo nhanh chóng.
+[[TungLy/Area/Data-WareHouse/ITL DataWareHouse/ETL]] và Data Warehouse: Tách quá trình xử lý dữ liệu và tổng hợp báo cáo bằng cách sử dụng ETL để đưa dữ liệu từ hệ thống chính vào một kho dữ liệu (Data Warehouse). Tại kho dữ liệu, dữ liệu có thể được tối ưu hóa và cấu trúc lại để phù hợp cho việc truy xuất và xuất báo cáo nhanh chóng.
 
 
 ## Hiểu Quy Trình ETL và Data Warehouse
@@ -18,4 +18,4 @@ ETL là quy trình gồm ba bước chính:
 
 Data Warehouse là hệ thống dùng để lưu trữ dữ liệu từ nhiều nguồn khác nhau, được tổ chức và tối ưu hóa để phục vụ cho việc phân tích và báo cáo.
 
-[[tăng tốc xuất bc]]
+[[TungLy/Area/Data-WareHouse/ITL DataWareHouse/tăng tốc xuất bc]]

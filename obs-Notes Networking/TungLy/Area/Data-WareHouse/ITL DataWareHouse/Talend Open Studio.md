@@ -4,7 +4,7 @@ date: 2024-10-25
 tags:
   - daily
   - "#Talend-Open-Studio"
-Link: "[[ETL]]"
+Link: "[[TungLy/Area/Data-WareHouse/ITL DataWareHouse/ETL]]"
 ---
 - Kết nối sql 
 [How to Connect SQL Server with Talend Open Studio 8](https://www.youtube.com/watch?v=lP5xA4oDNP4)

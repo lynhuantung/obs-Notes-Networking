@@ -3,7 +3,7 @@ aliases:
 date: 2024-11-12
 tags:
   - daily
-Link: "[[Các thành phần Airbyte]]"
+Link: "[[TungLy/Area/Data-WareHouse/ELT - Airbyte/Các thành phần Airbyte]]"
 ---
 
 # Mô hình kiến trúc ETL

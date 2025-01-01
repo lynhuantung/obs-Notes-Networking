@@ -1,0 +1,5 @@
+- Tài sản [[TungLy/3. ARCHIEVED/Dự án 2024/VCBs/H-VCBS-FAC-290624/Chi tiết tài sản]]
+- Vị trí tài sản
+- Phiếu xuất kho và và phiếu cấp phát chung 1 phiếu
+- Phiếu xuất thanh lý
+![[Pasted image 20240629100133.png]]

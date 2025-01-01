@@ -11,12 +11,12 @@ tags:
     
     - Airbyte có thể cài đặt dưới dạng Docker, giúp việc triển khai dễ dàng.
     - Thiết lập Airbyte bằng cách truy cập vào giao diện quản trị qua trình duyệt sau khi khởi động.
-2. **Kết nối nguồn dữ liệu ([[Sources]])**:
+2. **Kết nối nguồn dữ liệu ([[TungLy/Area/Data-WareHouse/ELT - Airbyte/Sources]])**:
     
     - Chọn nguồn dữ liệu từ danh sách có sẵn (SQL Server, MySQL, PostgreSQL, API, CSV, v.v.).
     - Cấu hình thông tin kết nối cho từng nguồn (host, port, authentication...).
     - Xác nhận kết nối để đảm bảo có thể truy cập vào dữ liệu.
-3. **Kết nối đích dữ liệu ([[Destinations]])**:
+3. **Kết nối đích dữ liệu ([[TungLy/Area/Data-WareHouse/ELT - Airbyte/Destinations]])**:
     
     - Chọn đích đến cho dữ liệu (Data Warehouse như Snowflake, BigQuery, hoặc Data Lake).
     - Cấu hình kết nối tương tự như khi chọn nguồn.

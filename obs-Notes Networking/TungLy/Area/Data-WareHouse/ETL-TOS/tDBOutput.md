@@ -7,6 +7,6 @@ tags:
 ### tDBOutput
    - **Nội dung**: Component dùng để nạp dữ liệu đã xử lý vào SQL hoặc hệ thống đích khác.
    - **Liên kết**:
-      - [[Talend_Components]]
-      - [[Kết_Nối_CSDL_với_Talend]]
-      - [[Data warehouse]]
+      - [[TungLy/Area/Data-WareHouse/ETL-TOS/Talend_Components]]
+      - [[TungLy/Area/Data-WareHouse/ETL-TOS/Kết_Nối_CSDL_với_Talend]]
+      - [[TungLy/Area/Data-WareHouse/ITL DataWareHouse/Data warehouse]]

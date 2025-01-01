@@ -4,7 +4,7 @@ date: 2024-10-25
 tags:
   - daily
   - "#Talend-Open-Studio"
-Link: "[[Talend Open Studio]]"
+Link: "[[TungLy/Area/Data-WareHouse/ITL DataWareHouse/Talend Open Studio]]"
 ---
 Cách cài đặt và sử dụng Talend Open Studio (TOS) phiên bản 8.0.1 cho các tác vụ ETL cơ bản, dưới đây là hướng dẫn chi tiết từng bước và một số ví dụ minh họa.
 

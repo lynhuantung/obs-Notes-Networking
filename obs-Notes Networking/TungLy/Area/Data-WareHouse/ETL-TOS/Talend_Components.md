@@ -8,7 +8,7 @@ tags:
 ### Talend_Components
    - **Nội dung**: Danh sách và chức năng các component trong TOS như tInput, tMap, và tDBOutput.
    - **Liên kết**:
-      - [[tInput]]
-      - [[tMap]]
-      - [[tDBOutput]]
-      - [[Talend_Open_Studio]]
+      - [[TungLy/Area/Data-WareHouse/ETL-TOS/tInput]]
+      - [[TungLy/Area/Data-WareHouse/ETL-TOS/tMap]]
+      - [[TungLy/Area/Data-WareHouse/ETL-TOS/tDBOutput]]
+      - [[TungLy/Area/Data-WareHouse/ETL-TOS/Talend_Open_Studio]]

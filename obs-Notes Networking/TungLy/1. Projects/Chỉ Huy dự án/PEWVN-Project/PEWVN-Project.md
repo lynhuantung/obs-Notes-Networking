@@ -9,7 +9,7 @@ Related: "[[0.Chỉ huy dự án]]"
 Amis Link: https://amisapp.misa.vn/task/project?Type=1&ProjectID=85275&DepartmentID=62436
 Link: 
 Project:
-  - PEWVN
+  - "[[Dự án PEWVN]]"
 ---
 
 # Nguồn lực tham gia

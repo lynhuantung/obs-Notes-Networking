@@ -134,7 +134,7 @@ Việc thiết lập phân trang trong Airbyte giúp bạn tự động hóa qu�
 ![[Pasted image 20241111162656.png]]
 
 
-### **Incremental Sync** [[Incremental Sync]]
+### **Incremental Sync** [[TungLy/Area/Data-WareHouse/ELT - Airbyte/Incremental Sync]]
 
 # Tóm tắt
 ---

@@ -5,6 +5,7 @@ aliases:
 title: TrungDong-Project
 tags:
   - "#chi-huy-du-an"
+  - "#truong-du-an"
 date: 2024-12-30
 Related: "[[0.Chỉ huy dự án]]"
 Amis Link: https://amisapp.misa.vn/task/project?Type=1&ProjectID=85346&DepartmentID=62436&gidzl=riI09bjkAtZJsOWYMtKlVTVUZYL28ofwm8w9T48YBI2VYOul429u8vZVZdeMS7roo8lOVZ2xcP9jN6uaU0

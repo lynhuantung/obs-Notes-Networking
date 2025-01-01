@@ -14,7 +14,7 @@ tags:
 2. **Tạo và Cấu hình Connector**:
     
     - Từ Builder, bạn có thể thiết lập luồng dữ liệu cơ bản, bao gồm cách dữ liệu sẽ được trích xuất và nạp vào hệ thống.
-    - Tùy chỉnh các chi tiết như **[[API calls]]**, **query parameters**, hoặc **authentication headers** nếu bạn kết nối với các API.
+    - Tùy chỉnh các chi tiết như **[[TungLy/Area/Data-WareHouse/ELT - Airbyte/API calls]]**, **query parameters**, hoặc **authentication headers** nếu bạn kết nối với các API.
 3. **Kiểm thử và Tinh chỉnh**:
     
     - Sau khi cấu hình, Builder cho phép bạn kiểm tra connector để đảm bảo kết nối hoạt động chính xác và dữ liệu được truyền đúng cách.
@@ -29,6 +29,6 @@ Builder giúp Airbyte mở rộng linh hoạt hơn, phù hợp với các nhu c�
 
 
 
-Xử lý [[transform]]
-[[Paging-builder]]
+Xử lý [[TungLy/Area/Data-WareHouse/ELT - Airbyte/transform]]
+[[TungLy/Area/Data-WareHouse/ELT - Airbyte/Paging-builder]]
 

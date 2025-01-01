@@ -7,7 +7,7 @@ tags:
   - "#ETL"
   - "#datawarehouse"
 ---
-# Các công cụ ETL ([[ETL]])
+# Các công cụ ETL ([[TungLy/Area/Data-WareHouse/ITL DataWareHouse/ETL]])
  
 ## Công cụ Talend ETL
 
@@ -166,5 +166,5 @@ Flowchart sẽ phân biệt rõ ràng ba phần này, giúp dễ dàng hình dun
 
 Flowchart sẽ phân biệt rõ ràng hai phần này, với mỗi phần được kết nối thông qua Data Warehouse, nơi dữ liệu sau khi xử lý sẽ được sử dụng cho báo cáo trên web.
 
-[[So sánh các công cụ ETL]]
+[[TungLy/Area/Data-WareHouse/ITL DataWareHouse/So sánh các công cụ ETL]]
 ![[Pasted image 20241024162700.png]]

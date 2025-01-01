@@ -9,13 +9,13 @@ tags:
 ---
 Trong Airbyte, các mục **Connection**, **Sources**, **Destination**, **Builder**, và **Settings** cùng với quy trình **Define Source**, **Define Destination**, **Select Streams**, và **Configure Connection** hoạt động phối hợp để thiết lập và quản lý quy trình ETL:
 
-1. **[[Sources]]**: Đây là nơi thiết lập các nguồn dữ liệu (ví dụ: SQL Server, MySQL, API) mà bạn muốn trích xuất.
+1. **[[TungLy/Area/Data-WareHouse/ELT - Airbyte/Sources]]**: Đây là nơi thiết lập các nguồn dữ liệu (ví dụ: SQL Server, MySQL, API) mà bạn muốn trích xuất.
 
-2. **[[Destinations]]**: Nơi thiết lập đích đến của dữ liệu (data warehouse, cơ sở dữ liệu hoặc dịch vụ lưu trữ như Snowflake, BigQuery) để nạp dữ liệu sau khi xử lý.
+2. **[[TungLy/Area/Data-WareHouse/ELT - Airbyte/Destinations]]**: Nơi thiết lập đích đến của dữ liệu (data warehouse, cơ sở dữ liệu hoặc dịch vụ lưu trữ như Snowflake, BigQuery) để nạp dữ liệu sau khi xử lý.
 
-3. **[[Connection]]**: Đây là nơi quản lý các kết nối giữa nguồn và đích. Bạn có thể theo dõi trạng thái của từng kết nối, thời gian đồng bộ, và các cài đặt liên quan.
+3. **[[TungLy/Area/Data-WareHouse/ELT - Airbyte/Connection]]**: Đây là nơi quản lý các kết nối giữa nguồn và đích. Bạn có thể theo dõi trạng thái của từng kết nối, thời gian đồng bộ, và các cài đặt liên quan.
 
-4. **[[Builder]]**: Tính năng này cho phép tạo connector tùy chỉnh nếu Airbyte không có sẵn loại nguồn hoặc đích bạn cần. 
+4. **[[TungLy/Area/Data-WareHouse/ELT - Airbyte/Builder]]**: Tính năng này cho phép tạo connector tùy chỉnh nếu Airbyte không có sẵn loại nguồn hoặc đích bạn cần. 
 
 5. **Settings**: Cài đặt hệ thống chung của Airbyte, bao gồm quản lý quyền, lịch sử đồng bộ, và tùy chỉnh cấu hình.
 

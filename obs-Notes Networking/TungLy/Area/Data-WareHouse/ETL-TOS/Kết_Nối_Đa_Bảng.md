@@ -7,6 +7,6 @@ tags:
 ### Kết_Nối_Đa_Bảng
    - **Nội dung**: Hướng dẫn cách kết nối và xử lý dữ liệu từ nhiều bảng có quan hệ trong SQL.
    - **Liên kết**:
-   - [[Kết_Nối_CSDL_với_Talend]]
-    [[tMap]]
-    [[Case_Study_TOS]]
+   - [[TungLy/Area/Data-WareHouse/ETL-TOS/Kết_Nối_CSDL_với_Talend]]
+    [[TungLy/Area/Data-WareHouse/ETL-TOS/tMap]]
+    [[TungLy/Area/Data-WareHouse/ETL-TOS/Case_Study_TOS]]

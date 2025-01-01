@@ -46,7 +46,7 @@ Công cụ ETL đóng một vai trò quan trọng trong việc quản lý dữ l
 
 
 
-[[Data warehouse]]
+[[TungLy/Area/Data-WareHouse/ITL DataWareHouse/Data warehouse]]
 
 
 [Qlik Talend Experience](https://tep.us.cloud.talend.com/welcome)

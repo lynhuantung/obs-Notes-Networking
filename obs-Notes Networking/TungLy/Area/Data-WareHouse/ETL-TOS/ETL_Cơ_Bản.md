@@ -10,6 +10,6 @@ tags:
       - **Transform**: Biến đổi và chuẩn hóa dữ liệu.
       - **Load**: Nạp dữ liệu vào hệ thống đích.
    - **Liên kết**:
-      - [[Talend_Open_Studio]]
-      - [[Mục_Tiêu_Của_Talend_Open_Studio]]
-      - [[ETL]]
+      - [[TungLy/Area/Data-WareHouse/ETL-TOS/Talend_Open_Studio]]
+      - [[TungLy/Area/Data-WareHouse/ETL-TOS/Mục_Tiêu_Của_Talend_Open_Studio]]
+      - [[TungLy/Area/Data-WareHouse/ITL DataWareHouse/ETL]]

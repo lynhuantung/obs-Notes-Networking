@@ -21,7 +21,7 @@ curl --location 'https://ba.vnresource.net:1018/api/Hre_Profile/GetListDataCusto
 ### Phân trang khi gọi api
 ---
 - Xử lý api phân trang  theo pageSize, pageIndex
-- [[Paging-builder]]
+- [[TungLy/Area/Data-WareHouse/ELT - Airbyte/Paging-builder]]
 
 ### Gia hạn token cho API
 - Cho phép cấu hình thời gian hết hạn token từ webSetting của api service

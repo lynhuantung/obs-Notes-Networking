@@ -5,9 +5,9 @@ tags:
   - daily
 ---
 Đồng bộ data sang datawarehouse
-[[Sources]]
-[[Builder]]
-[[Destinations]]
+[[TungLy/Area/Data-WareHouse/ELT - Airbyte/Sources]]
+[[TungLy/Area/Data-WareHouse/ELT - Airbyte/Builder]]
+[[TungLy/Area/Data-WareHouse/ELT - Airbyte/Destinations]]
 
 
 # Cấu hình đồng bộ

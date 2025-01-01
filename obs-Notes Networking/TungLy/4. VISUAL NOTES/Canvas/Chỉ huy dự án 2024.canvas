@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"064376b03f3319d7","type":"text","text":"[[Colgate-Project]]","x":434,"y":-211,"width":183,"height":60},
+		{"id":"ce0fac5e3248c3e1","type":"text","text":"[[TVC-project]]","x":434,"y":-120,"width":183,"height":60},
+		{"id":"ceac05d08147e831","type":"text","text":"Chỉ huy dự án 2024","x":-20,"y":-211,"width":260,"height":60},
+		{"id":"ec38bc93493ae8f1","type":"text","text":"[[INOAC-Project]]","x":434,"y":-320,"width":183,"height":60}
+	],
+	"edges":[
+		{"id":"3fcff253ed1d659b","fromNode":"ceac05d08147e831","fromSide":"right","toNode":"064376b03f3319d7","toSide":"left"},
+		{"id":"ef8e4c53e93b75d9","fromNode":"ceac05d08147e831","fromSide":"bottom","toNode":"ce0fac5e3248c3e1","toSide":"left"},
+		{"id":"172fc1d2c6baf41b","fromNode":"ceac05d08147e831","fromSide":"top","toNode":"ec38bc93493ae8f1","toSide":"left"}
+	],
+	"metadata":{}
+}

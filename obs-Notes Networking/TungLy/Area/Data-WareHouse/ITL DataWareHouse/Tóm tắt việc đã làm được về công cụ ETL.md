@@ -3,7 +3,7 @@ aliases:
 date: 2024-10-25
 tags:
   - daily
-Link: "[[ETL]]"
+Link: "[[TungLy/Area/Data-WareHouse/ITL DataWareHouse/ETL]]"
 ---
 ## Tóm tắt những việc đã làm trong Talend Open Studio
 ---

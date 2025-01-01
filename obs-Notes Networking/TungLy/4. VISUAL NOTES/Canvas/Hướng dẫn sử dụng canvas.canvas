@@ -1,144 +1,24 @@
 {
-  "nodes": [
-    {
-      "id": "ceac05d08147e831",
-      "type": "text",
-      "text": "Hướng dẫn sử dụng canvas",
-      "x": -25,
-      "y": -196,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "e6fedbae0fb68bde",
-      "type": "link",
-      "url": "https://www.youtube.com/watch?v=LqFT9t7gDfU&t=1463s",
-      "x": 900,
-      "y": -67,
-      "width": 140,
-      "height": 109
-    },
-    {
-      "id": "9b4cf55248dfac59",
-      "type": "text",
-      "text": "Hình ảnh",
-      "x": 434,
-      "y": -136,
-      "width": 183,
-      "height": 60
-    },
-    {
-      "id": "ab73292e215a847b",
-      "type": "text",
-      "text": "Video",
-      "x": 434,
-      "y": -42,
-      "width": 183,
-      "height": 60
-    },
-    {
-      "id": "247905a5f28a7fa0",
-      "type": "text",
-      "text": "Link",
-      "x": 434,
-      "y": 42,
-      "width": 183,
-      "height": 66
-    },
-    {
-      "id": "37ec8a601ca92237",
-      "type": "text",
-      "text": "Notes",
-      "x": 434,
-      "y": -246,
-      "width": 183,
-      "height": 50
-    },
-    {
-      "id": "064376b03f3319d7",
-      "type": "text",
-      "text": "Card",
-      "x": 434,
-      "y": -360,
-      "width": 147,
-      "height": 60
-    },
-    {
-      "id": "9f6857411d6beb53",
-      "type": "link",
-      "url": "https://help.obsidian.md/Plugins/Audio+recorder",
-      "x": 880,
-      "y": 75,
-      "width": 400,
-      "height": 165
-    },
-    {
-      "id": "c949b89849285958",
-      "type": "file",
-      "file": "src/Pasted image 20240526231415.png",
-      "x": 856,
-      "y": -300,
-      "width": 184,
-      "height": 184
-    }
-  ],
-  "edges": [
-    {
-      "id": "3fcff253ed1d659b",
-      "fromNode": "ceac05d08147e831",
-      "fromSide": "right",
-      "toNode": "064376b03f3319d7",
-      "toSide": "left"
-    },
-    {
-      "id": "7560976324fa3c83",
-      "fromNode": "ceac05d08147e831",
-      "fromSide": "right",
-      "toNode": "37ec8a601ca92237",
-      "toSide": "left"
-    },
-    {
-      "id": "591774748682eee0",
-      "fromNode": "ceac05d08147e831",
-      "fromSide": "right",
-      "toNode": "9b4cf55248dfac59",
-      "toSide": "left"
-    },
-    {
-      "id": "1195f2c15c766341",
-      "fromNode": "ceac05d08147e831",
-      "fromSide": "right",
-      "toNode": "ab73292e215a847b",
-      "toSide": "left"
-    },
-    {
-      "id": "e6e6d34e2c9208b4",
-      "fromNode": "ceac05d08147e831",
-      "fromSide": "right",
-      "toNode": "247905a5f28a7fa0",
-      "toSide": "left"
-    },
-    {
-      "id": "7f510c9ea9b440ac",
-      "fromNode": "ab73292e215a847b",
-      "fromSide": "right",
-      "toNode": "e6fedbae0fb68bde",
-      "toSide": "left"
-    },
-    {
-      "id": "f13f1f5b9775cf11",
-      "fromNode": "247905a5f28a7fa0",
-      "fromSide": "right",
-      "toNode": "9f6857411d6beb53",
-      "toSide": "left"
-    },
-    {
-      "id": "30bfc68bf0b773d2",
-      "fromNode": "9b4cf55248dfac59",
-      "fromSide": "right",
-      "toNode": "c949b89849285958",
-      "toSide": "left"
-    }
-  ],
-  "metadata": {}
+	"nodes":[
+		{"id":"ceac05d08147e831","type":"text","text":"Hướng dẫn sử dụng canvas","x":-25,"y":-196,"width":260,"height":60},
+		{"id":"e6fedbae0fb68bde","type":"link","url":"https://www.youtube.com/watch?v=LqFT9t7gDfU&t=1463s","x":900,"y":-67,"width":140,"height":109},
+		{"id":"9b4cf55248dfac59","type":"text","text":"Hình ảnh","x":434,"y":-136,"width":183,"height":60},
+		{"id":"ab73292e215a847b","type":"text","text":"Video","x":434,"y":-42,"width":183,"height":60},
+		{"id":"247905a5f28a7fa0","type":"text","text":"Link","x":434,"y":42,"width":183,"height":66},
+		{"id":"37ec8a601ca92237","type":"text","text":"Notes","x":434,"y":-246,"width":183,"height":50},
+		{"id":"064376b03f3319d7","type":"text","text":"Card","x":434,"y":-360,"width":147,"height":60},
+		{"id":"9f6857411d6beb53","type":"link","url":"https://help.obsidian.md/Plugins/Audio+recorder","x":880,"y":75,"width":400,"height":165},
+		{"id":"c949b89849285958","type":"file","file":"src/Pasted image 20240526231415.png","x":856,"y":-300,"width":184,"height":184}
+	],
+	"edges":[
+		{"id":"3fcff253ed1d659b","fromNode":"ceac05d08147e831","fromSide":"right","toNode":"064376b03f3319d7","toSide":"left"},
+		{"id":"7560976324fa3c83","fromNode":"ceac05d08147e831","fromSide":"right","toNode":"37ec8a601ca92237","toSide":"left"},
+		{"id":"591774748682eee0","fromNode":"ceac05d08147e831","fromSide":"right","toNode":"9b4cf55248dfac59","toSide":"left"},
+		{"id":"1195f2c15c766341","fromNode":"ceac05d08147e831","fromSide":"right","toNode":"ab73292e215a847b","toSide":"left"},
+		{"id":"e6e6d34e2c9208b4","fromNode":"ceac05d08147e831","fromSide":"right","toNode":"247905a5f28a7fa0","toSide":"left"},
+		{"id":"7f510c9ea9b440ac","fromNode":"ab73292e215a847b","fromSide":"right","toNode":"e6fedbae0fb68bde","toSide":"left"},
+		{"id":"f13f1f5b9775cf11","fromNode":"247905a5f28a7fa0","fromSide":"right","toNode":"9f6857411d6beb53","toSide":"left"},
+		{"id":"30bfc68bf0b773d2","fromNode":"9b4cf55248dfac59","fromSide":"right","toNode":"c949b89849285958","toSide":"left"}
+	],
+	"metadata":{}
 }

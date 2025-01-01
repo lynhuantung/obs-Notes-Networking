@@ -10,6 +10,7 @@
     "Type": "multitext",
     "Ngày phỏng vấn": "date",
     "Giai đoạn": "multitext",
-    "Trạng thái": "multitext"
+    "Trạng thái": "multitext",
+    "Vai trò": "multitext"
   }
 }

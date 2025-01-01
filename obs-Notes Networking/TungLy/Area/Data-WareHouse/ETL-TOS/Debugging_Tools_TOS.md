@@ -8,4 +8,4 @@ tags:
 ### Debugging_Tools_TOS
    - **Nội dung**: Các công cụ hỗ trợ debug trong Talend để xác định và xử lý lỗi.
    - **Liên kết**:
-      - [[Các_Vấn_Đề_Thường_Gặp_Và_Cách_Xử_Lý_TOS]]
+      - [[TungLy/Area/Data-WareHouse/ETL-TOS/Các_Vấn_Đề_Thường_Gặp_Và_Cách_Xử_Lý_TOS]]

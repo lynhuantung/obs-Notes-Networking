@@ -3,7 +3,7 @@ aliases:
 date: 2024-11-04
 tags:
   - daily
-Link: "[[Connection]]"
+Link: "[[TungLy/Area/Data-WareHouse/ELT - Airbyte/Connection]]"
 ---
 Bên dưới là những thao tác sau khi tạo thành công, để tiến hành đồng bộ bằng tay nếu cần 
 # Bước 1: Danh sách connections

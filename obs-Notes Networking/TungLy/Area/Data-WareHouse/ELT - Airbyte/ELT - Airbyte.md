@@ -21,7 +21,7 @@ Link demo :
 ### 1. **Cài đặt Airbyte**
 
 - **Tự cài đặt**: Có thể cài đặt Airbyte trên server hoặc môi trường đám mây. Cung cấp giao diện trực quan qua trình duyệt để dễ dàng thiết lập và theo dõi.
-- [[Các bước thực hiện Airbyte]]
+- [[TungLy/Area/Data-WareHouse/ELT - Airbyte/Các bước thực hiện Airbyte]]
 
 > [!NOTE] Thông tin Airbyte local  
 >  Link: http://172.21.100.97:8000/
@@ -34,7 +34,7 @@ Link demo :
 - Chọn nguồn dữ liệu cần tích hợp (ví dụ: SQL Server, MySQL, PostgreSQL, API của các dịch vụ SaaS).
 - Cung cấp thông tin kết nối cho nguồn, bao gồm địa chỉ máy chủ, tên cơ sở dữ liệu, tên đăng nhập và mật khẩu.
 ![[Pasted image 20241028091206.png]]
-##### Cách 2: Dùng builder [[Builder-airbyte-guide]] để tiến hành gọi API để sinh ra các cột custom theo api
+##### Cách 2: Dùng builder [[TungLy/Area/Data-WareHouse/ELT - Airbyte/Builder-airbyte-guide]] để tiến hành gọi API để sinh ra các cột custom theo api
 ![[Pasted image 20241028101317.png]]
 
 
@@ -83,7 +83,7 @@ Trong đó các tab **Status**, **Job History**, **Schema**, và **Settings** tr
 > [!Warning] Lưu ý
 > - Database nguồn chỉ hỗ trợ bảng hoặc view (không hỗ trợ store procedure)
 
-#### Cách 2: kết nối database nguồn là api (xem [[Builder-airbyte-guide]])
+#### Cách 2: kết nối database nguồn là api (xem [[TungLy/Area/Data-WareHouse/ELT - Airbyte/Builder-airbyte-guide]])
 ![[Pasted image 20241028101630.png]]
 
 ### 5. **Chạy Quy Trình ETL (Sync)**
@@ -151,4 +151,4 @@ CROSS APPLY
 
 Airbyte giúp tự động hóa quy trình ETL với giao diện đơn giản, giúp tiết kiệm thời gian và dễ dàng tích hợp dữ liệu từ nhiều nguồn khác nhau vào một nơi lưu trữ tập trung để phục vụ phân tích và báo cáo.
 
-[[Các thành phần Airbyte]]
+[[TungLy/Area/Data-WareHouse/ELT - Airbyte/Các thành phần Airbyte]]

@@ -8,6 +8,6 @@ tags:
 ### tMap
    - **Nội dung**: Component dùng để chuyển đổi, nối và thao tác dữ liệu giữa các bảng.
    - **Liên kết**:
-      - [[Talend_Components]]
-      - [[tDBOutput]]
+      - [[TungLy/Area/Data-WareHouse/ETL-TOS/Talend_Components]]
+      - [[TungLy/Area/Data-WareHouse/ETL-TOS/tDBOutput]]
       - [[tMap_Trong_Case_Study]]

@@ -1,16 +1,19 @@
 ---
-Trạng thái: Hoàn thành
+Trạng thái:
+  - Hoàn thành
 aliases: 
 title: 
 tags:
   - "#chi-huy-du-an"
+  - "#truong-du-an"
 date: 2024-12-17
 Related: "[[0.Chỉ huy dự án]]"
 Amis Link: https://amisapp.misa.vn/task/project?Type=6&ProjectID=84871&DepartmentID=62436
 Link: https://docs.google.com/spreadsheets/d/1HVonT-Uf0JL8JQ3TG8y7zlM8CnDK-cjFH6eJEacA3LM/edit?gid=447019035#gid=447019035
 Project:
-  - INOAC
-Giai đoạn: Sau thanh toán
+  - "[[Dự án TVC]]"
+Giai đoạn:
+  - Sau thanh toán
 ---
 # Mục tiêu
 ---

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:\"TungLy/1. Projects\"  ",
+  "search": "path:\"TungLy/1. Projects\"  -tag:#daily  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -36,10 +36,10 @@
       }
     },
     {
-      "query": "path:\"TungLy/1. Projects\"  ",
+      "query": "tag:#truong-du-an",
       "color": {
         "a": 1,
-        "rgb": 6078166
+        "rgb": 13519804
       }
     }
   ],
@@ -53,6 +53,6 @@
   "repelStrength": 8.48958333333333,
   "linkStrength": 0,
   "linkDistance": 416,
-  "scale": 0.3540051368955257,
+  "scale": 0.3540051368955258,
   "close": false
 }
