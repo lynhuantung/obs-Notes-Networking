@@ -1,12 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "0.H-Terumo",
-      "path": "TungLy/1. Projects/Dự án 2025/Terumo/0.H-Terumo.md"
+      "basename": "Fri-2025-01-03 113438",
+      "path": "TungLy/0. Daily/2025-Jan-1/Fri-2025-01-03 113438.md"
+    },
+    {
+      "basename": "Task-TrungDong",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Task-TrungDong.md"
+    },
+    {
+      "basename": "TrungDong-Project",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/TrungDong-Project.md"
+    },
+    {
+      "basename": "H-TrungDong-Eva-31122024",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/H-TrungDong-Eva-31122024.md"
+    },
+    {
+      "basename": "0.H-TrungDong",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/0.H-TrungDong.md"
+    },
+    {
+      "basename": "Ngoc.Nong",
+      "path": "TungLy/1. Projects/Nguồn lực/Ngoc.Nong.md"
+    },
+    {
+      "basename": "0.Chỉ huy dự án",
+      "path": "TungLy/1. Projects/Chỉ Huy dự án/0.Chỉ huy dự án.md"
+    },
+    {
+      "basename": "HongNgoc-Project",
+      "path": "TungLy/1. Projects/Dự án 2025/HongNgoc-Project/HongNgoc-Project.md"
     },
     {
       "basename": "Tung.Ly",
       "path": "TungLy/1. Projects/Nguồn lực/Tung.Ly.md"
+    },
+    {
+      "basename": "Minh.NguyenVan",
+      "path": "TungLy/1. Projects/Nguồn lực/Minh.NguyenVan.md"
+    },
+    {
+      "basename": "Hai.NguyenNgoc",
+      "path": "TungLy/1. Projects/Nguồn lực/Hai.NguyenNgoc.md"
+    },
+    {
+      "basename": "0. Nguồn lực",
+      "path": "TungLy/1. Projects/Nguồn lực/0. Nguồn lực.md"
+    },
+    {
+      "basename": "INOAC-Project",
+      "path": "TungLy/1. Projects/Chỉ Huy dự án/INOAC-Project/INOAC-Project.md"
+    },
+    {
+      "basename": "0. MAP",
+      "path": "TungLy/0. MAP.md"
+    },
+    {
+      "basename": "Bien_Ban_Hop",
+      "path": "TungLy/2. RESOURCE/template/Bien_Ban_Hop.md"
+    },
+    {
+      "basename": "0.H-HongNgoc",
+      "path": "TungLy/1. Projects/Dự án 2025/HongNgoc-Project/0.H-HongNgoc.md"
+    },
+    {
+      "basename": "0.H-Terumo",
+      "path": "TungLy/1. Projects/Dự án 2025/Terumo/0.H-Terumo.md"
     },
     {
       "basename": "Trạng thái nguồn lực",
@@ -29,10 +89,6 @@
       "path": "TungLy/1. Projects/Nguồn lực/Trạng thái nguồn lực/Sẵn sàng tham gia.md"
     },
     {
-      "basename": "0.Chỉ huy dự án",
-      "path": "TungLy/1. Projects/Chỉ Huy dự án/0.Chỉ huy dự án.md"
-    },
-    {
       "basename": "0.Dự án",
       "path": "TungLy/1. Projects/0.Dự án.md"
     },
@@ -47,10 +103,6 @@
     {
       "basename": "Drafts-Nháp",
       "path": "TungLy/Drafts-Nháp.md"
-    },
-    {
-      "basename": "0. MAP",
-      "path": "TungLy/0. MAP.md"
     },
     {
       "basename": "0.Nhật Ký Vấn Đề",
@@ -143,62 +195,6 @@
     {
       "basename": "H-TERUMO-SYS-181224",
       "path": "TungLy/1. Projects/Dự án 2025/Terumo/H-TERUMO-SYS-181224.md"
-    },
-    {
-      "basename": "Quản lý công việc bằng Jira",
-      "path": "TungLy/Area/Index/Meeting/H-VCBS-FAC-290624/Quản lý công việc bằng Jira.md"
-    },
-    {
-      "basename": "Builder-airbyte-guide",
-      "path": "TungLy/Area/Data-WareHouse/ELT - Airbyte/Builder-airbyte-guide.md"
-    },
-    {
-      "basename": "Quy trình kiểm kê tài sản",
-      "path": "TungLy/Area/Index/Meeting/H-VCBS-FAC-290624/Quy trình kiểm kê tài sản.md"
-    },
-    {
-      "basename": "0.Truy vết",
-      "path": "TungLy/Area/Index/ChucNang/TruyVet/0.Truy vết.md"
-    },
-    {
-      "basename": "Chứng Từ BH",
-      "path": "TungLy/Area/Thành Phần BH/Chứng Từ BH.md"
-    },
-    {
-      "basename": "transform",
-      "path": "TungLy/Area/Data-WareHouse/ELT - Airbyte/transform.md"
-    },
-    {
-      "basename": "Meeting_0826",
-      "path": "TungLy/3. ARCHIEVED/SaaS - VnR/xmind/Bien_Ban_Hop/Meeting_0826.md"
-    },
-    {
-      "basename": "Chu kỳ báo tăng LĐ mới",
-      "path": "TungLy/Area/Thiết lập bảo hiểm/Cấu hình chứng từ/Chu kỳ báo tăng LĐ mới.md"
-    },
-    {
-      "basename": "20240531_01_OPA_Meeting",
-      "path": "TungLy/Area/Index/OPA/20240531_01_OPA_Meeting.md"
-    },
-    {
-      "basename": "Công Cụ ETL",
-      "path": "TungLy/Area/Data-WareHouse/ITL DataWareHouse/Công Cụ ETL.md"
-    },
-    {
-      "basename": "ngày nghỉ",
-      "path": "TungLy/Area/Thành Phần BH/ngày nghỉ.md"
-    },
-    {
-      "basename": "Meeting_1021",
-      "path": "TungLy/3. ARCHIEVED/SaaS - VnR/xmind/Bien_Ban_Hop/Meeting_1021.md"
-    },
-    {
-      "basename": "Story0724-1-1 - Bảo mật",
-      "path": "TungLy/3. ARCHIEVED/07-2024 tổng hợp/Story0724-1-1 - Bảo mật.md"
-    },
-    {
-      "basename": "Meeting_0930",
-      "path": "TungLy/3. ARCHIEVED/SaaS - VnR/xmind/Bien_Ban_Hop/Meeting_0930.md"
     }
   ],
   "omittedPaths": []

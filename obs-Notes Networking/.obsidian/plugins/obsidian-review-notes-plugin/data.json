@@ -4273,15 +4273,15 @@
       "filename": "H-TMV-SYS-210924"
     },
     {
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong/0.H-TrungDong.md",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/0.H-TrungDong.md",
       "filename": "0.H-TrungDong"
     },
     {
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong/H-TrungDong-Eva-31122024.md",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/H-TrungDong-Eva-31122024.md",
       "filename": "H-TrungDong-Eva-31122024"
     },
     {
-      "path": "TungLy/1. Projects/Chỉ Huy dự án/TrungDong-Project/TrungDong-Project.md",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/TrungDong-Project.md",
       "filename": "TrungDong-Project"
     },
     {
@@ -4887,6 +4887,46 @@
     {
       "path": "TungLy/Area/Data-WareHouse 1/ITL DataWareHouse/Tóm tắt việc đã làm được về công cụ ETL.md",
       "filename": "Tóm tắt việc đã làm được về công cụ ETL"
+    },
+    {
+      "path": "TungLy/1. Projects/Dự án 2025/HongNgoc-Project/0.H-HongNgoc.md",
+      "filename": "0.H-HongNgoc"
+    },
+    {
+      "path": "TungLy/2. RESOURCE/template/Bien_Ban_Hop.md",
+      "filename": "Bien_Ban_Hop"
+    },
+    {
+      "path": "TungLy/0. Daily/2025-Jan-1/Thu-2025-01-02 093644.md",
+      "filename": "Thu-2025-01-02 093644"
+    },
+    {
+      "path": "TungLy/0. Daily/2025-Jan-1/Thu-2025-01-02 093749.md",
+      "filename": "Thu-2025-01-02 093749"
+    },
+    {
+      "path": "TungLy/1. Projects/Nguồn lực/Hai.NguyenNgoc.md",
+      "filename": "Hai.NguyenNgoc"
+    },
+    {
+      "path": "TungLy/1. Projects/Nguồn lực/Minh.NguyenVan.md",
+      "filename": "Minh.NguyenVan"
+    },
+    {
+      "path": "TungLy/1. Projects/Dự án 2025/HongNgoc-Project/HongNgoc-Project.md",
+      "filename": "HongNgoc-Project"
+    },
+    {
+      "path": "TungLy/1. Projects/Nguồn lực/0. Nguồn lực.md",
+      "filename": "0. Nguồn lực"
+    },
+    {
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Task-TrungDong.md",
+      "filename": "Task-TrungDong"
+    },
+    {
+      "path": "TungLy/0. Daily/2025-Jan-1/Fri-2025-01-03 113438.md",
+      "filename": "Fri-2025-01-03 113438"
     }
   ]
 }

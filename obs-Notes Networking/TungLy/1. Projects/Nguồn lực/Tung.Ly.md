@@ -1,11 +1,13 @@
 ---
-Trạng thái: "[[Đang làm việc]]"
+Trạng thái:
+  - "[[Đang làm việc]]"
 Role: Trưởng dự án
 Projects:
   - "[[INOAC-Project]]"
   - "[[TVC-project]]"
   - "[[Colgate-Project]]"
   - "[[TrungDong-Project]]"
+Nguồn lực: "[[0. Nguồn lực]]"
 ---
 
 # Kỹ năng

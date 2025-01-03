@@ -56,4 +56,4 @@ Tổng task:
 ## Tóm tắt nội dung họp:
 
 
-[^2]: GAP list : [Công việc dự án Trung Đông Phase II - GAP List](https://docs.google.com/spreadsheets/d/13dTwy_ULoLKZ7WPD5dBiGyU9GiymeDR_rCl7BeJ6UlQ/edit?gid=1396927363#gid=1396927363)
+[^1]: GAP list : [Công việc dự án Trung Đông Phase II - GAP List](https://docs.google.com/spreadsheets/d/13dTwy_ULoLKZ7WPD5dBiGyU9GiymeDR_rCl7BeJ6UlQ/edit?gid=1396927363#gid=1396927363)
