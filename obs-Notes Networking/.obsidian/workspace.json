@@ -119,7 +119,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -375,8 +376,9 @@
   },
   "active": "ea2a2b2a587a382f",
   "lastOpenFiles": [
-    "TungLy/0. Daily/2025-Jan-1/Thu-2025-01-02 093644.md",
+    "TungLy/Drafts-Nháp.md",
     "TungLy/0. Daily/2025-Jan-1/Fri-2025-01-03 113438.md",
+    "TungLy/0. Daily/2025-Jan-1/Thu-2025-01-02 093644.md",
     "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Task-TrungDong.md",
     "TungLy/1. Projects/Dự án 2025/TrungDong-Project/TrungDong-Project.md",
     "TungLy/1. Projects/Dự án 2025/TrungDong-Project/H-TrungDong-Eva-31122024.md",
@@ -403,7 +405,6 @@
     "TungLy/1. Projects/Nguồn lực/Trạng thái nguồn lực/Quá tải.md",
     "TungLy/1. Projects/Nguồn lực/Trạng thái nguồn lực/Sẵn sàng tham gia.md",
     "TungLy/1. Projects/0.Dự án.md",
-    "Hướng dẫn sử dụng.md",
     "TungLy/Untitled",
     "TungLy/4. VISUAL NOTES/Canvas/Chỉ huy dự án 2025.canvas",
     "TungLy/4. VISUAL NOTES/Canvas/Chỉ huy dự án 2024.canvas",

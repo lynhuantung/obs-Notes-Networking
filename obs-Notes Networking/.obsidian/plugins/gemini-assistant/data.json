@@ -165,5 +165,5 @@
     },
     "type": "chat"
   },
-  "saftyThreshold": "HARM_BLOCK_THRESHOLD_UNSPECIFIED"
+  "saftyThreshold": "BLOCK_MEDIUM_AND_ABOVE"
 }
