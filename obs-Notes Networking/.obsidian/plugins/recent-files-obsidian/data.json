@@ -1,6 +1,66 @@
 {
   "recentFiles": [
     {
+      "basename": "Timeline",
+      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Timeline.md"
+    },
+    {
+      "basename": "0.Guide",
+      "path": "TungLy/1. Projects/Dự án 2025/Project Template/0.Guide.md"
+    },
+    {
+      "basename": "Goals",
+      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Goals.md"
+    },
+    {
+      "basename": "Task-TrungDong",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Task-TrungDong.md"
+    },
+    {
+      "basename": "0.H-TrungDong",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/0.H-TrungDong.md"
+    },
+    {
+      "basename": "Phase2-Training",
+      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Phases/Phase2-Training.md"
+    },
+    {
+      "basename": "Phase1-Requirement_Analysis",
+      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Phases/Phase1-Requirement_Analysis.md"
+    },
+    {
+      "basename": "Meeting_Notes",
+      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Meeting_Notes/Meeting_Notes.md"
+    },
+    {
+      "basename": "20250103-Daily",
+      "path": "TungLy/1. Projects/Dự án 2025/Project Template/DailyNotes/20250103-Daily.md"
+    },
+    {
+      "basename": "Risks",
+      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Risks.md"
+    },
+    {
+      "basename": "Resources",
+      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Resources.md"
+    },
+    {
+      "basename": "Evaluation",
+      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Evaluation.md"
+    },
+    {
+      "basename": "Scope",
+      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Scope.md"
+    },
+    {
+      "basename": "ProjectMOC",
+      "path": "TungLy/1. Projects/Dự án 2025/Project Template/ProjectMOC.md"
+    },
+    {
+      "basename": "H-TrungDong-Eva-31122024",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/H-TrungDong-Eva-31122024.md"
+    },
+    {
       "basename": "Fri-2025-01-03 113438",
       "path": "TungLy/0. Daily/2025-Jan-1/Fri-2025-01-03 113438.md"
     },
@@ -9,20 +69,8 @@
       "path": "TungLy/Drafts-Nháp.md"
     },
     {
-      "basename": "Task-TrungDong",
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Task-TrungDong.md"
-    },
-    {
       "basename": "TrungDong-Project",
       "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/TrungDong-Project.md"
-    },
-    {
-      "basename": "H-TrungDong-Eva-31122024",
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/H-TrungDong-Eva-31122024.md"
-    },
-    {
-      "basename": "0.H-TrungDong",
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/0.H-TrungDong.md"
     },
     {
       "basename": "Ngoc.Nong",
@@ -147,54 +195,6 @@
     {
       "basename": "Kế Hoạch Chuẩn Hóa Tài Liệu",
       "path": "TungLy/4. VISUAL NOTES/Canvas/Kế Hoạch Chuẩn Hóa Tài Liệu.canvas"
-    },
-    {
-      "basename": "Dự án TBV",
-      "path": "TungLy/3. ARCHIEVED/Danh sách dự án/Dự án TBV.md"
-    },
-    {
-      "basename": "So sánh các công cụ ETL",
-      "path": "TungLy/Area/Data-WareHouse/ITL DataWareHouse/So sánh các công cụ ETL.md"
-    },
-    {
-      "basename": "TBCBall -Project",
-      "path": "TungLy/1. Projects/Chỉ Huy dự án/TBCBall -Project/TBCBall -Project.md"
-    },
-    {
-      "basename": "H-LTG-TAL-020724",
-      "path": "TungLy/Area/Index/Meeting/H-LTG-TAL-020724.md"
-    },
-    {
-      "basename": "Meeting_00",
-      "path": "TungLy/3. ARCHIEVED/SaaS - VnR/xmind/Bien_Ban_Hop/Meeting_00.md"
-    },
-    {
-      "basename": "Story0724-1-3 - Support nghiệp vụ",
-      "path": "TungLy/3. ARCHIEVED/07-2024 tổng hợp/Story0724-1-3 - Support nghiệp vụ.md"
-    },
-    {
-      "basename": "0. Index - Thiet Lap BH",
-      "path": "TungLy/Area/Thiết lập bảo hiểm/0. Index - Thiet Lap BH.md"
-    },
-    {
-      "basename": "Story0724-2-1 - Phân hệ bảo hiểm",
-      "path": "TungLy/3. ARCHIEVED/07-2024 tổng hợp/Story0724-2-1 - Phân hệ bảo hiểm.md"
-    },
-    {
-      "basename": "Dự án Unis",
-      "path": "TungLy/3. ARCHIEVED/Danh sách dự án/Dự án Unis.md"
-    },
-    {
-      "basename": "Data warehouse",
-      "path": "TungLy/Area/Data-WareHouse/ITL DataWareHouse/Data warehouse.md"
-    },
-    {
-      "basename": "Meeting_0923",
-      "path": "TungLy/3. ARCHIEVED/SaaS - VnR/xmind/Bien_Ban_Hop/Meeting_0923.md"
-    },
-    {
-      "basename": "H-TERUMO-SYS-181224",
-      "path": "TungLy/1. Projects/Dự án 2025/Terumo/H-TERUMO-SYS-181224.md"
     }
   ],
   "omittedPaths": []

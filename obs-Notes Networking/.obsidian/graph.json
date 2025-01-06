@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:\"TungLy/1. Projects\"  -tag:#daily  ",
+  "search": "path:\"TungLy/1. Projects/Dự án 2025/Project Template\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -53,6 +53,6 @@
   "repelStrength": 8.48958333333333,
   "linkStrength": 0,
   "linkDistance": 416,
-  "scale": 0.3540051368955258,
-  "close": false
+  "scale": 1.9174460063418803,
+  "close": true
 }

@@ -11,6 +11,7 @@
     "Ngày phỏng vấn": "date",
     "Giai đoạn": "multitext",
     "Trạng thái": "multitext",
-    "Vai trò": "multitext"
+    "Vai trò": "multitext",
+    "phase": "multitext"
   }
 }
