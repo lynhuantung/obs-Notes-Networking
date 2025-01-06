@@ -13,14 +13,14 @@ tags:
 - Cải thiện hiệu suất làm việc của hệ thống nhân sự lên 30% trong 6 tháng.
 
 ## Giai đoạn
-- [[Phase1-Requirement_Analysis|Giai đoạn 1: Phân tích yêu cầu]]
-- [[Phase2-Training|Giai đoạn 2: Thiết kế và phát triển]]
+- [[TungLy/1. Projects/Dự án 2025/Project Template/Phases/Phase1-Requirement_Analysis|Giai đoạn 1: Phân tích yêu cầu]]
+- [[TungLy/1. Projects/Dự án 2025/Project Template/Phases/Phase2-Training|Giai đoạn 2: Thiết kế và phát triển]]
 
 ## Liên kết quan trọng
-- [[Goals|Mục tiêu dự án]]
-- [[Scope|Phạm vi dự án]]
-- [[Resources|Nguồn lực dự án]]
-- [[Risks|Rủi ro]]
-- [[Evaluation|Đánh giá sau dự án]]
-- [[Meeting_Notes|Biên bản họp]]
-- [[20250103-Daily|Ghi chú hàng ngày]]
+- [[TungLy/1. Projects/Dự án 2025/Project Template/Goals|Mục tiêu dự án]]
+- [[TungLy/1. Projects/Dự án 2025/Project Template/Scope|Phạm vi dự án]]
+- [[TungLy/1. Projects/Dự án 2025/Project Template/Resources|Nguồn lực dự án]]
+- [[TungLy/1. Projects/Dự án 2025/Project Template/Risks|Rủi ro]]
+- [[TungLy/1. Projects/Dự án 2025/Project Template/Evaluation|Đánh giá sau dự án]]
+- [[TungLy/1. Projects/Dự án 2025/Project Template/Meeting_Notes/Meeting_Notes|Biên bản họp]]
+- [[TungLy/1. Projects/Dự án 2025/Project Template/DailyNotes/20250103-Daily|Ghi chú hàng ngày]]

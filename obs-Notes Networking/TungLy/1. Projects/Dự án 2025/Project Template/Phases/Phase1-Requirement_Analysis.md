@@ -18,8 +18,8 @@ phase:
 - Xây dựng tài liệu BRD.
 
 **Rủi ro:**  
-- [[Risks|Xem chi tiết rủi ro giai đoạn 1]]
+- [[TungLy/1. Projects/Dự án 2025/Project Template/Risks|Xem chi tiết rủi ro giai đoạn 1]]
 
 **Liên kết:**  
-- [[Meeting_Notes|Biên bản họp]]
-- [[Resources|Nguồn lực dự án]]
+- [[TungLy/1. Projects/Dự án 2025/Project Template/Meeting_Notes/Meeting_Notes|Biên bản họp]]
+- [[TungLy/1. Projects/Dự án 2025/Project Template/Resources|Nguồn lực dự án]]

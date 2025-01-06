@@ -18,7 +18,7 @@ tags:
 
 ## Chi tiết timeline theo giai đoạn
 
-### **[[Phase1-Requirement_Analysis|Giai đoạn 1]]: Phân tích yêu cầu** 
+### **[[TungLy/1. Projects/Dự án 2025/Project Template/Phases/Phase1-Requirement_Analysis|Giai đoạn 1]]: Phân tích yêu cầu** 
 - **Thời gian:** 01/01/2025 - 15/01/2025
 - **Nhiệm vụ chính:**
   - Thu thập yêu cầu từ các phòng ban.
@@ -57,4 +57,4 @@ tags:
 
 
 # Liên kết:
-- [[Meeting_Notes]]
+- [[TungLy/1. Projects/Dự án 2025/Project Template/Meeting_Notes/Meeting_Notes]]

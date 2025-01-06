@@ -19,5 +19,5 @@ tags:
 - Tổng chi phí: 500 triệu VNĐ.
 
 **Liên kết:**  
-- [[Scope|Phạm vi dự án]]
-- [[Phase1-Requirement_Analysis|Giai đoạn 1]]
+- [[TungLy/1. Projects/Dự án 2025/Project Template/Scope|Phạm vi dự án]]
+- [[TungLy/1. Projects/Dự án 2025/Project Template/Phases/Phase1-Requirement_Analysis|Giai đoạn 1]]

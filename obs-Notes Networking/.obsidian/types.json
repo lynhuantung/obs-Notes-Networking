@@ -9,7 +9,7 @@
     "Nhóm": "multitext",
     "Type": "multitext",
     "Ngày phỏng vấn": "date",
-    "Giai đoạn": "multitext",
+    "Giai đoạn": "text",
     "Trạng thái": "multitext",
     "Vai trò": "multitext",
     "phase": "multitext"

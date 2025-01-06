@@ -17,5 +17,5 @@ tags:
 - Nên tăng thời gian kiểm thử.
 
 **Liên kết:**  
-- [[Goals|Mục tiêu dự án]]
-- [[Risks|Rủi ro]]
+- [[TungLy/1. Projects/Dự án 2025/Project Template/Goals|Mục tiêu dự án]]
+- [[TungLy/1. Projects/Dự án 2025/Project Template/Risks|Rủi ro]]

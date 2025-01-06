@@ -18,5 +18,5 @@ tags:
 - Ứng phó: Xem xét giải pháp thay thế.
 
 **Liên kết:**  
-- [[Phase1-Requirement_Analysis|Giai đoạn 1]]
-- [[Phase2-Training|Giai đoạn 2]]
+- [[TungLy/1. Projects/Dự án 2025/Project Template/Phases/Phase1-Requirement_Analysis|Giai đoạn 1]]
+- [[TungLy/1. Projects/Dự án 2025/Project Template/Phases/Phase2-Training|Giai đoạn 2]]

@@ -7,6 +7,7 @@ tags:
 date: 2025-01-02
 Project:
   - "[[Dự án TrungDong]]"
+Giai Đoạn: "[[TungLy/1. Projects/Dự án 2025/TrungDong-Project/Phases/Phase2-Training/Phase2-Training|Phase2-Training]]"
 ---
 # Bảo hiểm
 ## Lương bảo hiểm xã hội
@@ -19,3 +20,4 @@ Project:
 		- Load 4 phụ cấp lương bhxh nếu có cấu hình
 
 # Đánh giá
+- 

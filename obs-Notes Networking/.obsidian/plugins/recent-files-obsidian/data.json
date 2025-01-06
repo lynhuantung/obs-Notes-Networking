@@ -1,6 +1,90 @@
 {
   "recentFiles": [
     {
+      "basename": "Goals",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Goals.md"
+    },
+    {
+      "basename": "ProjectMOC",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/ProjectMOC.md"
+    },
+    {
+      "basename": "Resources",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Resources.md"
+    },
+    {
+      "basename": "0.Guide",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/0.Guide.md"
+    },
+    {
+      "basename": "Tài liệu",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Documents/Tài liệu.md"
+    },
+    {
+      "basename": "Evaluation",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Evaluation.md"
+    },
+    {
+      "basename": "Scope",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Scope.md"
+    },
+    {
+      "basename": "Risks",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Risks.md"
+    },
+    {
+      "basename": "Phase2-Training",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Phases/Phase2-Training/Phase2-Training.md"
+    },
+    {
+      "basename": "Task-TrungDong",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Phases/Phase2-Training/Task-TrungDong.md"
+    },
+    {
+      "basename": "Timeline",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Phases/Phase2-Training/Timeline.md"
+    },
+    {
+      "basename": "CheckList update window",
+      "path": "TungLy/0. Daily/2025-Jan-2/CheckList update window.md"
+    },
+    {
+      "basename": "Risks",
+      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Risks.md"
+    },
+    {
+      "basename": "TrungDong-Project",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Phases/Phase2-Training/TrungDong-Project.md"
+    },
+    {
+      "basename": "20250103-Daily",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/DailyNotes/20250103-Daily.md"
+    },
+    {
+      "basename": "0.H-TrungDong",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Meeting_Notes/0.H-TrungDong.md"
+    },
+    {
+      "basename": "Ngoc.Nong",
+      "path": "TungLy/1. Projects/Nguồn lực/Ngoc.Nong.md"
+    },
+    {
+      "basename": "0.Chỉ huy dự án",
+      "path": "TungLy/1. Projects/Chỉ Huy dự án/0.Chỉ huy dự án.md"
+    },
+    {
+      "basename": "H-TrungDong-Eva-06012025",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Meeting_Notes/H-TrungDong-Eva-06012025.md"
+    },
+    {
+      "basename": "H-TrungDong-Eva-31122024",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Meeting_Notes/H-TrungDong-Eva-31122024.md"
+    },
+    {
+      "basename": "Sat-2025-01-04",
+      "path": "TungLy/0. Daily/2025-Jan-1/Sat-2025-01-04.md"
+    },
+    {
       "basename": "Timeline",
       "path": "TungLy/1. Projects/Dự án 2025/Project Template/Timeline.md"
     },
@@ -11,14 +95,6 @@
     {
       "basename": "Goals",
       "path": "TungLy/1. Projects/Dự án 2025/Project Template/Goals.md"
-    },
-    {
-      "basename": "Task-TrungDong",
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Task-TrungDong.md"
-    },
-    {
-      "basename": "0.H-TrungDong",
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/0.H-TrungDong.md"
     },
     {
       "basename": "Phase2-Training",
@@ -37,10 +113,6 @@
       "path": "TungLy/1. Projects/Dự án 2025/Project Template/DailyNotes/20250103-Daily.md"
     },
     {
-      "basename": "Risks",
-      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Risks.md"
-    },
-    {
       "basename": "Resources",
       "path": "TungLy/1. Projects/Dự án 2025/Project Template/Resources.md"
     },
@@ -57,28 +129,12 @@
       "path": "TungLy/1. Projects/Dự án 2025/Project Template/ProjectMOC.md"
     },
     {
-      "basename": "H-TrungDong-Eva-31122024",
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/H-TrungDong-Eva-31122024.md"
-    },
-    {
       "basename": "Fri-2025-01-03 113438",
       "path": "TungLy/0. Daily/2025-Jan-1/Fri-2025-01-03 113438.md"
     },
     {
       "basename": "Drafts-Nháp",
       "path": "TungLy/Drafts-Nháp.md"
-    },
-    {
-      "basename": "TrungDong-Project",
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/TrungDong-Project.md"
-    },
-    {
-      "basename": "Ngoc.Nong",
-      "path": "TungLy/1. Projects/Nguồn lực/Ngoc.Nong.md"
-    },
-    {
-      "basename": "0.Chỉ huy dự án",
-      "path": "TungLy/1. Projects/Chỉ Huy dự án/0.Chỉ huy dự án.md"
     },
     {
       "basename": "HongNgoc-Project",
@@ -139,62 +195,6 @@
     {
       "basename": "Sẵn sàng tham gia",
       "path": "TungLy/1. Projects/Nguồn lực/Trạng thái nguồn lực/Sẵn sàng tham gia.md"
-    },
-    {
-      "basename": "0.Dự án",
-      "path": "TungLy/1. Projects/0.Dự án.md"
-    },
-    {
-      "basename": "Hướng dẫn sử dụng",
-      "path": "Hướng dẫn sử dụng.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "0.Nhật Ký Vấn Đề",
-      "path": "TungLy/Area/Index/NhatKyVanDe/0.Nhật Ký Vấn Đề.md"
-    },
-    {
-      "basename": "0.Dự án",
-      "path": "TungLy/Area/Index/DuAn/0.Dự án.md"
-    },
-    {
-      "basename": "0.Report",
-      "path": "TungLy/Area/Index/Report/0.Report.md"
-    },
-    {
-      "basename": "0.Brain Stormings",
-      "path": "TungLy/Area/Index/Brain Stormings/0.Brain Stormings.md"
-    },
-    {
-      "basename": "Thông tin",
-      "path": "TungLy/3. ARCHIEVED/Thông Tin/Thông tin.md"
-    },
-    {
-      "basename": "Chỉ huy dự án 2025",
-      "path": "TungLy/4. VISUAL NOTES/Canvas/Chỉ huy dự án 2025.canvas"
-    },
-    {
-      "basename": "Chỉ huy dự án 2024",
-      "path": "TungLy/4. VISUAL NOTES/Canvas/Chỉ huy dự án 2024.canvas"
-    },
-    {
-      "basename": "Colgate-Project",
-      "path": "TungLy/3. ARCHIEVED/Dự án 2024/Colgate-Project/Colgate-Project.md"
-    },
-    {
-      "basename": "Hướng dẫn sử dụng canvas",
-      "path": "TungLy/4. VISUAL NOTES/Canvas/Hướng dẫn sử dụng canvas.canvas"
-    },
-    {
-      "basename": "Plan",
-      "path": "TungLy/4. VISUAL NOTES/Canvas/Plan.canvas"
-    },
-    {
-      "basename": "Kế Hoạch Chuẩn Hóa Tài Liệu",
-      "path": "TungLy/4. VISUAL NOTES/Canvas/Kế Hoạch Chuẩn Hóa Tài Liệu.canvas"
     }
   ],
   "omittedPaths": []

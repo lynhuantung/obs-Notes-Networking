@@ -17,5 +17,5 @@ tags:
 - Đảm bảo hệ thống hoạt động ổn định với 200 người dùng đồng thời.
 
 **Liên kết:**  
-- [[Scope|Phạm vi dự án]]
-- [[Evaluation|Đánh giá sau dự án]]
+- [[TungLy/1. Projects/Dự án 2025/Project Template/Scope|Phạm vi dự án]]
+- [[TungLy/1. Projects/Dự án 2025/Project Template/Evaluation|Đánh giá sau dự án]]

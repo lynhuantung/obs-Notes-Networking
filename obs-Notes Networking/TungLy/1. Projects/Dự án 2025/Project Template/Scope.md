@@ -18,5 +18,5 @@ tags:
 - **Thời gian:** 6 tháng.
 
 **Liên kết:**  
-- [[Goals|Mục tiêu dự án]]
-- [[Resources|Nguồn lực dự án]]
+- [[TungLy/1. Projects/Dự án 2025/Project Template/Goals|Mục tiêu dự án]]
+- [[TungLy/1. Projects/Dự án 2025/Project Template/Resources|Nguồn lực dự án]]
