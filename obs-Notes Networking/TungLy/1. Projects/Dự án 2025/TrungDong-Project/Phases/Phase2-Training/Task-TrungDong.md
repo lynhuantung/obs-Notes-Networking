@@ -10,10 +10,10 @@ Project:
 Giai Đoạn: "[[TungLy/1. Projects/Dự án 2025/TrungDong-Project/Phases/Phase2-Training/Phase2-Training|Phase2-Training]]"
 ---
 # Bảo hiểm
-## Lương bảo hiểm xã hội
+## Lương bảo hiểm xã  => done
 	- Xử lý load phụ cấp tự động khi tạo mới lương bhxh
 	- Thêm field tổng tiền
-## Màn hình hợp đồng và phụ lục hợp đồng
+## Màn hình hợp đồng và phụ lục hợp đồng => done
 	-Trong thiết lập nhân sự => thêm cấu hình cho phép load lương bhxh trong màn hinh hợp đồng và phụ lục hợp đồng
 	-  Màn hình hợp đồng và phụ lục hợp đồng
 		- Load lương bhxh nếu có cấu hình

@@ -6,6 +6,11 @@ time: 06:40
 Week: "02"
 tags:
   - "#project"
+Liên kết:
+  - "[[TungLy/1. Projects/Dự án 2025/TrungDong-Project/Resources|Nguồn lực dự án]]"
+  - "[[TungLy/1. Projects/Dự án 2025/TrungDong-Project/Goals|Mục tiêu dự án]]"
+Project:
+  - "[[Dự án TrungDong]]"
 ---
 # Phạm vi dự án
 
@@ -14,7 +19,3 @@ tags:
 - Phân hệ nhân tài
 
 
-
-**Liên kết:**  
-- [[TungLy/1. Projects/Dự án 2025/TrungDong-Project/Goals|Mục tiêu dự án]]
-- [[TungLy/1. Projects/Dự án 2025/TrungDong-Project/Resources|Nguồn lực dự án]]

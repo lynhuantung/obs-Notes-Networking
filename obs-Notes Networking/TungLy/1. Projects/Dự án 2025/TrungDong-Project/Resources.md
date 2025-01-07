@@ -6,6 +6,8 @@ time: 06:40
 Week: "02"
 tags:
   - "#project"
+Project:
+  - "[[Dự án TrungDong]]"
 ---
 # Nguồn lực dự án
 

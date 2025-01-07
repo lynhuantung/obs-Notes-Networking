@@ -30,15 +30,15 @@ Xử lý 7 task đánh giá, 2 task nhân tài, 1 task bảo hiểm
 # Nguồn lực tham gia
 ---
 
-- [[Ngoc.Nong]]
-- [[Hai.NguyenNgoc]]
+- [[Ngoc.Nong|Ngoc.Nong 75%]]
+- [[Hai.NguyenNgoc|Nguyễn Ngọc Hải 50%]]
 - [[Minh.NguyenVan]]
 - [[Tung.Ly]]
 
 # Trạng thái:
 ---
 
-- Bắt đầu thực hiện
+- Đang thực hiện
 
 
 

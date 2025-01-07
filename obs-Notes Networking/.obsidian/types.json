@@ -12,6 +12,7 @@
     "Giai đoạn": "text",
     "Trạng thái": "multitext",
     "Vai trò": "multitext",
-    "phase": "multitext"
+    "phase": "multitext",
+    "Liên kết": "multitext"
   }
 }

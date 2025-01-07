@@ -6,6 +6,8 @@ time: 06:40
 Week: "02"
 tags:
   - "#project"
+Project:
+  - "[[Dự án TrungDong]]"
 ---
 # Quản lý hệ thống đánh giá và nhân tài
 

@@ -1,28 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Goals",
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Goals.md"
-    },
-    {
       "basename": "ProjectMOC",
       "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/ProjectMOC.md"
     },
     {
-      "basename": "Resources",
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Resources.md"
+      "basename": "Goals",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Goals.md"
     },
     {
       "basename": "0.Guide",
       "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/0.Guide.md"
     },
     {
-      "basename": "Tài liệu",
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Documents/Tài liệu.md"
-    },
-    {
       "basename": "Evaluation",
       "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Evaluation.md"
+    },
+    {
+      "basename": "Timeline",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Timeline.md"
     },
     {
       "basename": "Scope",
@@ -33,16 +29,48 @@
       "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Risks.md"
     },
     {
-      "basename": "Phase2-Training",
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Phases/Phase2-Training/Phase2-Training.md"
+      "basename": "Resources",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Resources.md"
+    },
+    {
+      "basename": "TrungDong-Project",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Phases/Phase2-Training/TrungDong-Project.md"
     },
     {
       "basename": "Task-TrungDong",
       "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Phases/Phase2-Training/Task-TrungDong.md"
     },
     {
+      "basename": "Phase2-Training",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Phases/Phase2-Training/Phase2-Training.md"
+    },
+    {
+      "basename": "H-TrungDong-Eva-06012025",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Meeting_Notes/H-TrungDong-Eva-06012025.md"
+    },
+    {
+      "basename": "0.H-TrungDong",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Meeting_Notes/0.H-TrungDong.md"
+    },
+    {
+      "basename": "Tài liệu",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Documents/Tài liệu.md"
+    },
+    {
+      "basename": "20250103-Daily",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/DailyNotes/20250103-Daily.md"
+    },
+    {
+      "basename": "H-TrungDong-Eva-31122024",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Meeting_Notes/H-TrungDong-Eva-31122024.md"
+    },
+    {
       "basename": "Timeline",
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Phases/Phase2-Training/Timeline.md"
+      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Timeline.md"
+    },
+    {
+      "basename": "Meeting_Notes",
+      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Meeting_Notes/Meeting_Notes.md"
     },
     {
       "basename": "CheckList update window",
@@ -53,18 +81,6 @@
       "path": "TungLy/1. Projects/Dự án 2025/Project Template/Risks.md"
     },
     {
-      "basename": "TrungDong-Project",
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Phases/Phase2-Training/TrungDong-Project.md"
-    },
-    {
-      "basename": "20250103-Daily",
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/DailyNotes/20250103-Daily.md"
-    },
-    {
-      "basename": "0.H-TrungDong",
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Meeting_Notes/0.H-TrungDong.md"
-    },
-    {
       "basename": "Ngoc.Nong",
       "path": "TungLy/1. Projects/Nguồn lực/Ngoc.Nong.md"
     },
@@ -73,20 +89,8 @@
       "path": "TungLy/1. Projects/Chỉ Huy dự án/0.Chỉ huy dự án.md"
     },
     {
-      "basename": "H-TrungDong-Eva-06012025",
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Meeting_Notes/H-TrungDong-Eva-06012025.md"
-    },
-    {
-      "basename": "H-TrungDong-Eva-31122024",
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Meeting_Notes/H-TrungDong-Eva-31122024.md"
-    },
-    {
       "basename": "Sat-2025-01-04",
       "path": "TungLy/0. Daily/2025-Jan-1/Sat-2025-01-04.md"
-    },
-    {
-      "basename": "Timeline",
-      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Timeline.md"
     },
     {
       "basename": "0.Guide",
@@ -103,10 +107,6 @@
     {
       "basename": "Phase1-Requirement_Analysis",
       "path": "TungLy/1. Projects/Dự án 2025/Project Template/Phases/Phase1-Requirement_Analysis.md"
-    },
-    {
-      "basename": "Meeting_Notes",
-      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Meeting_Notes/Meeting_Notes.md"
     },
     {
       "basename": "20250103-Daily",
