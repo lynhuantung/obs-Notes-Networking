@@ -23,4 +23,4 @@ tags:
 - [[TungLy/1. Projects/Dự án 2025/Project Template/Risks|Rủi ro]]
 - [[TungLy/1. Projects/Dự án 2025/Project Template/Evaluation|Đánh giá sau dự án]]
 - [[TungLy/1. Projects/Dự án 2025/Project Template/Meeting_Notes/Meeting_Notes|Biên bản họp]]
-- [[TungLy/1. Projects/Dự án 2025/Project Template/DailyNotes/20250103-Daily|Ghi chú hàng ngày]]
+- [[Update-Daily|Ghi chú hàng ngày]]

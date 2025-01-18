@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "Update-Daily",
+      "path": "TungLy/1. Projects/Dự án 2025/Project Template/DailyNotes/Update-Daily.md"
+    },
+    {
+      "basename": "Timeline",
+      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Timeline.md"
+    },
+    {
+      "basename": "Scope",
+      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Scope.md"
+    },
+    {
+      "basename": "Risks",
+      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Risks.md"
+    },
+    {
+      "basename": "Resources",
+      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Resources.md"
+    },
+    {
+      "basename": "ProjectMOC",
+      "path": "TungLy/1. Projects/Dự án 2025/Project Template/ProjectMOC.md"
+    },
+    {
+      "basename": "Goals",
+      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Goals.md"
+    },
+    {
+      "basename": "Evaluation",
+      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Evaluation.md"
+    },
+    {
+      "basename": "0.Guide",
+      "path": "TungLy/1. Projects/Dự án 2025/Project Template/0.Guide.md"
+    },
+    {
+      "basename": "Tài Liệu",
+      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Documents/Tài Liệu.md"
+    },
+    {
+      "basename": "Tài liệu",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Documents/Tài liệu.md"
+    },
+    {
+      "basename": "0.Guide",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/0.Guide.md"
+    },
+    {
+      "basename": "Update",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/DailyNotes/Update.md"
+    },
+    {
       "basename": "Scope",
       "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Scope.md"
     },
@@ -9,28 +61,40 @@
       "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Risks.md"
     },
     {
-      "basename": "TrungDong-Project",
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Phases/Phase2-Training/TrungDong-Project.md"
+      "basename": "Timeline",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Timeline.md"
     },
     {
-      "basename": "Task-TrungDong",
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Phases/Phase2-Training/Task-TrungDong.md"
+      "basename": "Goals",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Goals.md"
     },
     {
       "basename": "Phase2-Training",
       "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Phases/Phase2-Training/Phase2-Training.md"
     },
     {
+      "basename": "Resources",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Resources.md"
+    },
+    {
+      "basename": "Task-TrungDong",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Phases/Phase2-Training/Task-TrungDong.md"
+    },
+    {
       "basename": "0.H-TrungDong",
       "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Meeting_Notes/0.H-TrungDong.md"
     },
     {
-      "basename": "H-TrungDong-Eva-31122024",
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Meeting_Notes/H-TrungDong-Eva-31122024.md"
+      "basename": "TrungDong-Project",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Phases/Phase2-Training/TrungDong-Project.md"
     },
     {
-      "basename": "Update",
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/DailyNotes/Update.md"
+      "basename": "Minh.NguyenVan",
+      "path": "TungLy/1. Projects/Nguồn lực/Minh.NguyenVan.md"
+    },
+    {
+      "basename": "H-TrungDong-Eva-31122024",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Meeting_Notes/H-TrungDong-Eva-31122024.md"
     },
     {
       "basename": "0.Chỉ huy dự án",
@@ -41,28 +105,12 @@
       "path": "TungLy/3. ARCHIEVED/Danh sách dự án/Dự án TrungDong.md"
     },
     {
-      "basename": "Tài liệu",
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Documents/Tài liệu.md"
-    },
-    {
       "basename": "H-TrungDong-Eva-06012025",
       "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Meeting_Notes/H-TrungDong-Eva-06012025.md"
     },
     {
       "basename": "Evaluation",
       "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Evaluation.md"
-    },
-    {
-      "basename": "Goals",
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Goals.md"
-    },
-    {
-      "basename": "Timeline",
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Timeline.md"
-    },
-    {
-      "basename": "Resources",
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Resources.md"
     },
     {
       "basename": "ProjectMOC",
@@ -151,54 +199,6 @@
     {
       "basename": "Meeting_0819",
       "path": "TungLy/Area/Index/Meeting/DuAn/SaaS - VnR/xmind/Bien_Ban_Hop/Meeting_0819.md"
-    },
-    {
-      "basename": "Meeting_0805",
-      "path": "TungLy/Area/Index/Meeting/DuAn/SaaS - VnR/xmind/Bien_Ban_Hop/Meeting_0805.md"
-    },
-    {
-      "basename": "PTBH- Nghỉ Thai Sản",
-      "path": "TungLy/Area/Index/NhatKyVanDe/PTBH- Nghỉ Thai Sản.md"
-    },
-    {
-      "basename": "Plan - Airbyte",
-      "path": "TungLy/Area/Index/Plan - airbyte/Plan - Airbyte.md"
-    },
-    {
-      "basename": "Thiết lập BH",
-      "path": "TungLy/Area/Thành Phần BH/Thiết lập BH.md"
-    },
-    {
-      "basename": "20240531_01_OPA_Meeting",
-      "path": "TungLy/3. ARCHIEVED/Dự án 2024/OPA/20240531_01_OPA_Meeting.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "TungLy/3. ARCHIEVED/SaaS - VnR/Untitled.md"
-    },
-    {
-      "basename": "H-LTG-TAL-200724",
-      "path": "TungLy/3. ARCHIEVED/Dự án 2024/LTG/H-LTG-TAL-200724.md"
-    },
-    {
-      "basename": "Dự án Panasonic",
-      "path": "TungLy/3. ARCHIEVED/Danh sách dự án/Dự án Panasonic.md"
-    },
-    {
-      "basename": "Hệ thống",
-      "path": "TungLy/Area/Thành Phần BH/Hệ thống.md"
-    },
-    {
-      "basename": "Builder-airbyte-guide",
-      "path": "TungLy/Area/Data-WareHouse/ELT - Airbyte/Builder-airbyte-guide.md"
-    },
-    {
-      "basename": "Tổng hợp công",
-      "path": "TungLy/Area/Index/ChucNang/Thành Phần BH/Tổng hợp công.md"
-    },
-    {
-      "basename": "Sync Data",
-      "path": "TungLy/Area/Data-WareHouse 1/ELT - Airbyte/Sync Data.md"
     }
   ],
   "omittedPaths": []

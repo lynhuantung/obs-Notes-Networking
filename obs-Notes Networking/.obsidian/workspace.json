@@ -50,13 +50,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Scope.md",
-                "mode": "preview",
+                "file": "TungLy/1. Projects/Dự án 2025/Project Template/DailyNotes/Update-Daily.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scope"
+              "title": "Update-Daily"
             }
           }
         ],
@@ -306,7 +306,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Scope.md",
+                "file": "TungLy/1. Projects/Dự án 2025/Project Template/DailyNotes/Update-Daily.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -334,7 +334,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Scope"
+              "title": "Graph of Update-Daily"
             }
           }
         ]
@@ -361,7 +361,7 @@
               "type": "mindmap",
               "state": {},
               "icon": "dot-network",
-              "title": "Mind Map of Scope"
+              "title": "Mind Map of Update-Daily"
             }
           }
         ],
@@ -394,34 +394,35 @@
   },
   "active": "4f604ea733589e5e",
   "lastOpenFiles": [
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Risks.md",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Scope.md",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Phases/Phase2-Training/TrungDong-Project.md",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Phases/Phase2-Training/Task-TrungDong.md",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Phases/Phase2-Training/Phase2-Training.md",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Meeting_Notes/0.H-TrungDong.md",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Meeting_Notes/H-TrungDong-Eva-31122024.md",
+    "TungLy/1. Projects/Dự án 2025/Project Template/Timeline.md",
+    "TungLy/1. Projects/Dự án 2025/Project Template/Scope.md",
+    "TungLy/1. Projects/Dự án 2025/Project Template/Risks.md",
+    "TungLy/1. Projects/Dự án 2025/Project Template/Resources.md",
+    "TungLy/1. Projects/Dự án 2025/Project Template/ProjectMOC.md",
+    "TungLy/1. Projects/Dự án 2025/Project Template/Goals.md",
+    "TungLy/1. Projects/Dự án 2025/Project Template/Evaluation.md",
+    "TungLy/1. Projects/Dự án 2025/Project Template/0.Guide.md",
+    "TungLy/1. Projects/Dự án 2025/Project Template/Documents/Tài Liệu.md",
+    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Documents/Tài liệu.md",
+    "TungLy/1. Projects/Dự án 2025/Project Template/Documents",
+    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/0.Guide.md",
+    "TungLy/1. Projects/Dự án 2025/Project Template/DailyNotes/Update-Daily.md",
     "TungLy/1. Projects/Dự án 2025/TrungDong-Project/DailyNotes/Update.md",
+    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Scope.md",
+    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Risks.md",
+    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Timeline.md",
+    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Goals.md",
+    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Phases/Phase2-Training/Phase2-Training.md",
+    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Resources.md",
+    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Phases/Phase2-Training/Task-TrungDong.md",
+    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Meeting_Notes/0.H-TrungDong.md",
+    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Phases/Phase2-Training/TrungDong-Project.md",
+    "TungLy/1. Projects/Nguồn lực/Minh.NguyenVan.md",
+    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Meeting_Notes/H-TrungDong-Eva-31122024.md",
     "TungLy/1. Projects/Chỉ Huy dự án/0.Chỉ huy dự án.md",
     "TungLy/3. ARCHIEVED/Danh sách dự án/Dự án TrungDong.md",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Documents/Tài liệu.md",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Meeting_Notes/H-TrungDong-Eva-06012025.md",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Evaluation.md",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Goals.md",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Timeline.md",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Resources.md",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/ProjectMOC.md",
-    "TungLy/0. Daily/2025-Jan-1/Fri-2025-01-03 113438.md",
-    "TungLy/1. Projects/Dự án 2025/HongNgoc-Project/HongNgoc-Project.md",
-    "TungLy/3. ARCHIEVED/Working/Remind.md",
-    "TungLy/0. Daily/2025-Jan-3/Tài liệu xử lý đánh giá Hồng Ngọc.md",
-    "TungLy/0. Daily/2025-Jan-3/Cấu hình SSO dự án Hồng Ngọc.md",
     "src/Pasted image 20250118103034.png",
     "src/Pasted image 20250118102956.png",
-    "TungLy/0. Daily/2025-Jan-3/Thu-2025-01-16 044154.md",
-    "TungLy/0. Daily/2024-Dec-52/Sun-2024-12-29 033906.md",
-    "TungLy/Area/Data-WareHouse/ETL-TOS/Tổng Quan TOS.md",
-    "TungLy/Area/Data-WareHouse/ETL-TOS/Talend_Open_Studio.md",
     "src/Pasted image 20250114150222.png",
     "src/Pasted image 20250113152633.png",
     "src/Pasted image 20250113152616.png",
@@ -438,7 +439,6 @@
     "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Meeting_Notes",
     "TungLy/1. Projects/Dự án 2025/TrungDong-Project/DailyNotes",
     "TungLy/1. Projects/Dự án 2025/TrungDong-Project",
-    "TungLy/1. Projects/Dự án 2025/Project Template/Documents",
     "TungLy/4. VISUAL NOTES/Canvas/Chỉ huy dự án 2025.canvas",
     "TungLy/4. VISUAL NOTES/Canvas/Chỉ huy dự án 2024.canvas",
     "TungLy/4. VISUAL NOTES/Canvas/Hướng dẫn sử dụng canvas.canvas",
