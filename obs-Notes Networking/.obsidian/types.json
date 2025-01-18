@@ -13,6 +13,7 @@
     "Trạng thái": "multitext",
     "Vai trò": "multitext",
     "phase": "multitext",
-    "Liên kết": "multitext"
+    "Liên kết": "multitext",
+    "created": "date"
   }
 }
