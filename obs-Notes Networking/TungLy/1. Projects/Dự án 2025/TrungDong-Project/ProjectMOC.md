@@ -24,4 +24,4 @@ Project:
 - [[TungLy/1. Projects/Dự án 2025/TrungDong-Project/Risks|Rủi ro]]
 - [[TungLy/1. Projects/Dự án 2025/TrungDong-Project/Evaluation|Đánh giá sau dự án]]
 - [[0.H-TrungDong|Biên bản họp]]
-- [[TungLy/1. Projects/Dự án 2025/TrungDong-Project/DailyNotes/20250103-Daily|Ghi chú hàng ngày]]
+- [[Update|Ghi chú hàng ngày]]

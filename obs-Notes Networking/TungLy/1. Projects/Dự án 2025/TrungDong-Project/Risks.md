@@ -15,6 +15,8 @@ Project:
 
 ## Giai đoạn 1: Training đánh giá
 - Rủi ro: 
+	- không kịp ngày 22/01 hoàn thành tất cả 10 task 
+	- Nguyên nhân: đến ngày 18/1 PE và BA mới chốt và tiến hành phân tích đến hết 18/1
 - Ứng phó: 
 
 
