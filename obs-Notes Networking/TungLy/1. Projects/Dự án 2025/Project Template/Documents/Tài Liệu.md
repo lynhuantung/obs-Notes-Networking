@@ -6,5 +6,6 @@ time: 15:39
 Week: "02"
 tags:
   - daily
-Project: []
+Project: "[[Dự án Mẫu]]"
+Liên kết:
 ---

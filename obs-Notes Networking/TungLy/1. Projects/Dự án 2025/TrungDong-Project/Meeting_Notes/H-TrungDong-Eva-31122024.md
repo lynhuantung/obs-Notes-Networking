@@ -12,8 +12,8 @@ members:
   - minh.nguyenvan
 Related: "[[0.H-TrungDong]]"
 Link: https://amisapp.misa.vn/task/project?Type=3&ProjectID=85346&DepartmentID=62436
-Project:
-  - "[[Dự án TrungDong]]"
+Project: "[[Dự án TrungDong]]"
+Liên kết:
 ---
 ## Biên bản họp: 31/12/2024
 - Mã cuộc họp: **H-TrungDong-Eva-31122024**

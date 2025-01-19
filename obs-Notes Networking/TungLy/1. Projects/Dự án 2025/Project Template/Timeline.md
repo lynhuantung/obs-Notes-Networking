@@ -6,6 +6,9 @@ time: 06:40
 Week: "02"
 tags:
   - "#timeline"
+Project: "[[Dự án Mẫu]]"
+Liên kết:
+  - "[[TungLy/1. Projects/Dự án 2025/Project Template/Meeting_Notes/Meeting_Notes]]"
 ---
 # Timeline Dự Án: Phát triển Hệ Thống Quản Lý Nhân Sự
 
@@ -53,8 +56,4 @@ tags:
 | 15/03/2025  | Kiểm thử chức năng đạt 100%            | Giai đoạn 3: Kiểm thử     | Trần Thị B        |
 | 31/03/2025  | Hoàn tất đào tạo người dùng            | Giai đoạn 4: Triển khai   | Lê Hoàng C        |
 
----
 
-
-# Liên kết:
-- [[TungLy/1. Projects/Dự án 2025/Project Template/Meeting_Notes/Meeting_Notes]]

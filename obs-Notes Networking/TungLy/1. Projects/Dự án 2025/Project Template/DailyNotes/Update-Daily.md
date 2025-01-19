@@ -6,6 +6,8 @@ time: 06:40
 Week: "02"
 tags:
   - daily
+Project: "[[Dự án Mẫu]]"
+Liên kết:
 ---
 # 03/01/2025
 ---

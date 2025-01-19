@@ -5,9 +5,9 @@ tags:
   - "#chi-huy-du-an"
   - "#truong-du-an"
 date: 2025-01-02
-Project:
-  - "[[Dự án TrungDong]]"
+Project: "[[Dự án TrungDong]]"
 Giai Đoạn: "[[TungLy/1. Projects/Dự án 2025/TrungDong-Project/Phases/Phase2-Training/Phase2-Training|Phase2-Training]]"
+Liên kết:
 ---
 # Bảo hiểm
 ## Lương bảo hiểm xã  => done

@@ -6,8 +6,10 @@ time: 06:40
 Week: "02"
 tags:
   - "#project"
-Project:
-  - "[[Dự án TrungDong]]"
+Project: "[[Dự án TrungDong]]"
+Liên kết:
+  - "[[TungLy/1. Projects/Dự án 2025/TrungDong-Project/Scope|Phạm vi dự án]]"
+  - "[[TungLy/1. Projects/Dự án 2025/TrungDong-Project/Evaluation|Đánh giá sau dự án]]"
 ---
 # Mục tiêu dự án
 
@@ -20,6 +22,4 @@ Project:
 - [ ] Hoàn thành xử lý  2 task nhân tài
 - [x] Hoàn thành 1 task bảo hiểm
 
-**Liên kết:**  
-- [[TungLy/1. Projects/Dự án 2025/TrungDong-Project/Scope|Phạm vi dự án]]
-- [[TungLy/1. Projects/Dự án 2025/TrungDong-Project/Evaluation|Đánh giá sau dự án]]
+

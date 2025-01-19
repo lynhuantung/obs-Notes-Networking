@@ -9,8 +9,7 @@ tags:
 Liên kết:
   - "[[TungLy/1. Projects/Dự án 2025/TrungDong-Project/Resources|Nguồn lực dự án]]"
   - "[[TungLy/1. Projects/Dự án 2025/TrungDong-Project/Goals|Mục tiêu dự án]]"
-Project:
-  - "[[Dự án TrungDong]]"
+Project: "[[Dự án TrungDong]]"
 ---
 # Phạm vi dự án
 

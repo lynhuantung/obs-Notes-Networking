@@ -11,8 +11,7 @@ phase:
 Liên kết:
   - "[[H-TrungDong-Eva-06012025]]"
   - "[[TungLy/1. Projects/Dự án 2025/TrungDong-Project/Resources|Resources]]"
-Project:
-  - "[[Dự án TrungDong]]"
+Project: "[[Dự án TrungDong]]"
 ---
 # Giai đoạn 1: Triển khai đánh giá
 

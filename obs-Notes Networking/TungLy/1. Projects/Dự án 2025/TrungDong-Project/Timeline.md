@@ -7,8 +7,8 @@ time: 06:40
 Week: "02"
 tags:
   - "#timeline"
-Project:
-  - "[[Dự án TrungDong]]"
+Project: "[[Dự án TrungDong]]"
+Liên kết:
 ---
 # Timeline Dự Án: Phát triển Hệ Thống Quản Lý Nhân Sự
 

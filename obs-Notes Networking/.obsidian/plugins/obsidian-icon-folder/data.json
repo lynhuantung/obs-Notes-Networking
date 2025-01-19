@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasBahai",
-      "Fas0",
-      "RiBook3Fill",
-      "RiQuillPenFill",
-      "IbTarget"
+      "LiAtom",
+      "LiBackpack",
+      "🗯",
+      "LiArmchair",
+      "LiBaby"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,5 +38,14 @@
   "Demo Vault 2/3. ARCHIEVED": "FasBoxArchive",
   "Demo Vault 2/2. RESOURCE": "FasTruck",
   "Demo Vault 2/1. PROJECT": "IbTarget",
-  "Hướng dẫn sử dụng.md": "RiBook3Fill"
+  "Hướng dẫn sử dụng.md": "RiBook3Fill",
+  "TungLy/0. Daily": "LiAlarmCheck",
+  "TungLy/1. Projects": "LiAlignVerticalJustifyCenter",
+  "TungLy/2. RESOURCE": "LiAlbum",
+  "TungLy/3. ARCHIEVED": "LiAnchor",
+  "TungLy/4. VISUAL NOTES": "LiBaby",
+  "TungLy/Area": "LiArmchair",
+  "TungLy/1. Projects/Nguồn lực": "🗯",
+  "TungLy/1. Projects/Dự án 2025": "LiBackpack",
+  "TungLy/1. Projects/Chỉ Huy dự án": "LiAtom"
 }

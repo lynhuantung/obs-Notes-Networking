@@ -6,8 +6,10 @@ time: 06:40
 Week: "02"
 tags:
   - "#project"
-Project:
-  - "[[Dự án TrungDong]]"
+Project: "[[Dự án TrungDong]]"
+Liên kết:
+  - "[[TungLy/1. Projects/Dự án 2025/TrungDong-Project/Scope|Phạm vi dự án]]"
+  - "[[TungLy/1. Projects/Dự án 2025/TrungDong-Project/Phases/Phase2-Training/Phase2-Training|Giai đoạn Training]]"
 ---
 # Nguồn lực dự án
 
@@ -19,7 +21,3 @@ Project:
 | [[Ngoc.Nong\|Nông Quốc Ngọc]]       | Lập trình viên (chính) | các dự án khác (TVC, PEWVN, Terumo)       | Xử lý phân hệ bảo hiểm và nhân tài | 75%                |
 | [[Hai.NguyenNgoc\|Nguyễn Ngọc Hải]] | Lập trình viên (chính) | các dự án khác (VCBs, LTP)                | phân hệ đánh giá                   | 50%                |
 
-
-**Liên kết:**  
-- [[TungLy/1. Projects/Dự án 2025/TrungDong-Project/Scope|Phạm vi dự án]]
-- [[TungLy/1. Projects/Dự án 2025/TrungDong-Project/Phases/Phase2-Training/Phase2-Training|Giai đoạn Training]]

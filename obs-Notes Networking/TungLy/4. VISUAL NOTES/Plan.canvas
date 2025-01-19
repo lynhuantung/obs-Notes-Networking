@@ -1,368 +1,51 @@
 {
-  "nodes": [
-    {
-      "id": "4f7c278afa34c54f",
-      "type": "group",
-      "x": -400,
-      "y": -320,
-      "width": 1060,
-      "height": 503,
-      "label": "Plan"
-    },
-    {
-      "id": "4dc2864bcfeb08eb",
-      "type": "group",
-      "x": 230,
-      "y": -700,
-      "width": 410,
-      "height": 320,
-      "label": "Daily"
-    },
-    {
-      "id": "bf19c36826d64a7c",
-      "type": "group",
-      "x": 230,
-      "y": -240,
-      "width": 430,
-      "height": 222,
-      "label": "MicroService"
-    },
-    {
-      "id": "fffa4ec47471ce9f",
-      "type": "text",
-      "text": "Check link",
-      "x": 250,
-      "y": -620,
-      "width": 142,
-      "height": 53
-    },
-    {
-      "id": "e2279ce39395c468",
-      "type": "text",
-      "text": "Hỗ trợ team",
-      "x": 250,
-      "y": -540,
-      "width": 167,
-      "height": 50
-    },
-    {
-      "id": "76521b20790f0a02",
-      "type": "text",
-      "text": "INS",
-      "x": 479,
-      "y": -594,
-      "width": 97,
-      "height": 60
-    },
-    {
-      "id": "3494b19f4a64866f",
-      "type": "text",
-      "text": "HRE",
-      "x": 479,
-      "y": -515,
-      "width": 115,
-      "height": 60
-    },
-    {
-      "id": "d41dd24b4127dba8",
-      "type": "text",
-      "text": "PE/CS",
-      "x": 463,
-      "y": -680,
-      "width": 130,
-      "height": 60
-    },
-    {
-      "id": "d4fa4c44e465842d",
-      "type": "text",
-      "text": "Working",
-      "shape": "circle",
-      "x": -380,
-      "y": -160,
-      "width": 133,
-      "height": 80
-    },
-    {
-      "id": "99e08265eb77a22b",
-      "type": "text",
-      "text": "Weekly",
-      "shape": "circle",
-      "x": -160,
-      "y": -200,
-      "width": 120,
-      "height": 80
-    },
-    {
-      "id": "f2e45cf221c1a6ec",
-      "type": "text",
-      "text": "Kế Hoạch",
-      "shape": "circle",
-      "x": -380,
-      "y": 68,
-      "width": 133,
-      "height": 53,
-      "color": "3"
-    },
-    {
-      "id": "669dcd9cf1c8a660",
-      "type": "text",
-      "text": "daily meeting",
-      "x": 250,
-      "y": -460,
-      "width": 170,
-      "height": 60
-    },
-    {
-      "id": "841e917f156476d0",
-      "type": "text",
-      "text": "Monthly",
-      "shape": "circle",
-      "x": -157,
-      "y": -80,
-      "width": 137,
-      "height": 75
-    },
-    {
-      "id": "aa9f5466c3b44b50",
-      "type": "text",
-      "text": "Thiện",
-      "x": 44,
-      "y": 8,
-      "width": 106,
-      "height": 60
-    },
-    {
-      "id": "e2192b6abeadd46e",
-      "type": "text",
-      "text": "daily",
-      "shape": "circle",
-      "x": -157,
-      "y": -300,
-      "width": 117,
-      "height": 60
-    },
-    {
-      "id": "78f16fe053a7b12c",
-      "type": "text",
-      "text": "Training",
-      "shape": "circle",
-      "x": -180,
-      "y": 58,
-      "width": 140,
-      "height": 75
-    },
-    {
-      "id": "a4ee007831d61607",
-      "type": "text",
-      "text": "Tân",
-      "x": 49,
-      "y": 103,
-      "width": 96,
-      "height": 60
-    },
-    {
-      "id": "fa1e7350fc76151a",
-      "type": "text",
-      "text": "Angular",
-      "x": 512,
-      "y": -112,
-      "width": 128,
-      "height": 60
-    },
-    {
-      "id": "d20a693e4032192f",
-      "type": "text",
-      "text": "auto test",
-      "x": 397,
-      "y": -5,
-      "width": 140,
-      "height": 50
-    },
-    {
-      "id": "a0eb13070f587c7d",
-      "type": "text",
-      "text": "Sonar",
-      "x": 517,
-      "y": 58,
-      "width": 119,
-      "height": 60
-    },
-    {
-      "id": "daaa3cf727db26fe",
-      "type": "text",
-      "text": "MIcro Service",
-      "x": 250,
-      "y": -98,
-      "width": 177,
-      "height": 60
-    },
-    {
-      "id": "eb58e65dc503b19b",
-      "type": "text",
-      "text": "HRM10",
-      "x": 339,
-      "y": 96,
-      "width": 138,
-      "height": 60
-    },
-    {
-      "id": "04ab2af55dc8d7b0",
-      "type": "text",
-      "text": "API",
-      "x": 512,
-      "y": -220,
-      "width": 89,
-      "height": 60
-    }
-  ],
-  "edges": [
-    {
-      "id": "f42fb29591168b15",
-      "fromNode": "f2e45cf221c1a6ec",
-      "fromSide": "top",
-      "toNode": "d4fa4c44e465842d",
-      "toSide": "bottom"
-    },
-    {
-      "id": "914d096b35f2daa5",
-      "fromNode": "d4fa4c44e465842d",
-      "fromSide": "right",
-      "toNode": "e2192b6abeadd46e",
-      "toSide": "left"
-    },
-    {
-      "id": "6d6fb4ff1fe8972b",
-      "fromNode": "d4fa4c44e465842d",
-      "fromSide": "right",
-      "toNode": "99e08265eb77a22b",
-      "toSide": "left"
-    },
-    {
-      "id": "c5979caf8105dade",
-      "fromNode": "d4fa4c44e465842d",
-      "fromSide": "right",
-      "toNode": "841e917f156476d0",
-      "toSide": "left"
-    },
-    {
-      "id": "7ca35f1118693289",
-      "fromNode": "f2e45cf221c1a6ec",
-      "fromSide": "right",
-      "toNode": "78f16fe053a7b12c",
-      "toSide": "left"
-    },
-    {
-      "id": "66202eeaf5b7f620",
-      "fromNode": "78f16fe053a7b12c",
-      "fromSide": "right",
-      "toNode": "aa9f5466c3b44b50",
-      "toSide": "left"
-    },
-    {
-      "id": "e083ef553e77b97f",
-      "fromNode": "78f16fe053a7b12c",
-      "fromSide": "right",
-      "toNode": "a4ee007831d61607",
-      "toSide": "left"
-    },
-    {
-      "id": "993414d0b1c80c9e",
-      "fromNode": "aa9f5466c3b44b50",
-      "fromSide": "right",
-      "toNode": "daaa3cf727db26fe",
-      "toSide": "left"
-    },
-    {
-      "id": "f8684f3f695f80cd",
-      "fromNode": "daaa3cf727db26fe",
-      "fromSide": "right",
-      "toNode": "04ab2af55dc8d7b0",
-      "toSide": "left"
-    },
-    {
-      "id": "804569b5fea6189a",
-      "fromNode": "daaa3cf727db26fe",
-      "fromSide": "right",
-      "toNode": "fa1e7350fc76151a",
-      "toSide": "left"
-    },
-    {
-      "id": "48cd21e0961d723c",
-      "fromNode": "aa9f5466c3b44b50",
-      "fromSide": "right",
-      "toNode": "eb58e65dc503b19b",
-      "toSide": "left"
-    },
-    {
-      "id": "91d7987fe3aa77a7",
-      "fromNode": "a4ee007831d61607",
-      "fromSide": "right",
-      "toNode": "eb58e65dc503b19b",
-      "toSide": "left"
-    },
-    {
-      "id": "19a5abeed95d4123",
-      "fromNode": "a4ee007831d61607",
-      "fromSide": "right",
-      "toNode": "daaa3cf727db26fe",
-      "toSide": "bottom"
-    },
-    {
-      "id": "07bf841edfc79250",
-      "fromNode": "e2192b6abeadd46e",
-      "fromSide": "right",
-      "toNode": "fffa4ec47471ce9f",
-      "toSide": "left"
-    },
-    {
-      "id": "178be0d30eab55aa",
-      "fromNode": "e2192b6abeadd46e",
-      "fromSide": "right",
-      "toNode": "e2279ce39395c468",
-      "toSide": "left"
-    },
-    {
-      "id": "96c5e15788211fe8",
-      "fromNode": "e2192b6abeadd46e",
-      "fromSide": "right",
-      "toNode": "669dcd9cf1c8a660",
-      "toSide": "left"
-    },
-    {
-      "id": "f4cffa48f23914b6",
-      "fromNode": "a4ee007831d61607",
-      "fromSide": "right",
-      "toNode": "d20a693e4032192f",
-      "toSide": "left"
-    },
-    {
-      "id": "71bca2822abd9962",
-      "fromNode": "e2279ce39395c468",
-      "fromSide": "right",
-      "toNode": "76521b20790f0a02",
-      "toSide": "left"
-    },
-    {
-      "id": "c2cf7700575bdf44",
-      "fromNode": "e2279ce39395c468",
-      "fromSide": "right",
-      "toNode": "3494b19f4a64866f",
-      "toSide": "left"
-    },
-    {
-      "id": "1cac633bdd26df5c",
-      "fromNode": "fffa4ec47471ce9f",
-      "fromSide": "right",
-      "toNode": "d41dd24b4127dba8",
-      "toSide": "left"
-    },
-    {
-      "id": "8faeaedd99e42612",
-      "fromNode": "aa9f5466c3b44b50",
-      "fromSide": "right",
-      "toNode": "a0eb13070f587c7d",
-      "toSide": "left"
-    }
-  ],
-  "metadata": {}
+	"nodes":[
+		{"id":"4f7c278afa34c54f","type":"group","x":-400,"y":-320,"width":1060,"height":503,"label":"Plan"},
+		{"id":"4dc2864bcfeb08eb","type":"group","x":230,"y":-700,"width":410,"height":320,"label":"Daily"},
+		{"id":"bf19c36826d64a7c","type":"group","x":230,"y":-240,"width":430,"height":222,"label":"MicroService"},
+		{"id":"fffa4ec47471ce9f","type":"text","text":"Check link","x":250,"y":-620,"width":142,"height":53},
+		{"id":"e2279ce39395c468","type":"text","text":"Hỗ trợ team","x":250,"y":-540,"width":167,"height":50},
+		{"id":"76521b20790f0a02","type":"text","text":"INS","x":479,"y":-594,"width":97,"height":60},
+		{"id":"3494b19f4a64866f","type":"text","text":"HRE","x":479,"y":-515,"width":115,"height":60},
+		{"id":"d41dd24b4127dba8","type":"text","text":"PE/CS","x":463,"y":-680,"width":130,"height":60},
+		{"id":"d4fa4c44e465842d","type":"text","text":"Working","shape":"circle","x":-380,"y":-160,"width":133,"height":80},
+		{"id":"99e08265eb77a22b","type":"text","text":"Weekly","shape":"circle","x":-160,"y":-200,"width":120,"height":80},
+		{"id":"f2e45cf221c1a6ec","type":"text","text":"Kế Hoạch","shape":"circle","x":-380,"y":68,"width":133,"height":53,"color":"3"},
+		{"id":"669dcd9cf1c8a660","type":"text","text":"daily meeting","x":250,"y":-460,"width":170,"height":60},
+		{"id":"841e917f156476d0","type":"text","text":"Monthly","shape":"circle","x":-157,"y":-80,"width":137,"height":75},
+		{"id":"aa9f5466c3b44b50","type":"text","text":"Thiện","x":44,"y":8,"width":106,"height":60},
+		{"id":"e2192b6abeadd46e","type":"text","text":"daily","shape":"circle","x":-157,"y":-300,"width":117,"height":60},
+		{"id":"78f16fe053a7b12c","type":"text","text":"Training","shape":"circle","x":-180,"y":58,"width":140,"height":75},
+		{"id":"a4ee007831d61607","type":"text","text":"Tân","x":49,"y":103,"width":96,"height":60},
+		{"id":"fa1e7350fc76151a","type":"text","text":"Angular","x":512,"y":-112,"width":128,"height":60},
+		{"id":"d20a693e4032192f","type":"text","text":"auto test","x":397,"y":-5,"width":140,"height":50},
+		{"id":"a0eb13070f587c7d","type":"text","text":"Sonar","x":517,"y":58,"width":119,"height":60},
+		{"id":"daaa3cf727db26fe","type":"text","text":"MIcro Service","x":250,"y":-98,"width":177,"height":60},
+		{"id":"eb58e65dc503b19b","type":"text","text":"HRM10","x":339,"y":96,"width":138,"height":60},
+		{"id":"04ab2af55dc8d7b0","type":"text","text":"API","x":512,"y":-220,"width":89,"height":60}
+	],
+	"edges":[
+		{"id":"f42fb29591168b15","fromNode":"f2e45cf221c1a6ec","fromSide":"top","toNode":"d4fa4c44e465842d","toSide":"bottom"},
+		{"id":"914d096b35f2daa5","fromNode":"d4fa4c44e465842d","fromSide":"right","toNode":"e2192b6abeadd46e","toSide":"left"},
+		{"id":"6d6fb4ff1fe8972b","fromNode":"d4fa4c44e465842d","fromSide":"right","toNode":"99e08265eb77a22b","toSide":"left"},
+		{"id":"c5979caf8105dade","fromNode":"d4fa4c44e465842d","fromSide":"right","toNode":"841e917f156476d0","toSide":"left"},
+		{"id":"7ca35f1118693289","fromNode":"f2e45cf221c1a6ec","fromSide":"right","toNode":"78f16fe053a7b12c","toSide":"left"},
+		{"id":"66202eeaf5b7f620","fromNode":"78f16fe053a7b12c","fromSide":"right","toNode":"aa9f5466c3b44b50","toSide":"left"},
+		{"id":"e083ef553e77b97f","fromNode":"78f16fe053a7b12c","fromSide":"right","toNode":"a4ee007831d61607","toSide":"left"},
+		{"id":"993414d0b1c80c9e","fromNode":"aa9f5466c3b44b50","fromSide":"right","toNode":"daaa3cf727db26fe","toSide":"left"},
+		{"id":"f8684f3f695f80cd","fromNode":"daaa3cf727db26fe","fromSide":"right","toNode":"04ab2af55dc8d7b0","toSide":"left"},
+		{"id":"804569b5fea6189a","fromNode":"daaa3cf727db26fe","fromSide":"right","toNode":"fa1e7350fc76151a","toSide":"left"},
+		{"id":"48cd21e0961d723c","fromNode":"aa9f5466c3b44b50","fromSide":"right","toNode":"eb58e65dc503b19b","toSide":"left"},
+		{"id":"91d7987fe3aa77a7","fromNode":"a4ee007831d61607","fromSide":"right","toNode":"eb58e65dc503b19b","toSide":"left"},
+		{"id":"19a5abeed95d4123","fromNode":"a4ee007831d61607","fromSide":"right","toNode":"daaa3cf727db26fe","toSide":"bottom"},
+		{"id":"07bf841edfc79250","fromNode":"e2192b6abeadd46e","fromSide":"right","toNode":"fffa4ec47471ce9f","toSide":"left"},
+		{"id":"178be0d30eab55aa","fromNode":"e2192b6abeadd46e","fromSide":"right","toNode":"e2279ce39395c468","toSide":"left"},
+		{"id":"96c5e15788211fe8","fromNode":"e2192b6abeadd46e","fromSide":"right","toNode":"669dcd9cf1c8a660","toSide":"left"},
+		{"id":"f4cffa48f23914b6","fromNode":"a4ee007831d61607","fromSide":"right","toNode":"d20a693e4032192f","toSide":"left"},
+		{"id":"71bca2822abd9962","fromNode":"e2279ce39395c468","fromSide":"right","toNode":"76521b20790f0a02","toSide":"left"},
+		{"id":"c2cf7700575bdf44","fromNode":"e2279ce39395c468","fromSide":"right","toNode":"3494b19f4a64866f","toSide":"left"},
+		{"id":"1cac633bdd26df5c","fromNode":"fffa4ec47471ce9f","fromSide":"right","toNode":"d41dd24b4127dba8","toSide":"left"},
+		{"id":"8faeaedd99e42612","fromNode":"aa9f5466c3b44b50","fromSide":"right","toNode":"a0eb13070f587c7d","toSide":"left"}
+	],
+	"metadata":{}
 }

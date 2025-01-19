@@ -8,6 +8,10 @@ tags:
   - "#project"
 phase:
   - phase1
+Project: "[[Dự án Mẫu]]"
+Liên kết:
+  - "[[TungLy/1. Projects/Dự án 2025/Project Template/Meeting_Notes/Meeting_Notes|Biên bản họp]]"
+  - "[[TungLy/1. Projects/Dự án 2025/Project Template/Resources|Nguồn lực dự án]]"
 ---
 # Giai đoạn 1: Phân tích yêu cầu
 
@@ -19,7 +23,4 @@ phase:
 
 **Rủi ro:**  
 - [[TungLy/1. Projects/Dự án 2025/Project Template/Risks|Xem chi tiết rủi ro giai đoạn 1]]
-
-**Liên kết:**  
-- [[TungLy/1. Projects/Dự án 2025/Project Template/Meeting_Notes/Meeting_Notes|Biên bản họp]]
-- [[TungLy/1. Projects/Dự án 2025/Project Template/Resources|Nguồn lực dự án]]
+ 

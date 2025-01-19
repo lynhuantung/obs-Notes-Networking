@@ -1,155 +1,25 @@
 {
-  "nodes": [
-    {
-      "id": "391b8d00c6b731f8",
-      "type": "group",
-      "x": 160,
-      "y": -380,
-      "width": 910,
-      "height": 583,
-      "label": "Plan"
-    },
-    {
-      "id": "f2e45cf221c1a6ec",
-      "type": "text",
-      "text": "Kế Hoạch",
-      "shape": "centered-rectangle",
-      "x": 180,
-      "y": -47,
-      "width": 140,
-      "height": 63,
-      "color": "3"
-    },
-    {
-      "id": "61781bba635a7a22",
-      "type": "text",
-      "text": "Nguồn",
-      "x": 229,
-      "y": -248,
-      "width": 121,
-      "height": 60
-    },
-    {
-      "id": "e1fe97edc45e7851",
-      "type": "text",
-      "text": "Dự án - Tài liệu chuẩn",
-      "x": 360,
-      "y": -66,
-      "width": 220,
-      "height": 60
-    },
-    {
-      "id": "93316732b47d0b01",
-      "type": "text",
-      "text": "Docs.VnResource.Net",
-      "x": 428,
-      "y": -360,
-      "width": 222,
-      "height": 60
-    },
-    {
-      "id": "a696a6baed9ec2a4",
-      "type": "text",
-      "text": "Tài liệu hướng dẫn portal",
-      "x": 629,
-      "y": -142,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "46d5d66e5a2eb2c6",
-      "type": "text",
-      "text": "Nhật ký vấn đề",
-      "x": 671,
-      "y": 40,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "b04af47931d08e6f",
-      "type": "text",
-      "text": "Tài liệu R&D",
-      "x": 685,
-      "y": -44,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "b36e819cdaa68474",
-      "type": "text",
-      "text": "Bảo mật",
-      "x": 703,
-      "y": 123,
-      "width": 186,
-      "height": 60
-    },
-    {
-      "id": "b85a51c58cb33619",
-      "type": "text",
-      "text": "LDAP",
-      "x": 945,
-      "y": 123,
-      "width": 105,
-      "height": 60
-    }
-  ],
-  "edges": [
-    {
-      "id": "bf7b7a0ccaf5fdb8",
-      "fromNode": "f2e45cf221c1a6ec",
-      "fromSide": "top",
-      "toNode": "61781bba635a7a22",
-      "toSide": "bottom"
-    },
-    {
-      "id": "bed253c352b59dd0",
-      "fromNode": "61781bba635a7a22",
-      "fromSide": "right",
-      "toNode": "93316732b47d0b01",
-      "toSide": "left"
-    },
-    {
-      "id": "88475ed45d55b5f9",
-      "fromNode": "f2e45cf221c1a6ec",
-      "fromSide": "right",
-      "toNode": "e1fe97edc45e7851",
-      "toSide": "left"
-    },
-    {
-      "id": "fd2733cb07386607",
-      "fromNode": "e1fe97edc45e7851",
-      "fromSide": "right",
-      "toNode": "a696a6baed9ec2a4",
-      "toSide": "left"
-    },
-    {
-      "id": "5146a8ca78160f2b",
-      "fromNode": "e1fe97edc45e7851",
-      "fromSide": "right",
-      "toNode": "b04af47931d08e6f",
-      "toSide": "left"
-    },
-    {
-      "id": "92f10820c3cb5e4a",
-      "fromNode": "e1fe97edc45e7851",
-      "fromSide": "right",
-      "toNode": "46d5d66e5a2eb2c6",
-      "toSide": "left"
-    },
-    {
-      "id": "a7b183f5c88c212c",
-      "fromNode": "e1fe97edc45e7851",
-      "fromSide": "right",
-      "toNode": "b36e819cdaa68474",
-      "toSide": "left"
-    },
-    {
-      "id": "24007cc4900f1147",
-      "fromNode": "b36e819cdaa68474",
-      "fromSide": "right",
-      "toNode": "b85a51c58cb33619",
-      "toSide": "left"
-    }
-  ],
-  "metadata": {}
+	"nodes":[
+		{"id":"391b8d00c6b731f8","type":"group","x":160,"y":-380,"width":910,"height":583,"label":"Plan"},
+		{"id":"f2e45cf221c1a6ec","type":"text","text":"Kế Hoạch","shape":"centered-rectangle","x":180,"y":-47,"width":140,"height":63,"color":"3"},
+		{"id":"61781bba635a7a22","type":"text","text":"Nguồn","x":229,"y":-248,"width":121,"height":60},
+		{"id":"e1fe97edc45e7851","type":"text","text":"Dự án - Tài liệu chuẩn","x":360,"y":-66,"width":220,"height":60},
+		{"id":"93316732b47d0b01","type":"text","text":"Docs.VnResource.Net","x":428,"y":-360,"width":222,"height":60},
+		{"id":"a696a6baed9ec2a4","type":"text","text":"Tài liệu hướng dẫn portal","x":629,"y":-142,"width":260,"height":60},
+		{"id":"46d5d66e5a2eb2c6","type":"text","text":"Nhật ký vấn đề","x":671,"y":40,"width":260,"height":60},
+		{"id":"b04af47931d08e6f","type":"text","text":"Tài liệu R&D","x":685,"y":-44,"width":260,"height":60},
+		{"id":"b36e819cdaa68474","type":"text","text":"Bảo mật","x":703,"y":123,"width":186,"height":60},
+		{"id":"b85a51c58cb33619","type":"text","text":"LDAP","x":945,"y":123,"width":105,"height":60}
+	],
+	"edges":[
+		{"id":"bf7b7a0ccaf5fdb8","fromNode":"f2e45cf221c1a6ec","fromSide":"top","toNode":"61781bba635a7a22","toSide":"bottom"},
+		{"id":"bed253c352b59dd0","fromNode":"61781bba635a7a22","fromSide":"right","toNode":"93316732b47d0b01","toSide":"left"},
+		{"id":"88475ed45d55b5f9","fromNode":"f2e45cf221c1a6ec","fromSide":"right","toNode":"e1fe97edc45e7851","toSide":"left"},
+		{"id":"fd2733cb07386607","fromNode":"e1fe97edc45e7851","fromSide":"right","toNode":"a696a6baed9ec2a4","toSide":"left"},
+		{"id":"5146a8ca78160f2b","fromNode":"e1fe97edc45e7851","fromSide":"right","toNode":"b04af47931d08e6f","toSide":"left"},
+		{"id":"92f10820c3cb5e4a","fromNode":"e1fe97edc45e7851","fromSide":"right","toNode":"46d5d66e5a2eb2c6","toSide":"left"},
+		{"id":"a7b183f5c88c212c","fromNode":"e1fe97edc45e7851","fromSide":"right","toNode":"b36e819cdaa68474","toSide":"left"},
+		{"id":"24007cc4900f1147","fromNode":"b36e819cdaa68474","fromSide":"right","toNode":"b85a51c58cb33619","toSide":"left"}
+	],
+	"metadata":{}
 }

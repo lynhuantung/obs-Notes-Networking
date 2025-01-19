@@ -9,8 +9,8 @@ members:
   - tungly
 Related: "[[0.H-]]"
 Link: 
-Project:
-  - "[[Dự án]]"
+Liên kết: 
+Project: "[[Dự án Mẫu]]"
 ---
 
 ## Biên bản họp: 06-01-2025

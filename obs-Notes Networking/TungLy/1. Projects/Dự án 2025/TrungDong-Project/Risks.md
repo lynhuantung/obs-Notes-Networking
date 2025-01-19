@@ -8,8 +8,7 @@ tags:
   - "#project"
 Liên kết:
   - "[[TungLy/1. Projects/Dự án 2025/TrungDong-Project/Phases/Phase2-Training/Phase2-Training|Giai đoạn Training]]"
-Project:
-  - "[[Dự án TrungDong]]"
+Project: "[[Dự án TrungDong]]"
 ---
 # Rủi ro theo giai đoạn
 

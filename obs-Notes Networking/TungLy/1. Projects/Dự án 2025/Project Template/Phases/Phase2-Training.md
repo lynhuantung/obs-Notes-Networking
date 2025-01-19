@@ -8,4 +8,6 @@ tags:
   - "#project"
 phase:
   - phase2
+Project: "[[Dự án Mẫu]]"
+Liên kết:
 ---

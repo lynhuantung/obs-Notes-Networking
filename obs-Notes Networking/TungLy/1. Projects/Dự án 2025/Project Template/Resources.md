@@ -6,6 +6,10 @@ time: 06:40
 Week: "02"
 tags:
   - "#project"
+Project: "[[Dự án Mẫu]]"
+Liên kết:
+  - "[[TungLy/1. Projects/Dự án 2025/Project Template/Scope|Phạm vi dự án]]"
+  - "[[TungLy/1. Projects/Dự án 2025/Project Template/Phases/Phase1-Requirement_Analysis|Giai đoạn 1]]"
 ---
 # Nguồn lực dự án
 
@@ -17,7 +21,3 @@ tags:
 
 ## Ngân sách
 - Tổng chi phí: 500 triệu VNĐ.
-
-**Liên kết:**  
-- [[TungLy/1. Projects/Dự án 2025/Project Template/Scope|Phạm vi dự án]]
-- [[TungLy/1. Projects/Dự án 2025/Project Template/Phases/Phase1-Requirement_Analysis|Giai đoạn 1]]

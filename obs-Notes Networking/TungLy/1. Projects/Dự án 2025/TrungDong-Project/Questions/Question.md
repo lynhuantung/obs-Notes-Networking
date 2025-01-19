@@ -6,6 +6,8 @@ tags:
   - đề]
   - "#faq"
 date: 2025-01-18
+Project: "[[Dự án TrungDong]]"
+Liên kết:
 ---
 ### 1️⃣ **Mục tiêu chính của dự án là gì?**
 

@@ -5,7 +5,7 @@
     "tags": "tags",
     "date": "date",
     "members": "multitext",
-    "Project": "multitext",
+    "Project": "text",
     "Nhóm": "multitext",
     "Type": "multitext",
     "Ngày phỏng vấn": "date",

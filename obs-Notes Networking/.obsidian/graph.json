@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:\"TungLy/1. Projects/Dự án 2025/TrungDong-Project/\" ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -43,9 +43,9 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -1.1,
   "nodeSizeMultiplier": 1.45260416666667,
   "lineSizeMultiplier": 0.380729166666667,
   "collapse-forces": false,
@@ -53,6 +53,6 @@
   "repelStrength": 8.48958333333333,
   "linkStrength": 0,
   "linkDistance": 416,
-  "scale": 0.49630914765241657,
+  "scale": 0.6958169370185222,
   "close": true
 }

@@ -6,6 +6,10 @@ time: 06:40
 Week: "02"
 tags:
   - "#project"
+Project: "[[Dự án Mẫu]]"
+Liên kết:
+  - "[[TungLy/1. Projects/Dự án 2025/Project Template/Scope|Phạm vi dự án]]"
+  - "[[TungLy/1. Projects/Dự án 2025/Project Template/Evaluation|Đánh giá sau dự án]]"
 ---
 # Mục tiêu dự án
 
@@ -16,6 +20,3 @@ tags:
 - Tăng tốc độ xử lý dữ liệu dưới 2 giây.
 - Đảm bảo hệ thống hoạt động ổn định với 200 người dùng đồng thời.
 
-**Liên kết:**  
-- [[TungLy/1. Projects/Dự án 2025/Project Template/Scope|Phạm vi dự án]]
-- [[TungLy/1. Projects/Dự án 2025/Project Template/Evaluation|Đánh giá sau dự án]]
