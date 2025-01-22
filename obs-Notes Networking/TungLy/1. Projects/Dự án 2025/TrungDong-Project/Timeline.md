@@ -31,10 +31,10 @@ Liên kết:
 ---
 
 ## Milestone quan trọng
-| Ngày       | Milestone               | Giai đoạn                        | Phụ trách |
-| ---------- | ----------------------- | -------------------------------- | --------- |
-| 22/01/2025 | Đội kỹ thuật hoàn thành | Giai đoạn 2: training khách hàng | Tung.Ly   |
-| 10/02/2025 | Training khách hàng     | Giai đoạn 2: training khách hàng | Tung.Ly   |
+| Ngày       | Milestone                 | Giai đoạn                        | Phụ trách |
+| ---------- | ------------------------- | -------------------------------- | --------- |
+| 22/01/2025 | Đội kỹ thuật hoàn thành   | Giai đoạn 2: training khách hàng | Tung.Ly   |
+| 10/02/2025 | PE đi training khách hàng | Giai đoạn 2: training khách hàng | Tung.Ly   |
 
 
 ---

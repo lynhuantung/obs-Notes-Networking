@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TungLy/1. Projects/Dự án 2025/Project Template/Risks.md",
+                "file": "TungLy/1. Projects/Chỉ Huy dự án/INOAC-Project/INOAC-Vấn đề lỗi redis.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Risks"
+              "title": "INOAC-Vấn đề lỗi redis"
             }
           }
         ],
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"TungLy/1. Projects/Dự án 2025/TrungDong-Project/\" ",
+                "query": "Giữa Portal HongNgoc Cũ và Mới",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TungLy/1. Projects/Dự án 2025/Project Template/Risks.md",
+                "file": "TungLy/1. Projects/Chỉ Huy dự án/INOAC-Project/INOAC-Vấn đề lỗi redis.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -116,7 +116,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Risks"
+              "title": "Graph of INOAC-Vấn đề lỗi redis"
             }
           },
           {
@@ -156,8 +156,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -334,7 +333,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TungLy/3. ARCHIEVED/Danh sách dự án/Dự án FIT.md",
+                "file": "TungLy/1. Projects/Chỉ Huy dự án/INOAC-Project/INOAC-Vấn đề lỗi redis.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -362,7 +361,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Dự án FIT"
+              "title": "Graph of INOAC-Vấn đề lỗi redis"
             }
           }
         ]
@@ -389,7 +388,7 @@
               "type": "mindmap",
               "state": {},
               "icon": "dot-network",
-              "title": "Mind Map of Dự án FIT"
+              "title": "Mind Map of INOAC-Vấn đề lỗi redis"
             }
           }
         ],
@@ -397,8 +396,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 518.5,
-    "collapsed": true
+    "width": 518.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -415,40 +413,41 @@
       "gemini-assistant:New Gemini chat": false,
       "templater-obsidian:Templater": false,
       "obsidian-review-notes-plugin:View Recent Notes": false,
+      "smart-random-note:Open Random Note from Search": false,
       "periodic-notes:Open today": false,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false,
-      "smart-random-note:Open Random Note from Search": false
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "fd5dedb45876ad9f",
   "lastOpenFiles": [
+    "TungLy/1. Projects/Chỉ Huy dự án/INOAC-Project/INOAC-Vấn đề lỗi.md",
+    "TungLy/1. Projects/Chỉ Huy dự án/INOAC-Project/INOAC-Vấn đề lỗi redis.md",
+    "TungLy/0. Daily/2025-Jan-3/Mon-2025-01-13 112459.md",
+    "TungLy/0. Daily/2025-Jan-3/Tài liệu hướng dẫn khắc phục vấn đề chậm hệ thống.md",
+    "TungLy/0. Daily/2025-Jan-3/So sánh CONFLUENCE (JIRA) Vs  WIKI.JS.md",
+    "TungLy/0. Daily/2025-Jan-3/Thu-2025-01-16 044154.md",
+    "TungLy/1. Projects/Dự án 2025/HongNgoc-Project/Tài liệu xử lý đánh giá Hồng Ngọc.md",
+    "TungLy/1. Projects/Dự án 2025/HongNgoc-Project/Cấu hình SSO dự án Hồng Ngọc.md",
+    "TungLy/1. Projects/Dự án 2025/HongNgoc-Project/HongNgoc-Project 1.md",
+    "TungLy/1. Projects/Dự án 2025/HongNgoc-Project/HongNgoc-Project.md",
+    "TungLy/1. Projects/Chỉ Huy dự án/INOAC-Project/INOAC-Project.md",
+    "TungLy/0. Daily/2025-Jan-4/Mon-2025-01-20 091105.md",
+    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/ProjectMOC.md",
+    "TungLy/0. Daily/2025-Jan-4",
+    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Resources.md",
+    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Risks.md",
+    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Scope.md",
+    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Timeline.md",
+    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Evaluation.md",
+    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Goals.md",
+    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/0.Guide.md",
     "TungLy/1. Projects/Dự án 2025/Project Template/Documents/Tài Liệu.md",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Meeting_Notes/0.H-TrungDong.md",
-    "TungLy/1. Projects/Dự án 2025/Project Template/Questions/Question.md",
-    "TungLy/1. Projects/Dự án 2025/Project Template/Questions/Question - Evaluation.md",
-    "TungLy/1. Projects/Dự án 2025/Project Template/Questions/Question - Risk.md",
-    "TungLy/1. Projects/Dự án 2025/Project Template/Questions/Question -Timeline.md",
-    "TungLy/1. Projects/Dự án 2025/Project Template/Questions/Question -Scope.md",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Phases/Phase2-Training/Task-TrungDong.md",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Meeting_Notes/H-TrungDong-Eva-06012025.md",
+    "TungLy/1. Projects/Dự án 2025/Project Template/Meeting_Notes/Meeting_Notes.md",
     "TungLy/1. Projects/Dự án 2025/Project Template/Questions/Question -Tasks.md",
-    "TungLy/1. Projects/Dự án 2025/Project Template/Phases/Phase2-Training.md",
+    "TungLy/1. Projects/Dự án 2025/Project Template/Questions/Question -Timeline.md",
     "TungLy/1. Projects/Dự án 2025/Project Template/Questions/Question -Phase.md",
-    "TungLy/1. Projects/Dự án 2025/Project Template/Goals.md",
-    "TungLy/1. Projects/Dự án 2025/Project Template/Timeline.md",
-    "TungLy/3. ARCHIEVED/SaaS - VnR/xmind/Bien_Ban_Hop/Meeting_0909.md",
-    "TungLy/Area/Data-WareHouse 1/ETL-TOS/tMap.md",
-    "TungLy/3. ARCHIEVED/Working/NghiSon_Note.md",
-    "TungLy/1. Projects/Nguồn lực/Trạng thái nguồn lực/Sẵn sàng tham gia.md",
-    "TungLy/3. ARCHIEVED/Working/Kendo_Helps.md",
-    "TungLy/Area/Index/ChucNang/Thành Phần BH/chấm công.md",
-    "TungLy/3. ARCHIEVED/Dự án 2024/LTG/H-LTG-SYS-290724.md",
-    "TungLy/0. Daily/2025-Jan-3/Tài liệu xử lý đánh giá Hồng Ngọc.md",
-    "TungLy/0. Daily/2025-Jan-1/Fri-2025-01-03 113438.md",
-    "TungLy/Area/Index/Meeting/H-VCBS-FAC-290624/Chi tiết tài sản.md",
-    "TungLy/Area/Thiết lập bảo hiểm/Cấu hình chứng từ.md",
-    "TungLy/Area/Thiết lập bảo hiểm/Cấu hình thay đổi thông tin BH.md",
+    "TungLy/1. Projects/Dự án 2025/Project Template/Questions/Question - Evaluation.md",
     "TungLy/4. VISUAL NOTES/Hướng dẫn sử dụng canvas.canvas",
     "TungLy/4. VISUAL NOTES/Plan.canvas",
     "TungLy/4. VISUAL NOTES/Kế Hoạch Chuẩn Hóa Tài Liệu.canvas",
@@ -475,7 +474,6 @@
     "src/Pasted image 20250106090629.png",
     "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Phases/Phase2-Training",
     "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Phases",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Meeting_Notes",
     "TungLy/3. ARCHIEVED/SaaS - VnR/xmind/Hình ảnh/Tham khảo/Meeting_1008/Tenant_05.png",
     "TungLy-2024/4. VISUAL NOTES/Canvas/Plan.canvas",
     "TungLy-2024/4. VISUAL NOTES/Canvas/Kế Hoạch Chuẩn Hóa Tài Liệu.canvas"

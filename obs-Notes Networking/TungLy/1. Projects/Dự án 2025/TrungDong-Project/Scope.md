@@ -12,6 +12,7 @@ Liên kết:
 Project: "[[Dự án TrungDong]]"
 ---
 # Phạm vi dự án
+- Xử lý 10 task được chốt để training khách hàng
 
 ## Nội dung thực hiện
 - Phân hệ đánh giá

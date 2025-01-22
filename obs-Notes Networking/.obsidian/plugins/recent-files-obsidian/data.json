@@ -1,32 +1,116 @@
 {
   "recentFiles": [
     {
+      "basename": "INOAC-Vấn đề lỗi redis",
+      "path": "TungLy/1. Projects/Chỉ Huy dự án/INOAC-Project/INOAC-Vấn đề lỗi redis.md"
+    },
+    {
+      "basename": "INOAC-Vấn đề lỗi",
+      "path": "TungLy/1. Projects/Chỉ Huy dự án/INOAC-Project/INOAC-Vấn đề lỗi.md"
+    },
+    {
+      "basename": "Mon-2025-01-13 112459",
+      "path": "TungLy/0. Daily/2025-Jan-3/Mon-2025-01-13 112459.md"
+    },
+    {
+      "basename": "Tài liệu hướng dẫn khắc phục vấn đề chậm hệ thống",
+      "path": "TungLy/0. Daily/2025-Jan-3/Tài liệu hướng dẫn khắc phục vấn đề chậm hệ thống.md"
+    },
+    {
+      "basename": "Thu-2025-01-16 044154",
+      "path": "TungLy/0. Daily/2025-Jan-3/Thu-2025-01-16 044154.md"
+    },
+    {
+      "basename": "Tài liệu xử lý đánh giá Hồng Ngọc",
+      "path": "TungLy/1. Projects/Dự án 2025/HongNgoc-Project/Tài liệu xử lý đánh giá Hồng Ngọc.md"
+    },
+    {
+      "basename": "Cấu hình SSO dự án Hồng Ngọc",
+      "path": "TungLy/1. Projects/Dự án 2025/HongNgoc-Project/Cấu hình SSO dự án Hồng Ngọc.md"
+    },
+    {
+      "basename": "HongNgoc-Project",
+      "path": "TungLy/1. Projects/Dự án 2025/HongNgoc-Project/HongNgoc-Project.md"
+    },
+    {
+      "basename": "INOAC-Project",
+      "path": "TungLy/1. Projects/Chỉ Huy dự án/INOAC-Project/INOAC-Project.md"
+    },
+    {
+      "basename": "Mon-2025-01-20 091105",
+      "path": "TungLy/0. Daily/2025-Jan-4/Mon-2025-01-20 091105.md"
+    },
+    {
+      "basename": "ProjectMOC",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/ProjectMOC.md"
+    },
+    {
+      "basename": "Resources",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Resources.md"
+    },
+    {
       "basename": "Risks",
-      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Risks.md"
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Risks.md"
+    },
+    {
+      "basename": "Scope",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Scope.md"
+    },
+    {
+      "basename": "Timeline",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Timeline.md"
+    },
+    {
+      "basename": "Evaluation",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Evaluation.md"
+    },
+    {
+      "basename": "Goals",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Goals.md"
+    },
+    {
+      "basename": "0.Guide",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/0.Guide.md"
     },
     {
       "basename": "Tài Liệu",
       "path": "TungLy/1. Projects/Dự án 2025/Project Template/Documents/Tài Liệu.md"
     },
     {
-      "basename": "0.H-TrungDong",
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Meeting_Notes/0.H-TrungDong.md"
+      "basename": "Meeting_Notes",
+      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Meeting_Notes/Meeting_Notes.md"
     },
     {
-      "basename": "Question",
-      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Questions/Question.md"
+      "basename": "Question -Tasks",
+      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Questions/Question -Tasks.md"
+    },
+    {
+      "basename": "Question -Timeline",
+      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Questions/Question -Timeline.md"
+    },
+    {
+      "basename": "Question -Phase",
+      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Questions/Question -Phase.md"
     },
     {
       "basename": "Question - Evaluation",
       "path": "TungLy/1. Projects/Dự án 2025/Project Template/Questions/Question - Evaluation.md"
     },
     {
-      "basename": "Question - Risk",
-      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Questions/Question - Risk.md"
+      "basename": "Question",
+      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Questions/Question.md"
     },
     {
-      "basename": "Question -Timeline",
-      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Questions/Question -Timeline.md"
+      "basename": "Risks",
+      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Risks.md"
+    },
+    {
+      "basename": "0.H-TrungDong",
+      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Meeting_Notes/0.H-TrungDong.md"
+    },
+    {
+      "basename": "Question - Risk",
+      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Questions/Question - Risk.md"
     },
     {
       "basename": "Question -Scope",
@@ -41,16 +125,8 @@
       "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Meeting_Notes/H-TrungDong-Eva-06012025.md"
     },
     {
-      "basename": "Question -Tasks",
-      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Questions/Question -Tasks.md"
-    },
-    {
       "basename": "Phase2-Training",
       "path": "TungLy/1. Projects/Dự án 2025/Project Template/Phases/Phase2-Training.md"
-    },
-    {
-      "basename": "Question -Phase",
-      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Questions/Question -Phase.md"
     },
     {
       "basename": "Goals",
@@ -89,10 +165,6 @@
       "path": "TungLy/3. ARCHIEVED/Dự án 2024/LTG/H-LTG-SYS-290724.md"
     },
     {
-      "basename": "Tài liệu xử lý đánh giá Hồng Ngọc",
-      "path": "TungLy/0. Daily/2025-Jan-3/Tài liệu xử lý đánh giá Hồng Ngọc.md"
-    },
-    {
       "basename": "Fri-2025-01-03 113438",
       "path": "TungLy/0. Daily/2025-Jan-1/Fri-2025-01-03 113438.md"
     },
@@ -117,10 +189,6 @@
       "path": "TungLy/3. ARCHIEVED/Danh sách dự án/Dự án Midea.md"
     },
     {
-      "basename": "Goals",
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Goals.md"
-    },
-    {
       "basename": "0.H-HVN",
       "path": "TungLy/3. ARCHIEVED/Dự án 2024/HVN/0.H-HVN.md"
     },
@@ -131,74 +199,6 @@
     {
       "basename": "Dự án Unis",
       "path": "TungLy/3. ARCHIEVED/Danh sách dự án/Dự án Unis.md"
-    },
-    {
-      "basename": "H-VCBS-FAC-290624",
-      "path": "TungLy/3. ARCHIEVED/Dự án 2024/VCBs/H-VCBS-FAC-290624/H-VCBS-FAC-290624.md"
-    },
-    {
-      "basename": "Meeting_0715",
-      "path": "TungLy/3. ARCHIEVED/SaaS - VnR/xmind/Bien_Ban_Hop/Meeting_0715.md"
-    },
-    {
-      "basename": "Question - Goals",
-      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Questions/Question - Goals.md"
-    },
-    {
-      "basename": "Evaluation",
-      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Evaluation.md"
-    },
-    {
-      "basename": "Scope",
-      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Scope.md"
-    },
-    {
-      "basename": "0.Guide",
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/0.Guide.md"
-    },
-    {
-      "basename": "0.Chỉ huy dự án",
-      "path": "TungLy/1. Projects/Chỉ Huy dự án/0.Chỉ huy dự án.md"
-    },
-    {
-      "basename": "0.Guide",
-      "path": "TungLy/1. Projects/Dự án 2025/Project Template/0.Guide.md"
-    },
-    {
-      "basename": "Dự án FIT",
-      "path": "TungLy/3. ARCHIEVED/Danh sách dự án/Dự án FIT.md"
-    },
-    {
-      "basename": "Bảo hiểm",
-      "path": "TungLy/Area/Thành Phần BH/Bảo hiểm.md"
-    },
-    {
-      "basename": "Lịch sử NV",
-      "path": "TungLy/Area/Thành Phần BH/Lịch sử NV.md"
-    },
-    {
-      "basename": "IssueLog_Monthly",
-      "path": "TungLy/3. ARCHIEVED/Working/IssueLog_Monthly.md"
-    },
-    {
-      "basename": "Mon-2024-12-23 013217",
-      "path": "TungLy/0. Daily/2024-Dec-52/Mon-2024-12-23 013217.md"
-    },
-    {
-      "basename": "Index Note",
-      "path": "TungLy/2. RESOURCE/template/Index Note.md"
-    },
-    {
-      "basename": "Phiếu xuất tài sản",
-      "path": "TungLy/Area/Index/Meeting/H-VCBS-FAC-290624/Phiếu xuất tài sản.md"
-    },
-    {
-      "basename": "Dự án Terumo",
-      "path": "TungLy/3. ARCHIEVED/Danh sách dự án/Dự án Terumo.md"
-    },
-    {
-      "basename": "Builder-airbyte-guide",
-      "path": "TungLy/Area/Data-WareHouse/ELT - Airbyte/Builder-airbyte-guide.md"
     }
   ],
   "omittedPaths": []

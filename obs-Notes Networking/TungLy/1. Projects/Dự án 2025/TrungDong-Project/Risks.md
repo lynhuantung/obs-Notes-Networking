@@ -16,7 +16,7 @@ Project: "[[Dự án TrungDong]]"
 - Rủi ro: 
 	- không kịp ngày 22/01 hoàn thành tất cả 10 task 
 	- Nguyên nhân: 
-		- đến ngày 18/1 PE và BA mới chốt và tiến hành phân tích đến hết 18/1
+		- Đến ngày 18/1 PE và BA mới chốt và tiến hành phân tích đến hết 18/1
 		- QL nhân tài BA chậm tiến độ phân tích (2 ngày) do ưu tiên dự án Lotte
 		- PE chưa trao đổi với khách hàng để lấy yêu cầu ở giai đoạn đầu dẫn đến phân tích và họp đi họp lại 3 lần.
 - Ứng phó: 

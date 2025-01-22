@@ -1,11 +1,12 @@
 ---
-Mã: "25010313-01"
+Mã: 25010313-01
 aliases: 
-date: "2025-01-13"
-time: "15:24"
+date: 2025-01-13
+time: 15:24
 Week: "03"
 tags:
   - daily
+  - "#performance"
 ---
 ### Tài liệu hướng dẫn khắc phục vấn đề chậm hệ thống
 
