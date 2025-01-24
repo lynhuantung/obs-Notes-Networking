@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TungLy/0. Daily/2025-Jan-4/Fri-2025-01-24 115132.md",
+                "file": "TungLy/1. Projects/Chỉ Huy dự án/0.Chỉ huy dự án.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fri-2025-01-24 115132"
+              "title": "0.Chỉ huy dự án"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TungLy/0. Daily/2025-Jan-4/Fri-2025-01-24 115132.md",
+                "file": "TungLy/1. Projects/Chỉ Huy dự án/0.Chỉ huy dự án.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -116,7 +116,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Fri-2025-01-24 115132"
+              "title": "Graph of 0.Chỉ huy dự án"
             }
           },
           {
@@ -333,7 +333,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TungLy/0. Daily/2025-Jan-4/Fri-2025-01-24 115132.md",
+                "file": "TungLy/1. Projects/Chỉ Huy dự án/0.Chỉ huy dự án.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -361,7 +361,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Fri-2025-01-24 115132"
+              "title": "Graph of 0.Chỉ huy dự án"
             }
           }
         ]
@@ -388,7 +388,7 @@
               "type": "mindmap",
               "state": {},
               "icon": "dot-network",
-              "title": "Mind Map of Fri-2025-01-24 115132"
+              "title": "Mind Map of 0.Chỉ huy dự án"
             }
           }
         ],
@@ -421,8 +421,8 @@
   },
   "active": "fd5dedb45876ad9f",
   "lastOpenFiles": [
-    "TungLy/Area/SSO/SSO là gì.md",
     "TungLy/0. Daily/2025-Jan-4/Fri-2025-01-24 115132.md",
+    "TungLy/Area/SSO/SSO là gì.md",
     "TungLy/1. Projects/0.Dự án.md",
     "TungLy/3. ARCHIEVED/Danh sách dự án/0. Danh sách dự án.md",
     "TungLy/3. ARCHIEVED/Danh sách dự án/Dự án Lotte Mark.md",
