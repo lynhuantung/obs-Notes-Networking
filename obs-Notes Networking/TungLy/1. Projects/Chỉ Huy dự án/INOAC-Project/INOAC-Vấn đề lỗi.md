@@ -6,6 +6,8 @@ title:
 tags:
   - "#chi-huy-du-an"
   - "#truong-du-an"
+  - "#report"
+  - "#issuelog"
 date: 2024-12-17
 Related: "[[0.Chỉ huy dự án]]"
 Amis Link: 

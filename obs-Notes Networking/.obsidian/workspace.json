@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TungLy/1. Projects/Chỉ Huy dự án/INOAC-Project/INOAC-Vấn đề lỗi redis.md",
+                "file": "TungLy/0. Daily/2025-Jan-4/Fri-2025-01-24 115132.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "INOAC-Vấn đề lỗi redis"
+              "title": "Fri-2025-01-24 115132"
             }
           }
         ],
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Giữa Portal HongNgoc Cũ và Mới",
+                "query": "sso",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TungLy/1. Projects/Chỉ Huy dự án/INOAC-Project/INOAC-Vấn đề lỗi redis.md",
+                "file": "TungLy/0. Daily/2025-Jan-4/Fri-2025-01-24 115132.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -116,7 +116,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of INOAC-Vấn đề lỗi redis"
+              "title": "Graph of Fri-2025-01-24 115132"
             }
           },
           {
@@ -333,11 +333,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TungLy/1. Projects/Chỉ Huy dự án/INOAC-Project/INOAC-Vấn đề lỗi redis.md",
+                "file": "TungLy/0. Daily/2025-Jan-4/Fri-2025-01-24 115132.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
@@ -356,12 +356,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7514342322277613,
+                  "scale": 0.535979599622596,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of INOAC-Vấn đề lỗi redis"
+              "title": "Graph of Fri-2025-01-24 115132"
             }
           }
         ]
@@ -388,7 +388,7 @@
               "type": "mindmap",
               "state": {},
               "icon": "dot-network",
-              "title": "Mind Map of INOAC-Vấn đề lỗi redis"
+              "title": "Mind Map of Fri-2025-01-24 115132"
             }
           }
         ],
@@ -421,7 +421,21 @@
   },
   "active": "fd5dedb45876ad9f",
   "lastOpenFiles": [
+    "TungLy/Area/SSO/SSO là gì.md",
+    "TungLy/0. Daily/2025-Jan-4/Fri-2025-01-24 115132.md",
+    "TungLy/1. Projects/0.Dự án.md",
+    "TungLy/3. ARCHIEVED/Danh sách dự án/0. Danh sách dự án.md",
+    "TungLy/3. ARCHIEVED/Danh sách dự án/Dự án Lotte Mark.md",
+    "TungLy/Area/SSO/SSO Ứng dụng HRM.md",
+    "TungLy/Area/SSO/SSO mobile app.md",
+    "TungLy/Area/SSO/SSO web portal.md",
+    "TungLy/Area/SSO/SSO web main.md",
+    "TungLy/Area/SSO/Google.md",
+    "TungLy/Area/SSO/Identity.md",
+    "TungLy/Area/SSO/Microsoft.md",
+    "TungLy/Area/SSO/OKTA.md",
     "TungLy/1. Projects/Chỉ Huy dự án/INOAC-Project/INOAC-Vấn đề lỗi.md",
+    "TungLy/1. Projects/Chỉ Huy dự án/INOAC-Project/INOAC-Project.md",
     "TungLy/1. Projects/Chỉ Huy dự án/INOAC-Project/INOAC-Vấn đề lỗi redis.md",
     "TungLy/0. Daily/2025-Jan-3/Mon-2025-01-13 112459.md",
     "TungLy/0. Daily/2025-Jan-3/Tài liệu hướng dẫn khắc phục vấn đề chậm hệ thống.md",
@@ -431,23 +445,9 @@
     "TungLy/1. Projects/Dự án 2025/HongNgoc-Project/Cấu hình SSO dự án Hồng Ngọc.md",
     "TungLy/1. Projects/Dự án 2025/HongNgoc-Project/HongNgoc-Project 1.md",
     "TungLy/1. Projects/Dự án 2025/HongNgoc-Project/HongNgoc-Project.md",
-    "TungLy/1. Projects/Chỉ Huy dự án/INOAC-Project/INOAC-Project.md",
     "TungLy/0. Daily/2025-Jan-4/Mon-2025-01-20 091105.md",
     "TungLy/1. Projects/Dự án 2025/TrungDong-Project/ProjectMOC.md",
     "TungLy/0. Daily/2025-Jan-4",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Resources.md",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Risks.md",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Scope.md",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Timeline.md",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Evaluation.md",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Goals.md",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/0.Guide.md",
-    "TungLy/1. Projects/Dự án 2025/Project Template/Documents/Tài Liệu.md",
-    "TungLy/1. Projects/Dự án 2025/Project Template/Meeting_Notes/Meeting_Notes.md",
-    "TungLy/1. Projects/Dự án 2025/Project Template/Questions/Question -Tasks.md",
-    "TungLy/1. Projects/Dự án 2025/Project Template/Questions/Question -Timeline.md",
-    "TungLy/1. Projects/Dự án 2025/Project Template/Questions/Question -Phase.md",
-    "TungLy/1. Projects/Dự án 2025/Project Template/Questions/Question - Evaluation.md",
     "TungLy/4. VISUAL NOTES/Hướng dẫn sử dụng canvas.canvas",
     "TungLy/4. VISUAL NOTES/Plan.canvas",
     "TungLy/4. VISUAL NOTES/Kế Hoạch Chuẩn Hóa Tài Liệu.canvas",
