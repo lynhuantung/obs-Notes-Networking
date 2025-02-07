@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "PEWVN-Project",
+      "path": "TungLy/1. Projects/Chỉ Huy dự án/PEWVN-Project/PEWVN-Project.md"
+    },
+    {
+      "basename": "0. Nguồn lực",
+      "path": "TungLy/1. Projects/Nguồn lực/0. Nguồn lực.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Hướng dẫn sử dụng",
+      "path": "Hướng dẫn sử dụng.md"
+    },
+    {
       "basename": "0.Chỉ huy dự án",
       "path": "TungLy/1. Projects/Chỉ Huy dự án/0.Chỉ huy dự án.md"
     },
@@ -23,10 +39,6 @@
     {
       "basename": "Cấu hình launchSettings",
       "path": "TungLy/Area/SSO - NetCore/Cấu hình launchSettings.md"
-    },
-    {
-      "basename": "'Chưng cất' là gì khiến các công ty AI tiên phong lo ngại",
-      "path": "'Chưng cất' là gì khiến các công ty AI tiên phong lo ngại.md"
     },
     {
       "basename": "SSO-DotNetCore - cont",

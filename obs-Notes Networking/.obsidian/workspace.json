@@ -23,8 +23,24 @@
               "icon": "lucide-file",
               "title": "0.Chỉ huy dự án"
             }
+          },
+          {
+            "id": "6dd8731190f14ff7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TungLy/1. Projects/Chỉ Huy dự án/PEWVN-Project/PEWVN-Project.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "PEWVN-Project"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -318,7 +334,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TungLy/0. Daily/Clippings/tuhocict.com.md",
+                "file": "TungLy/1. Projects/Chỉ Huy dự án/PEWVN-Project/PEWVN-Project.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -346,7 +362,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of tuhocict.com"
+              "title": "Graph of PEWVN-Project"
             }
           }
         ]
@@ -373,7 +389,7 @@
               "type": "mindmap",
               "state": {},
               "icon": "dot-network",
-              "title": "Mind Map of tuhocict.com"
+              "title": "Mind Map of PEWVN-Project"
             }
           }
         ],
@@ -381,8 +397,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 518.5,
-    "collapsed": true
+    "width": 518.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -405,13 +420,17 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "f19bc7549ee69968",
+  "active": "6dd8731190f14ff7",
   "lastOpenFiles": [
+    "TungLy/1. Projects/Nguồn lực/0. Nguồn lực.md",
+    "README.md",
+    "Hướng dẫn sử dụng.md",
+    "Job_Organization.md",
+    "TungLy/1. Projects/Chỉ Huy dự án/0.Chỉ huy dự án.md",
     "TungLy/0. Daily/Clippings/learn.microsoft.com/Clippings-20250206.md",
     "TungLy/0. Daily/Clippings/help.obsidian.md/Clippings-20250206.md",
     "TungLy/0. Daily/Clippings/learn.microsoft.com/Clippings-learn.microsoft.com.md",
     "TungLy/0. Daily/Clippings/help.obsidian.md",
-    "TungLy/1. Projects/Chỉ Huy dự án/0.Chỉ huy dự án.md",
     "TungLy/0. Daily/Clippings/learn.microsoft.com",
     "TungLy/0. Daily/Clippings/Clippings-.md",
     "TungLy/0. Daily/Clippings/tuhocict.com.md",
@@ -444,10 +463,6 @@
     "src/Pasted image 20250203105931.png",
     "src/Pasted image 20250203105914.png",
     "TungLy/0. Daily/2025-Feb-6",
-    "TungLy/Area/SSO/OKTA.md",
-    "TungLy/Area/SSO/Google.md",
-    "TungLy/Area/SSO/Giao thức SSO.md",
-    "TungLy/0. Daily/Clippings/obsidian 1.md",
     "TungLy/0. Daily/2025-Jan-4",
     "TungLy/4. VISUAL NOTES/Hướng dẫn sử dụng canvas.canvas",
     "TungLy/4. VISUAL NOTES/Plan.canvas",
