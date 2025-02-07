@@ -5,12 +5,56 @@
       "path": "TungLy/1. Projects/Chỉ Huy dự án/0.Chỉ huy dự án.md"
     },
     {
-      "basename": "Fri-2025-01-24 115132",
-      "path": "TungLy/0. Daily/2025-Jan-4/Fri-2025-01-24 115132.md"
+      "basename": "Hướng dẫn sử dụng đăng nhập identity",
+      "path": "TungLy/Area/SSO - NetCore/Hướng dẫn sử dụng đăng nhập identity.md"
     },
     {
-      "basename": "SSO là gì",
-      "path": "TungLy/Area/SSO/SSO là gì.md"
+      "basename": "Hướng dẫn sử dụng Swagger API",
+      "path": "TungLy/Area/SSO - NetCore/Hướng dẫn sử dụng Swagger API.md"
+    },
+    {
+      "basename": "SSO - DotNet core",
+      "path": "TungLy/Area/SSO - NetCore/SSO - DotNet core.md"
+    },
+    {
+      "basename": "Nháp",
+      "path": "TungLy/Area/SSO - NetCore/Nháp.md"
+    },
+    {
+      "basename": "Cấu hình launchSettings",
+      "path": "TungLy/Area/SSO - NetCore/Cấu hình launchSettings.md"
+    },
+    {
+      "basename": "'Chưng cất' là gì khiến các công ty AI tiên phong lo ngại",
+      "path": "'Chưng cất' là gì khiến các công ty AI tiên phong lo ngại.md"
+    },
+    {
+      "basename": "SSO-DotNetCore - cont",
+      "path": "TungLy/Area/SSO - NetCore/SSO-DotNetCore - cont.md"
+    },
+    {
+      "basename": "update net core - daily",
+      "path": "TungLy/0. Daily/2025-Feb-6/update net core - daily.md"
+    },
+    {
+      "basename": "0 - SSO là gì",
+      "path": "TungLy/Area/SSO/0 - SSO là gì.md"
+    },
+    {
+      "basename": "OKTA",
+      "path": "TungLy/Area/SSO/OKTA.md"
+    },
+    {
+      "basename": "Google",
+      "path": "TungLy/Area/SSO/Google.md"
+    },
+    {
+      "basename": "Giao thức SSO",
+      "path": "TungLy/Area/SSO/Giao thức SSO.md"
+    },
+    {
+      "basename": "Fri-2025-01-24 115132",
+      "path": "TungLy/0. Daily/2025-Jan-4/Fri-2025-01-24 115132.md"
     },
     {
       "basename": "0.Dự án",
@@ -41,20 +85,12 @@
       "path": "TungLy/Area/SSO/SSO web main.md"
     },
     {
-      "basename": "Google",
-      "path": "TungLy/Area/SSO/Google.md"
-    },
-    {
       "basename": "Identity",
       "path": "TungLy/Area/SSO/Identity.md"
     },
     {
       "basename": "Microsoft",
       "path": "TungLy/Area/SSO/Microsoft.md"
-    },
-    {
-      "basename": "OKTA",
-      "path": "TungLy/Area/SSO/OKTA.md"
     },
     {
       "basename": "INOAC-Vấn đề lỗi",
@@ -147,58 +183,6 @@
     {
       "basename": "Question -Phase",
       "path": "TungLy/1. Projects/Dự án 2025/Project Template/Questions/Question -Phase.md"
-    },
-    {
-      "basename": "Question - Evaluation",
-      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Questions/Question - Evaluation.md"
-    },
-    {
-      "basename": "Question",
-      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Questions/Question.md"
-    },
-    {
-      "basename": "Risks",
-      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Risks.md"
-    },
-    {
-      "basename": "0.H-TrungDong",
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Meeting_Notes/0.H-TrungDong.md"
-    },
-    {
-      "basename": "Question - Risk",
-      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Questions/Question - Risk.md"
-    },
-    {
-      "basename": "Question -Scope",
-      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Questions/Question -Scope.md"
-    },
-    {
-      "basename": "Task-TrungDong",
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Phases/Phase2-Training/Task-TrungDong.md"
-    },
-    {
-      "basename": "H-TrungDong-Eva-06012025",
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Meeting_Notes/H-TrungDong-Eva-06012025.md"
-    },
-    {
-      "basename": "Phase2-Training",
-      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Phases/Phase2-Training.md"
-    },
-    {
-      "basename": "Goals",
-      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Goals.md"
-    },
-    {
-      "basename": "Timeline",
-      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Timeline.md"
-    },
-    {
-      "basename": "Meeting_0909",
-      "path": "TungLy/3. ARCHIEVED/SaaS - VnR/xmind/Bien_Ban_Hop/Meeting_0909.md"
-    },
-    {
-      "basename": "tMap",
-      "path": "TungLy/Area/Data-WareHouse 1/ETL-TOS/tMap.md"
     }
   ],
   "omittedPaths": []

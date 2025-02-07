@@ -7,7 +7,7 @@ tags:
   - "#okta"
   - "#openid"
 Related:
-  - "[[SSO là gì]]"
+  - "[[0 - SSO là gì]]"
 ---
 # SSO Ứng dụng HRM
 - [[SSO web main]]

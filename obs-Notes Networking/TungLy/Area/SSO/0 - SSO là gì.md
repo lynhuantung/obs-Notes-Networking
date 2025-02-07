@@ -20,3 +20,8 @@ Single Sign-On (SSO) là phương thức xác thực cho phép người dùng đ
 - SSO web main
 - SSO web portal
 - SSO mobile app
+
+# [[Giao thức SSO]]
+- **SAML** (dùng trong doanh nghiệp).    
+- **OAuth 2.0/OpenID Connect** (phổ biến cho ứng dụng web/mobile).    
+- **LDAP** (kết hợp với SSO trong mạng nội bộ).
