@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TungLy/1. Projects/Chỉ Huy dự án/PEWVN-Project/PEWVN-Project.md",
+                "file": "TungLy/Area/SSO - NetCore/Cấu hình launchSettings.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "PEWVN-Project"
+              "title": "Cấu hình launchSettings"
             }
           }
         ],
@@ -334,7 +334,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TungLy/1. Projects/Chỉ Huy dự án/PEWVN-Project/PEWVN-Project.md",
+                "file": "TungLy/Area/SSO - NetCore/Cấu hình launchSettings.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -362,7 +362,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of PEWVN-Project"
+              "title": "Graph of Cấu hình launchSettings"
             }
           }
         ]
@@ -389,7 +389,7 @@
               "type": "mindmap",
               "state": {},
               "icon": "dot-network",
-              "title": "Mind Map of PEWVN-Project"
+              "title": "Mind Map of Nháp"
             }
           }
         ],
@@ -422,6 +422,9 @@
   },
   "active": "6dd8731190f14ff7",
   "lastOpenFiles": [
+    "TungLy/Area/SSO - NetCore/Nháp.md",
+    "TungLy/Area/SSO - NetCore/Hướng dẫn sử dụng Swagger API.md",
+    "TungLy/1. Projects/Chỉ Huy dự án/PEWVN-Project/PEWVN-Project.md",
     "TungLy/1. Projects/Nguồn lực/0. Nguồn lực.md",
     "README.md",
     "Hướng dẫn sử dụng.md",
@@ -438,9 +441,7 @@
     "src/Pasted image 20250205173045.png",
     "src/Pasted image 20250205173028.png",
     "src/Pasted image 20250205172956.png",
-    "TungLy/Area/SSO - NetCore/Hướng dẫn sử dụng Swagger API.md",
     "TungLy/Area/SSO - NetCore/SSO - DotNet core.md",
-    "TungLy/Area/SSO - NetCore/Nháp.md",
     "TungLy/Area/SSO - NetCore/Cấu hình launchSettings.md",
     "TungLy/0. Daily/Clippings/vnexpress.net.md",
     "TungLy/0. Daily/Clippings/Azerbaijan 'thu được mảnh tên lửa' trong vụ máy bay bị bắn nhầm.md",
@@ -458,7 +459,6 @@
     "TungLy/0. Daily/2025-Feb-6/update net core - daily.md",
     "TungLy/0. Daily/Clippings",
     "TungLy/Area/SSO - NetCore/SSO-DotNetCore.md",
-    "TungLy/Area/SSO/0 - SSO là gì.md",
     "TungLy/Area/SSO - NetCore",
     "src/Pasted image 20250203105931.png",
     "src/Pasted image 20250203105914.png",

@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Cấu hình launchSettings",
+      "path": "TungLy/Area/SSO - NetCore/Cấu hình launchSettings.md"
+    },
+    {
+      "basename": "Nháp",
+      "path": "TungLy/Area/SSO - NetCore/Nháp.md"
+    },
+    {
+      "basename": "Hướng dẫn sử dụng Swagger API",
+      "path": "TungLy/Area/SSO - NetCore/Hướng dẫn sử dụng Swagger API.md"
+    },
+    {
       "basename": "PEWVN-Project",
       "path": "TungLy/1. Projects/Chỉ Huy dự án/PEWVN-Project/PEWVN-Project.md"
     },
@@ -25,20 +37,8 @@
       "path": "TungLy/Area/SSO - NetCore/Hướng dẫn sử dụng đăng nhập identity.md"
     },
     {
-      "basename": "Hướng dẫn sử dụng Swagger API",
-      "path": "TungLy/Area/SSO - NetCore/Hướng dẫn sử dụng Swagger API.md"
-    },
-    {
       "basename": "SSO - DotNet core",
       "path": "TungLy/Area/SSO - NetCore/SSO - DotNet core.md"
-    },
-    {
-      "basename": "Nháp",
-      "path": "TungLy/Area/SSO - NetCore/Nháp.md"
-    },
-    {
-      "basename": "Cấu hình launchSettings",
-      "path": "TungLy/Area/SSO - NetCore/Cấu hình launchSettings.md"
     },
     {
       "basename": "SSO-DotNetCore - cont",
