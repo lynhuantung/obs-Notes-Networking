@@ -8,24 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f19bc7549ee69968",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TungLy/1. Projects/Chỉ Huy dự án/0.Chỉ huy dự án.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "0.Chỉ huy dự án"
-            }
-          },
-          {
-            "id": "6dd8731190f14ff7",
+            "id": "086f33e34cf6de62",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,6 +20,35 @@
               },
               "icon": "lucide-file",
               "title": "Cấu hình launchSettings"
+            }
+          },
+          {
+            "id": "34b118476375da46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TungLy/0. Daily/2025-Feb-7/Sat-2025-02-15 095528.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Sat-2025-02-15 095528"
+            }
+          },
+          {
+            "id": "0f01571e7cb2259e",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://confluence.vnresource.net:18001/pages/resumedraft.action?draftId=56656005&draftShareId=eb21d904-d7d7-47bd-8640-ef3d3edf8ce0&",
+                "title": "Edit - Tạo mới API để GET thông tin người phụ trách - Tài liệu PE/CS - Confluence",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Edit - Tạo mới API để GET thông tin người phụ trách - Tài liệu PE/CS - Confluence"
             }
           }
         ],
@@ -179,7 +191,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -221,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TungLy/0. Daily/2025-Jan-3/Thu-2025-01-16 044154.md",
+                "file": "TungLy/0. Daily/2025-Feb-7/Sat-2025-02-15 095528.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +245,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Thu-2025-01-16 044154"
+              "title": "Backlinks for Sat-2025-02-15 095528"
             }
           },
           {
@@ -254,10 +268,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TungLy/0. Daily/2025-Jan-3/Thu-2025-01-16 044154.md"
+                "file": "TungLy/0. Daily/2025-Feb-7/Sat-2025-02-15 095528.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Thu-2025-01-16 044154"
+              "title": "Outline of Sat-2025-02-15 095528"
             }
           },
           {
@@ -276,8 +293,8 @@
             "state": {
               "type": "reminder-list",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "clock",
+              "title": "Reminders"
             }
           },
           {
@@ -296,8 +313,8 @@
             "state": {
               "type": "reminder-list",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "clock",
+              "title": "Reminders"
             }
           },
           {
@@ -321,7 +338,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "0b36a27d565fae58",
@@ -334,7 +351,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TungLy/Area/SSO - NetCore/Cấu hình launchSettings.md",
+                "file": "TungLy/0. Daily/2025-Feb-7/Sat-2025-02-15 095528.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -357,12 +374,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.535979599622596,
+                  "scale": 0.5359795996225962,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Cấu hình launchSettings"
+              "title": "Graph of Sat-2025-02-15 095528"
             }
           }
         ]
@@ -389,7 +406,7 @@
               "type": "mindmap",
               "state": {},
               "icon": "dot-network",
-              "title": "Mind Map of Nháp"
+              "title": "Mind Map of Sat-2025-02-15 095528"
             }
           }
         ],
@@ -397,7 +414,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 518.5
+    "width": 518.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -420,50 +438,54 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "6dd8731190f14ff7",
+  "active": "91ea0f5f7cc6bb54",
   "lastOpenFiles": [
-    "TungLy/Area/SSO - NetCore/Nháp.md",
-    "TungLy/Area/SSO - NetCore/Hướng dẫn sử dụng Swagger API.md",
-    "TungLy/1. Projects/Chỉ Huy dự án/PEWVN-Project/PEWVN-Project.md",
-    "TungLy/1. Projects/Nguồn lực/0. Nguồn lực.md",
-    "README.md",
-    "Hướng dẫn sử dụng.md",
-    "Job_Organization.md",
-    "TungLy/1. Projects/Chỉ Huy dự án/0.Chỉ huy dự án.md",
-    "TungLy/0. Daily/Clippings/learn.microsoft.com/Clippings-20250206.md",
-    "TungLy/0. Daily/Clippings/help.obsidian.md/Clippings-20250206.md",
-    "TungLy/0. Daily/Clippings/learn.microsoft.com/Clippings-learn.microsoft.com.md",
-    "TungLy/0. Daily/Clippings/help.obsidian.md",
-    "TungLy/0. Daily/Clippings/learn.microsoft.com",
-    "TungLy/0. Daily/Clippings/Clippings-.md",
-    "TungLy/0. Daily/Clippings/tuhocict.com.md",
-    "TungLy/Area/SSO - NetCore/Hướng dẫn sử dụng đăng nhập identity.md",
-    "src/Pasted image 20250205173045.png",
-    "src/Pasted image 20250205173028.png",
-    "src/Pasted image 20250205172956.png",
-    "TungLy/Area/SSO - NetCore/SSO - DotNet core.md",
-    "TungLy/Area/SSO - NetCore/Cấu hình launchSettings.md",
-    "TungLy/0. Daily/Clippings/vnexpress.net.md",
-    "TungLy/0. Daily/Clippings/Azerbaijan 'thu được mảnh tên lửa' trong vụ máy bay bị bắn nhầm.md",
-    "Clippings/Azerbaijan 'thu được mảnh tên lửa' trong vụ máy bay bị bắn nhầm.md",
-    "Clippings",
-    "'Chưng cất' là gì khiến các công ty AI tiên phong lo ngại.md",
-    "TungLy/0. Daily/Clippings/learn.microsoft.com.md",
-    "TungLy/0. Daily/Clippings/Chưng cất.md",
-    "src/Pasted image 20250204173151.png",
-    "src/Pasted image 20250204173102.png",
-    "src/Pasted image 20250204173001.png",
-    "src/Pasted image 20250204172802.png",
-    "TungLy/Area/SSO - NetCore/SSO-DotNetCore - cont.md",
-    "src/Pasted image 20250204090637.png",
+    "TungLy/0. Daily/2025-Feb-7/Sat-2025-02-15 095528.md",
     "TungLy/0. Daily/2025-Feb-6/update net core - daily.md",
+    "TungLy/0. Daily/2025-Jan-3/2025-Jan-3.md",
+    "TungLy/0. Daily/2025-Jan-4/2025-Jan-4.md",
+    "TungLy/Area/SSO - NetCore/SSO-DotNetCore - cont.md",
+    "TungLy/Area/SSO - NetCore/Hướng dẫn sử dụng Swagger API.md",
+    "TungLy/Area/SSO - NetCore/Cấu hình launchSettings.md",
+    "TungLy/Area/SSO - NetCore/SSO - DotNet core.md",
+    "TungLy/Area/SSO - NetCore/Nháp.md",
+    "TungLy/Area/SSO - NetCore/Hướng dẫn sử dụng đăng nhập identity.md",
+    "TungLy/0. Daily/2024-Dec-52/Mon-2024-12-23 013217.md",
+    "TungLy/0. Daily/2024-Dec-52/Thu-2024-12-26 124452.md",
+    "TungLy/0. Daily/2024-Dec-52/TVC-Hỗ trợ VNPay.md",
+    "TungLy/0. Daily/2025-Feb-7/2025-Feb-7.md",
+    "TungLy/0. Daily/2025-Feb-7/Mon-2025-02-10 083754.md",
+    "TungLy/0. Daily/2025-Jan-3/Mon-2025-01-13 112459.md",
+    "TungLy/0. Daily/2025-Jan-3/Tài liệu hướng dẫn khắc phục vấn đề chậm hệ thống.md",
+    "TungLy/0. Daily/2025-Jan-4/Mon-2025-01-20 091105.md",
+    "TungLy/Area/SSO/SSO web portal.md",
+    "TungLy/Area/SSO/SSO web main.md",
+    "TungLy/Area/SSO/SSO Ứng dụng HRM.md",
+    "TungLy/Area/SSO/SSO mobile app.md",
+    "TungLy/Area/SSO/Identity.md",
+    "TungLy/Area/SSO/Giao thức SSO.md",
+    "TungLy/Area/SSO/0 - SSO là gì.md",
+    "TungLy/0. Daily/2024-Dec-52/Sun-2024-12-29 033906.md",
+    "TungLy/0. Daily/2025-Feb-7",
+    "TungLy/Area/Team Management/Huỳnh Cẩm Tú/User Guide - Mockoon.pdf",
+    "TungLy/Area/Team Management/Huỳnh Cẩm Tú/Hợp đồng bảo hiểm sức khỏe theo nhóm.pdf",
+    "TungLy/Area/Index/Meeting/DuAn/SaaS - VnR/xmind/Hình ảnh/Tham khảo/Meeting_1008/Tenant_05.png",
+    "TungLy/Area/Index/Meeting/DuAn/SaaS - VnR/xmind/Hình ảnh/Tham khảo/Meeting_1008/Tenant_04.png",
+    "TungLy/Area/Index/Meeting/DuAn/SaaS - VnR/xmind/Hình ảnh/Tham khảo/Meeting_1008/Tenant_03.png",
+    "TungLy/Area/Index/Meeting/DuAn/SaaS - VnR/xmind/Hình ảnh/Tham khảo/Meeting_1008/Tenant_02.png",
+    "TungLy/Area/Index/Meeting/DuAn/SaaS - VnR/xmind/Hình ảnh/Tham khảo/Meeting_1008/Tenant_01.png",
+    "TungLy/Area/Index/Meeting/DuAn/SaaS - VnR/xmind/Hình ảnh/Saas_TimeLine.png",
+    "TungLy/Area/Index/Meeting/DuAn/SaaS - VnR/xmind/Hình ảnh/Saas_RoadMap.png",
+    "TungLy/Area/Index/Meeting/DuAn/SaaS - VnR/xmind/Hình ảnh/Meeting_3009-Take Notes.png",
+    "TungLy/Area/Index/Meeting/DuAn/SaaS - VnR/xmind/Hình ảnh/Meeting_2907-Take Notes.png",
+    "TungLy/Area/Index/Meeting/DuAn/SaaS - VnR/xmind/Hình ảnh/Meeting_2608/Hop2608_1000002170.jpg",
+    "TungLy/Area/Index/Meeting/DuAn/SaaS - VnR/Documents/Report_MultiTenant-SaaS.pdf",
+    "TungLy/Area/Index/Meeting/DuAn/SaaS - VnR/Documents/Phân Tích Và So Sánh SaaS (on-premesis và on-cloud).pdf",
+    "TungLy/3. ARCHIEVED/SaaS - VnR/Documents/Report_MultiTenant-SaaS.pdf",
+    "TungLy/3. ARCHIEVED/SaaS - VnR/Documents/Phân Tích Và So Sánh SaaS (on-premesis và on-cloud).pdf",
+    "TungLy/0. Daily/Clippings/learn.microsoft.com",
+    "Clippings",
     "TungLy/0. Daily/Clippings",
-    "TungLy/Area/SSO - NetCore/SSO-DotNetCore.md",
-    "TungLy/Area/SSO - NetCore",
-    "src/Pasted image 20250203105931.png",
-    "src/Pasted image 20250203105914.png",
-    "TungLy/0. Daily/2025-Feb-6",
-    "TungLy/0. Daily/2025-Jan-4",
     "TungLy/4. VISUAL NOTES/Hướng dẫn sử dụng canvas.canvas",
     "TungLy/4. VISUAL NOTES/Plan.canvas",
     "TungLy/4. VISUAL NOTES/Kế Hoạch Chuẩn Hóa Tài Liệu.canvas",
@@ -472,10 +494,6 @@
     "TungLy/4. VISUAL NOTES/Canvas/Hướng dẫn sử dụng canvas.canvas",
     "TungLy/4. VISUAL NOTES/Canvas/Chỉ huy dự án 2025.canvas",
     "TungLy/4. VISUAL NOTES/Canvas/Chỉ huy dự án 2024.canvas",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Questions",
-    "TungLy/1. Projects/Dự án 2025/Project Template/Questions",
-    "TungLy/1. Projects/Dự án 2025/Project Template/Documents",
-    "TungLy/0. Daily/2025-Jan-3",
     "TungLy-2024/4. VISUAL NOTES/Canvas/Plan.canvas",
     "TungLy-2024/4. VISUAL NOTES/Canvas/Kế Hoạch Chuẩn Hóa Tài Liệu.canvas"
   ]

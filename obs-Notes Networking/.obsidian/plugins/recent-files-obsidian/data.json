@@ -1,16 +1,104 @@
 {
   "recentFiles": [
     {
+      "basename": "Sat-2025-02-15 095528",
+      "path": "TungLy/0. Daily/2025-Feb-7/Sat-2025-02-15 095528.md"
+    },
+    {
+      "basename": "update net core - daily",
+      "path": "TungLy/0. Daily/2025-Feb-6/update net core - daily.md"
+    },
+    {
+      "basename": "2025-Jan-3",
+      "path": "TungLy/0. Daily/2025-Jan-3/2025-Jan-3.md"
+    },
+    {
+      "basename": "2025-Jan-4",
+      "path": "TungLy/0. Daily/2025-Jan-4/2025-Jan-4.md"
+    },
+    {
+      "basename": "SSO-DotNetCore - cont",
+      "path": "TungLy/Area/SSO - NetCore/SSO-DotNetCore - cont.md"
+    },
+    {
+      "basename": "Hướng dẫn sử dụng Swagger API",
+      "path": "TungLy/Area/SSO - NetCore/Hướng dẫn sử dụng Swagger API.md"
+    },
+    {
       "basename": "Cấu hình launchSettings",
       "path": "TungLy/Area/SSO - NetCore/Cấu hình launchSettings.md"
+    },
+    {
+      "basename": "SSO - DotNet core",
+      "path": "TungLy/Area/SSO - NetCore/SSO - DotNet core.md"
     },
     {
       "basename": "Nháp",
       "path": "TungLy/Area/SSO - NetCore/Nháp.md"
     },
     {
-      "basename": "Hướng dẫn sử dụng Swagger API",
-      "path": "TungLy/Area/SSO - NetCore/Hướng dẫn sử dụng Swagger API.md"
+      "basename": "Hướng dẫn sử dụng đăng nhập identity",
+      "path": "TungLy/Area/SSO - NetCore/Hướng dẫn sử dụng đăng nhập identity.md"
+    },
+    {
+      "basename": "Mon-2024-12-23 013217",
+      "path": "TungLy/0. Daily/2024-Dec-52/Mon-2024-12-23 013217.md"
+    },
+    {
+      "basename": "Thu-2024-12-26 124452",
+      "path": "TungLy/0. Daily/2024-Dec-52/Thu-2024-12-26 124452.md"
+    },
+    {
+      "basename": "TVC-Hỗ trợ VNPay",
+      "path": "TungLy/0. Daily/2024-Dec-52/TVC-Hỗ trợ VNPay.md"
+    },
+    {
+      "basename": "2025-Feb-7",
+      "path": "TungLy/0. Daily/2025-Feb-7/2025-Feb-7.md"
+    },
+    {
+      "basename": "Tài liệu hướng dẫn khắc phục vấn đề chậm hệ thống",
+      "path": "TungLy/0. Daily/2025-Jan-3/Tài liệu hướng dẫn khắc phục vấn đề chậm hệ thống.md"
+    },
+    {
+      "basename": "SSO web portal",
+      "path": "TungLy/Area/SSO/SSO web portal.md"
+    },
+    {
+      "basename": "SSO web main",
+      "path": "TungLy/Area/SSO/SSO web main.md"
+    },
+    {
+      "basename": "SSO Ứng dụng HRM",
+      "path": "TungLy/Area/SSO/SSO Ứng dụng HRM.md"
+    },
+    {
+      "basename": "SSO mobile app",
+      "path": "TungLy/Area/SSO/SSO mobile app.md"
+    },
+    {
+      "basename": "Identity",
+      "path": "TungLy/Area/SSO/Identity.md"
+    },
+    {
+      "basename": "Giao thức SSO",
+      "path": "TungLy/Area/SSO/Giao thức SSO.md"
+    },
+    {
+      "basename": "0 - SSO là gì",
+      "path": "TungLy/Area/SSO/0 - SSO là gì.md"
+    },
+    {
+      "basename": "0.Index",
+      "path": "0.Index.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "New notes",
+      "path": "TungLy/2. RESOURCE/template/New notes.md"
     },
     {
       "basename": "PEWVN-Project",
@@ -21,10 +109,6 @@
       "path": "TungLy/1. Projects/Nguồn lực/0. Nguồn lực.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "Hướng dẫn sử dụng",
       "path": "Hướng dẫn sử dụng.md"
     },
@@ -33,40 +117,12 @@
       "path": "TungLy/1. Projects/Chỉ Huy dự án/0.Chỉ huy dự án.md"
     },
     {
-      "basename": "Hướng dẫn sử dụng đăng nhập identity",
-      "path": "TungLy/Area/SSO - NetCore/Hướng dẫn sử dụng đăng nhập identity.md"
-    },
-    {
-      "basename": "SSO - DotNet core",
-      "path": "TungLy/Area/SSO - NetCore/SSO - DotNet core.md"
-    },
-    {
-      "basename": "SSO-DotNetCore - cont",
-      "path": "TungLy/Area/SSO - NetCore/SSO-DotNetCore - cont.md"
-    },
-    {
-      "basename": "update net core - daily",
-      "path": "TungLy/0. Daily/2025-Feb-6/update net core - daily.md"
-    },
-    {
-      "basename": "0 - SSO là gì",
-      "path": "TungLy/Area/SSO/0 - SSO là gì.md"
-    },
-    {
       "basename": "OKTA",
       "path": "TungLy/Area/SSO/OKTA.md"
     },
     {
       "basename": "Google",
       "path": "TungLy/Area/SSO/Google.md"
-    },
-    {
-      "basename": "Giao thức SSO",
-      "path": "TungLy/Area/SSO/Giao thức SSO.md"
-    },
-    {
-      "basename": "Fri-2025-01-24 115132",
-      "path": "TungLy/0. Daily/2025-Jan-4/Fri-2025-01-24 115132.md"
     },
     {
       "basename": "0.Dự án",
@@ -79,26 +135,6 @@
     {
       "basename": "Dự án Lotte Mark",
       "path": "TungLy/3. ARCHIEVED/Danh sách dự án/Dự án Lotte Mark.md"
-    },
-    {
-      "basename": "SSO Ứng dụng HRM",
-      "path": "TungLy/Area/SSO/SSO Ứng dụng HRM.md"
-    },
-    {
-      "basename": "SSO mobile app",
-      "path": "TungLy/Area/SSO/SSO mobile app.md"
-    },
-    {
-      "basename": "SSO web portal",
-      "path": "TungLy/Area/SSO/SSO web portal.md"
-    },
-    {
-      "basename": "SSO web main",
-      "path": "TungLy/Area/SSO/SSO web main.md"
-    },
-    {
-      "basename": "Identity",
-      "path": "TungLy/Area/SSO/Identity.md"
     },
     {
       "basename": "Microsoft",
@@ -117,18 +153,6 @@
       "path": "TungLy/1. Projects/Chỉ Huy dự án/INOAC-Project/INOAC-Vấn đề lỗi redis.md"
     },
     {
-      "basename": "Mon-2025-01-13 112459",
-      "path": "TungLy/0. Daily/2025-Jan-3/Mon-2025-01-13 112459.md"
-    },
-    {
-      "basename": "Tài liệu hướng dẫn khắc phục vấn đề chậm hệ thống",
-      "path": "TungLy/0. Daily/2025-Jan-3/Tài liệu hướng dẫn khắc phục vấn đề chậm hệ thống.md"
-    },
-    {
-      "basename": "Thu-2025-01-16 044154",
-      "path": "TungLy/0. Daily/2025-Jan-3/Thu-2025-01-16 044154.md"
-    },
-    {
       "basename": "Tài liệu xử lý đánh giá Hồng Ngọc",
       "path": "TungLy/1. Projects/Dự án 2025/HongNgoc-Project/Tài liệu xử lý đánh giá Hồng Ngọc.md"
     },
@@ -139,10 +163,6 @@
     {
       "basename": "HongNgoc-Project",
       "path": "TungLy/1. Projects/Dự án 2025/HongNgoc-Project/HongNgoc-Project.md"
-    },
-    {
-      "basename": "Mon-2025-01-20 091105",
-      "path": "TungLy/0. Daily/2025-Jan-4/Mon-2025-01-20 091105.md"
     },
     {
       "basename": "ProjectMOC",
@@ -171,30 +191,6 @@
     {
       "basename": "Goals",
       "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Goals.md"
-    },
-    {
-      "basename": "0.Guide",
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/0.Guide.md"
-    },
-    {
-      "basename": "Tài Liệu",
-      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Documents/Tài Liệu.md"
-    },
-    {
-      "basename": "Meeting_Notes",
-      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Meeting_Notes/Meeting_Notes.md"
-    },
-    {
-      "basename": "Question -Tasks",
-      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Questions/Question -Tasks.md"
-    },
-    {
-      "basename": "Question -Timeline",
-      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Questions/Question -Timeline.md"
-    },
-    {
-      "basename": "Question -Phase",
-      "path": "TungLy/1. Projects/Dự án 2025/Project Template/Questions/Question -Phase.md"
     }
   ],
   "omittedPaths": []
