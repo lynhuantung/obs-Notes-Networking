@@ -4,10 +4,10 @@ tags:
   - Q&A
   - "#faq"
 date: 2025-01-18
-Related: "[[Question]]"
+Related: "[[TungLy/1. Projects/Dự án 2025/Project Template/Questions/Question]]"
 Project: "[[Dự án Mẫu]]"
 Liên kết:
-  - "[[Update-Daily]]"
+  - "[[TungLy/1. Projects/Dự án 2025/Project Template/DailyNotes/Update-Daily]]"
 ---
 # Câu hỏi gợi ý
 ---

@@ -9,7 +9,8 @@ tags:
   - "#report"
   - "#issuelog"
 date: 2024-12-17
-Related: "[[0.Chỉ huy dự án]]"
+Related:
+  - "[[INOAC-Project]]"
 Amis Link: 
 Link: 
 Project: "[[Dự án INOAC]]"

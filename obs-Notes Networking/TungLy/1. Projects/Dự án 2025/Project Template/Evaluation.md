@@ -26,4 +26,4 @@ Liên kết:
 - ✅ [[TungLy/1. Projects/Dự án 2025/Project Template/Scope|Scope]] → Dự án có hoàn thành đúng phạm vi không?
 - ✅ [[TungLy/1. Projects/Dự án 2025/Project Template/Timeline|Timeline]] → Có hoàn thành đúng tiến độ không?
 - ✅ [[TungLy/1. Projects/Dự án 2025/Project Template/Resources|Resources]] → Nguồn lực có đủ không, hiệu quả thế nào?
-- ✅ [[Update-Daily|Task]] → Công việc đã hoàn thành đúng kế hoạch chưa?
+- ✅ [[TungLy/1. Projects/Dự án 2025/Project Template/DailyNotes/Update-Daily|Task]] → Công việc đã hoàn thành đúng kế hoạch chưa?

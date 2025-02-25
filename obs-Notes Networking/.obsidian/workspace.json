@@ -8,51 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "086f33e34cf6de62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TungLy/Area/SSO - NetCore/Cấu hình launchSettings.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Cấu hình launchSettings"
-            }
-          },
-          {
-            "id": "34b118476375da46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TungLy/0. Daily/2025-Feb-7/Sat-2025-02-15 095528.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Sat-2025-02-15 095528"
-            }
-          },
-          {
             "id": "0f01571e7cb2259e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TungLy/Area/External-Link/Data_WareHouse_ETL_Plan.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Data_WareHouse_ETL_Plan"
+            }
+          },
+          {
+            "id": "69c47aa120cd797f",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://confluence.vnresource.net:18001/pages/resumedraft.action?draftId=56656005&draftShareId=eb21d904-d7d7-47bd-8640-ef3d3edf8ce0&",
-                "title": "Edit - Tạo mới API để GET thông tin người phụ trách - Tài liệu PE/CS - Confluence",
+                "url": "https://www.google.com/",
+                "title": "Google",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Edit - Tạo mới API để GET thông tin người phụ trách - Tài liệu PE/CS - Confluence"
+              "title": "Google"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sso",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TungLy/1. Projects/Chỉ Huy dự án/0.Chỉ huy dự án.md",
+                "file": "TungLy/Area/External-Link/Data_WareHouse_ETL_Plan.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -129,7 +113,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 0.Chỉ huy dự án"
+              "title": "Graph of Data_WareHouse_ETL_Plan"
             }
           },
           {
@@ -182,8 +166,92 @@
       {
         "id": "14defbff1cd632f7",
         "type": "tabs",
-        "dimension": 25.67307692307692,
+        "dimension": 53.46153846153846,
         "children": [
+          {
+            "id": "b3fdff58fb6b3991",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "TungLy/Area/External-Link/Data_WareHouse_ETL_Plan.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224422,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Data_WareHouse_ETL_Plan"
+            }
+          },
+          {
+            "id": "2bc316b1dd5b753c",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "TungLy/Area/External-Link/Data_WareHouse_ETL_Plan.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": true,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224422,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Data_WareHouse_ETL_Plan"
+            }
+          },
+          {
+            "id": "5189ede715b5d607",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
           {
             "id": "990f82205a2896ce",
             "type": "leaf",
@@ -200,26 +268,6 @@
             }
           },
           {
-            "id": "5189ede715b5d607",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "bf046dc61cf73b56",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
             "id": "fecb0e422c4896d8",
             "type": "leaf",
             "state": {
@@ -230,12 +278,49 @@
             }
           },
           {
+            "id": "a36b0252c045e82a",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "TungLy/Area/SSO - NetCore/SSO - DotNet core.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": true,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -0.6,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 0.278645833333333,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5359795996225962,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of SSO - DotNet core"
+            }
+          },
+          {
             "id": "b98fab6c7576ed12",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TungLy/0. Daily/2025-Feb-7/Sat-2025-02-15 095528.md",
+                "file": "TungLy/Area/SSO - NetCore/SSO - DotNet core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +330,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sat-2025-02-15 095528"
+              "title": "Backlinks for SSO - DotNet core"
             }
           },
           {
@@ -338,56 +423,12 @@
             }
           }
         ],
-        "currentTab": 4
-      },
-      {
-        "id": "0b36a27d565fae58",
-        "type": "tabs",
-        "dimension": 34.61538461538461,
-        "children": [
-          {
-            "id": "a36b0252c045e82a",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "TungLy/0. Daily/2025-Feb-7/Sat-2025-02-15 095528.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": true,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": -0.6,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 0.278645833333333,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.5359795996225962,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Sat-2025-02-15 095528"
-            }
-          }
-        ]
+        "currentTab": 1
       },
       {
         "id": "bbad2d4043751d61",
         "type": "tabs",
-        "dimension": 39.71153846153846,
+        "dimension": 46.53846153846154,
         "children": [
           {
             "id": "eab1fec0e741d7e2",
@@ -406,7 +447,7 @@
               "type": "mindmap",
               "state": {},
               "icon": "dot-network",
-              "title": "Mind Map of Sat-2025-02-15 095528"
+              "title": "Mind Map of Data_WareHouse_ETL_Plan"
             }
           }
         ],
@@ -414,8 +455,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 518.5,
-    "collapsed": true
+    "width": 518.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -438,62 +478,62 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "91ea0f5f7cc6bb54",
+  "active": "0f01571e7cb2259e",
   "lastOpenFiles": [
-    "TungLy/0. Daily/2025-Feb-7/Sat-2025-02-15 095528.md",
-    "TungLy/0. Daily/2025-Feb-6/update net core - daily.md",
-    "TungLy/0. Daily/2025-Jan-3/2025-Jan-3.md",
-    "TungLy/0. Daily/2025-Jan-4/2025-Jan-4.md",
-    "TungLy/Area/SSO - NetCore/SSO-DotNetCore - cont.md",
-    "TungLy/Area/SSO - NetCore/Hướng dẫn sử dụng Swagger API.md",
-    "TungLy/Area/SSO - NetCore/Cấu hình launchSettings.md",
-    "TungLy/Area/SSO - NetCore/SSO - DotNet core.md",
-    "TungLy/Area/SSO - NetCore/Nháp.md",
-    "TungLy/Area/SSO - NetCore/Hướng dẫn sử dụng đăng nhập identity.md",
-    "TungLy/0. Daily/2024-Dec-52/Mon-2024-12-23 013217.md",
-    "TungLy/0. Daily/2024-Dec-52/Thu-2024-12-26 124452.md",
-    "TungLy/0. Daily/2024-Dec-52/TVC-Hỗ trợ VNPay.md",
-    "TungLy/0. Daily/2025-Feb-7/2025-Feb-7.md",
-    "TungLy/0. Daily/2025-Feb-7/Mon-2025-02-10 083754.md",
-    "TungLy/0. Daily/2025-Jan-3/Mon-2025-01-13 112459.md",
-    "TungLy/0. Daily/2025-Jan-3/Tài liệu hướng dẫn khắc phục vấn đề chậm hệ thống.md",
-    "TungLy/0. Daily/2025-Jan-4/Mon-2025-01-20 091105.md",
-    "TungLy/Area/SSO/SSO web portal.md",
-    "TungLy/Area/SSO/SSO web main.md",
-    "TungLy/Area/SSO/SSO Ứng dụng HRM.md",
-    "TungLy/Area/SSO/SSO mobile app.md",
-    "TungLy/Area/SSO/Identity.md",
-    "TungLy/Area/SSO/Giao thức SSO.md",
-    "TungLy/Area/SSO/0 - SSO là gì.md",
-    "TungLy/0. Daily/2024-Dec-52/Sun-2024-12-29 033906.md",
-    "TungLy/0. Daily/2025-Feb-7",
-    "TungLy/Area/Team Management/Huỳnh Cẩm Tú/User Guide - Mockoon.pdf",
-    "TungLy/Area/Team Management/Huỳnh Cẩm Tú/Hợp đồng bảo hiểm sức khỏe theo nhóm.pdf",
+    "src/Pasted image 20250225095351.png",
+    "TungLy/Area/External-Link/_Index-External.md",
+    "TungLy/Area/External-Link/Data_WareHouse_ETL_Plan.md",
+    "TungLy/Area/External-Link/drawIO/MultiTenant_Structure.drawio - draw.io.md",
+    "src/Pasted image 20250225095149.png",
+    "TungLy/Area/External-Link/drawIO/Kịch bản vận hành SaaS.drawio - draw.io.md",
+    "src/Pasted image 20250225095126.png",
+    "TungLy/Area/External-Link/TemplateGiaiQuyetVanDeHieuQua-TL.md",
+    "TungLy/Area/External-Link/drawIO",
+    "TungLy/Area/External-Link/TaskBoard Thi Công 2025.md",
+    "TungLy/Area/External-Link/PEWVN Corporation - Report weekly - TungLy.md",
+    "Google Docs.md",
+    "TungLy/Area/External-Link/Nhật ký vấn đề.md",
+    "TungLy/Area/External-Link/ITL Corporation - Report weekly.md",
+    "TungLy/Area/External-Link/HRM_Misa-KeHoachDuAn_TrienKhai_SaaS.md",
+    "TungLy/Area/External-Link/Đánh giá dự án.md",
+    "TungLy/Area/External-Link/Confluence_Plan.md",
+    "TungLy/0. MAP.md",
+    "TungLy/Area/External-Link/confluence/JumpServer - server QC.md",
+    "TungLy/Area/External-Link/confluence/SSO - Azure AD.md",
+    "TungLy/Area/External-Link/confluence/VnResource - Training.md",
+    "TungLy/Area/External-Link/confluence/RỦI RO AN NINH THÔNG TIN - SE-Docs - Confluence.md",
+    "TungLy/Area/External-Link/confluence/SSO - Okta.md",
+    "TungLy/Area/External-Link/confluence/SSO - SignIn google.md",
+    "TungLy/Area/External-Link/confluence/Nhật Ký Vấn Đề.md",
+    "TungLy/Area/External-Link/confluence/Nhật Ký Vấn Đề 1.md",
+    "src/Pasted image 20250225090753.png",
+    "TungLy/Area/External-Link/confluence/Bảng  HRM Nội bộ  CÔNG TY CỔ PHẦN TÀI NGUYÊN TRI THỨC VIỆT NĂNG  AMIS Công việc.md",
+    "TungLy/Area/External-Link/confluence",
+    "TungLy/Area/External-Link/TaskBoard Thi Công 2025  ssss.md",
+    "TungLy/Area/External-Link/TaskBoard Thi Công 2025 1.md",
+    "TungLy/Area/External-Link/docs.google.com",
+    "src/Pasted image 20250225082538.png",
+    "TungLy/Area/docs.google.com",
+    "TungLy/Area/External-Link",
+    "TungLy/0. Daily/Clippings/docs.google.com",
+    "TungLy/0. Daily/Clippings/confluence.vnresource.net",
+    "TungLy/0. Daily/Clippings",
+    "TungLy/0. Daily/0. Thinking/obsidian_notes_20250221_083623",
+    "TungLy/0. Daily/obsidian_notes_20250221_083623",
+    "TungLy/0. Daily/obs.png",
+    "TungLy/4. VISUAL NOTES/Canvas/Chỉ huy dự án 2025.canvas",
+    "TungLy/4. VISUAL NOTES/Canvas/Hướng dẫn sử dụng canvas.canvas",
+    "TungLy/4. VISUAL NOTES/Canvas/Chỉ huy dự án 2024.canvas",
+    "TungLy/4. VISUAL NOTES/Kế Hoạch Chuẩn Hóa Tài Liệu.canvas",
+    "TungLy/4. VISUAL NOTES/Hướng dẫn sử dụng canvas.canvas",
+    "TungLy/4. VISUAL NOTES/Canvas/Kế Hoạch Chuẩn Hóa Tài Liệu.canvas",
     "TungLy/Area/Index/Meeting/DuAn/SaaS - VnR/xmind/Hình ảnh/Tham khảo/Meeting_1008/Tenant_05.png",
     "TungLy/Area/Index/Meeting/DuAn/SaaS - VnR/xmind/Hình ảnh/Tham khảo/Meeting_1008/Tenant_04.png",
     "TungLy/Area/Index/Meeting/DuAn/SaaS - VnR/xmind/Hình ảnh/Tham khảo/Meeting_1008/Tenant_03.png",
     "TungLy/Area/Index/Meeting/DuAn/SaaS - VnR/xmind/Hình ảnh/Tham khảo/Meeting_1008/Tenant_02.png",
     "TungLy/Area/Index/Meeting/DuAn/SaaS - VnR/xmind/Hình ảnh/Tham khảo/Meeting_1008/Tenant_01.png",
-    "TungLy/Area/Index/Meeting/DuAn/SaaS - VnR/xmind/Hình ảnh/Saas_TimeLine.png",
-    "TungLy/Area/Index/Meeting/DuAn/SaaS - VnR/xmind/Hình ảnh/Saas_RoadMap.png",
-    "TungLy/Area/Index/Meeting/DuAn/SaaS - VnR/xmind/Hình ảnh/Meeting_3009-Take Notes.png",
-    "TungLy/Area/Index/Meeting/DuAn/SaaS - VnR/xmind/Hình ảnh/Meeting_2907-Take Notes.png",
-    "TungLy/Area/Index/Meeting/DuAn/SaaS - VnR/xmind/Hình ảnh/Meeting_2608/Hop2608_1000002170.jpg",
-    "TungLy/Area/Index/Meeting/DuAn/SaaS - VnR/Documents/Report_MultiTenant-SaaS.pdf",
-    "TungLy/Area/Index/Meeting/DuAn/SaaS - VnR/Documents/Phân Tích Và So Sánh SaaS (on-premesis và on-cloud).pdf",
-    "TungLy/3. ARCHIEVED/SaaS - VnR/Documents/Report_MultiTenant-SaaS.pdf",
-    "TungLy/3. ARCHIEVED/SaaS - VnR/Documents/Phân Tích Và So Sánh SaaS (on-premesis và on-cloud).pdf",
-    "TungLy/0. Daily/Clippings/learn.microsoft.com",
-    "Clippings",
-    "TungLy/0. Daily/Clippings",
-    "TungLy/4. VISUAL NOTES/Hướng dẫn sử dụng canvas.canvas",
     "TungLy/4. VISUAL NOTES/Plan.canvas",
-    "TungLy/4. VISUAL NOTES/Kế Hoạch Chuẩn Hóa Tài Liệu.canvas",
     "TungLy/4. VISUAL NOTES/Canvas/Plan.canvas",
-    "TungLy/4. VISUAL NOTES/Canvas/Kế Hoạch Chuẩn Hóa Tài Liệu.canvas",
-    "TungLy/4. VISUAL NOTES/Canvas/Hướng dẫn sử dụng canvas.canvas",
-    "TungLy/4. VISUAL NOTES/Canvas/Chỉ huy dự án 2025.canvas",
-    "TungLy/4. VISUAL NOTES/Canvas/Chỉ huy dự án 2024.canvas",
     "TungLy-2024/4. VISUAL NOTES/Canvas/Plan.canvas",
     "TungLy-2024/4. VISUAL NOTES/Canvas/Kế Hoạch Chuẩn Hóa Tài Liệu.canvas"
   ]

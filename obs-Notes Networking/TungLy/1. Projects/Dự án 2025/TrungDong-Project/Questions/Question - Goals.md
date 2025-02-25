@@ -4,7 +4,7 @@ tags:
   - Q&A
   - "#faq"
 date: 2025-01-18
-Related: "[[Question]]"
+Related: "[[TungLy/1. Projects/Dự án 2025/TrungDong-Project/Questions/Question]]"
 Project: "[[Dự án TrungDong]]"
 Liên kết:
   - "[[TungLy/1. Projects/Dự án 2025/TrungDong-Project/Goals|Goals]]"

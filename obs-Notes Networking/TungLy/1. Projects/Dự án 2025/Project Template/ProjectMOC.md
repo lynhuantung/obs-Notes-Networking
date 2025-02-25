@@ -14,7 +14,7 @@ Liên kết:
   - "[[TungLy/1. Projects/Dự án 2025/Project Template/Risks|Rủi ro]]"
   - "[[TungLy/1. Projects/Dự án 2025/Project Template/Evaluation|Đánh giá sau dự án]]"
   - "[[TungLy/1. Projects/Dự án 2025/Project Template/Meeting_Notes/Meeting_Notes|Biên bản họp]]"
-  - "[[Update-Daily|Ghi chú hàng ngày]]"
+  - "[[TungLy/1. Projects/Dự án 2025/Project Template/DailyNotes/Update-Daily|Ghi chú hàng ngày]]"
 ---
 # Quản lý hệ thống nhân sự (HRM System)
 

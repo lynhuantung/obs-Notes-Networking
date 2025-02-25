@@ -2,16 +2,19 @@
 	"nodes":[
 		{"id":"ceac05d08147e831","type":"text","text":"Chỉ huy dự án 2025","x":-20,"y":-211,"width":260,"height":60},
 		{"id":"064376b03f3319d7","type":"text","text":"[[TrungDong-Project]]","x":320,"y":-211,"width":200,"height":60},
-		{"id":"3bbf0ea416fb1b99","x":580,"y":-211,"width":250,"height":60,"type":"text","text":"Họp xin nguồn lực"},
-		{"id":"e9b210cd4a8ef3ed","type":"text","text":"[[TrungDong-Project]] Timeline","x":-30,"y":-540,"width":280,"height":60},
-		{"id":"25662b7ea4b73635","x":380,"y":-540,"width":179,"height":60,"type":"text","text":"SE hoàn thành"},
-		{"id":"7f7bc0931f639a10","type":"text","text":"Training khách hàng","x":705,"y":-540,"width":209,"height":60}
+		{"id":"3bbf0ea416fb1b99","type":"text","text":"Họp xin nguồn lực","x":580,"y":-211,"width":250,"height":60},
+		{"id":"378e4c025a723eff","type":"text","text":"[[0.Index -7425|Dự án VnPay]]","x":343,"y":-323,"width":250,"height":60},
+		{"id":"e9b210cd4a8ef3ed","type":"text","text":"[[TrungDong-Project]] Timeline","x":593,"y":-120,"width":280,"height":60},
+		{"id":"25662b7ea4b73635","type":"text","text":"SE hoàn thành","x":1003,"y":-120,"width":179,"height":60},
+		{"id":"7f7bc0931f639a10","type":"text","text":"Training khách hàng","x":1328,"y":-120,"width":209,"height":60}
 	],
 	"edges":[
 		{"id":"3fcff253ed1d659b","fromNode":"ceac05d08147e831","fromSide":"right","toNode":"064376b03f3319d7","toSide":"left"},
 		{"id":"d5dd0e23af1268c3","fromNode":"064376b03f3319d7","fromSide":"right","toNode":"3bbf0ea416fb1b99","toSide":"left"},
 		{"id":"7bcbbbec5d74aadb","fromNode":"e9b210cd4a8ef3ed","fromSide":"right","toNode":"25662b7ea4b73635","toSide":"left","label":"22/01"},
-		{"id":"3737203e8497ec02","fromNode":"25662b7ea4b73635","fromSide":"right","toNode":"7f7bc0931f639a10","toSide":"left","label":"10/02"}
+		{"id":"3737203e8497ec02","fromNode":"25662b7ea4b73635","fromSide":"right","toNode":"7f7bc0931f639a10","toSide":"left","label":"10/02"},
+		{"id":"cf3fdbade755bad1","fromNode":"ceac05d08147e831","fromSide":"right","toNode":"378e4c025a723eff","toSide":"left"},
+		{"id":"b04e47758451a907","fromNode":"064376b03f3319d7","fromSide":"right","toNode":"e9b210cd4a8ef3ed","toSide":"left"}
 	],
 	"metadata":{}
 }
