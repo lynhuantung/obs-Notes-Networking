@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
-  "search": "",
-  "showTags": false,
+  "search": "path:TungLy/Area/External-Link  ",
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
@@ -47,12 +47,12 @@
   "showArrow": true,
   "textFadeMultiplier": -1.1,
   "nodeSizeMultiplier": 1.45260416666667,
-  "lineSizeMultiplier": 0.380729166666667,
+  "lineSizeMultiplier": 1.26119791666667,
   "collapse-forces": false,
   "centerStrength": 0.731770833333333,
   "repelStrength": 8.48958333333333,
   "linkStrength": 0,
   "linkDistance": 416,
-  "scale": 0.3540051368955278,
+  "scale": 0.9755234456829194,
   "close": true
 }

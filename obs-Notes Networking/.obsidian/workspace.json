@@ -13,30 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TungLy/Area/External-Link/Data_WareHouse_ETL_Plan.md",
-                "mode": "source",
+                "file": "TungLy/Area/External-Link/_Index-External.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Data_WareHouse_ETL_Plan"
+              "title": "_Index-External"
             }
           },
           {
             "id": "69c47aa120cd797f",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://www.google.com/",
-                "title": "Google",
-                "mode": "webview"
+                "file": "TungLy/Area/External-Link/google-doc/PEWVN Corporation - Report weekly - TungLy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "globe-2",
-              "title": "Google"
+              "icon": "lucide-file",
+              "title": "PEWVN Corporation - Report weekly - TungLy"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -68,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "https://docs.google.com/spreadsheets/d/1tMzjjpDcEkTwuFzXGsrlmf5OMbmz-JBihBONl5zQbSM/edit?gid=1719353889#gid=1719353889",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TungLy/Area/External-Link/Data_WareHouse_ETL_Plan.md",
+                "file": "TungLy/Area/External-Link/google-doc/PEWVN Corporation - Report weekly - TungLy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -113,7 +115,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Data_WareHouse_ETL_Plan"
+              "title": "Graph of PEWVN Corporation - Report weekly - TungLy"
             }
           },
           {
@@ -174,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TungLy/Area/External-Link/Data_WareHouse_ETL_Plan.md",
+                "file": "TungLy/Area/External-Link/google-doc/PEWVN Corporation - Report weekly - TungLy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -202,7 +204,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Data_WareHouse_ETL_Plan"
+              "title": "Graph of PEWVN Corporation - Report weekly - TungLy"
             }
           },
           {
@@ -211,11 +213,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TungLy/Area/External-Link/Data_WareHouse_ETL_Plan.md",
+                "file": "TungLy/Area/External-Link/google-doc/PEWVN Corporation - Report weekly - TungLy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 2,
+                  "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
@@ -239,7 +241,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Data_WareHouse_ETL_Plan"
+              "title": "Graph of PEWVN Corporation - Report weekly - TungLy"
             }
           },
           {
@@ -447,7 +449,7 @@
               "type": "mindmap",
               "state": {},
               "icon": "dot-network",
-              "title": "Mind Map of Data_WareHouse_ETL_Plan"
+              "title": "Mind Map of PEWVN Corporation - Report weekly - TungLy"
             }
           }
         ],
@@ -478,11 +480,31 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "0f01571e7cb2259e",
+  "active": "69c47aa120cd797f",
   "lastOpenFiles": [
-    "src/Pasted image 20250225095351.png",
+    "TungLy/Area/External-Link/google-doc/BC dự án BĐH tuần.md",
+    "TungLy/Area/External-Link/google-doc/TrungDong Corporation - Report weekly.md",
+    "TungLy/Area/External-Link/google-doc/PEWVN Corporation - Report weekly - TungLy.md",
+    "src/Pasted image 20250301085200.png",
+    "TungLy/Area/External-Link/Remind.md",
+    "TungLy/Area/External-Link/google-doc/VnR HRM Project Upgrade Plan.md",
+    "TungLy/Area/External-Link/google-doc/TaskBoard Thi Công 2025.md",
+    "TungLy/Area/External-Link/google-doc/ITL Corporation - Report weekly.md",
     "TungLy/Area/External-Link/_Index-External.md",
+    "TungLy/Area/External-Link/google-doc/SSF-AVN/SSF-AVN QUẢN LÝ DỰ ÁN SELF SERVICE.md",
+    "TungLy/Area/External-Link/google-doc/Nhật ký vấn đề.md",
+    "TungLy/Area/External-Link/google-doc/HRM_Misa-KeHoachDuAn_TrienKhai_SaaS.md",
+    "TungLy/Area/External-Link/google-doc/Đánh giá dự án.md",
+    "TungLy/Area/External-Link/google-doc/Confluence_Plan.md",
+    "TungLy/Area/External-Link/amis/THÔNG BÁO BAN HÀNH 14-02-2025.md",
+    "TungLy/Area/External-Link/Nhật ký vấn đề.md",
+    "TungLy/Area/External-Link/google-doc/TemplateGiaiQuyetVanDeHieuQua-TL.md",
+    "TungLy/Area/External-Link/google-doc/Data_WareHouse_ETL_Plan.md",
+    "TungLy/Area/External-Link/google-doc",
+    "TungLy/Area/External-Link/amis",
     "TungLy/Area/External-Link/Data_WareHouse_ETL_Plan.md",
+    "TungLy/Area/External-Link/google-doc/SSF-AVN",
+    "src/Pasted image 20250225095351.png",
     "TungLy/Area/External-Link/drawIO/MultiTenant_Structure.drawio - draw.io.md",
     "src/Pasted image 20250225095149.png",
     "TungLy/Area/External-Link/drawIO/Kịch bản vận hành SaaS.drawio - draw.io.md",
@@ -492,34 +514,15 @@
     "TungLy/Area/External-Link/TaskBoard Thi Công 2025.md",
     "TungLy/Area/External-Link/PEWVN Corporation - Report weekly - TungLy.md",
     "Google Docs.md",
-    "TungLy/Area/External-Link/Nhật ký vấn đề.md",
     "TungLy/Area/External-Link/ITL Corporation - Report weekly.md",
-    "TungLy/Area/External-Link/HRM_Misa-KeHoachDuAn_TrienKhai_SaaS.md",
-    "TungLy/Area/External-Link/Đánh giá dự án.md",
-    "TungLy/Area/External-Link/Confluence_Plan.md",
-    "TungLy/0. MAP.md",
-    "TungLy/Area/External-Link/confluence/JumpServer - server QC.md",
-    "TungLy/Area/External-Link/confluence/SSO - Azure AD.md",
-    "TungLy/Area/External-Link/confluence/VnResource - Training.md",
-    "TungLy/Area/External-Link/confluence/RỦI RO AN NINH THÔNG TIN - SE-Docs - Confluence.md",
-    "TungLy/Area/External-Link/confluence/SSO - Okta.md",
-    "TungLy/Area/External-Link/confluence/SSO - SignIn google.md",
-    "TungLy/Area/External-Link/confluence/Nhật Ký Vấn Đề.md",
-    "TungLy/Area/External-Link/confluence/Nhật Ký Vấn Đề 1.md",
     "src/Pasted image 20250225090753.png",
-    "TungLy/Area/External-Link/confluence/Bảng  HRM Nội bộ  CÔNG TY CỔ PHẦN TÀI NGUYÊN TRI THỨC VIỆT NĂNG  AMIS Công việc.md",
     "TungLy/Area/External-Link/confluence",
-    "TungLy/Area/External-Link/TaskBoard Thi Công 2025  ssss.md",
-    "TungLy/Area/External-Link/TaskBoard Thi Công 2025 1.md",
     "TungLy/Area/External-Link/docs.google.com",
     "src/Pasted image 20250225082538.png",
     "TungLy/Area/docs.google.com",
     "TungLy/Area/External-Link",
     "TungLy/0. Daily/Clippings/docs.google.com",
     "TungLy/0. Daily/Clippings/confluence.vnresource.net",
-    "TungLy/0. Daily/Clippings",
-    "TungLy/0. Daily/0. Thinking/obsidian_notes_20250221_083623",
-    "TungLy/0. Daily/obsidian_notes_20250221_083623",
     "TungLy/0. Daily/obs.png",
     "TungLy/4. VISUAL NOTES/Canvas/Chỉ huy dự án 2025.canvas",
     "TungLy/4. VISUAL NOTES/Canvas/Hướng dẫn sử dụng canvas.canvas",
@@ -530,8 +533,6 @@
     "TungLy/Area/Index/Meeting/DuAn/SaaS - VnR/xmind/Hình ảnh/Tham khảo/Meeting_1008/Tenant_05.png",
     "TungLy/Area/Index/Meeting/DuAn/SaaS - VnR/xmind/Hình ảnh/Tham khảo/Meeting_1008/Tenant_04.png",
     "TungLy/Area/Index/Meeting/DuAn/SaaS - VnR/xmind/Hình ảnh/Tham khảo/Meeting_1008/Tenant_03.png",
-    "TungLy/Area/Index/Meeting/DuAn/SaaS - VnR/xmind/Hình ảnh/Tham khảo/Meeting_1008/Tenant_02.png",
-    "TungLy/Area/Index/Meeting/DuAn/SaaS - VnR/xmind/Hình ảnh/Tham khảo/Meeting_1008/Tenant_01.png",
     "TungLy/4. VISUAL NOTES/Plan.canvas",
     "TungLy/4. VISUAL NOTES/Canvas/Plan.canvas",
     "TungLy-2024/4. VISUAL NOTES/Canvas/Plan.canvas",

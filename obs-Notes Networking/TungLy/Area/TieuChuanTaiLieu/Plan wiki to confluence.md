@@ -10,7 +10,7 @@ tags:
 Link kế hoạch: https://docs.google.com/spreadsheets/d/1XpzMOkE41SwzubhcXG_VxWbGo1huGYc0/edit#gid=1699652483
 Related: "[[0.TaiLieu]]"
 ---
-[[Remind]]
+[[TungLy/3. ARCHIEVED/Working/Remind]]
 # **Tiêu đề: Kế hoạch Chuyển Tài Liệu từ Wiki.js sang Confluence**
  
  **Nội dung:**

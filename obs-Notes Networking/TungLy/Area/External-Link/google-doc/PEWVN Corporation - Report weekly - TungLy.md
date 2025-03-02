@@ -10,8 +10,8 @@ tags:
   - google-drive
   - external-link
 Related:
-  - "[[ITL Corporation - Report weekly]]"
   - "[[PEWVN-Project]]"
+Dự Án Tổng: "[[BC dự án BĐH tuần]]"
 ---
 # PEWVN Corporation - Report weekly - TungLy
 - Link :  [PEWVN Corporation - Report weekly - TungLy](https://docs.google.com/spreadsheets/d/1Jt48F8z6EMe2w3B0q5CwhnAT5JwNag_S1wLJZkA5-IY/edit?gid=0#gid=0)

@@ -1,12 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "Data_WareHouse_ETL_Plan",
-      "path": "TungLy/Area/External-Link/Data_WareHouse_ETL_Plan.md"
+      "basename": "PEWVN Corporation - Report weekly - TungLy",
+      "path": "TungLy/Area/External-Link/google-doc/PEWVN Corporation - Report weekly - TungLy.md"
+    },
+    {
+      "basename": "BC dự án BĐH tuần",
+      "path": "TungLy/Area/External-Link/google-doc/BC dự án BĐH tuần.md"
+    },
+    {
+      "basename": "TrungDong Corporation - Report weekly",
+      "path": "TungLy/Area/External-Link/google-doc/TrungDong Corporation - Report weekly.md"
+    },
+    {
+      "basename": "Remind",
+      "path": "TungLy/Area/External-Link/Remind.md"
+    },
+    {
+      "basename": "VnR HRM Project Upgrade Plan",
+      "path": "TungLy/Area/External-Link/google-doc/VnR HRM Project Upgrade Plan.md"
+    },
+    {
+      "basename": "TaskBoard Thi Công 2025",
+      "path": "TungLy/Area/External-Link/google-doc/TaskBoard Thi Công 2025.md"
+    },
+    {
+      "basename": "ITL Corporation - Report weekly",
+      "path": "TungLy/Area/External-Link/google-doc/ITL Corporation - Report weekly.md"
     },
     {
       "basename": "_Index-External",
       "path": "TungLy/Area/External-Link/_Index-External.md"
+    },
+    {
+      "basename": "SSF-AVN QUẢN LÝ DỰ ÁN SELF SERVICE",
+      "path": "TungLy/Area/External-Link/google-doc/SSF-AVN/SSF-AVN QUẢN LÝ DỰ ÁN SELF SERVICE.md"
+    },
+    {
+      "basename": "Nhật ký vấn đề",
+      "path": "TungLy/Area/External-Link/google-doc/Nhật ký vấn đề.md"
+    },
+    {
+      "basename": "HRM_Misa-KeHoachDuAn_TrienKhai_SaaS",
+      "path": "TungLy/Area/External-Link/google-doc/HRM_Misa-KeHoachDuAn_TrienKhai_SaaS.md"
+    },
+    {
+      "basename": "Đánh giá dự án",
+      "path": "TungLy/Area/External-Link/google-doc/Đánh giá dự án.md"
+    },
+    {
+      "basename": "Confluence_Plan",
+      "path": "TungLy/Area/External-Link/google-doc/Confluence_Plan.md"
+    },
+    {
+      "basename": "THÔNG BÁO BAN HÀNH 14-02-2025",
+      "path": "TungLy/Area/External-Link/amis/THÔNG BÁO BAN HÀNH 14-02-2025.md"
     },
     {
       "basename": "MultiTenant_Structure.drawio - draw.io",
@@ -15,38 +63,6 @@
     {
       "basename": "Kịch bản vận hành SaaS.drawio - draw.io",
       "path": "TungLy/Area/External-Link/drawIO/Kịch bản vận hành SaaS.drawio - draw.io.md"
-    },
-    {
-      "basename": "TemplateGiaiQuyetVanDeHieuQua-TL",
-      "path": "TungLy/Area/External-Link/TemplateGiaiQuyetVanDeHieuQua-TL.md"
-    },
-    {
-      "basename": "TaskBoard Thi Công 2025",
-      "path": "TungLy/Area/External-Link/TaskBoard Thi Công 2025.md"
-    },
-    {
-      "basename": "PEWVN Corporation - Report weekly - TungLy",
-      "path": "TungLy/Area/External-Link/PEWVN Corporation - Report weekly - TungLy.md"
-    },
-    {
-      "basename": "Nhật ký vấn đề",
-      "path": "TungLy/Area/External-Link/Nhật ký vấn đề.md"
-    },
-    {
-      "basename": "ITL Corporation - Report weekly",
-      "path": "TungLy/Area/External-Link/ITL Corporation - Report weekly.md"
-    },
-    {
-      "basename": "HRM_Misa-KeHoachDuAn_TrienKhai_SaaS",
-      "path": "TungLy/Area/External-Link/HRM_Misa-KeHoachDuAn_TrienKhai_SaaS.md"
-    },
-    {
-      "basename": "Đánh giá dự án",
-      "path": "TungLy/Area/External-Link/Đánh giá dự án.md"
-    },
-    {
-      "basename": "Confluence_Plan",
-      "path": "TungLy/Area/External-Link/Confluence_Plan.md"
     },
     {
       "basename": "0. MAP",
@@ -183,22 +199,6 @@
     {
       "basename": "Phase2-Kiểm thử-7425",
       "path": "TungLy/1. Projects/Dự án 2025/VnPay-Project-Upgrade-net8-7425/Phases/Phase2-Kiểm thử-7425.md"
-    },
-    {
-      "basename": "Goals",
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Goals.md"
-    },
-    {
-      "basename": "Evaluation",
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Evaluation.md"
-    },
-    {
-      "basename": "0.Guide",
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/0.Guide.md"
-    },
-    {
-      "basename": "0a. ProjectMOC-7425",
-      "path": "TungLy/1. Projects/Dự án 2025/VnPay-Project-Upgrade-net8-7425/0a. ProjectMOC-7425.md"
     }
   ],
   "omittedPaths": []
