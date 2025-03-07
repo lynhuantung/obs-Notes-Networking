@@ -15,6 +15,7 @@ Dự Án Tổng: "[[BC dự án BĐH tuần]]"
 ---
 # VnR HRM Project Upgrade Plan
 - Link :  [[VnR] HRM Project Upgrade Plan](https://docs.google.com/spreadsheets/d/1DFnMBfd06uOBLhMg3k8xMOpC3Z8qiAmnw5E1HA-uYlM/edit?gid=484586985#gid=484586985)
+- Link TL: [[VnPay Upgrade Net8|Upgrade net8 TungLy]]
 
 # Mô tả 
 - Mục đích:

@@ -12,6 +12,8 @@ tags:
   - "#sso"
 Related:
   - "[[0 - SSO là gì]]"
+Bookmarks: 
+Like: true
 ---
 # SSO - Azure AD - SE-Docs - Confluence
 - Link :  [SSO - Azure AD - SE-Docs - Confluence](https://confluence.vnresource.net:18001/display/SED/SSO+-+Azure+AD)

@@ -11,6 +11,8 @@ tags:
   - confluence
 Related:
   - "[[0 - SSO là gì]]"
+Bookmarks: 
+Like: true
 ---
 # SSO - Okta
 - Link :  [SSO - Okta - SE-Docs - Confluence](https://confluence.vnresource.net:18001/display/SED/SSO+-+Okta)

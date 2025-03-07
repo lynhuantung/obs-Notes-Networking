@@ -13,7 +13,7 @@ tags:
   - "#taskboard"
   - external-link
 Related:
-  - "[[PEWVN Corporation - Report weekly - TungLy]]"
+  - "[[PEWVN - weekly]]"
 ---
 # TaskBoard Thi Công 2025
 - Link :  [TaskBoard Thi Công 2025](https://docs.google.com/spreadsheets/d/1iNLYTq27a-4g4qDfToFJt-feOPuIhvNE9iMOfvEhDms/edit?gid=238766275#gid=238766275)

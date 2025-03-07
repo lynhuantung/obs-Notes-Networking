@@ -1,14 +1,18 @@
 ---
-title: "Nhật Ký Vấn Đề"
-url: "https://docs.vnresource.net/vi/general/NhatKyVanDe"
+title: Nhật Ký Vấn Đề
+url: https://docs.vnresource.net/vi/general/NhatKyVanDe
 author:
   - "[[VnR Docs]]"
-owner:
+owner: 
 created: 2025-02-25
-description:
+description: 
 tags:
-  - "external-link tai-lieu confluence"
-Related:
+  - external-link
+  - tai-lieu
+  - confluence
+Related: 
+Bookmarks: 
+Like: true
 ---
 # Nhật Ký Vấn Đề
 - Link :  [Nhật Ký Vấn Đề](https://docs.vnresource.net/vi/general/NhatKyVanDe)

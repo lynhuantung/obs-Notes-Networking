@@ -16,5 +16,13 @@ Dự Án Tổng: "[[BC dự án BĐH tuần]]"
 - Link :  [TrungDong Corporation - Report weekly](https://docs.google.com/spreadsheets/d/1suJKVBG1DtcC5p9g7R-SXclCDL-mqso1j87zT-_ruGc/edit?gid=0#gid=0)
 
 # Mô tả 
-- Mục đích:
+- Mục đích: triển khai phân hệ đánh giá, nhân tài , ngân sách
+
+# Mục tiêu UAT2
+- 23/03 : hoàn thành 18 task modify, 10 bug
+
+
+
+## Các buổi họp
+- [[H-TrungDong-Eva-04032025]] : họp đánh giá 32 task modify
 

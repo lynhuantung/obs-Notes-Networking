@@ -15,6 +15,8 @@
     "phase": "multitext",
     "Liên kết": "multitext",
     "created": "date",
-    "Related": "multitext"
+    "Related": "multitext",
+    "Bookmarks": "multitext",
+    "Like": "checkbox"
   }
 }

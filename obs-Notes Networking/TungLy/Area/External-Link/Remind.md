@@ -1,6 +1,6 @@
 
-[[VnR HRM Project Upgrade Plan]]
-[[PEWVN Corporation - Report weekly - TungLy]] : dự án PEWVN giai đoạn nghiệm thu
+[[Upgrade Net8 - Weekly]]
+[[PEWVN - weekly]] : dự án PEWVN giai đoạn nghiệm thu
 
 ## Quan trọng
 - [[TaskBoard Thi Công 2025]] 

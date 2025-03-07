@@ -1,11 +1,11 @@
 {
   "apiKey": "AIzaSyDzzNPFstLUvT8ZZe8ub10LyRpya_VNCtw",
-  "model": "gemini-pro",
+  "model": "gemini-2.0-flash",
   "prompts": [
     {
       "display": "Tóm tắt (document)",
       "scope": "DOCUMENT",
-      "model": "gemini-pro",
+      "model": "gemini-2.0-flash",
       "config": {
         "topK": 100,
         "topP": 1,
@@ -20,7 +20,7 @@
     {
       "display": "Tóm tắt (selection)",
       "scope": "SELECTION",
-      "model": "gemini-pro",
+      "model": "gemini-2.0-flash",
       "config": {
         "topK": 100,
         "topP": 1,
@@ -35,7 +35,7 @@
     {
       "display": "Viết lại (Selection)",
       "scope": "SELECTION",
-      "model": "gemini-pro",
+      "model": "gemini-2.0-flash",
       "config": {
         "topK": 100,
         "topP": 1,
@@ -50,7 +50,7 @@
     {
       "display": "Tìm từ khóa (Document)",
       "scope": "DOCUMENT",
-      "model": "gemini-pro",
+      "model": "gemini-2.0-flash",
       "config": {
         "topK": 1000,
         "topP": 1,
@@ -65,7 +65,7 @@
     {
       "display": "Viết lại (Document)",
       "scope": "DOCUMENT",
-      "model": "gemini-pro",
+      "model": "gemini-2.0-flash",
       "config": {
         "topK": 1000,
         "topP": 1,
@@ -80,7 +80,7 @@
     {
       "display": "Lập bảng kế hoạch theo prompt đã chọn (selection)",
       "scope": "SELECTION",
-      "model": "gemini-pro",
+      "model": "gemini-2.0-flash",
       "config": {
         "topK": 1000,
         "topP": 1,
@@ -95,7 +95,7 @@
     {
       "display": "Viết nội dung theo prompt đã chọn (selection)",
       "scope": "SELECTION",
-      "model": "gemini-pro",
+      "model": "gemini-2.0-flash",
       "config": {
         "topK": 1,
         "topP": 1,
@@ -110,7 +110,7 @@
     {
       "display": "Từ khóa và đặt câu hỏi (Document)",
       "scope": "DOCUMENT",
-      "model": "gemini-pro",
+      "model": "gemini-2.0-flash",
       "config": {
         "topK": 1,
         "topP": 1,
@@ -125,7 +125,7 @@
     {
       "display": "Generate Text",
       "scope": "SELECTION",
-      "model": "gemini-pro",
+      "model": "gemini-2.0-flash",
       "config": {
         "topK": 1,
         "topP": 1,
@@ -140,7 +140,7 @@
     {
       "display": "Sinh tên file",
       "scope": "DOCUMENT",
-      "model": "gemini-pro",
+      "model": "gemini-2.0-flash",
       "config": {
         "topK": 1,
         "topP": 1,
@@ -154,7 +154,7 @@
     }
   ],
   "chat": {
-    "model": "gemini-pro",
+    "model": "gemini-2.0-flash",
     "config": {
       "topK": 100,
       "topP": 1,

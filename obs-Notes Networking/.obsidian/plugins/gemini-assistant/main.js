@@ -1551,8 +1551,12 @@ var h = class {
     this.model = t2, this.task = e2, this.apiKey = n2, this.stream = s2;
   }
   toString() {
-    let t2 = `https://generativelanguage.googleapis.com/v1/${this.model}:${this.task}`;
-    return this.stream && (t2 += "?alt=sse"), t2;
+    //let t2 = `https://generativelanguage.googleapis.com/v1/${this.model}:${this.task}`;
+    let t = `https://generativelanguage.googleapis.com/v1beta/${this.model}:generateContent?key=${this.apiKey}`;
+    if (this.stream) {
+      t += "&alt=sse";
+    }
+    return t;
   }
 };
 async function E(t2, e2, n2) {

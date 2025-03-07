@@ -26,3 +26,5 @@ Project: "[[Dự án TrungDong]]"
 **Rủi ro:**  
 - [[TungLy/1. Projects/Dự án 2025/TrungDong-Project/Risks|Risks]]
 
+**Giai đoạn tiếp theo:**  [[Phase2-UAT2]]
+
