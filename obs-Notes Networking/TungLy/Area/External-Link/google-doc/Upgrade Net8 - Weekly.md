@@ -20,4 +20,25 @@ Dự Án Tổng: "[[BC dự án BĐH tuần]]"
 # Mô tả 
 - Mục đích:
 	- Upgrade từ net framework lên net8 cho dự án [[Dự án VnPay]]
+- Các vấn đề tồn động
+	- Chưa download excel (done)
+	- Lưới động chưa chạy (đổi cột hiển thị, scheduler task có lưới động....)
+	- Người dùng edit lấy sai thông tin do mapping (done)
+	- Một số api chưa chỉnh lại url đúng (bao.tranDuy đang rà soát)
+	- Chưa logout được (done)
+	- Chưa chạy được scheduler task
+	- Chưa chạy được portal my-app 
+	- 
+
+# Thông tin link
+------------ Thông tin Link -------------
+user đăng nhập : vnr / Qc@@123
+
+main: https://vnpay.dev.local:2801
+portal: https://vnpay.dev.local:2802
+identity:  https://vnpay.dev.local:2800
+hr: https://vnpay.dev.local:2803
+sys: https://vnpay.dev.local:2804
+apiCore: https://vnpay.dev.local:2805
+
 

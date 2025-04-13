@@ -8,7 +8,7 @@ tags:
   - "#project"
 phase:
   - phase1
-Project: "[[Dự án Mẫu]]"
+Project: "[[Dự án VnPay]]"
 Liên kết:
   - "[[TungLy/1. Projects/Dự án 2025/Project Template/Meeting_Notes/Meeting_Notes|Biên bản họp]]"
   - "[[TungLy/1. Projects/Dự án 2025/Project Template/Resources|Nguồn lực dự án]]"

@@ -4,6 +4,7 @@ date: 2024-07-23
 tags:
   - ins_map
   - "#BH"
+  - sys
 ---
 ### Thiết lập bảo hiểm
 #### Cấu hình bảo hiểm
@@ -15,5 +16,5 @@ tags:
 #### 01B-HSB
 #### Phân tích bảo  hiểm
 
-![[Pasted image 20240723092044.png]]
+
 

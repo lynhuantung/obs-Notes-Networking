@@ -5737,8 +5737,8 @@
       "filename": "Upgrade Net8 - Weekly"
     },
     {
-      "path": "TungLy/Area/External-Link/Remind.md",
-      "filename": "Remind"
+      "path": "TungLy/Area/External-Link/Remind-BC-Tuần.md",
+      "filename": "Remind-BC-Tuần"
     },
     {
       "path": "TungLy/Area/External-Link/google-doc/BC dự án BĐH tuần.md",
@@ -5787,6 +5787,278 @@
     {
       "path": "TungLy/0. Daily/2025-Mar-10/Chuyển FormCollection thành FormCollection.md",
       "filename": "Chuyển FormCollection thành FormCollection"
+    },
+    {
+      "path": "TungLy/0. Daily/2025-Mar-11/BC công việc ngày 11-03-2025.md",
+      "filename": "BC công việc ngày 11-03-2025"
+    },
+    {
+      "path": "TungLy/Area/External-Link/google-doc/Tích họp SSO.md",
+      "filename": "Tích họp SSO"
+    },
+    {
+      "path": "TungLy/0. Daily/2025-Mar-11/Optimize entity net8.md",
+      "filename": "Optimize entity net8"
+    },
+    {
+      "path": "TungLy/3. ARCHIEVED/Working/InsurancePages.md",
+      "filename": "InsurancePages"
+    },
+    {
+      "path": "TungLy/Area/Nghiep vụ bảo hiểm/Thiet lập nhan sự.md",
+      "filename": "Thiet lập nhan sự"
+    },
+    {
+      "path": "TungLy/Area/Thành Phần BH/Ca.md",
+      "filename": "Ca"
+    },
+    {
+      "path": "TungLy/Area/Thành Phần BH/Cấu hình BH.md",
+      "filename": "Cấu hình BH"
+    },
+    {
+      "path": "TungLy/Area/Thành Phần BH/Nhân sự.md",
+      "filename": "Nhân sự"
+    },
+    {
+      "path": "TungLy/Area/Thành Phần BH/Lịch sử NV.md",
+      "filename": "Lịch sử NV"
+    },
+    {
+      "path": "TungLy/Area/Thành Phần BH/Chế độ lương.md",
+      "filename": "Chế độ lương"
+    },
+    {
+      "path": "TungLy/Area/Thành Phần BH/Lương Cơ Bản.md",
+      "filename": "Lương Cơ Bản"
+    },
+    {
+      "path": "TungLy/Area/External-Link/google-doc/Kế hoạch đào tạo e-learning.md",
+      "filename": "Kế hoạch đào tạo e-learning"
+    },
+    {
+      "path": "TungLy/Area/SSO - NetCore/Vấn đề chuyển net framework lên net8.md",
+      "filename": "Vấn đề chuyển net framework lên net8"
+    },
+    {
+      "path": "TungLy/0. Daily/2025-Mar-13/Wed-2025-03-26 034935.md",
+      "filename": "Wed-2025-03-26 034935"
+    },
+    {
+      "path": "TungLy/0. Daily/2025-Mar-13/Wed-2025-03-26 035436.md",
+      "filename": "Wed-2025-03-26 035436"
+    },
+    {
+      "path": "TungLy/Area/Training/Front end - Cài đặt môi trường.md",
+      "filename": "Front end - Cài đặt môi trường"
+    },
+    {
+      "path": "TungLy/0. Daily/2025-Mar-14/Cài đặt môi trường nodejs.md",
+      "filename": "Cài đặt môi trường nodejs"
+    },
+    {
+      "path": "TungLy/Area/External-Link/amis/Thư viện  LMS Pro.md",
+      "filename": "Thư viện  LMS Pro"
+    },
+    {
+      "path": "TungLy/Area/AI for DEV/AI coding agent.md",
+      "filename": "AI coding agent"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/NGHIỆP VỤ PHÂN HỆ.md",
+      "filename": "NGHIỆP VỤ PHÂN HỆ"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/Angular.md",
+      "filename": "Angular"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/archive.md",
+      "filename": "archive"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/auto testing.md",
+      "filename": "auto testing"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/BACKEND.md",
+      "filename": "BACKEND"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/bảo hiểm.md",
+      "filename": "bảo hiểm"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/chấm công.md",
+      "filename": "chấm công"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/đánh giá.md",
+      "filename": "đánh giá"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/đào tạo.md",
+      "filename": "đào tạo"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/kiểm thử tích hợp.md",
+      "filename": "kiểm thử tích hợp"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/KTX.md",
+      "filename": "KTX"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/laundry - khảo sát.md",
+      "filename": "laundry - khảo sát"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/lương.md",
+      "filename": "lương"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/Manual testing.md",
+      "filename": "Manual testing"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/message queue- rabit MQ - kafka.md",
+      "filename": "message queue- rabit MQ - kafka"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/microservice api gateway.md",
+      "filename": "microservice api gateway"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/MongoDB.md",
+      "filename": "MongoDB"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/NET.md",
+      "filename": "NET"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/network.md",
+      "filename": "network"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/nhà ăn.md",
+      "filename": "nhà ăn"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/nhân sự.md",
+      "filename": "nhân sự"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/NodeJS.md",
+      "filename": "NodeJS"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/photoshop.md",
+      "filename": "photoshop"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/Php.md",
+      "filename": "Php"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/Python.md",
+      "filename": "Python"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/QC.md",
+      "filename": "QC"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/quản lý cửa sổ chat.md",
+      "filename": "quản lý cửa sổ chat"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/React native.md",
+      "filename": "React native"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/redis cache.md",
+      "filename": "redis cache"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/Ruby.md",
+      "filename": "Ruby"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/source control.md",
+      "filename": "source control"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/SQL.md",
+      "filename": "SQL"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/talent.md",
+      "filename": "talent"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/task management thông báo.md",
+      "filename": "task management thông báo"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/thi tuyển online.md",
+      "filename": "thi tuyển online"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/thiết bị.md",
+      "filename": "thiết bị"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/thiết kế giao diện.md",
+      "filename": "thiết kế giao diện"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/thuế.md",
+      "filename": "thuế"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/tin tức.md",
+      "filename": "tin tức"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/Tuyển dụng.md",
+      "filename": "Tuyển dụng"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/tuyển dụng online.md",
+      "filename": "tuyển dụng online"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/viết và thực hiện testcase.md",
+      "filename": "viết và thực hiện testcase"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/web service.md",
+      "filename": "web service"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/Window server.md",
+      "filename": "Window server"
+    },
+    {
+      "path": "TungLy/Area/Ma trận năng lực/y tế.md",
+      "filename": "y tế"
+    },
+    {
+      "path": "TungLy/0. Daily/2025-Apr-14/Bài giảng mẫu.md",
+      "filename": "Bài giảng mẫu"
+    },
+    {
+      "path": "TungLy/0. Daily/2025-Apr-14/AI Cursor.md",
+      "filename": "AI Cursor"
+    },
+    {
+      "path": "TungLy/Area/Training/Front end - buổi 2 - xây dựng giao diện.md",
+      "filename": "Front end - buổi 2 - xây dựng giao diện"
+    },
+    {
+      "path": "TungLy/Area/External-Link/amis/Quản lý công việc - WorkAssignment.md",
+      "filename": "Quản lý công việc - WorkAssignment"
     }
   ]
 }

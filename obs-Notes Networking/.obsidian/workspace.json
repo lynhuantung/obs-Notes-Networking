@@ -1,63 +1,153 @@
 {
   "main": {
-    "id": "f272e999d55476af",
+    "id": "dc5f3fdf880d6edb",
     "type": "split",
     "children": [
       {
-        "id": "15ad24db793106b3",
+        "id": "2b83f77ae8b5c17e",
         "type": "tabs",
         "children": [
           {
-            "id": "0f01571e7cb2259e",
+            "id": "f86afda648b423a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TungLy/0. Daily/2025-Mar-10/Chuyển FormCollection thành FormCollection.md",
+                "file": "TungLy/Area/External-Link/google-doc/BC dự án BĐH tuần.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Chuyển FormCollection thành FormCollection"
+              "title": "BC dự án BĐH tuần"
             }
           },
           {
-            "id": "701db8aaaa8447d0",
+            "id": "7a3a2aca852041af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TungLy/Area/External-Link/google-doc/Upgrade Net8 - Weekly.md",
+                "file": "TungLy/Area/External-Link/amis/Quản lý công việc - WorkAssignment.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Upgrade Net8 - Weekly"
+              "title": "Quản lý công việc - WorkAssignment"
             }
           }
         ],
         "currentTab": 1
-      },
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2bf347fcaf65e404",
+    "type": "split",
+    "children": [
       {
-        "id": "508689084ddd7b8a",
+        "id": "655e5540fedf9120",
         "type": "tabs",
         "children": [
           {
-            "id": "574ce37d840262b6",
+            "id": "1feec03bd20c4df3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f633e3d38407e299",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"TungLy/Area/Ma trận năng lực/\" ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "96440e32172167a7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "5e8d3f95fd53196b",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5eba6b8178b91347",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b6cf87f700b2ac6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38be39374142862f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TungLy/Area/Training/Front end - buổi 2 - xây dựng giao diện.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Front end - buổi 2 - xây dựng giao diện"
+            }
+          },
+          {
+            "id": "56e1d4865ca0c4f1",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TungLy/Area/External-Link/google-doc/Upgrade Net8 - Weekly.md",
+                "file": "TungLy/Area/External-Link/amis/Quản lý công việc - WorkAssignment.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": true,
+                  "localInterlinks": false,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
@@ -73,222 +163,45 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.713275462622442,
+                  "scale": 0.7132754626224423,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Upgrade Net8 - Weekly"
+              "title": "Graph of Quản lý công việc - WorkAssignment"
             }
-          }
-        ]
-      }
-    ],
-    "direction": "vertical"
-  },
-  "left": {
-    "id": "5fa1d1ffd240aa16",
-    "type": "split",
-    "children": [
-      {
-        "id": "a6d897d15b263aa0",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "91ea0f5f7cc6bb54",
+            "id": "0cb5137cce0b5df8",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "outgoing-link",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "file": "TungLy/Area/Training/Front end - buổi 2 - xây dựng giao diện.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "icon": "links-going-out",
+              "title": "Outgoing links from Front end - buổi 2 - xây dựng giao diện"
             }
           },
           {
-            "id": "0f73733ebf6ce86d",
+            "id": "70928ef1bb5fdfdf",
             "type": "leaf",
             "state": {
-              "type": "search",
+              "type": "outline",
               "state": {
-                "query": "",
-                "matchingCase": true,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "byCreatedTime"
+                "file": "TungLy/Area/Training/Front end - buổi 2 - xây dựng giao diện.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
-              "icon": "lucide-search",
-              "title": "Search"
+              "icon": "lucide-list",
+              "title": "Outline of Front end - buổi 2 - xây dựng giao diện"
             }
           },
           {
-            "id": "95c95a21082fb188",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "TungLy/Area/External-Link/google-doc/PEWVN Corporation - Report weekly - TungLy.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": true,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": -1.8,
-                  "nodeSizeMultiplier": 1.03151041666667,
-                  "lineSizeMultiplier": 0.44453125,
-                  "collapse-forces": false,
-                  "centerStrength": 1,
-                  "repelStrength": 20,
-                  "linkStrength": 1,
-                  "linkDistance": 500,
-                  "scale": 0.5087618855792595,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of PEWVN Corporation - Report weekly - TungLy"
-            }
-          },
-          {
-            "id": "db08bf2a26f6b74e",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "452f8daacddc2fc1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TungLy/Drafts-Nháp.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Drafts-Nháp"
-            }
-          },
-          {
-            "id": "74f5c6d78eb7a264",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 457.5
-  },
-  "right": {
-    "id": "b4716a1b82e52f01",
-    "type": "split",
-    "children": [
-      {
-        "id": "14defbff1cd632f7",
-        "type": "tabs",
-        "dimension": 53.46153846153846,
-        "children": [
-          {
-            "id": "b3fdff58fb6b3991",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "TungLy/Area/External-Link/google-doc/PEWVN Corporation - Report weekly - TungLy.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7132754626224422,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of PEWVN Corporation - Report weekly - TungLy"
-            }
-          },
-          {
-            "id": "2bc316b1dd5b753c",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "TungLy/Area/External-Link/google-doc/Upgrade Net8 - Weekly.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": true,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7132754626224422,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Upgrade Net8 - Weekly"
-            }
-          },
-          {
-            "id": "5189ede715b5d607",
+            "id": "888318624db4b342",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -298,7 +211,17 @@
             }
           },
           {
-            "id": "990f82205a2896ce",
+            "id": "d1e6253e6d328aa7",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          },
+          {
+            "id": "3ffc83c732d434fc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -311,196 +234,13 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "fecb0e422c4896d8",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Smart Chat Conversation View"
-            }
-          },
-          {
-            "id": "a36b0252c045e82a",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "TungLy/Area/External-Link/google-doc/Upgrade Net8 - Weekly.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": true,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": -0.6,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 0.278645833333333,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.3823010968769988,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Upgrade Net8 - Weekly"
-            }
-          },
-          {
-            "id": "b98fab6c7576ed12",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "TungLy/Area/SSO - NetCore/SSO - DotNet core.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for SSO - DotNet core"
-            }
-          },
-          {
-            "id": "a0905101f13d8bc9",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "TungLy/0. Daily/2024-Oct-44/2024-10-29 084723.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 2024-10-29 084723"
-            }
-          },
-          {
-            "id": "0e003c9c44cd3ad9",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "TungLy/0. Daily/2025-Feb-7/Sat-2025-02-15 095528.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Sat-2025-02-15 095528"
-            }
-          },
-          {
-            "id": "ad77a82d4f7b626f",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "807d8a0e4a05b7ad",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {},
-              "icon": "clock",
-              "title": "Reminders"
-            }
-          },
-          {
-            "id": "d6dacbac958623c2",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "885ab20d7a2b3edf",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {},
-              "icon": "clock",
-              "title": "Reminders"
-            }
-          },
-          {
-            "id": "717f09ae17160738",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {},
-              "icon": "clock",
-              "title": "Reminders"
-            }
-          },
-          {
-            "id": "212bbc8847dd5070",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "bbad2d4043751d61",
-        "type": "tabs",
-        "dimension": 46.53846153846154,
-        "children": [
-          {
-            "id": "eab1fec0e741d7e2",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {},
-              "icon": "clock",
-              "title": "Reminders"
-            }
-          },
-          {
-            "id": "272c5ae4a0f86065",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {},
-              "icon": "dot-network",
-              "title": "Mind Map of Upgrade Net8 - Weekly"
-            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 518.5,
+    "width": 603.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -510,9 +250,9 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
       "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false,
-      "zk-prefixer:Create new unique note": false,
       "publish:Publish changes...": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "gemini-assistant:New Gemini chat": false,
@@ -524,63 +264,49 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "701db8aaaa8447d0",
+  "active": "7a3a2aca852041af",
   "lastOpenFiles": [
-    "TungLy/Area/External-Link/Remind.md",
-    "TungLy/0. Daily/2025-Mar-10/Chuyển FormCollection thành FormCollection.md",
-    "TungLy/Area/External-Link/google-doc/VnPay Upgrade Net8.md",
-    "TungLy/0. Daily/2025-Mar-10",
-    "TungLy/Area/External-Link/google-doc/Upgrade Net8 - Weekly.md",
+    "src/Pasted image 20250410105455.png",
+    "TungLy/Area/External-Link/amis/Quản lý công việc - WorkAssignment.md",
+    "TungLy/1. Projects/Dự án 2025/VnPay-Project-Upgrade-net8-7425/1. Goals-7425.md",
+    "TungLy/1. Projects/Dự án 2025/VnPay-Project-Upgrade-net8-7425/2. Scope-7425.md",
+    "TungLy/1. Projects/Dự án 2025/VnPay-Project-Upgrade-net8-7425/3. Timeline-7425.md",
+    "TungLy/1. Projects/Dự án 2025/VnPay-Project-Upgrade-net8-7425/4. Evaluation-7425.md",
+    "TungLy/1. Projects/Dự án 2025/VnPay-Project-Upgrade-net8-7425/5. Resources-7425.md",
+    "TungLy/1. Projects/Dự án 2025/VnPay-Project-Upgrade-net8-7425/6. Risks-7425.md",
+    "TungLy/1. Projects/Dự án 2025/Project Template/Goals.md",
+    "TungLy/1. Projects/Dự án 2025/VnPay-Project-Upgrade-net8-7425/0a. ProjectMOC-7425.md",
+    "TungLy/1. Projects/Dự án 2025/VnPay-Project-Upgrade-net8-7425/0.Index -7425.md",
+    "TungLy/1. Projects/Dự án 2025/VnPay-Project-Upgrade-net8-7425/DailyNotes/Update-Daily-7425.md",
     "TungLy/3. ARCHIEVED/Danh sách dự án/Dự án VnPay.md",
+    "TungLy/Area/Thành Phần BH/0. Index - BH.md",
+    "TungLy/Area/Training/Front end - buổi 2 - xây dựng giao diện.md",
+    "src/Pasted image 20250405091344.png",
+    "TungLy/Area/Training/Front end - Cài đặt môi trường.md",
+    "TungLy/Area/Training",
+    "TungLy/Area/AI for DEV/AI coding agent.md",
+    "TungLy/0. Daily/2025-Apr-14/AI Cursor.md",
+    "src/Pasted image 20250404150449.png",
+    "TungLy/0. Daily/2025-Apr-14/Fri-2025-04-04 025644.md",
     "TungLy/Area/External-Link/google-doc/BC dự án BĐH tuần.md",
-    "TungLy/Area/External-Link/google-doc/TrungDong - weekly.md",
-    "TungLy/Area/External-Link/google-doc/PEWVN - weekly.md",
-    "TungLy/Area/External-Link/_Index-External.md",
-    "TungLy/Area/Index/NhatKyVanDe/NhatKyVanDe - CheckLink.md",
-    "TungLy/Area/Index/TaiLieu/TieuChuanTaiLieu/Tieuchuan_30052024 1.md",
-    "TungLy/Area/TieuChuanTaiLieu/Tieuchuan_30052024.md",
-    "TungLy/Area/TieuChuanTaiLieu/Tóm-tắt-tiêu-chuẩn-SE-Nghĩa.md",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Meeting_Notes/H-TrungDong-Eva-04032025.md",
-    "TungLy/3. ARCHIEVED/Danh sách dự án/Dự án TrungDong.md",
-    "TungLy/3. ARCHIEVED/Danh sách dự án/0. Danh sách dự án.md",
-    "smart-chats",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Resources.md",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Phases/Phase2-Training/Phase2-UAT2.md",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Phases/Phase2-Training/Phase2-Training.md",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Phases/Phase2-Training/TrungDong-Project.md",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Phases/Phase2-Training/Task-TrungDong.md",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Timeline.md",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Meeting_Notes/H-TrungDong-Eva-06012025.md",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Meeting_Notes/0.H-TrungDong.md",
-    "TungLy/Area/External-Link/confluence/VnResource - Training.md",
-    "TungLy/Area/External-Link/confluence/Nhật Ký Vấn Đề.md",
-    "src/Pasted image 20250301085200.png",
-    "TungLy/Area/External-Link/google-doc",
-    "TungLy/Area/External-Link/amis",
-    "TungLy/Area/External-Link/google-doc/SSF-AVN",
-    "src/Pasted image 20250225095351.png",
-    "src/Pasted image 20250225095149.png",
-    "src/Pasted image 20250225095126.png",
-    "TungLy/Area/External-Link/drawIO",
-    "src/Pasted image 20250225090753.png",
-    "TungLy/Area/External-Link/confluence",
-    "TungLy/Area/External-Link/docs.google.com",
-    "src/Pasted image 20250225082538.png",
-    "TungLy/Area/docs.google.com",
-    "TungLy/Area/External-Link",
-    "TungLy/0. Daily/obs.png",
-    "TungLy/4. VISUAL NOTES/Canvas/Chỉ huy dự án 2025.canvas",
-    "TungLy/4. VISUAL NOTES/Canvas/Hướng dẫn sử dụng canvas.canvas",
-    "TungLy/4. VISUAL NOTES/Canvas/Chỉ huy dự án 2024.canvas",
-    "TungLy/4. VISUAL NOTES/Kế Hoạch Chuẩn Hóa Tài Liệu.canvas",
-    "TungLy/4. VISUAL NOTES/Hướng dẫn sử dụng canvas.canvas",
-    "TungLy/4. VISUAL NOTES/Canvas/Kế Hoạch Chuẩn Hóa Tài Liệu.canvas",
-    "TungLy/Area/Index/Meeting/DuAn/SaaS - VnR/xmind/Hình ảnh/Tham khảo/Meeting_1008/Tenant_05.png",
-    "TungLy/Area/Index/Meeting/DuAn/SaaS - VnR/xmind/Hình ảnh/Tham khảo/Meeting_1008/Tenant_04.png",
-    "TungLy/Area/Index/Meeting/DuAn/SaaS - VnR/xmind/Hình ảnh/Tham khảo/Meeting_1008/Tenant_03.png",
-    "TungLy/4. VISUAL NOTES/Plan.canvas",
-    "TungLy/4. VISUAL NOTES/Canvas/Plan.canvas",
-    "TungLy-2024/4. VISUAL NOTES/Canvas/Plan.canvas",
-    "TungLy-2024/4. VISUAL NOTES/Canvas/Kế Hoạch Chuẩn Hóa Tài Liệu.canvas"
+    "TungLy/Area/External-Link/Remind-BC-Tuần.md",
+    "TungLy/Area/External-Link/google-doc/TaskBoard Thi Công 2025.md",
+    "TungLy/Area/External-Link/google-doc/VnPay Upgrade Net8.md",
+    "TungLy/Area/External-Link/google-doc/Upgrade Net8 - Weekly.md",
+    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Goals.md",
+    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Evaluation.md",
+    "TungLy/0. Daily/2025-Apr-14",
+    "TungLy/Area/Ma trận năng lực",
+    "TungLy/Area/Ma trận năng lực",
+    "src/Pasted image 20250402150747.png",
+    "src/Pasted image 20250402150649.png",
+    "src/Pasted image 20250402150428.png",
+    "src/Pasted image 20250402150329.png",
+    "TungLy/Area/AI for DEV",
+    "src/Pasted image 20250331143242.png",
+    "src/Pasted image 20250331111345.png",
+    "src/Pasted image 20250331111231.png",
+    "src/Pasted image 20250331111120.png",
+    "TungLy/0. Daily/2025-Mar-14"
   ]
 }
