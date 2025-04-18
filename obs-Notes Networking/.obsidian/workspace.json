@@ -8,37 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f86afda648b423a2",
+            "id": "f50da628918d75ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TungLy/Area/External-Link/google-doc/BC dự án BĐH tuần.md",
+                "file": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Index.cshtml.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "BC dự án BĐH tuần"
+              "title": "Index.cshtml"
             }
           },
           {
-            "id": "7a3a2aca852041af",
+            "id": "a803eaf177bee312",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "TungLy/Area/External-Link/amis/Quản lý công việc - WorkAssignment.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "url": "https://docs.google.com/spreadsheets/d/1m99RI4oNq5mbJ4TlI9RdJK1DkkJDFL3tcwH4RkOQ1AA/edit?gid=706886181#gid=706886181",
+                "title": "KẾ HOẠCH ĐÀO TẠO NỘI BỘ - Google Sheets",
+                "mode": "webview"
               },
-              "icon": "lucide-file",
-              "title": "Quản lý công việc - WorkAssignment"
+              "icon": "globe-2",
+              "title": "KẾ HOẠCH ĐÀO TẠO NỘI BỘ - Google Sheets"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TungLy/Area/Training/Front end - buổi 2 - xây dựng giao diện.md",
+                "file": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Index.cshtml.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Front end - buổi 2 - xây dựng giao diện"
+              "title": "Backlinks for Index.cshtml"
             }
           },
           {
@@ -140,11 +138,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TungLy/Area/External-Link/amis/Quản lý công việc - WorkAssignment.md",
+                "file": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Index.cshtml.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 4,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -168,7 +166,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Quản lý công việc - WorkAssignment"
+              "title": "Graph of Index.cshtml"
             }
           },
           {
@@ -177,12 +175,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TungLy/Area/Training/Front end - buổi 2 - xây dựng giao diện.md",
+                "file": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Index.cshtml.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Front end - buổi 2 - xây dựng giao diện"
+              "title": "Outgoing links from Index.cshtml"
             }
           },
           {
@@ -191,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TungLy/Area/Training/Front end - buổi 2 - xây dựng giao diện.md",
+                "file": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Index.cshtml.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Front end - buổi 2 - xây dựng giao diện"
+              "title": "Outline of Index.cshtml"
             }
           },
           {
@@ -240,8 +238,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 603.5,
-    "collapsed": true
+    "width": 603.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,49 +261,53 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "7a3a2aca852041af",
+  "active": "f50da628918d75ac",
   "lastOpenFiles": [
-    "src/Pasted image 20250410105455.png",
-    "TungLy/Area/External-Link/amis/Quản lý công việc - WorkAssignment.md",
-    "TungLy/1. Projects/Dự án 2025/VnPay-Project-Upgrade-net8-7425/1. Goals-7425.md",
-    "TungLy/1. Projects/Dự án 2025/VnPay-Project-Upgrade-net8-7425/2. Scope-7425.md",
-    "TungLy/1. Projects/Dự án 2025/VnPay-Project-Upgrade-net8-7425/3. Timeline-7425.md",
-    "TungLy/1. Projects/Dự án 2025/VnPay-Project-Upgrade-net8-7425/4. Evaluation-7425.md",
-    "TungLy/1. Projects/Dự án 2025/VnPay-Project-Upgrade-net8-7425/5. Resources-7425.md",
-    "TungLy/1. Projects/Dự án 2025/VnPay-Project-Upgrade-net8-7425/6. Risks-7425.md",
-    "TungLy/1. Projects/Dự án 2025/Project Template/Goals.md",
-    "TungLy/1. Projects/Dự án 2025/VnPay-Project-Upgrade-net8-7425/0a. ProjectMOC-7425.md",
-    "TungLy/1. Projects/Dự án 2025/VnPay-Project-Upgrade-net8-7425/0.Index -7425.md",
-    "TungLy/1. Projects/Dự án 2025/VnPay-Project-Upgrade-net8-7425/DailyNotes/Update-Daily-7425.md",
-    "TungLy/3. ARCHIEVED/Danh sách dự án/Dự án VnPay.md",
-    "TungLy/Area/Thành Phần BH/0. Index - BH.md",
-    "TungLy/Area/Training/Front end - buổi 2 - xây dựng giao diện.md",
-    "src/Pasted image 20250405091344.png",
-    "TungLy/Area/Training/Front end - Cài đặt môi trường.md",
-    "TungLy/Area/Training",
-    "TungLy/Area/AI for DEV/AI coding agent.md",
-    "TungLy/0. Daily/2025-Apr-14/AI Cursor.md",
-    "src/Pasted image 20250404150449.png",
-    "TungLy/0. Daily/2025-Apr-14/Fri-2025-04-04 025644.md",
-    "TungLy/Area/External-Link/google-doc/BC dự án BĐH tuần.md",
-    "TungLy/Area/External-Link/Remind-BC-Tuần.md",
-    "TungLy/Area/External-Link/google-doc/TaskBoard Thi Công 2025.md",
-    "TungLy/Area/External-Link/google-doc/VnPay Upgrade Net8.md",
+    "src/Pasted image 20250418173210.png",
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Cat_BankController.md",
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Index.cshtml.md",
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankInfo.cshtml.md",
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankController.md",
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/ConstantDisplay.md",
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankDemoEntity.md",
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Cat_GetDataController.md",
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankDemoSearchModel.md",
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankDemoModel.md",
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/2 - search.md",
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search",
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/2a - kich bản tìm kiếm.md",
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/1 - Giới thiệu.md",
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/1a - lời thoại giới thiệu.md",
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Đào tạo nv mới.md",
+    "src/Pasted image 20250418171113.png",
+    "src/Pasted image 20250418170932.png",
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/modify.md",
+    "src/Pasted image 20250418164613.png",
+    "src/Pasted image 20250418164100.png",
+    "src/Pasted image 20250418163919.png",
+    "src/Pasted image 20250418162928.png",
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Kế hoạch đào tạo nv mới.md",
+    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/BrainStorming/Brain Storming 1.md",
+    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/BrainStorming/Links/TrungDong Corporation.md",
+    "TungLy/1. Projects/Dự án 2025/VnPay-Project/Meeting_Notes/H-VnPay-Att-17042025.md",
     "TungLy/Area/External-Link/google-doc/Upgrade Net8 - Weekly.md",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Goals.md",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Evaluation.md",
+    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Meeting_Notes/H-TrungDong-Eva-06012025.md",
+    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/BrainStorming/Links",
+    "src/Pasted image 20250417155602.png",
+    "TungLy/Area/External-Link/google-doc/BC dự án BĐH tuần.md",
+    "TungLy/1. Projects/Dự án 2025/VnPay-Project/BrainStorming/Links/VnR HRM Project Upgrade Plan.md",
+    "TungLy/Area/External-Link/Remind-BC-Tuần.md",
+    "src/Pasted image 20250417115651.png",
+    "TungLy/0. Daily/0. Thinking/Kế hoạch đào tạo nv mới.md",
+    "kế hoạch đào tạo",
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao",
+    "TungLy/1. Projects/Dự án 2025/VnPay-Project/BrainStorming/Links",
+    "TungLy/1. Projects/Dự án 2025/VnPay-Project/BrainStorming",
+    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/BrainStorming",
+    "src/Pasted image 20250410105455.png",
+    "src/Pasted image 20250405091344.png",
+    "TungLy/Area/Training",
     "TungLy/0. Daily/2025-Apr-14",
-    "TungLy/Area/Ma trận năng lực",
-    "TungLy/Area/Ma trận năng lực",
-    "src/Pasted image 20250402150747.png",
-    "src/Pasted image 20250402150649.png",
-    "src/Pasted image 20250402150428.png",
-    "src/Pasted image 20250402150329.png",
-    "TungLy/Area/AI for DEV",
-    "src/Pasted image 20250331143242.png",
-    "src/Pasted image 20250331111345.png",
-    "src/Pasted image 20250331111231.png",
-    "src/Pasted image 20250331111120.png",
-    "TungLy/0. Daily/2025-Mar-14"
+    "TungLy/Area/Ma trận năng lực"
   ]
 }

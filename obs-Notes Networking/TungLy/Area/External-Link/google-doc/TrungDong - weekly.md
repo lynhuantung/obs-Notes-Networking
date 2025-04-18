@@ -24,5 +24,5 @@ Dự Án Tổng: "[[BC dự án BĐH tuần]]"
 
 
 ## Các buổi họp
-- [[H-TrungDong-Eva-04032025]] : họp đánh giá 32 task modify
+- [[H-VnPay-Att-17042025]] : họp đánh giá 32 task modify
 
