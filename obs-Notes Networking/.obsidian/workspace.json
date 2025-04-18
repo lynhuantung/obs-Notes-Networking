@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Index.cshtml.md",
+                "file": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Cat_BankController.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Index.cshtml"
+              "title": "Cat_BankController"
             }
           },
           {
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Index.cshtml.md",
+                "file": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Cat_BankController.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Index.cshtml"
+              "title": "Backlinks for Cat_BankController"
             }
           },
           {
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Index.cshtml.md",
+                "file": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Cat_BankController.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -152,7 +152,7 @@
                   "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": true,
-                  "showArrow": false,
+                  "showArrow": true,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
@@ -166,7 +166,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Index.cshtml"
+              "title": "Graph of Cat_BankController"
             }
           },
           {
@@ -175,12 +175,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Index.cshtml.md",
+                "file": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Cat_BankController.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Index.cshtml"
+              "title": "Outgoing links from Cat_BankController"
             }
           },
           {
@@ -189,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Index.cshtml.md",
+                "file": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Cat_BankController.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Index.cshtml"
+              "title": "Outline of Cat_BankController"
             }
           },
           {
@@ -263,20 +263,20 @@
   },
   "active": "f50da628918d75ac",
   "lastOpenFiles": [
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankController.md",
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Index.cshtml.md",
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Cat_GetDataController.md",
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/1 - Giới thiệu.md",
     "src/Pasted image 20250418173210.png",
     "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Cat_BankController.md",
-    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Index.cshtml.md",
     "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankInfo.cshtml.md",
-    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankController.md",
     "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/ConstantDisplay.md",
     "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankDemoEntity.md",
-    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Cat_GetDataController.md",
     "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankDemoSearchModel.md",
     "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankDemoModel.md",
     "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/2 - search.md",
     "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search",
     "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/2a - kich bản tìm kiếm.md",
-    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/1 - Giới thiệu.md",
     "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/1a - lời thoại giới thiệu.md",
     "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Đào tạo nv mới.md",
     "src/Pasted image 20250418171113.png",
@@ -305,7 +305,6 @@
     "TungLy/1. Projects/Dự án 2025/VnPay-Project/BrainStorming",
     "TungLy/1. Projects/Dự án 2025/TrungDong-Project/BrainStorming",
     "src/Pasted image 20250410105455.png",
-    "src/Pasted image 20250405091344.png",
     "TungLy/Area/Training",
     "TungLy/0. Daily/2025-Apr-14",
     "TungLy/Area/Ma trận năng lực"
