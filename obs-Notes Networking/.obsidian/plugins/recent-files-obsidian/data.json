@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "CatBankController",
+      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankController.md"
+    },
+    {
+      "basename": "Cat_BankController",
+      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Cat_BankController.md"
+    },
+    {
+      "basename": "Cat_GetDataController",
+      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Cat_GetDataController.md"
+    },
+    {
+      "basename": "CatBankDemoEntity",
+      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankDemoEntity.md"
+    },
+    {
+      "basename": "CatBankInfo.cshtml",
+      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankInfo.cshtml.md"
+    },
+    {
+      "basename": "0 - Index.cshtml",
+      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/0 - Index.cshtml.md"
+    },
+    {
+      "basename": "CatBankDemoSearchModel",
+      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankDemoSearchModel.md"
+    },
+    {
+      "basename": "CatBankDemoModel",
+      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankDemoModel.md"
+    },
+    {
+      "basename": "ConstantDisplay",
+      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/ConstantDisplay.md"
+    },
+    {
+      "basename": "modify",
+      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/modify.md"
+    },
+    {
       "basename": "2 - search",
       "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/2 - search.md"
     },
@@ -37,48 +77,8 @@
       "path": "TungLy/Area/Learning/Angular -Portal/Angular-portal.md"
     },
     {
-      "basename": "Index.cshtml",
-      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Index.cshtml.md"
-    },
-    {
-      "basename": "CatBankInfo.cshtml",
-      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankInfo.cshtml.md"
-    },
-    {
-      "basename": "ConstantDisplay",
-      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/ConstantDisplay.md"
-    },
-    {
-      "basename": "CatBankDemoEntity",
-      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankDemoEntity.md"
-    },
-    {
-      "basename": "Cat_GetDataController",
-      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Cat_GetDataController.md"
-    },
-    {
-      "basename": "CatBankDemoSearchModel",
-      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankDemoSearchModel.md"
-    },
-    {
-      "basename": "CatBankDemoModel",
-      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankDemoModel.md"
-    },
-    {
-      "basename": "CatBankController",
-      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankController.md"
-    },
-    {
-      "basename": "Cat_BankController",
-      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Cat_BankController.md"
-    },
-    {
       "basename": "Đào tạo nv mới",
       "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Đào tạo nv mới.md"
-    },
-    {
-      "basename": "modify",
-      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/modify.md"
     },
     {
       "basename": "Kế hoạch đào tạo nv mới",

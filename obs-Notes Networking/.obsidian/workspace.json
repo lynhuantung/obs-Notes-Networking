@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/2 - search.md",
+                "file": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankController.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2 - search"
+              "title": "CatBankController"
             }
           }
         ],
@@ -105,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5eba6b8178b91347",
@@ -140,15 +141,15 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/2 - search.md",
+                "file": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankController.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
                   "localJumps": 4,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": true,
+                  "localInterlinks": true,
+                  "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": false,
@@ -157,7 +158,7 @@
                       "query": "tag:#model",
                       "color": {
                         "a": 1,
-                        "rgb": 14048348
+                        "rgb": 2843292
                       }
                     },
                     {
@@ -194,7 +195,7 @@
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
+                  "collapse-forces": false,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
@@ -204,7 +205,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2 - search"
+              "title": "Graph of CatBankController"
             }
           },
           {
@@ -301,6 +302,19 @@
   },
   "active": "a803eaf177bee312",
   "lastOpenFiles": [
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Cat_BankController.md",
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Cat_GetDataController.md",
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankDemoEntity.md",
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankInfo.cshtml.md",
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankController.md",
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/0 - Index.cshtml.md",
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankDemoSearchModel.md",
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankDemoModel.md",
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/ConstantDisplay.md",
+    "src/Pasted image 20250419123833.png",
+    "src/Pasted image 20250419123219.png",
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/modify.md",
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/2 - search.md",
     "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/1 - Giới thiệu.md",
     "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/1a - lời thoại giới thiệu.md",
     "TungLy/0. Daily/2025-Apr-16/Sat-2025-04-19 112249.md",
@@ -311,24 +325,13 @@
     "TungLy/Area/Learning/Angular -Portal/Cấu trúc src.md",
     "src/Pasted image 20250419092418.png",
     "TungLy/Area/Learning/Angular -Portal/Angular-portal.md",
-    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Index.cshtml.md",
     "TungLy/Area/Learning/Angular -Portal",
     "TungLy/Area/Learning",
-    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankInfo.cshtml.md",
-    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/ConstantDisplay.md",
-    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankDemoEntity.md",
-    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Cat_GetDataController.md",
-    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankDemoSearchModel.md",
-    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankDemoModel.md",
-    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankController.md",
-    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Cat_BankController.md",
     "src/Pasted image 20250418173210.png",
-    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/2 - search.md",
     "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search",
     "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Đào tạo nv mới.md",
     "src/Pasted image 20250418171113.png",
     "src/Pasted image 20250418170932.png",
-    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/modify.md",
     "src/Pasted image 20250418164613.png",
     "src/Pasted image 20250418164100.png",
     "src/Pasted image 20250418163919.png",
@@ -338,10 +341,7 @@
     "TungLy/1. Projects/Dự án 2025/TrungDong-Project/BrainStorming/Links/TrungDong Corporation.md",
     "TungLy/1. Projects/Dự án 2025/VnPay-Project/Meeting_Notes/H-VnPay-Att-17042025.md",
     "TungLy/Area/External-Link/google-doc/Upgrade Net8 - Weekly.md",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Meeting_Notes/H-TrungDong-Eva-06012025.md",
     "TungLy/1. Projects/Dự án 2025/TrungDong-Project/BrainStorming/Links",
-    "src/Pasted image 20250417155602.png",
-    "src/Pasted image 20250417115651.png",
     "kế hoạch đào tạo",
     "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao",
     "TungLy/1. Projects/Dự án 2025/VnPay-Project/BrainStorming/Links",
