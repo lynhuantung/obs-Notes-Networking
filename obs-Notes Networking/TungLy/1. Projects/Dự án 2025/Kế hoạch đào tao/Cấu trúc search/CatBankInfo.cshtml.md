@@ -1,3 +1,8 @@
+---
+Mã: 
+tags:
+  - "#view-mvc"
+---
 # CatBankInfo.cshtml
 
 Trang giao diện chi tiết (info) hoặc thêm mới CatBank.

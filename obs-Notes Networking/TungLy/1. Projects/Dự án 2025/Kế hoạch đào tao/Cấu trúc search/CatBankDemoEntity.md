@@ -1,3 +1,8 @@
+---
+Mã: 
+tags:
+  - "#business"
+---
 # CatBankDemoEntity
 
 Entity xử lý nghiệp vụ.

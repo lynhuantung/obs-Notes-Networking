@@ -1,3 +1,8 @@
+---
+Mã: 
+tags:
+  - "#hr-service"
+---
 # Cat_GetDataController
 
 Controller MVC hỗ trợ các action phụ.

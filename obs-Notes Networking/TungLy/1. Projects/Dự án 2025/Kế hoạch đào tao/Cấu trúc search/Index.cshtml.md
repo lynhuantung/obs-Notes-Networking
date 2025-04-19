@@ -1,3 +1,8 @@
+---
+Mã: 
+tags:
+  - "#view-mvc"
+---
 # Index.cshtml
 ![[Pasted image 20250418173210.png]]
 

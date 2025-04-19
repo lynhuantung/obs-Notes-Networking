@@ -1,6 +1,7 @@
 ---
 Mã: 
 tags:
+  - "#mvcController"
 ---
 
 # Cat_BankController

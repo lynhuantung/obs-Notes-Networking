@@ -1,3 +1,8 @@
+---
+Mã: 
+tags:
+  - "#hr-service"
+---
 # CatBankController
 
 Controller MVC của màn hình CatBank.

@@ -1,3 +1,8 @@
+---
+Mã: 
+tags:
+  - "#model"
+---
 # CatBankDemoModel
 
 Model hiển thị dữ liệu trong lưới.
