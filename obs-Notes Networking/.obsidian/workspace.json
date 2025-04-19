@@ -13,30 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Index.cshtml.md",
+                "file": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/2a - kich bản tìm kiếm.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Index.cshtml"
+              "title": "2a - kich bản tìm kiếm"
             }
           },
           {
             "id": "a803eaf177bee312",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://docs.google.com/spreadsheets/d/1m99RI4oNq5mbJ4TlI9RdJK1DkkJDFL3tcwH4RkOQ1AA/edit?gid=706886181#gid=706886181",
-                "title": "KẾ HOẠCH ĐÀO TẠO NỘI BỘ - Google Sheets",
-                "mode": "webview"
+                "file": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/2 - search.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "globe-2",
-              "title": "KẾ HOẠCH ĐÀO TẠO NỘI BỘ - Google Sheets"
+              "icon": "lucide-file",
+              "title": "2 - search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +140,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Index.cshtml.md",
+                "file": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/2 - search.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -202,7 +204,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Index.cshtml"
+              "title": "Graph of 2 - search"
             }
           },
           {
@@ -297,10 +299,22 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "1feec03bd20c4df3",
+  "active": "a803eaf177bee312",
   "lastOpenFiles": [
-    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankInfo.cshtml.md",
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/1 - Giới thiệu.md",
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/1a - lời thoại giới thiệu.md",
+    "TungLy/0. Daily/2025-Apr-16/Sat-2025-04-19 112249.md",
+    "TungLy/0. Daily/2025-Apr-16",
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/2a - kich bản tìm kiếm.md",
+    "TungLy/Area/Learning/Angular -Portal/vi  du về insurance.md",
+    "TungLy/Area/Learning/Angular -Portal/Cấu trúc project.md",
+    "TungLy/Area/Learning/Angular -Portal/Cấu trúc src.md",
+    "src/Pasted image 20250419092418.png",
+    "TungLy/Area/Learning/Angular -Portal/Angular-portal.md",
     "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Index.cshtml.md",
+    "TungLy/Area/Learning/Angular -Portal",
+    "TungLy/Area/Learning",
+    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankInfo.cshtml.md",
     "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/ConstantDisplay.md",
     "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankDemoEntity.md",
     "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Cat_GetDataController.md",
@@ -308,12 +322,9 @@
     "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankDemoModel.md",
     "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankController.md",
     "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Cat_BankController.md",
-    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/1 - Giới thiệu.md",
     "src/Pasted image 20250418173210.png",
     "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/2 - search.md",
     "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search",
-    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/2a - kich bản tìm kiếm.md",
-    "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/1a - lời thoại giới thiệu.md",
     "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Đào tạo nv mới.md",
     "src/Pasted image 20250418171113.png",
     "src/Pasted image 20250418170932.png",
@@ -330,19 +341,11 @@
     "TungLy/1. Projects/Dự án 2025/TrungDong-Project/Meeting_Notes/H-TrungDong-Eva-06012025.md",
     "TungLy/1. Projects/Dự án 2025/TrungDong-Project/BrainStorming/Links",
     "src/Pasted image 20250417155602.png",
-    "TungLy/Area/External-Link/google-doc/BC dự án BĐH tuần.md",
-    "TungLy/1. Projects/Dự án 2025/VnPay-Project/BrainStorming/Links/VnR HRM Project Upgrade Plan.md",
-    "TungLy/Area/External-Link/Remind-BC-Tuần.md",
     "src/Pasted image 20250417115651.png",
-    "TungLy/0. Daily/0. Thinking/Kế hoạch đào tạo nv mới.md",
     "kế hoạch đào tạo",
     "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao",
     "TungLy/1. Projects/Dự án 2025/VnPay-Project/BrainStorming/Links",
     "TungLy/1. Projects/Dự án 2025/VnPay-Project/BrainStorming",
-    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/BrainStorming",
-    "src/Pasted image 20250410105455.png",
-    "TungLy/Area/Training",
-    "TungLy/0. Daily/2025-Apr-14",
-    "TungLy/Area/Ma trận năng lực"
+    "TungLy/1. Projects/Dự án 2025/TrungDong-Project/BrainStorming"
   ]
 }

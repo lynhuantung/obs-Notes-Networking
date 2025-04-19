@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "2 - search",
+      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/2 - search.md"
+    },
+    {
+      "basename": "1 - Giới thiệu",
+      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/1 - Giới thiệu.md"
+    },
+    {
+      "basename": "1a - lời thoại giới thiệu",
+      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/1a - lời thoại giới thiệu.md"
+    },
+    {
+      "basename": "Sat-2025-04-19 112249",
+      "path": "TungLy/0. Daily/2025-Apr-16/Sat-2025-04-19 112249.md"
+    },
+    {
+      "basename": "2a - kich bản tìm kiếm",
+      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/2a - kich bản tìm kiếm.md"
+    },
+    {
+      "basename": "vi  du về insurance",
+      "path": "TungLy/Area/Learning/Angular -Portal/vi  du về insurance.md"
+    },
+    {
+      "basename": "Cấu trúc project",
+      "path": "TungLy/Area/Learning/Angular -Portal/Cấu trúc project.md"
+    },
+    {
+      "basename": "Cấu trúc src",
+      "path": "TungLy/Area/Learning/Angular -Portal/Cấu trúc src.md"
+    },
+    {
+      "basename": "Angular-portal",
+      "path": "TungLy/Area/Learning/Angular -Portal/Angular-portal.md"
+    },
+    {
       "basename": "Index.cshtml",
       "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Index.cshtml.md"
     },
@@ -35,22 +71,6 @@
     {
       "basename": "Cat_BankController",
       "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Cat_BankController.md"
-    },
-    {
-      "basename": "1 - Giới thiệu",
-      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/1 - Giới thiệu.md"
-    },
-    {
-      "basename": "2 - search",
-      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/2 - search.md"
-    },
-    {
-      "basename": "2a - kich bản tìm kiếm",
-      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/2a - kich bản tìm kiếm.md"
-    },
-    {
-      "basename": "1a - lời thoại giới thiệu",
-      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/1a - lời thoại giới thiệu.md"
     },
     {
       "basename": "Đào tạo nv mới",
@@ -179,26 +199,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "Hướng dẫn sử dụng",
-      "path": "Hướng dẫn sử dụng.md"
-    },
-    {
-      "basename": "0.Guide",
-      "path": "TungLy/1. Projects/Dự án 2025/TrungDong-Project/0.Guide.md"
-    },
-    {
-      "basename": "6. Risks-7425",
-      "path": "TungLy/1. Projects/Dự án 2025/VnPay-Project/6. Risks-7425.md"
-    },
-    {
-      "basename": "Phase-cài đặt",
-      "path": "TungLy/1. Projects/Dự án 2025/VnPay-Project/Phases/Phase-cài đặt.md"
-    },
-    {
-      "basename": "Các giai đoạn",
-      "path": "TungLy/1. Projects/Dự án 2025/VnPay-Project/Phases/Các giai đoạn.md"
     }
   ],
   "omittedPaths": []
