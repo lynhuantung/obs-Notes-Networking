@@ -51,7 +51,7 @@ Học viên sẽ nắm được:
     
 - **Gọi API `GET` của `Cat_BankController`** để lấy dữ liệu.
     
-- **API gọi đến `CatBankDemoEntity.Search()`**, trả về danh sách.
+- **API gọi đến `Cat_GetData.GetBankList()`**, trả về danh sách.
     
 - **Kết quả hiển thị lại trên `Index.cshtml` trong `Kendo Grid`.**
     
@@ -71,7 +71,7 @@ Học viên sẽ nắm được:
 
 - **Người dùng nhấn nút Export Excel trên View.**
     
-- **Gọi `CatBankController.ExportToExcel()` (MVC Controller)**.
+- **Gọi `Cat_GetData.ExportAllBankList()` (MVC Controller)**.
     
 - **Từ đó, có 2 cách thực hiện**:
     
@@ -86,8 +86,7 @@ Học viên sẽ nắm được:
 
 - Đảm bảo search model cũng được truyền khi xuất Excel.
     
-- Có thể tái sử dụng hàm `Search()` để lấy lại dữ liệu.
-    
+   
 
 ---
 

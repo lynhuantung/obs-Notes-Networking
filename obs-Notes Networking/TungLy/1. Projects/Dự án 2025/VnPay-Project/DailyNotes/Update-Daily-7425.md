@@ -1,7 +1,7 @@
 ---
 Mã: Update-Daily
 aliases: 
-date: 06-01-2025
+date: 2025-04-23
 time: 06:40
 Week: "02"
 tags:
@@ -9,6 +9,11 @@ tags:
 Project: "[[Dự án VnPay]]"
 Liên kết:
 ---
+# 23/04/2025
+---
+- [ ] Build Docker image cho VnPay
+- [ ] Xử lý ghi log request
+- [ ] Dựng link net8 cho PE
 # 17/02/2025
 ---
 

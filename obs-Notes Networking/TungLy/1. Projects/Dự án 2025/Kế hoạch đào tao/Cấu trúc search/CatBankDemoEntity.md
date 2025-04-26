@@ -10,7 +10,7 @@ Entity xử lý nghiệp vụ.
 ### Chức năng
 - `Search()` – Truy vấn dữ liệu
 - `Save()` – Lưu dữ liệu mới
-- `DeleteRecord()` – Xóa dữ liệu
+- `Delete()` – Xóa dữ liệu
 
 ### Được gọi bởi:
 - [[Cat_BankController]]

@@ -27,7 +27,7 @@
 
 ### ⏱️ **[1:00 – 4:00]** PHẦN 1: KIẾN TRÚC HỆ THỐNG
 
-> Đây là sơ đồ kiến trúc hệ thống của obs-Notes Networking.
+> Đây là sơ đồ kiến trúc hệ thống
 > 
 > Hệ thống được chia thành **4 tầng chính**:
 > 

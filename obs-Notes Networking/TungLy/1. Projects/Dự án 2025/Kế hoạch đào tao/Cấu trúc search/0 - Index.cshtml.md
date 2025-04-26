@@ -1,7 +1,6 @@
 ---
 Mã: 
-tags:
-  - "#view-mvc"
+tags: []
 ---
 # Index.cshtml
 ![[Pasted image 20250418173210.png]]

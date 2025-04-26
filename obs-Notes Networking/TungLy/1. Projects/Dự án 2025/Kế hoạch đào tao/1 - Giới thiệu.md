@@ -36,12 +36,12 @@ bài này giúp người học:
 Hệ thống được chia theo mô hình nhiều tầng, giúp dễ bảo trì và mở rộng:
 ![[Pasted image 20250418162928.png|500]]
 
-|Tầng|Vai trò|
-|---|---|
-|**Presentation**|Giao diện người dùng (UI - Web MVC)|
-|**Service**|Web API - tiếp nhận request và gọi Business|
-|**Business**|Xử lý logic nghiệp vụ|
-|**Data**|Tương tác với cơ sở dữ liệu SQL Server|
+| Tầng             | Vai trò                                     |
+| ---------------- | ------------------------------------------- |
+| **Presentation** | Giao diện người dùng (UI - Web MVC)         |
+| **Service**      | Web API - tiếp nhận request và gọi Business |
+| **Business**     | Xử lý logic nghiệp vụ                       |
+| **Data**         | Tương tác với cơ sở dữ liệu SQL Server      |
 
 📌 _Dữ liệu sẽ luân chuyển từ UI ➝ API ➝ Business ➝ Data._
 

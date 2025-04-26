@@ -8,6 +8,7 @@ tags:
   - daily
 Project: "[[Dự án VnPay]]"
 Liên kết:
+  - https://confluence.vnresource.net:18001/display/SED/Net+core
 ---
 Xử lý SSO net8:
 - [[SSO - DotNet core]]
