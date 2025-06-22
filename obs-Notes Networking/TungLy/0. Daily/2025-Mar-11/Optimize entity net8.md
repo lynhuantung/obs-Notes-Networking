@@ -31,6 +31,7 @@ Ví dụ:
 ```bash
 dotnet ef dbcontext optimize --output-dir HrmCompiledModels --namespace HrmCompiledModels --verbose
 ```
+dotnet ef dbcontext optimize -o Models/CompiledModels -c VnrHrmDataContext -v
 
 Kết quả là mã C# sẽ được tạo ra để tích hợp mô hình biên dịch vào ứng dụng.
 

@@ -8,6 +8,11 @@
       "icon": "lucide-git-fork"
     },
     {
+      "id": "gemini-assistant:gemini-assistant",
+      "name": "Gemini Assistant: Open assistant",
+      "icon": "cMenuToolbar"
+    },
+    {
       "id": "editing-toolbar:editor-undo",
       "name": "undo editor",
       "icon": "undo-glyph"
@@ -295,7 +300,7 @@
   "cMenuVisibility": true,
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 12,
-  "cMenuWidth": 766,
+  "cMenuWidth": 820,
   "cMenuFontColor": "#8064a2",
   "cMenuBackgroundColor": "#fff88f",
   "autohide": false,

@@ -12,6 +12,6 @@ Entity xử lý nghiệp vụ.
 - `Save()` – Lưu dữ liệu mới
 - `Delete()` – Xóa dữ liệu
 
-### Được gọi bởi:
-- [[Cat_BankController]]
-- [[Cat_GetDataController]]
+
+
+

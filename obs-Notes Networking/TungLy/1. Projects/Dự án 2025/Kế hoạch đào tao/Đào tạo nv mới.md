@@ -7,4 +7,4 @@
 
 ## Video Tìm kiếm/excel/đổi cột [[2 - search]]
 
-## Video Tạo mới/chỉnh sửa [[modify]]
+## Video Tạo mới/chỉnh sửa [[Brain Storming]]
