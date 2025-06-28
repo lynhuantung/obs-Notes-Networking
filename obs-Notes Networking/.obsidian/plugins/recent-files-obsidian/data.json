@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Hướng dẫn build Main",
+      "path": "TungLy/0. Daily/Clippings/Hướng dẫn build Main.md"
+    },
+    {
+      "basename": "Cài đặt môi trường nodejs",
+      "path": "TungLy/0. Daily/2025-Mar-14/Cài đặt môi trường nodejs.md"
+    },
+    {
       "basename": "Hướng dẫn cấu hình hệ thống HRM",
       "path": "TungLy/1. Projects/Dự án 2025/VnPay-Project/Documents/Hướng dẫn cấu hình hệ thống HRM.md"
     },
@@ -43,10 +51,6 @@
     {
       "basename": "Đánh giá sau đào tạo",
       "path": "TungLy/0. Daily/2025-May-22/Đánh giá sau đào tạo.md"
-    },
-    {
-      "basename": "Hướng dẫn build Main",
-      "path": "TungLy/0. Daily/Clippings/Hướng dẫn build Main.md"
     },
     {
       "basename": "Tạo mục tiêu nhân viên Thêm xử lý cảnh báo so sánh chỉ tiêu giữa bảng con và bảng cha - Tài liệu PECS - Confluence",
@@ -191,14 +195,6 @@
     {
       "basename": "bsm - Kế hoạch VnPay",
       "path": "TungLy/1. Projects/Dự án 2025/VnPay-Project/BrainStorming/bsm - Kế hoạch VnPay.md"
-    },
-    {
-      "basename": "Fri-2025-05-02 081401",
-      "path": "TungLy/0. Daily/2025-May-18/Fri-2025-05-02 081401.md"
-    },
-    {
-      "basename": "Hướng dẫn sử dụng canvas",
-      "path": "TungLy/4. VISUAL NOTES/Hướng dẫn sử dụng canvas.canvas"
     }
   ],
   "omittedPaths": []
