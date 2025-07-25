@@ -9,6 +9,9 @@ tags:
 Project: "[[Dự án VnPay]]"
 Liên kết:
 ---
+# 01/07/2025
+---
+-  Nghỉ phép 4 cấp lên 5 cấp, Nghỉ việc 4 cấp lên 6 cấp, tuyển dụng 8 cấp.3 tasks này sửa nhiều dữ lắm.
 # 13/06/2025
 ---
 - Vấn đề : khi chuyển từ net framewok gặp vấn đề chuyển đổi ngày tháng

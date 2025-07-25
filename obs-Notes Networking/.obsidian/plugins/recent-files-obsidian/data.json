@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Windows service - Hangfire",
+      "path": "TungLy/1. Projects/Dự án 2025/VnPay-Project/Documents/Windows service - Hangfire.md"
+    },
+    {
+      "basename": "Tài Liệu-7425",
+      "path": "TungLy/1. Projects/Dự án 2025/VnPay-Project/Documents/Tài Liệu-7425.md"
+    },
+    {
+      "basename": "20240531_01_Meeting",
+      "path": "TungLy/Area/Index/OPA/20240531_01_Meeting.md"
+    },
+    {
+      "basename": "Update-Daily-7425",
+      "path": "TungLy/1. Projects/Dự án 2025/VnPay-Project/DailyNotes/Update-Daily-7425.md"
+    },
+    {
+      "basename": "H-VnPay-TRA-30062025",
+      "path": "TungLy/1. Projects/Dự án 2025/VnPay-Project/Meeting_Notes/H-VnPay-TRA-30062025.md"
+    },
+    {
+      "basename": "H-VnPay-Att-17042025",
+      "path": "TungLy/1. Projects/Dự án 2025/VnPay-Project/Meeting_Notes/H-VnPay-Att-17042025.md"
+    },
+    {
       "basename": "Hướng dẫn build Main",
       "path": "TungLy/0. Daily/Clippings/Hướng dẫn build Main.md"
     },
@@ -21,20 +45,8 @@
       "path": "TungLy/1. Projects/Dự án 2025/VnPay-Project/Documents/S3 - HƯỚNG DẪN SỬ DỤNG S3 ĐỂ UPLOAD FILE.md"
     },
     {
-      "basename": "H-VnPay-Att-17042025",
-      "path": "TungLy/1. Projects/Dự án 2025/VnPay-Project/Meeting_Notes/H-VnPay-Att-17042025.md"
-    },
-    {
       "basename": "0.H-VnPay",
       "path": "TungLy/1. Projects/Dự án 2025/VnPay-Project/Meeting_Notes/0.H-VnPay.md"
-    },
-    {
-      "basename": "Tài Liệu-7425",
-      "path": "TungLy/1. Projects/Dự án 2025/VnPay-Project/Documents/Tài Liệu-7425.md"
-    },
-    {
-      "basename": "Update-Daily-7425",
-      "path": "TungLy/1. Projects/Dự án 2025/VnPay-Project/DailyNotes/Update-Daily-7425.md"
     },
     {
       "basename": "Vấn đề có người giữ exploer",
@@ -187,14 +199,6 @@
     {
       "basename": "VnPay",
       "path": "TungLy/1. Projects/Dự án 2025/VnPay-Project/BrainStorming/Links/VnPay.md"
-    },
-    {
-      "basename": "VnR HRM Project Upgrade Plan",
-      "path": "TungLy/1. Projects/Dự án 2025/VnPay-Project/BrainStorming/Links/VnR HRM Project Upgrade Plan.md"
-    },
-    {
-      "basename": "bsm - Kế hoạch VnPay",
-      "path": "TungLy/1. Projects/Dự án 2025/VnPay-Project/BrainStorming/bsm - Kế hoạch VnPay.md"
     }
   ],
   "omittedPaths": []
