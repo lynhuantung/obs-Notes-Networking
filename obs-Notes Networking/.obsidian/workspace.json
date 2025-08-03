@@ -4,25 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "92e667f62e7e9577",
+        "id": "7a7fcf15a8225248",
         "type": "tabs",
         "children": [
           {
-            "id": "a6759785d7efb96f",
+            "id": "ddb725c18f1c204c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TungLy/0. Daily/2025-Jul-30/Cách đánh story point.md",
+                "file": "TungLy/Area/Data-WareHouse/ELT - Airbyte/API calls.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Cách đánh story point"
+              "title": "API calls"
+            }
+          },
+          {
+            "id": "88cdb38089a4c153",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://ba.vnresource.net:1018/Login?ReturnUrl=%2FErrorHandler%2FError%3FstatusCode%3D401%26401%3Bhttps%3A%2F%2Fba.vnresource.net%3A1018%2Fapi%2FHre_Profile%2FGetListDataCustomByStore%3FstoreName%3Dhrm_dwh_sp_get_EmployeeList%26Param%3D",
+                "title": "Anmeldung fehlgeschlagen",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Anmeldung fehlgeschlagen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "airby",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -284,56 +299,56 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "a6759785d7efb96f",
+  "active": "88cdb38089a4c153",
   "lastOpenFiles": [
-    "TungLy/0. Daily/2025-Jul-30/Sat-2025-07-26 124321.md",
-    "TungLy/0. Daily/2025-Jul-30/Cách đánh story point.md",
-    "Cách đánh story point.md",
-    "TungLy/1. Projects/Dự án 2025/VnPay-Project/Documents/Windows service - Hangfire.md",
-    "TungLy/0. Daily/2025-Jul-30",
+    "TungLy/Area/Data-WareHouse/ELT - Airbyte/API calls.md",
+    "TungLy/Area/Data-WareHouse/ELT - Airbyte/Builder.md",
+    "TungLy/Area/Data-WareHouse/ELT - Airbyte/Builder-airbyte-guide.md",
+    "TungLy/Area/Data-WareHouse/ELT - Airbyte/Các bước thực hiện Airbyte.md",
+    "TungLy/Area/Data-WareHouse/ELT - Airbyte/Connection.md",
+    "TungLy/Area/Data-WareHouse/ELT - Airbyte/DataWareHouse.md",
+    "TungLy/Area/Data-WareHouse/ELT - Airbyte/Destinations.md",
+    "TungLy/Area/Data-WareHouse/ELT - Airbyte/Đồng bộ quyền lên data warehouse.md",
+    "TungLy/Area/Data-WareHouse/ELT - Airbyte/ELT - Airbyte.md",
+    "TungLy/Area/Data-WareHouse/ELT - Airbyte/Mô hình kiến trúc ETL - Airbyte.md",
+    "TungLy/Area/Data-WareHouse/ELT - Airbyte/Paging-builder.md",
+    "TungLy/Area/Data-WareHouse/ELT - Airbyte/So sánh ETL và ELT.md",
+    "TungLy/Area/Data-WareHouse/ELT - Airbyte/transform.md",
+    "TungLy/Area/Data-WareHouse/ELT - Airbyte/Sync Data.md",
+    "TungLy/Area/Data-WareHouse/ELT - Airbyte/Sources.md",
+    "TungLy/Area/Data-WareHouse/ELT - Airbyte/Các thành phần Airbyte.md",
+    "TungLy/1. Projects/Dự án 2025/QuickPack-Project/Meeting_Notes/H-QuickPack-FAC-01082025.md",
+    "TungLy/1. Projects/Dự án 2025/QuickPack-Project/Meeting_Notes/0.H-QuickPack.md",
+    "TungLy/1. Projects/Dự án 2025/QuickPack-Project/Meeting_Notes/H-VnPay-TRA-30062025.md",
+    "TungLy/1. Projects/Dự án 2025/QuickPack-Project/Meeting_Notes/H-VnPay-Sys-03062025.md",
+    "TungLy/1. Projects/Dự án 2025/QuickPack-Project/Phases/Phase-UAT.md",
+    "TungLy/1. Projects/Dự án 2025/QuickPack-Project/3. Timeline-7425.md",
+    "TungLy/1. Projects/Dự án 2025/QuickPack-Project/Phases/Phase1-Chuyển Đổi sang net8-7425.md",
+    "TungLy/1. Projects/Dự án 2025/QuickPack-Project/2. Scope-7425.md",
+    "TungLy/1. Projects/Dự án 2025/QuickPack-Project/1. Goals-7425.md",
+    "TungLy/1. Projects/Dự án 2025/QuickPack-Project/H-QuickPack-Att-17042025.md",
+    "TungLy/1. Projects/Dự án 2025/QuickPack-Project/BrainStorming/Links",
+    "TungLy/1. Projects/Dự án 2025/QuickPack-Project/Questions",
+    "TungLy/1. Projects/Dự án 2025/QuickPack-Project/Phases",
+    "TungLy/1. Projects/Dự án 2025/QuickPack-Project/Meeting_Notes",
+    "TungLy/1. Projects/Dự án 2025/QuickPack-Project/Documents",
+    "TungLy/1. Projects/Dự án 2025/QuickPack-Project/DailyNotes",
+    "TungLy/1. Projects/Dự án 2025/QuickPack-Project/BrainStorming",
+    "TungLy/1. Projects/Dự án 2025/QuickPack-Project",
+    "TungLy/1. Projects/Dự án 2025/VnPay-Project - Copy/Questions",
+    "TungLy/1. Projects/Dự án 2025/VnPay-Project - Copy/Phases",
     "src/Pasted image 20250725092433.png",
-    "TungLy/1. Projects/Dự án 2025/VnPay-Project/Documents/Tài Liệu-7425.md",
-    "TungLy/Area/Index/OPA/20240531_01_Meeting.md",
-    "TungLy/1. Projects/Dự án 2025/VnPay-Project/DailyNotes/Update-Daily-7425.md",
-    "TungLy/0. Daily/Clippings/Nghị sĩ Mỹ lập kỷ lục khi phát biểu gần 9 tiếng để trì hoãn 'dự luật to đẹp'.md",
-    "TungLy/0. Daily/Clippings/Alexandr Wang làm gì trong nhóm 'siêu trí tuệ AI' tại Meta.md",
-    "TungLy/0. Daily/Clippings/Bí quyết viết 2.000 từ mỗi ngày của Stephen King.md",
-    "TungLy/0. Daily/Clippings/GDP 6 tháng tăng cao nhất gần 20 năm.md",
-    "TungLy/0. Daily/Clippings/Kinh tế TP HCM trước sáp nhập tăng 7,82% nửa đầu năm.md",
-    "TungLy/0. Daily/Clippings/Ông Putin điện đàm với ông Trump, tuyên bố 'không từ bỏ mục tiêu ở Ukraine'.md",
-    "TungLy/0. Daily/Clippings/Hạ viện Mỹ thông qua 'dự luật to đẹp'.md",
-    "TungLy/1. Projects/Dự án 2025/VnPay-Project/Meeting_Notes/H-VnPay-TRA-30062025.md",
     "src/Pasted image 20250701085818.png",
-    "TungLy/1. Projects/Dự án 2025/VnPay-Project/Meeting_Notes/H-VnPay-Att-17042025.md",
-    "TungLy/0. Daily/Clippings/Hướng dẫn build Main.md",
-    "TungLy/0. Daily/Clippings/Untitled.md",
-    "TungLy/0. Daily/Clippings/VNR Drawer - SE-Docs - Confluence.md",
-    "TungLy/0. Daily/Clippings/Log Request - SE-Docs - Confluence.md",
-    "TungLy/0. Daily/Clippings/AI có thế chỗ Gen Z.md",
-    "TungLy/0. Daily/2025-Mar-14/Cài đặt môi trường nodejs.md",
-    "TungLy/1. Projects/Dự án 2025/VnPay-Project/Documents/Hướng dẫn cấu hình hệ thống HRM.md",
-    "TungLy/1. Projects/Dự án 2025/VnPay-Project/Documents/HƯỚNG DẪN TRIỂN KHAI HỆ THỐNG HRM VNPay.md",
-    "TungLy/1. Projects/Dự án 2025/VnPay-Project/Documents/S3 - HƯỚNG DẪN SỬ DỤNG S3 ĐỂ UPLOAD FILE.md",
-    "TungLy/1. Projects/Dự án 2025/VnPay-Project/Meeting_Notes/0.H-VnPay.md",
-    "TungLy/0. Daily/2025-Jun-24",
-    "TungLy/0. Daily/2025-May-22",
-    "TungLy/0. Daily/2025-May-21",
     "src/Pasted image 20250509085204.png",
     "src/Pasted image 20250506144915.png",
     "src/Pasted image 20250506143214.png",
     "src/Pasted image 20250506143203.png",
-    "TungLy/0. Daily/2025-May-19",
-    "TungLy/0. Daily/Clippings/vnresource.net",
-    "TungLy/0. Daily/Clippings/wikipedia.org",
-    "Clippings",
-    "TungLy/0. Daily/2025-May-18",
     "TungLy/4. VISUAL NOTES/Hướng dẫn sử dụng canvas.canvas",
     "TungLy/4. VISUAL NOTES/Plan.canvas",
     "TungLy/4. VISUAL NOTES/Kế Hoạch Chuẩn Hóa Tài Liệu.canvas",
     "src/Pasted image 20250418164100.png",
     "src/Pasted image 20250418164613.png",
     "src/Pasted image 20250418163919.png",
-    "src/Pasted image 20250418162928.png",
-    "TungLy/0. Daily/2025-Apr-17"
+    "src/Pasted image 20250418162928.png"
   ]
 }

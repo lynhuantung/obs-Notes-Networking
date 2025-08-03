@@ -1,6 +1,118 @@
 {
   "recentFiles": [
     {
+      "basename": "API calls",
+      "path": "TungLy/Area/Data-WareHouse/ELT - Airbyte/API calls.md"
+    },
+    {
+      "basename": "Builder",
+      "path": "TungLy/Area/Data-WareHouse/ELT - Airbyte/Builder.md"
+    },
+    {
+      "basename": "Builder-airbyte-guide",
+      "path": "TungLy/Area/Data-WareHouse/ELT - Airbyte/Builder-airbyte-guide.md"
+    },
+    {
+      "basename": "Các bước thực hiện Airbyte",
+      "path": "TungLy/Area/Data-WareHouse/ELT - Airbyte/Các bước thực hiện Airbyte.md"
+    },
+    {
+      "basename": "Connection",
+      "path": "TungLy/Area/Data-WareHouse/ELT - Airbyte/Connection.md"
+    },
+    {
+      "basename": "DataWareHouse",
+      "path": "TungLy/Area/Data-WareHouse/ELT - Airbyte/DataWareHouse.md"
+    },
+    {
+      "basename": "Destinations",
+      "path": "TungLy/Area/Data-WareHouse/ELT - Airbyte/Destinations.md"
+    },
+    {
+      "basename": "Đồng bộ quyền lên data warehouse",
+      "path": "TungLy/Area/Data-WareHouse/ELT - Airbyte/Đồng bộ quyền lên data warehouse.md"
+    },
+    {
+      "basename": "ELT - Airbyte",
+      "path": "TungLy/Area/Data-WareHouse/ELT - Airbyte/ELT - Airbyte.md"
+    },
+    {
+      "basename": "Mô hình kiến trúc ETL - Airbyte",
+      "path": "TungLy/Area/Data-WareHouse/ELT - Airbyte/Mô hình kiến trúc ETL - Airbyte.md"
+    },
+    {
+      "basename": "Paging-builder",
+      "path": "TungLy/Area/Data-WareHouse/ELT - Airbyte/Paging-builder.md"
+    },
+    {
+      "basename": "So sánh ETL và ELT",
+      "path": "TungLy/Area/Data-WareHouse/ELT - Airbyte/So sánh ETL và ELT.md"
+    },
+    {
+      "basename": "transform",
+      "path": "TungLy/Area/Data-WareHouse/ELT - Airbyte/transform.md"
+    },
+    {
+      "basename": "Sync Data",
+      "path": "TungLy/Area/Data-WareHouse/ELT - Airbyte/Sync Data.md"
+    },
+    {
+      "basename": "Sources",
+      "path": "TungLy/Area/Data-WareHouse/ELT - Airbyte/Sources.md"
+    },
+    {
+      "basename": "Các thành phần Airbyte",
+      "path": "TungLy/Area/Data-WareHouse/ELT - Airbyte/Các thành phần Airbyte.md"
+    },
+    {
+      "basename": "H-QuickPack-FAC-01082025",
+      "path": "TungLy/1. Projects/Dự án 2025/QuickPack-Project/Meeting_Notes/H-QuickPack-FAC-01082025.md"
+    },
+    {
+      "basename": "0.H-QuickPack",
+      "path": "TungLy/1. Projects/Dự án 2025/QuickPack-Project/Meeting_Notes/0.H-QuickPack.md"
+    },
+    {
+      "basename": "Phase-UAT",
+      "path": "TungLy/1. Projects/Dự án 2025/QuickPack-Project/Phases/Phase-UAT.md"
+    },
+    {
+      "basename": "3. Timeline-7425",
+      "path": "TungLy/1. Projects/Dự án 2025/QuickPack-Project/3. Timeline-7425.md"
+    },
+    {
+      "basename": "2. Scope-7425",
+      "path": "TungLy/1. Projects/Dự án 2025/QuickPack-Project/2. Scope-7425.md"
+    },
+    {
+      "basename": "1. Goals-7425",
+      "path": "TungLy/1. Projects/Dự án 2025/QuickPack-Project/1. Goals-7425.md"
+    },
+    {
+      "basename": "0a. ProjectMOC-7425",
+      "path": "TungLy/1. Projects/Dự án 2025/QuickPack-Project/0a. ProjectMOC-7425.md"
+    },
+    {
+      "basename": "0.Index -7425",
+      "path": "TungLy/1. Projects/Dự án 2025/QuickPack-Project/0.Index -7425.md"
+    },
+    {
+      "basename": "Dự án QuickPack",
+      "path": "TungLy/3. ARCHIEVED/Danh sách dự án/Dự án QuickPack.md"
+    },
+    {
+      "basename": "Dự án VnPay",
+      "path": "TungLy/3. ARCHIEVED/Danh sách dự án/Dự án VnPay.md"
+    },
+    {
+      "basename": "5. Resources-7425",
+      "path": "TungLy/1. Projects/Dự án 2025/VnPay-Project/5. Resources-7425.md"
+    },
+    {
+      "basename": "6. Risks-7425",
+      "path": "TungLy/1. Projects/Dự án 2025/VnPay-Project/6. Risks-7425.md"
+    },
+    {
       "basename": "Cách đánh story point",
       "path": "TungLy/0. Daily/2025-Jul-30/Cách đánh story point.md"
     },
@@ -87,110 +199,6 @@
     {
       "basename": "2. Scope-7425",
       "path": "TungLy/1. Projects/Dự án 2025/VnPay-Project/2. Scope-7425.md"
-    },
-    {
-      "basename": "0a. ProjectMOC-7425",
-      "path": "TungLy/1. Projects/Dự án 2025/VnPay-Project/0a. ProjectMOC-7425.md"
-    },
-    {
-      "basename": "0.Index -7425",
-      "path": "TungLy/1. Projects/Dự án 2025/VnPay-Project/0.Index -7425.md"
-    },
-    {
-      "basename": "Phase1-Chuyển Đổi sang net8-7425",
-      "path": "TungLy/1. Projects/Dự án 2025/VnPay-Project/Phases/Phase1-Chuyển Đổi sang net8-7425.md"
-    },
-    {
-      "basename": "Phase-cài đặt",
-      "path": "TungLy/1. Projects/Dự án 2025/VnPay-Project/Phases/Phase-cài đặt.md"
-    },
-    {
-      "basename": "Các giai đoạn",
-      "path": "TungLy/1. Projects/Dự án 2025/VnPay-Project/Phases/Các giai đoạn.md"
-    },
-    {
-      "basename": "0 - Index.cshtml",
-      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/0 - Index.cshtml.md"
-    },
-    {
-      "basename": "0. Index - BH",
-      "path": "TungLy/Area/Thành Phần BH/0. Index - BH.md"
-    },
-    {
-      "basename": "Database Quản lý người dùng",
-      "path": "TungLy/Area/Lỗi đăng nhập/Database Quản lý người dùng.md"
-    },
-    {
-      "basename": "Bảo hiểm",
-      "path": "TungLy/Area/Thành Phần BH/Bảo hiểm.md"
-    },
-    {
-      "basename": "Thiết lập BH",
-      "path": "TungLy/Area/Thành Phần BH/Thiết lập BH.md"
-    },
-    {
-      "basename": "1 - Giới thiệu",
-      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/1 - Giới thiệu.md"
-    },
-    {
-      "basename": "CatBankDemoModel",
-      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankDemoModel.md"
-    },
-    {
-      "basename": "CatBankController",
-      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankController.md"
-    },
-    {
-      "basename": "ConstantDisplay",
-      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/ConstantDisplay.md"
-    },
-    {
-      "basename": "Cat_GetDataController",
-      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Cat_GetDataController.md"
-    },
-    {
-      "basename": "Cat_BankController",
-      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/Cat_BankController.md"
-    },
-    {
-      "basename": "Brain Storming",
-      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Brain Storming.md"
-    },
-    {
-      "basename": "Thêm Email tự động từ hệ thống hướng dẫn quy trình nghỉ việc khi NLĐ đăng ký trên PortalApp - Tài liệu PECS - Confluence",
-      "path": "TungLy/0. Daily/Clippings/Thêm Email tự động từ hệ thống hướng dẫn quy trình nghỉ việc khi NLĐ đăng ký trên PortalApp - Tài liệu PECS - Confluence.md"
-    },
-    {
-      "basename": "Optimize entity net8",
-      "path": "TungLy/0. Daily/2025-Mar-11/Optimize entity net8.md"
-    },
-    {
-      "basename": "BC công việc ngày 11-03-2025",
-      "path": "TungLy/0. Daily/2025-Mar-11/BC công việc ngày 11-03-2025.md"
-    },
-    {
-      "basename": "CatBankDemoEntity",
-      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankDemoEntity.md"
-    },
-    {
-      "basename": "CatBankDemoSearchModel",
-      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankDemoSearchModel.md"
-    },
-    {
-      "basename": "CatBankInfo.cshtml",
-      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Cấu trúc search/CatBankInfo.cshtml.md"
-    },
-    {
-      "basename": "Kế hoạch đào tạo nv mới",
-      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/Kế hoạch đào tạo nv mới.md"
-    },
-    {
-      "basename": "2a - kich bản tìm kiếm",
-      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/2a - kich bản tìm kiếm.md"
-    },
-    {
-      "basename": "2 - search",
-      "path": "TungLy/1. Projects/Dự án 2025/Kế hoạch đào tao/2 - search.md"
     }
   ],
   "omittedPaths": []
