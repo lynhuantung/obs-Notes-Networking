@@ -14,10 +14,10 @@ Liên kết:
 ---
 
 
-# Giai đoạn: Thiết lập phần mềm
+# Giai đoạn: UAT
 ---
 
-**Thời gian:** 09/03/2025 - 30/05/2025
+**Thời gian:** 14/10/2025 - 23/11/2025
 
 ## Công việc
 - Họp GAP

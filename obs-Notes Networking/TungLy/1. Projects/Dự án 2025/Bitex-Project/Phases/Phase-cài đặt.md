@@ -7,7 +7,7 @@ Week: "16"
 tags:
   - "#project"
 phase: 
-Project: "[[Dự án QuickPack]]"
+Project: "[[Dự án Bitex]]"
 Liên kết:
   - "[[TungLy/1. Projects/Dự án 2025/Project Template/Meeting_Notes/Meeting_Notes|Biên bản họp]]"
   - "[[TungLy/1. Projects/Dự án 2025/Project Template/Resources|Nguồn lực dự án]]"
@@ -20,7 +20,7 @@ Liên kết:
 **Thời gian:** 01/07/2025 - 30/09/2025
 
 ## Công việc
-- Họp GAP module đồng phục : [[H-QuickPack-FAC-01082025]]
+- 
 
 **Rủi ro:**  
 

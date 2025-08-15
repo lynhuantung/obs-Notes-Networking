@@ -7,7 +7,7 @@ Week: "16"
 tags:
   - "#project"
 phase: 
-Project: "[[Dự án QuickPack]]"
+Project: "[[Dự án Bitex]]"
 Liên kết:
   - "[[TungLy/1. Projects/Dự án 2025/Project Template/Meeting_Notes/Meeting_Notes|Biên bản họp]]"
   - "[[TungLy/1. Projects/Dự án 2025/Project Template/Resources|Nguồn lực dự án]]"
@@ -23,7 +23,7 @@ Liên kết:
 	- 
 
 
-### **Giai đoạn: Xây dựng hệ thống: ** [[TungLy/1. Projects/Dự án 2025/QuickPack-Project/Phases/Phase-cài đặt|Phase-cài đặt]]
+### **Giai đoạn: Xây dựng hệ thống: ** [[TungLy/1. Projects/Dự án 2025/Bitex-Project/Phases/Phase-cài đặt|Phase-cài đặt]]
 - **Thời gian:** 01/07/2025 - 30/09/2025
 - **Nhiệm vụ chính:**
 	- 
@@ -36,7 +36,7 @@ Liên kết:
 - **Rủi ro:**
 	- 
 
-### **Giai đoạn: UAT (2 round)** [[TungLy/1. Projects/Dự án 2025/QuickPack-Project/Phases/Phase-UAT|Phase-UAT]]
+### **Giai đoạn: UAT (2 round)** [[TungLy/1. Projects/Dự án 2025/Bitex-Project/Phases/Phase-UAT|Phase-UAT]]
 - **Thời gian:** 14/10/2025 - 23/11/2025
 - **Nhiệm vụ chính:**
 	- 
