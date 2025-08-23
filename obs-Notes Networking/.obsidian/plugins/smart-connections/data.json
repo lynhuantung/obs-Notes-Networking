@@ -1,5 +1,4 @@
 {
-  "new_user": false,
   "legacy_transformers": false,
   "enable_mobile": true,
   "actions": {
@@ -64,5 +63,7 @@
   "version": "2.2.82",
   "google_gemini": {
     "api_key": "AIzaSyDzzNPFstLUvT8ZZe8ub10LyRpya_VNCtw"
-  }
+  },
+  "installed_at": 1745803178970,
+  "last_version": "3.0.76"
 }

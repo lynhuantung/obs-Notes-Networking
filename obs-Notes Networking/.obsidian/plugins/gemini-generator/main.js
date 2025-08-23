@@ -32,22 +32,23 @@ var import_obsidian3 = require("obsidian");
 // src/settings.ts
 var DEFAULT_SETTINGS = {
   apiKey: "",
-  removeHeadlineEnabled: false
+  removeHeadlineEnabled: false,
+  defaultPrompt: "Write a me an Obsidian Markdown Note for a Note with the title: {TITLE} \n You are writing directly in Obsidian thus you do not need an extra markdown environment. Also do not use any properties"
 };
 
 // src/commands.ts
 var import_obsidian = require("obsidian");
 
 // node_modules/@google/generative-ai/dist/index.mjs
-var FunctionDeclarationSchemaType;
-(function(FunctionDeclarationSchemaType2) {
-  FunctionDeclarationSchemaType2["STRING"] = "STRING";
-  FunctionDeclarationSchemaType2["NUMBER"] = "NUMBER";
-  FunctionDeclarationSchemaType2["INTEGER"] = "INTEGER";
-  FunctionDeclarationSchemaType2["BOOLEAN"] = "BOOLEAN";
-  FunctionDeclarationSchemaType2["ARRAY"] = "ARRAY";
-  FunctionDeclarationSchemaType2["OBJECT"] = "OBJECT";
-})(FunctionDeclarationSchemaType || (FunctionDeclarationSchemaType = {}));
+var SchemaType;
+(function(SchemaType2) {
+  SchemaType2["STRING"] = "string";
+  SchemaType2["NUMBER"] = "number";
+  SchemaType2["INTEGER"] = "integer";
+  SchemaType2["BOOLEAN"] = "boolean";
+  SchemaType2["ARRAY"] = "array";
+  SchemaType2["OBJECT"] = "object";
+})(SchemaType || (SchemaType = {}));
 var ExecutableCodeLanguage;
 (function(ExecutableCodeLanguage2) {
   ExecutableCodeLanguage2["LANGUAGE_UNSPECIFIED"] = "language_unspecified";
@@ -68,6 +69,7 @@ var HarmCategory;
   HarmCategory2["HARM_CATEGORY_SEXUALLY_EXPLICIT"] = "HARM_CATEGORY_SEXUALLY_EXPLICIT";
   HarmCategory2["HARM_CATEGORY_HARASSMENT"] = "HARM_CATEGORY_HARASSMENT";
   HarmCategory2["HARM_CATEGORY_DANGEROUS_CONTENT"] = "HARM_CATEGORY_DANGEROUS_CONTENT";
+  HarmCategory2["HARM_CATEGORY_CIVIC_INTEGRITY"] = "HARM_CATEGORY_CIVIC_INTEGRITY";
 })(HarmCategory || (HarmCategory = {}));
 var HarmBlockThreshold;
 (function(HarmBlockThreshold2) {
@@ -99,6 +101,10 @@ var FinishReason;
   FinishReason2["SAFETY"] = "SAFETY";
   FinishReason2["RECITATION"] = "RECITATION";
   FinishReason2["LANGUAGE"] = "LANGUAGE";
+  FinishReason2["BLOCKLIST"] = "BLOCKLIST";
+  FinishReason2["PROHIBITED_CONTENT"] = "PROHIBITED_CONTENT";
+  FinishReason2["SPII"] = "SPII";
+  FinishReason2["MALFORMED_FUNCTION_CALL"] = "MALFORMED_FUNCTION_CALL";
   FinishReason2["OTHER"] = "OTHER";
 })(FinishReason || (FinishReason = {}));
 var TaskType;
@@ -117,6 +123,11 @@ var FunctionCallingMode;
   FunctionCallingMode2["ANY"] = "ANY";
   FunctionCallingMode2["NONE"] = "NONE";
 })(FunctionCallingMode || (FunctionCallingMode = {}));
+var DynamicRetrievalMode;
+(function(DynamicRetrievalMode2) {
+  DynamicRetrievalMode2["MODE_UNSPECIFIED"] = "MODE_UNSPECIFIED";
+  DynamicRetrievalMode2["MODE_DYNAMIC"] = "MODE_DYNAMIC";
+})(DynamicRetrievalMode || (DynamicRetrievalMode = {}));
 var GoogleGenerativeAIError = class extends Error {
   constructor(message) {
     super(`[GoogleGenerativeAI Error]: ${message}`);
@@ -138,9 +149,11 @@ var GoogleGenerativeAIFetchError = class extends GoogleGenerativeAIError {
 };
 var GoogleGenerativeAIRequestInputError = class extends GoogleGenerativeAIError {
 };
+var GoogleGenerativeAIAbortError = class extends GoogleGenerativeAIError {
+};
 var DEFAULT_BASE_URL = "https://generativelanguage.googleapis.com";
 var DEFAULT_API_VERSION = "v1beta";
-var PACKAGE_VERSION = "0.16.0";
+var PACKAGE_VERSION = "0.24.1";
 var PACKAGE_LOG_HEADER = "genai-js";
 var Task;
 (function(Task2) {
@@ -228,7 +241,10 @@ async function makeRequest(url, fetchOptions, fetchFn = fetch) {
 }
 function handleResponseError(e, url) {
   let err = e;
-  if (!(e instanceof GoogleGenerativeAIFetchError || e instanceof GoogleGenerativeAIRequestInputError)) {
+  if (err.name === "AbortError") {
+    err = new GoogleGenerativeAIAbortError(`Request aborted when fetching ${url.toString()}: ${e.message}`);
+    err.stack = e.stack;
+  } else if (!(e instanceof GoogleGenerativeAIFetchError || e instanceof GoogleGenerativeAIRequestInputError)) {
     err = new GoogleGenerativeAIError(`Error fetching from ${url.toString()}: ${e.message}`);
     err.stack = e.stack;
   }
@@ -319,7 +335,7 @@ function getText(response) {
         textStrings.push(part.text);
       }
       if (part.executableCode) {
-        textStrings.push("\n```python\n" + part.executableCode.code + "\n```\n");
+        textStrings.push("\n```" + part.executableCode.language + "\n" + part.executableCode.code + "\n```\n");
       }
       if (part.codeExecutionResult) {
         textStrings.push("\n```\n" + part.codeExecutionResult.output + "\n```\n");
@@ -478,6 +494,15 @@ function getResponseStream(inputStream) {
             match = currentText.match(responseLineRE);
           }
           return pump();
+        }).catch((e) => {
+          let err = e;
+          err.stack = e.stack;
+          if (err.name === "AbortError") {
+            err = new GoogleGenerativeAIAbortError("Request aborted when reading from the stream");
+          } else {
+            err = new GoogleGenerativeAIError("Error reading from the stream");
+          }
+          throw err;
         });
       }
     }
@@ -491,23 +516,24 @@ function aggregateResponses(responses) {
   };
   for (const response of responses) {
     if (response.candidates) {
+      let candidateIndex = 0;
       for (const candidate of response.candidates) {
-        const i = candidate.index;
         if (!aggregatedResponse.candidates) {
           aggregatedResponse.candidates = [];
         }
-        if (!aggregatedResponse.candidates[i]) {
-          aggregatedResponse.candidates[i] = {
-            index: candidate.index
+        if (!aggregatedResponse.candidates[candidateIndex]) {
+          aggregatedResponse.candidates[candidateIndex] = {
+            index: candidateIndex
           };
         }
-        aggregatedResponse.candidates[i].citationMetadata = candidate.citationMetadata;
-        aggregatedResponse.candidates[i].finishReason = candidate.finishReason;
-        aggregatedResponse.candidates[i].finishMessage = candidate.finishMessage;
-        aggregatedResponse.candidates[i].safetyRatings = candidate.safetyRatings;
+        aggregatedResponse.candidates[candidateIndex].citationMetadata = candidate.citationMetadata;
+        aggregatedResponse.candidates[candidateIndex].groundingMetadata = candidate.groundingMetadata;
+        aggregatedResponse.candidates[candidateIndex].finishReason = candidate.finishReason;
+        aggregatedResponse.candidates[candidateIndex].finishMessage = candidate.finishMessage;
+        aggregatedResponse.candidates[candidateIndex].safetyRatings = candidate.safetyRatings;
         if (candidate.content && candidate.content.parts) {
-          if (!aggregatedResponse.candidates[i].content) {
-            aggregatedResponse.candidates[i].content = {
+          if (!aggregatedResponse.candidates[candidateIndex].content) {
+            aggregatedResponse.candidates[candidateIndex].content = {
               role: candidate.content.role || "user",
               parts: []
             };
@@ -529,10 +555,11 @@ function aggregateResponses(responses) {
             if (Object.keys(newPart).length === 0) {
               newPart.text = "";
             }
-            aggregatedResponse.candidates[i].content.parts.push(newPart);
+            aggregatedResponse.candidates[candidateIndex].content.parts.push(newPart);
           }
         }
       }
+      candidateIndex++;
     }
     if (response.usageMetadata) {
       aggregatedResponse.usageMetadata = response.usageMetadata;
@@ -725,6 +752,28 @@ function validateChatHistory(history) {
     prevContent = true;
   }
 }
+function isValidResponse(response) {
+  var _a;
+  if (response.candidates === void 0 || response.candidates.length === 0) {
+    return false;
+  }
+  const content = (_a = response.candidates[0]) === null || _a === void 0 ? void 0 : _a.content;
+  if (content === void 0) {
+    return false;
+  }
+  if (content.parts === void 0 || content.parts.length === 0) {
+    return false;
+  }
+  for (const part of content.parts) {
+    if (part === void 0 || Object.keys(part).length === 0) {
+      return false;
+    }
+    if (part.text !== void 0 && part.text === "") {
+      return false;
+    }
+  }
+  return true;
+}
 var SILENT_ERROR = "SILENT_ERROR";
 var ChatSession = class {
   constructor(apiKey, model, params, _requestOptions = {}) {
@@ -753,8 +802,8 @@ var ChatSession = class {
    * {@link GenerateContentResult}.
    *
    * Fields set in the optional {@link SingleRequestOptions} parameter will
-   * take precedence over the {@link RequestOptions} values provided at the
-   * time of the {@link GoogleAIFileManager} initialization.
+   * take precedence over the {@link RequestOptions} values provided to
+   * {@link GoogleGenerativeAI.getGenerativeModel }.
    */
   async sendMessage(request, requestOptions = {}) {
     var _a, _b, _c, _d, _e, _f;
@@ -773,7 +822,7 @@ var ChatSession = class {
     let finalResult;
     this._sendPromise = this._sendPromise.then(() => generateContent(this._apiKey, this.model, generateContentRequest, chatSessionRequestOptions)).then((result) => {
       var _a2;
-      if (result.response.candidates && result.response.candidates.length > 0) {
+      if (isValidResponse(result.response)) {
         this._history.push(newContent);
         const responseContent = Object.assign({
           parts: [],
@@ -788,6 +837,9 @@ var ChatSession = class {
         }
       }
       finalResult = result;
+    }).catch((e) => {
+      this._sendPromise = Promise.resolve();
+      throw e;
     });
     await this._sendPromise;
     return finalResult;
@@ -798,8 +850,8 @@ var ChatSession = class {
    * and a response promise.
    *
    * Fields set in the optional {@link SingleRequestOptions} parameter will
-   * take precedence over the {@link RequestOptions} values provided at the
-   * time of the {@link GoogleAIFileManager} initialization.
+   * take precedence over the {@link RequestOptions} values provided to
+   * {@link GoogleGenerativeAI.getGenerativeModel }.
    */
   async sendMessageStream(request, requestOptions = {}) {
     var _a, _b, _c, _d, _e, _f;
@@ -819,7 +871,7 @@ var ChatSession = class {
     this._sendPromise = this._sendPromise.then(() => streamPromise).catch((_ignored) => {
       throw new Error(SILENT_ERROR);
     }).then((streamResult) => streamResult.response).then((response) => {
-      if (response.candidates && response.candidates.length > 0) {
+      if (isValidResponse(response)) {
         this._history.push(newContent);
         const responseContent = Object.assign({}, response.candidates[0].content);
         if (!responseContent.role) {
@@ -876,8 +928,8 @@ var GenerativeModel = class {
    * and returns an object containing a single {@link GenerateContentResponse}.
    *
    * Fields set in the optional {@link SingleRequestOptions} parameter will
-   * take precedence over the {@link RequestOptions} values provided at the
-   * time of the {@link GoogleAIFileManager} initialization.
+   * take precedence over the {@link RequestOptions} values provided to
+   * {@link GoogleGenerativeAI.getGenerativeModel }.
    */
   async generateContent(request, requestOptions = {}) {
     var _a;
@@ -892,8 +944,8 @@ var GenerativeModel = class {
    * aggregated response.
    *
    * Fields set in the optional {@link SingleRequestOptions} parameter will
-   * take precedence over the {@link RequestOptions} values provided at the
-   * time of the {@link GoogleAIFileManager} initialization.
+   * take precedence over the {@link RequestOptions} values provided to
+   * {@link GoogleGenerativeAI.getGenerativeModel }.
    */
   async generateContentStream(request, requestOptions = {}) {
     var _a;
@@ -907,14 +959,14 @@ var GenerativeModel = class {
    */
   startChat(startChatParams) {
     var _a;
-    return new ChatSession(this.apiKey, this.model, Object.assign({ generationConfig: this.generationConfig, safetySettings: this.safetySettings, tools: this.tools, toolConfig: this.toolConfig, systemInstruction: this.systemInstruction, cachedContent: (_a = this.cachedContent) === null || _a === void 0 ? void 0 : _a.name }, startChatParams), this.requestOptions);
+    return new ChatSession(this.apiKey, this.model, Object.assign({ generationConfig: this.generationConfig, safetySettings: this.safetySettings, tools: this.tools, toolConfig: this.toolConfig, systemInstruction: this.systemInstruction, cachedContent: (_a = this.cachedContent) === null || _a === void 0 ? void 0 : _a.name }, startChatParams), this._requestOptions);
   }
   /**
    * Counts the tokens in the provided request.
    *
    * Fields set in the optional {@link SingleRequestOptions} parameter will
-   * take precedence over the {@link RequestOptions} values provided at the
-   * time of the {@link GoogleAIFileManager} initialization.
+   * take precedence over the {@link RequestOptions} values provided to
+   * {@link GoogleGenerativeAI.getGenerativeModel }.
    */
   async countTokens(request, requestOptions = {}) {
     const formattedParams = formatCountTokensInput(request, {
@@ -933,8 +985,8 @@ var GenerativeModel = class {
    * Embeds the provided content.
    *
    * Fields set in the optional {@link SingleRequestOptions} parameter will
-   * take precedence over the {@link RequestOptions} values provided at the
-   * time of the {@link GoogleAIFileManager} initialization.
+   * take precedence over the {@link RequestOptions} values provided to
+   * {@link GoogleGenerativeAI.getGenerativeModel }.
    */
   async embedContent(request, requestOptions = {}) {
     const formattedParams = formatEmbedContentInput(request);
@@ -945,8 +997,8 @@ var GenerativeModel = class {
    * Embeds an array of {@link EmbedContentRequest}s.
    *
    * Fields set in the optional {@link SingleRequestOptions} parameter will
-   * take precedence over the {@link RequestOptions} values provided at the
-   * time of the {@link GoogleAIFileManager} initialization.
+   * take precedence over the {@link RequestOptions} values provided to
+   * {@link GoogleGenerativeAI.getGenerativeModel }.
    */
   async batchEmbedContents(batchEmbedContentRequest, requestOptions = {}) {
     const generativeModelRequestOptions = Object.assign(Object.assign({}, this._requestOptions), requestOptions);
@@ -969,20 +1021,27 @@ var GoogleGenerativeAI = class {
   /**
    * Creates a {@link GenerativeModel} instance from provided content cache.
    */
-  getGenerativeModelFromCachedContent(cachedContent, requestOptions) {
+  getGenerativeModelFromCachedContent(cachedContent, modelParams, requestOptions) {
     if (!cachedContent.name) {
       throw new GoogleGenerativeAIRequestInputError("Cached content must contain a `name` field.");
     }
     if (!cachedContent.model) {
       throw new GoogleGenerativeAIRequestInputError("Cached content must contain a `model` field.");
     }
-    const modelParamsFromCache = {
-      model: cachedContent.model,
-      tools: cachedContent.tools,
-      toolConfig: cachedContent.toolConfig,
-      systemInstruction: cachedContent.systemInstruction,
-      cachedContent
-    };
+    const disallowedDuplicates = ["model", "systemInstruction"];
+    for (const key of disallowedDuplicates) {
+      if ((modelParams === null || modelParams === void 0 ? void 0 : modelParams[key]) && cachedContent[key] && (modelParams === null || modelParams === void 0 ? void 0 : modelParams[key]) !== cachedContent[key]) {
+        if (key === "model") {
+          const modelParamsComp = modelParams.model.startsWith("models/") ? modelParams.model.replace("models/", "") : modelParams.model;
+          const cachedContentComp = cachedContent.model.startsWith("models/") ? cachedContent.model.replace("models/", "") : cachedContent.model;
+          if (modelParamsComp === cachedContentComp) {
+            continue;
+          }
+        }
+        throw new GoogleGenerativeAIRequestInputError(`Different value for "${key}" specified in modelParams (${modelParams[key]}) and cachedContent (${cachedContent[key]})`);
+      }
+    }
+    const modelParamsFromCache = Object.assign(Object.assign({}, modelParams), { model: cachedContent.model, tools: cachedContent.tools, toolConfig: cachedContent.toolConfig, systemInstruction: cachedContent.systemInstruction, cachedContent });
     return new GenerativeModel(this.apiKey, modelParamsFromCache, requestOptions);
   }
 };
@@ -993,14 +1052,14 @@ var GeminiClient = class {
     this.pluginSettings = settings;
     this.genAi = new GoogleGenerativeAI(this.pluginSettings.apiKey);
     this.model = this.genAi.getGenerativeModel({
-      model: "gemini-1.5-flash-latest"
+      model: "gemini-2.0-flash"
     });
   }
   checkApiKey() {
     if (!this.genAi.apiKey) {
       this.genAi = new GoogleGenerativeAI(this.pluginSettings.apiKey);
       this.model = this.genAi.getGenerativeModel({
-        model: "gemini-1.5-flash-latest"
+        model: "gemini-2.0-flash"
       });
     }
   }
@@ -1073,8 +1132,16 @@ var buildPipeline = (settings, editor) => {
   return editorWriter;
 };
 
+// src/prompt-substituer.ts
+var substituePrompt = (prompt, title) => {
+  const titleRegex = /\{TITLE\}/g;
+  const substitutedPrompt = prompt.replace(titleRegex, title);
+  return substitutedPrompt;
+};
+
 // src/commands.ts
-function buildGenerateNoteCommand(plugin, geminiClient) {
+function buildGenerateNoteCommand(plugin) {
+  const geminiClient = new GeminiClient(plugin.settings);
   return {
     id: "generate-note",
     name: "Generate note with Gemini",
@@ -1088,7 +1155,7 @@ function buildGenerateNoteCommand(plugin, geminiClient) {
       }
       const notice = new import_obsidian.Notice("\u{1F525} Generating", 0);
       editor.setCursor(editor.lastLine());
-      const prompt = `Write a me an Obsidian Markdown Note without the Title on:${title} `;
+      const prompt = substituePrompt(plugin.settings.defaultPrompt, title);
       const result = await geminiClient.generateNote(prompt);
       if (!result) {
         notice.setMessage("\u274C An error occured during the Google Gemini Request");
@@ -1105,12 +1172,9 @@ function buildGenerateNoteCommand(plugin, geminiClient) {
     }
   };
 }
-var getEditorCommands = (plugin) => {
-  const geminiClient = new GeminiClient(plugin.settings);
-  return [
-    buildGenerateNoteCommand(plugin, geminiClient)
-  ];
-};
+var getEditorCommands = (plugin) => [
+  buildGenerateNoteCommand(plugin)
+];
 
 // src/setting-tab.ts
 var import_obsidian2 = require("obsidian");
@@ -1128,12 +1192,15 @@ var GeminiGeneratorSettingTab = class extends import_obsidian2.PluginSettingTab 
         await this.plugin.saveSettings();
       })
     );
-    new import_obsidian2.Setting(containerEl).setName("Response Processing").setHeading();
-    new import_obsidian2.Setting(containerEl).setName("Remove note title").setDesc("\u2757This feature is under active development, if you encounter bugs, please report them. If enabled, removes headlines with the same title as the note.").addToggle(
-      (toogle) => toogle.setValue(this.plugin.settings.removeHeadlineEnabled).onChange(async (newValue) => {
-        this.plugin.settings.removeHeadlineEnabled = newValue;
+    containerEl.createEl("h3", { text: "Prompts" });
+    containerEl.createEl("p", {
+      text: "In here you can customize the default prompt used for generation of the note. Use {TITLE} to insert the title of the note."
+    });
+    new import_obsidian2.Setting(containerEl).setName("Default Prompt").setDesc("Set the default prompt for generation").addTextArea(
+      (textArea) => textArea.setPlaceholder("Enter your default prompt").setValue(this.plugin.settings.defaultPrompt).onChange(async (value) => {
+        this.plugin.settings.defaultPrompt = value;
         await this.plugin.saveSettings();
-      })
+      }).inputEl.addClass("default-prompt-textarea")
     );
   }
 };
@@ -1166,23 +1233,6 @@ var GeminiGenerator = class extends import_obsidian3.Plugin {
 /*! Bundled license information:
 
 @google/generative-ai/dist/index.mjs:
-  (**
-   * @license
-   * Copyright 2024 Google LLC
-   *
-   * Licensed under the Apache License, Version 2.0 (the "License");
-   * you may not use this file except in compliance with the License.
-   * You may obtain a copy of the License at
-   *
-   *   http://www.apache.org/licenses/LICENSE-2.0
-   *
-   * Unless required by applicable law or agreed to in writing, software
-   * distributed under the License is distributed on an "AS IS" BASIS,
-   * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   * See the License for the specific language governing permissions and
-   * limitations under the License.
-   *)
-
 @google/generative-ai/dist/index.mjs:
   (**
    * @license
@@ -1201,3 +1251,5 @@ var GeminiGenerator = class extends import_obsidian3.Plugin {
    * limitations under the License.
    *)
 */
+
+/* nosourcemap */

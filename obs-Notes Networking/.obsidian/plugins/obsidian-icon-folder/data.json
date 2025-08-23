@@ -31,7 +31,8 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "debugMode": false,
-    "lucideIconPackType": "native"
+    "lucideIconPackType": "native",
+    "useInternalPlugins": false
   },
   "Demo Vault 2/0. MAP.md": "FasMap",
   "Demo Vault 2/4. VISUAL NOTES": "RiFlowChart",

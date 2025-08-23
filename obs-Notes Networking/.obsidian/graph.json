@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "path:TungLy/Area  ",
+  "search": "path:\"TungLy/1. Projects/Dự án 2025/VnPay-Project\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#daily  ",
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.496309147652419,
+  "scale": 0.9755234456829242,
   "close": true
 }

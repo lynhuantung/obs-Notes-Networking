@@ -21,6 +21,7 @@ Liên kết:
 - Cuộc họp liên quan 
 - Thông tin thêm
 	- GAP list [^1]
+	- [^2]Scope hợp tác VNR - BHXH (VNPAY)	  
 	- Cuộc họp liên quan: 
 
 ## Mục tiêu:
@@ -50,12 +51,9 @@ Liên kết:
  
  
 
-## Tóm tắt nội dung họp:
---- 
-Dưới đây là 5 ý chính của cuộc họp:
-1.  
-
-
 
 
 [^1]: GAP list : [GAP_VNP.xlsx - Google Sheets](https://docs.google.com/spreadsheets/d/1MeKT65xvmFb7LE-_Y3h7MqvOJjbYTamP/edit?gid=1651315928#gid=1651315928)
+
+[^2]: [Scope hợp tác VNR - BHXH (VNPAY) - Google Sheets](https://docs.google.com/spreadsheets/d/1XudRIFIe2mL3wOpiyGYB3qYynnOL054pW8WMSD-7e_E/edit?gid=2068433315#gid=2068433315)
+	

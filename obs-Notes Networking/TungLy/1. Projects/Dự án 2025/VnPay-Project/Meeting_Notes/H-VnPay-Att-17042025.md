@@ -59,3 +59,6 @@ Dưới đây là 5 ý chính của cuộc họp:
 
 
 [^1]: GAP list : [GAP_VNP.xlsx - Google Sheets](https://docs.google.com/spreadsheets/d/1MeKT65xvmFb7LE-_Y3h7MqvOJjbYTamP/edit?gid=1651315928#gid=1651315928)
+
+
+
