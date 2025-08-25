@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{
+			"id":"4fc571198f3075d7",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":-120,
+			"y":-20,
+			"width":260,
+			"height":60
+		},
+		{"id":"4eb0e7ec542c6802","type":"file","file":"TungLy/1. Projects/Thiết lập bảo hiểm/Cấu hình chứng từ/Phân tích BH theo Hợp đồng.md","x":-60,"y":-580,"width":400,"height":400}
+	],
+	"edges":[
+		{
+			"id":"0db4f8f906a12c5a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"4fc571198f3075d7",
+			"fromSide":"top",
+			"toNode":"4eb0e7ec542c6802",
+			"toSide":"bottom"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

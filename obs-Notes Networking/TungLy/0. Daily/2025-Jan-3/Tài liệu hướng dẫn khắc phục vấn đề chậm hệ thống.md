@@ -82,3 +82,7 @@ Dưới đây là các bước chi tiết để khắc phục vấn đề chậm
 - **Regular Time Intervals**: Bỏ check để ngăn việc tái chế Application Pool tự động.
 - **Log Request**: Bật logging trong **webSetting.json** để theo dõi các request của  HRM.SC.Service.Api.
 
+
+
+--- 
+

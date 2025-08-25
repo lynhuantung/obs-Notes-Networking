@@ -1,12 +1,12 @@
 ---
 Mã: 25010206-01
-aliases: 
-date: 2025-04-15
+aliases:
+date: 2025-08-25
 time: 09:40
 Week: "16"
 tags:
   - "#project"
-phase: 
+phase:
 Project: "[[Dự án Bitex]]"
 Liên kết:
   - "[[TungLy/1. Projects/Dự án 2025/Project Template/Meeting_Notes/Meeting_Notes|Biên bản họp]]"
