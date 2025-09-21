@@ -1,7 +1,7 @@
 ---
-Mã: ATT-WD01
+Mã: ATT-BUG01
 aliases:
-  - ATT-WD01-tong hop cong
+  - ATT-BUG01-tong hop cong
 date: 2025-09-21
 tags:
   - "#nghiepvu_cong"
