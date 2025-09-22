@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TungLy/1. Projects/Thành Phần BH/Lịch sử BH.md",
+                "file": "TungLy/1. Projects/Nghiep-vu-HRM/ATT/ATT01 - Tổng hợp công.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lịch sử BH"
+              "title": "ATT01 - Tổng hợp công"
             }
           }
         ]
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TungLy/1. Projects/Thành Phần BH/Lịch sử BH.md",
+                "file": "TungLy/1. Projects/Nghiep-vu-HRM/ATT/ATT01 - Tổng hợp công.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -277,7 +277,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Lịch sử BH"
+              "title": "Graph of ATT01 - Tổng hợp công"
             }
           }
         ]
@@ -310,8 +310,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1feec03bd20c4df3",
+  "active": "fcee5b489c0c1936",
   "lastOpenFiles": [
+    "TungLy/1. Projects/Thành Phần BH/Lịch sử BH.md",
     "TungLy/1. Projects/Thành Phần BH/Thiết lập BH.md",
     "TungLy/2. RESOURCE/template/Todo list.md",
     "TungLy/1. Projects/Thiết lập bảo hiểm/Cấu hình chứng từ/Chu kỳ thay đổi lương.md",
@@ -338,7 +339,6 @@
     "TungLy/1. Projects/Thành Phần BH/Chế độ bảo hiểm.md",
     "TungLy/1. Projects/Thiết lập bảo hiểm/Cấu hình chứng từ/Ngày nghỉ thai sản.md",
     "TungLy/1. Projects/Thành Phần BH/lương.md",
-    "TungLy/Drafts-Nháp.md",
     "TungLy/0. Daily/2025-Aug-34",
     "Untitled.base",
     "TungLy/2. RESOURCE/template/Bien_Ban_Hop.html",
