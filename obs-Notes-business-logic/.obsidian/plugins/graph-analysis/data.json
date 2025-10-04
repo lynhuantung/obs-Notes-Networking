@@ -1,0 +1,19 @@
+{
+  "noInfinity": true,
+  "noZero": true,
+  "allFileExtensions": false,
+  "showImgThumbnails": false,
+  "addUnresolved": true,
+  "coTags": false,
+  "defaultSubtypeType": "Co-Citations",
+  "debugMode": false,
+  "superDebugMode": false,
+  "exclusionRegex": "\\.(png|jpg|jpeg|gif|webp|pdf)$",
+  "exclusionTags": [],
+  "algsToShow": [
+    "Adamic Adar",
+    "Jaccard",
+    "Label Propagation",
+    "Louvain"
+  ]
+}
