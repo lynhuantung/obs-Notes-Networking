@@ -11,7 +11,7 @@ tags:
 
 ## ⚙️ Bước 1. Cài Pandoc trên máy tính
 
-### 🔹 Nếu Tùng dùng **Windows**:
+### 🔹 Nếu dùng **Windows**:
 
 1. Vào trang chính thức:
    👉 [https://pandoc.org/installing.html](https://pandoc.org/installing.html)
