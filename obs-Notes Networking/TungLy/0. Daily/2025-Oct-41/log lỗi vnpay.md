@@ -1,11 +1,12 @@
 ---
-Mã: "25104107-01"
-aliases: 
-date: "2025-10-07"
-time: "08:36"
+Mã: 25104107-01
+aliases:
+date: 2025-10-07
+time: 08:36
 Week: "41"
 tags:
   - daily
+  - vnpay
 ---
 
 ## 📊 **PHÂN TÍCH CHI TIẾT CÁC LỖI LEVEL: ERROR**
