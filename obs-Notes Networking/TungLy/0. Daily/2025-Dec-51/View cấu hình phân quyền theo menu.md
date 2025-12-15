@@ -8,6 +8,8 @@ tags:
   - daily
   - "#permission"
   - "#groupPermission"
+  - "#menu"
+  - "#phanquyen-menu"
 Related:
   - "[[Tham khảo phân quyền]]"
 Project: "[[VFR-Project]]"
