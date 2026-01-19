@@ -1,9 +1,8 @@
 ---
 Mã: "{{date:YYMMWWDD-01}}"
-aliases: 
-date: "{{date}}"
-time: "{{date:HH:mm}}"
-Week: "{{date:WW}}"
+aliases:
+date: "{{date:YYYYMMDD}}"
 tags:
   - daily
+Project:
 ---
