@@ -198,4 +198,13 @@ Liên kết:
     - Deserialize JSON thành object `JobItem`.
         
     - Gọi `ExecuteTask()` xử lý thực tế.
-        
+
+
+
+
+--- 
+<span style="color: var(--text-error)">Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyAoPYQSZCFRu5sSW7g-2mEMxzfkAseBs48&alt=sse: [403 ] Your API key was reported as leaked. Please use another API key.</span>
+
+ --- 
+
+
