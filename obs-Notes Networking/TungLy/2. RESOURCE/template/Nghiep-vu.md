@@ -1,8 +1,8 @@
 ---
-Mã: YYY01
+Mã: <% tp.file.title %>
 aliases:
   - 
-date: 2025-09-21
+date: <% tp.date.now("YYYY-MM-DD") %>
 tags:
   - "#nghiepvu"
 Liên quan:
