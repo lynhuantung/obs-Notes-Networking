@@ -20,5 +20,5 @@
 		{"id":"f13f1f5b9775cf11","fromNode":"247905a5f28a7fa0","fromSide":"right","toNode":"9f6857411d6beb53","toSide":"left"},
 		{"id":"30bfc68bf0b773d2","fromNode":"9b4cf55248dfac59","fromSide":"right","toNode":"c949b89849285958","toSide":"left"}
 	],
-	"metadata":{}
+	"metadata":{"version":"1.0-1.0"}
 }

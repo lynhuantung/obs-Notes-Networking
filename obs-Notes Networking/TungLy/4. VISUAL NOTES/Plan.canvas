@@ -47,5 +47,5 @@
 		{"id":"1cac633bdd26df5c","fromNode":"fffa4ec47471ce9f","fromSide":"right","toNode":"d41dd24b4127dba8","toSide":"left"},
 		{"id":"8faeaedd99e42612","fromNode":"aa9f5466c3b44b50","fromSide":"right","toNode":"a0eb13070f587c7d","toSide":"left"}
 	],
-	"metadata":{}
+	"metadata":{"version":"1.0-1.0"}
 }
