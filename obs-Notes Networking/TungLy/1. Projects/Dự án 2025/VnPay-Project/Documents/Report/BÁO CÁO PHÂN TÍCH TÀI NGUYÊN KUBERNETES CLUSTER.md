@@ -6,6 +6,7 @@ tags:
   - "#brainStorming"
   - "#report"
   - "#grafana"
+  - "#load-test"
 Project: "[[Dự án VnPay]]"
 ---
 Dưới đây là **báo cáo phân tích kỹ thuật** dựa **trực tiếp trên dashboard đã được lọc theo namespace HRM (`hrm-vnr-pilot`)**, viết theo **chuẩn tài liệu giải trình**, có **số liệu cụ thể + phân tích + kết luận rõ ràng**.  

@@ -5,6 +5,7 @@ Related:
   - "[[0.Brain Stormings]]"
 tags:
   - "#brainStorming"
+  - "#load-test"
 Project: "[[Dự án VnPay]]"
 ---
 ![[cbimage.png]]

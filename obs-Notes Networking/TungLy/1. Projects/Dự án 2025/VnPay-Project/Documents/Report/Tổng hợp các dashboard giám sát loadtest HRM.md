@@ -6,6 +6,7 @@ tags:
   - "#brainStorming"
   - "#report"
   - "#grafana"
+  - "#load-test"
 Project: "[[Dự án VnPay]]"
 date: 2026-02-07
 Người tạo: Tester VnPay
