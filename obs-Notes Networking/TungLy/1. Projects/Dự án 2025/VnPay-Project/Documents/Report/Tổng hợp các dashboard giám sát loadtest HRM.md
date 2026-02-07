@@ -8,7 +8,7 @@ tags:
   - "#grafana"
   - "#load-test"
 Project: "[[Dự án VnPay]]"
-date: 2026-02-07
+date: 2025-12-21
 Người tạo: Tester VnPay
 ---
 **Tổng hợp các dashboard giám sát loadtest HRM**
