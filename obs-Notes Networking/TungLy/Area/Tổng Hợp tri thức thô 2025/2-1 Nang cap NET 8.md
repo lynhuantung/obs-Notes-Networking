@@ -7,4 +7,4 @@ tags: [cong-nghe, dot-net]
 # Nâng cấp .NET 8
 Chuyển đổi từ Framework cũ sang .NET 8 để tăng hiệu suất và hỗ trợ đa nền tảng.
 
-- Liên kết: [[2-1a Thay the FormCollection]], [[2-1b EF Core Compiled Models]]
+- Liên kết: [[2-1a Thay the FormCollection]], [[2-1b EF Core Compiled Models]] , [[0 - Cài đặt môi trường Net8]]

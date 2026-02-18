@@ -7,4 +7,4 @@ tags: [ai, cong-cu]
 # Cursor AI Memory Bank
 Sử dụng tệp .cursorrules để AI ghi nhớ bối cảnh dự án và kiến trúc hệ thống.
 
-- Liên kết: [[4-3a Chế độ Plan và Act]]
+- Liên kết: [[4-3a Chế độ Plan và Act]] , [[AI Cursor]] , 

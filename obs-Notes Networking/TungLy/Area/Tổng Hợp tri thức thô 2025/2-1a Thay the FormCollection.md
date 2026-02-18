@@ -7,4 +7,4 @@ tags: [code, dot-net-core]
 # Thay thế FormCollection
 Sử dụng `IFormCollection` thay cho class cũ để tương thích với ASP.NET Core.
 
-- Liên kết: [[2-1 Nang cap NET 8]]
+- Liên kết: [[2-1 Nang cap NET 8]] , [[Chuyển FormCollection thành FormCollection]]

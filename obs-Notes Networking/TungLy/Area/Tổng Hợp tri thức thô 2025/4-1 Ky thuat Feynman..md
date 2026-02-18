@@ -7,4 +7,4 @@ tags: [hoc-tap, tu-duy]
 # Kỹ thuật Feynman
 Học bằng cách dạy lại cho người khác. Áp dụng khi nghiên cứu LDAP và OIDC.
 
-- Liên kết: [[3-3 Quan ly LDAP]]
+- Liên kết: [[3-3 Quan ly LDAP]] , [[LDAP Theo phong cách Feyman]]

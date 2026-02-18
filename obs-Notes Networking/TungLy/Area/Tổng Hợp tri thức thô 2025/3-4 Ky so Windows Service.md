@@ -7,4 +7,4 @@ tags: [security, windows]
 # Ký số Windows Service
 Sử dụng chứng chỉ .PFX để ký file, tránh bị Windows Defender báo lỗi giả.
 
-- Liên kết: [[2-3 Cau hinh IIS]]
+- Liên kết: [[2-3 Cau hinh IIS]] , [[Ký số window service]] , [[Windows Service sử dụng Hangfire]] , 

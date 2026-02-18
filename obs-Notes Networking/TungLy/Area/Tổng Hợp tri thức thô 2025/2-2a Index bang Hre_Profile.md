@@ -7,4 +7,4 @@ tags: [sql, performance]
 # Index bảng Hre_Profile
 Tạo Non-Clustered Index để tăng tốc hàm `get_ProfileWorkListPortalV3`.
 
-- Liên kết: [[2-2 Toi uu SQL Server]]
+- Liên kết: [[2-2 Toi uu SQL Server]] , [[Xây dựng datawarehouse bảng]] , 

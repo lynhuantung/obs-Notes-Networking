@@ -7,4 +7,4 @@ tags: [security, api]
 # Bảo mật API OIDC
 Phân quyền theo Scope để giới hạn quyền truy cập của các ứng dụng bên thứ ba.
 
-- Liên kết: [[1-1a Tich hop SSO]]
+- Liên kết: [[1-1a Tich hop SSO]] ,[[Hướng dẫn SSO - HRM]] , [[Hướng dẫn sử dụng Swagger API]] , [[Fix bảo mật]] , 

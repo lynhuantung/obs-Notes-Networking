@@ -7,4 +7,4 @@ tags: [server, iis]
 # Cấu hình IIS
 Thiết lập Idle Time-out và Recycle để đảm bảo ứng dụng SaaS luôn sẵn sàng.
 
-- Liên kết: [[1-4 Du an PEWVN]]
+- Liên kết: [[1-4 Du an PEWVN]] , [[Tài liệu hướng dẫn khắc phục vấn đề chậm hệ thống]] , 

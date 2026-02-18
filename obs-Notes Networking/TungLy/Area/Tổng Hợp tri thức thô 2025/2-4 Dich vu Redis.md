@@ -7,4 +7,4 @@ tags: [cache, infra]
 # Dịch vụ Redis
 Kiểm tra và khởi động lại Redis sau mỗi lần cập nhật Windows để tránh lỗi cache.
 
-- Liên kết: [[1-1 Du an VnPay]]
+- Liên kết: [[1-1 Du an VnPay]], [[INOAC-Vấn đề lỗi redis]] 

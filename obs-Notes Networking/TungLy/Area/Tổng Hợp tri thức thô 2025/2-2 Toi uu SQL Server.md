@@ -7,4 +7,4 @@ tags: [sql, database]
 # Tối ưu SQL Server
 Thiết lập các thông số quan trọng như MAXDOP để tránh nghẽn CPU.
 
-- Liên kết: [[2-2a Index bang Hre_Profile]], [[2-2b Thiet lap MAXDOP]]
+- Liên kết: [[2-2a Index bang Hre_Profile]], [[2-2b Thiet lap MAXDOP]] ,  [[Trả lời mã hóa sql]] , [[performance sql cpu]]
