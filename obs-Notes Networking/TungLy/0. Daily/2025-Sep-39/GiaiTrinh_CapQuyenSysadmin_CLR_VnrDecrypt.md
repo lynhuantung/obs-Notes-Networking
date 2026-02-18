@@ -75,3 +75,4 @@ Các yêu cầu kỹ thuật nêu trên được căn cứ theo tài liệu chí
 |**CREATE ASSEMBLY** – quyền yêu cầu khi tạo assembly|[https://learn.microsoft.com/en-us/sql/t-sql/statements/create-assembly-transact-sql](https://learn.microsoft.com/en-us/sql/t-sql/statements/create-assembly-transact-sql)|
 |**Server Configuration (sp_configure)** – chỉ sysadmin mới có thể thay đổi|[https://learn.microsoft.com/en-us/sql/database-engine/configure-windows/server-configuration-options-sql-server](https://learn.microsoft.com/en-us/sql/database-engine/configure-windows/server-configuration-options-sql-server)|
 |**Principle of Least Privilege** – khuyến nghị cấp quyền tối thiểu|[https://learn.microsoft.com/en-us/sql/relational-databases/security/best-practices-for-securing-sql-server](https://learn.microsoft.com/en-us/sql/relational-databases/security/best-practices-for-securing-sql-server)|
+
