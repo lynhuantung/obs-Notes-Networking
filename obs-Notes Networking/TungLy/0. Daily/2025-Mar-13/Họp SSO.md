@@ -1,11 +1,13 @@
 ---
-Mã: "25031326-01"
-aliases: 
-date: "2025-03-26"
-time: "15:49"
+Mã: 25031326-01
+aliases:
+date: 2025-03-26
+time: 15:49
 Week: "13"
 tags:
   - daily
+Link:
+  - "[[SSO - DotNet core]]"
 ---
 
 

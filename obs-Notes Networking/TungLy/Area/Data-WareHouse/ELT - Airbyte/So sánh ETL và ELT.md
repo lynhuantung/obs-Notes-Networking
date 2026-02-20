@@ -1,9 +1,11 @@
 ---
-aliases: 
+aliases:
 date: 2024-10-26
 tags:
   - "#ETL"
   - ELT
+Link:
+  - "[[TungLy/Area/Data-WareHouse 1/ELT - Airbyte/ELT - Airbyte|ELT - Airbyte]]"
 ---
 ![[Pasted image 20241026111528.png]]
 Dưới đây là so sánh giữa **Airbyte** (ELT) và **Talend Open Studio** (ETL) dựa trên các khía cạnh chính:
