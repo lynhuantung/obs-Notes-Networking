@@ -1,6 +1,5 @@
 ---
 Trạng thái:
-  - Hoàn thành
 aliases:
 title:
 tags:
@@ -10,10 +9,10 @@ tags:
   - "#issuelog"
 date: 2024-12-17
 Related:
-  - "[[TungLy/1. Projects/Chỉ Huy dự án/INOAC-Project/INOAC-Project]]"
+  - "[[VNPAY-Project]]"
 Amis Link:
 Link:
-Project: "[[Dự án INOAC]]"
+Project: "[[1-1 Du an VnPay|Dự án VnPay]]"
 ---
 ### **Giải pháp hạn chế rủi ro khi cập nhật phần mềm**
 
@@ -23,8 +22,7 @@ Project: "[[Dự án INOAC]]"
 
 #### **2. Giải pháp đề xuất**
 
-- **Dựng link UAT**: Test trước khi đưa lên **GOLIVE**.
-- **Tạo evidence**: Ghi nhận ảnh chụp, testcase để chứng minh đã fix.
+- 
 
 #### **3. Lý do cần UAT**
 

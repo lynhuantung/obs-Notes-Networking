@@ -1,8 +1,8 @@
 ---
 Trạng thái:
   - Hoàn thành
-aliases: 
-title: 
+aliases:
+title:
 tags:
   - "#chi-huy-du-an"
   - "#truong-du-an"
@@ -10,9 +10,9 @@ tags:
   - "#issuelog"
 date: 2025-01-22
 Related:
-  - "[[INOAC-Project]]"
-Amis Link: 
-Link: 
+  - "[[TungLy/1. Projects/Chỉ Huy dự án/INOAC-Project/INOAC-Project]]"
+Amis Link:
+Link:
 Project: "[[Dự án INOAC]]"
 ---
 ### **Báo cáo Giải Trình Lỗi Redis Cache**

@@ -3,7 +3,7 @@ Trạng thái:
   - "[[Đang làm việc]]"
 Role: Hỗ trợ  chính
 Projects:
-  - "[[INOAC-Project]]"
+  - "[[TungLy/1. Projects/Chỉ Huy dự án/INOAC-Project/INOAC-Project]]"
   - "[[TVC-project]]"
   - "[[TrungDong-Project]]"
 Nguồn lực: "[[0. Nguồn lực]]"

@@ -1,0 +1,16 @@
+---
+title: Câu hỏi về mục tiêu dự án
+tags:
+  - Q&A
+  - "#faq"
+date: 2025-01-18
+Related: "[[TungLy/3. ARCHIEVED/Dự án 2025/TrungDong-Project/Questions/Question]]"
+Project: "[[Dự án TrungDong]]"
+Liên kết:
+  - "[[TungLy/3. ARCHIEVED/Dự án 2025/TrungDong-Project/Goals|Goals]]"
+---
+# Câu hỏi gợi ý
+---
+- ✅ `Scope` → Phạm vi dự án có đáp ứng mục tiêu không?
+- ✅ `Tasks` → Các công việc cụ thể cần làm để đạt được mục tiêu.
+- ✅ `Timeline` → Mục tiêu cần hoàn thành trong bao lâu?

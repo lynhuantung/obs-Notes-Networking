@@ -1,6 +1,6 @@
 
 [[Upgrade Net8 - Weekly]]
-[[0.Index -7425|Dự án VnPay]] : dự án VnPay giai đoạn cài đặt
+[[TungLy/1. Projects/Dự án 2026/Bitex-Project/0.Index -7425|Dự án VnPay]] : dự án VnPay giai đoạn cài đặt
 
 ## Quan trọng
 - [[TaskBoard Thi Công 2025]] 

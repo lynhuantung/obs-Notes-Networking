@@ -3,7 +3,7 @@ Trạng thái:
   - "[[Đang làm việc]]"
 Role: Trưởng dự án
 Projects:
-  - "[[INOAC-Project]]"
+  - "[[TungLy/1. Projects/Chỉ Huy dự án/INOAC-Project/INOAC-Project]]"
   - "[[TVC-project]]"
   - "[[Colgate-Project]]"
   - "[[TrungDong-Project]]"
