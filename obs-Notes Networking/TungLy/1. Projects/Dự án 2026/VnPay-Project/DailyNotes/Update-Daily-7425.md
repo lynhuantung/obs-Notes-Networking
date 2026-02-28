@@ -9,6 +9,9 @@ tags:
 Project: "[[Dự án VnPay]]"
 Liên kết:
 ---
+# 24/02/2026
+---
+-  Bảng Att_Leaveday đã dùng constraint unique để bắt trùng. Lưu ý lỗi không lưu được.
 # 01/07/2025
 ---
 -  Nghỉ phép 4 cấp lên 5 cấp, Nghỉ việc 4 cấp lên 6 cấp, tuyển dụng 8 cấp.3 tasks này sửa nhiều dữ lắm.
