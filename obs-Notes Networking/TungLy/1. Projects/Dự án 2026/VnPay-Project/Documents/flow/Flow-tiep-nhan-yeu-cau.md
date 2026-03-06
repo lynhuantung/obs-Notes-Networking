@@ -3,8 +3,8 @@ Mã: 20260306172706
 aliases:
 date: 2026-03-06
 tags:
-  - daily
-Project:
+  - "#workflow"
+Project: "[[Dự án VnPay]]"
 ---
 ![[Pasted image 20260306173306.png]]
 Hình này mô tả **quy trình tiếp nhận và xử lý các yêu cầu trong hệ thống** (ví dụ: yêu cầu hỗ trợ, bug, thay đổi chức năng, hỗ trợ khách hàng…). Quy trình thể hiện sự phối hợp giữa các bộ phận **DEV / BA / CSKH → Leader / PO / PM → QTUD → DEV / BA / CSKH review**.

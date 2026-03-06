@@ -3,8 +3,8 @@ Mã: 20260306172706
 aliases:
 date: 2026-03-06
 tags:
-  - daily
-Project:
+  - "#workflow"
+Project: "[[Dự án VnPay]]"
 ---
 ![[Pasted image 20260306172757.png]]
 

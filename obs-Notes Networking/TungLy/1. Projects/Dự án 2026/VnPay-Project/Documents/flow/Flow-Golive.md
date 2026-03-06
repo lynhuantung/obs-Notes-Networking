@@ -3,8 +3,8 @@ Mã: 20260306172706
 aliases:
 date: 2026-03-06
 tags:
-  - daily
-Project:
+  - "#workflow"
+Project: "[[Dự án VnPay]]"
 ---
 ![[Pasted image 20260306173119.png]]
 Hình này mô tả **quy trình cập nhật ứng dụng lên môi trường LIVE (Production)**. So với luồng **UAT**, luồng LIVE có thêm các bước kiểm soát như **PO/PM phê duyệt, review sau deploy, rollback và hotfix** để giảm rủi ro cho hệ thống đang vận hành.
