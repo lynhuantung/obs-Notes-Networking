@@ -14,20 +14,20 @@ Luồng trong hình mô tả **quy trình cập nhật ứng dụng lên môi tr
 
 # 1. Luồng cập nhật ứng dụng lên môi trường UAT
 
-|Bước|Vai trò|Hoạt động|Kết quả|
-|---|---|---|---|
-|1|DEV|Bắt đầu quy trình cập nhật|Start|
-|2|Leader Dev|Kiểm tra thay đổi (code, chức năng, phạm vi ảnh hưởng)|Xác định có thể deploy|
-|3|Leader Dev|Phê duyệt thay đổi|Nếu NOK → Cancel|
-|4|QTUD|Kiểm tra thông tin yêu cầu|Kiểm tra đầy đủ thông tin deploy|
-|5|QTUD|Đánh giá kết quả kiểm tra|Nếu NOK → trao đổi lại yêu cầu|
-|6|QTUD|Trao đổi và làm rõ thông tin|Nếu không đạt → Cancel|
-|7|QTUD|Xử lý yêu cầu cập nhật|Thực hiện deploy|
-|8|QTUD|Nếu cần phối hợp bộ phận khác|Phối hợp xử lý|
-|9|QTUD|Kiểm tra kết quả thực hiện|Nếu NOK → Cancel|
-|10|Tester|Test ứng dụng|Kiểm thử trên UAT|
-|11|Tester|Đánh giá kết quả test|Pass / Không Pass|
-|12|Tester|Hoàn tất quy trình|Kết thúc|
+| Bước | Vai trò    | Hoạt động                                              | Kết quả                                                     |
+| ---- | ---------- | ------------------------------------------------------ | ----------------------------------------------------------- |
+| 1    | DEV        | Bắt đầu quy trình cập nhật                             | Start                                                       |
+| 2    | Leader Dev | Kiểm tra thay đổi (code, chức năng, phạm vi ảnh hưởng) | Xác định có thể deploy                                      |
+| 3    | Leader Dev | Phê duyệt thay đổi                                     | Nếu NOK → Cancel                                            |
+| 4    | QTUD       | Kiểm tra thông tin yêu cầu                             | Kiểm tra đầy đủ thông tin deploy (QTUD - quản trị ứng dụng) |
+| 5    | QTUD       | Đánh giá kết quả kiểm tra                              | Nếu NOK → trao đổi lại yêu cầu                              |
+| 6    | QTUD       | Trao đổi và làm rõ thông tin                           | Nếu không đạt → Cancel                                      |
+| 7    | QTUD       | Xử lý yêu cầu cập nhật                                 | Thực hiện deploy                                            |
+| 8    | QTUD       | Nếu cần phối hợp bộ phận khác                          | Phối hợp xử lý                                              |
+| 9    | QTUD       | Kiểm tra kết quả thực hiện                             | Nếu NOK → Cancel                                            |
+| 10   | Tester     | Test ứng dụng                                          | Kiểm thử trên UAT                                           |
+| 11   | Tester     | Đánh giá kết quả test                                  | Pass / Không Pass                                           |
+| 12   | Tester     | Hoàn tất quy trình                                     | Kết thúc                                                    |
 
 ---
 

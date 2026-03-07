@@ -17,12 +17,12 @@ Dưới đây là mô tả chi tiết từng bước của luồng.
 
 Các vai trò tham gia:
 
-|Vai trò|Nhiệm vụ|
-|---|---|
-|DEV / BA / CSKH|Tiếp nhận yêu cầu ban đầu|
-|Leader Dev / PO / PM|Phê duyệt và đánh giá yêu cầu|
-|QTUD|Xử lý và thực hiện yêu cầu|
-|DEV / BA / CSKH|Kiểm tra kết quả cuối|
+| Vai trò              | Nhiệm vụ                                              |
+| -------------------- | ----------------------------------------------------- |
+| DEV / BA / CSKH      | Tiếp nhận yêu cầu ban đầu                             |
+| Leader Dev / PO / PM | Phê duyệt và đánh giá yêu cầu                         |
+| QTUD                 | Xử lý và thực hiện yêu cầu (QTUD - quản trị ứng dụng) |
+| DEV / BA / CSKH      | Kiểm tra kết quả cuối                                 |
 
 Luồng tổng thể:
 

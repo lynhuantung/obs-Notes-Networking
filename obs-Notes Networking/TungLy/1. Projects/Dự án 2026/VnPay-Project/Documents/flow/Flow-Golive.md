@@ -17,12 +17,12 @@ Dưới đây là mô tả chi tiết từng giai đoạn.
 
 Quy trình gồm các vai trò chính:
 
-|Vai trò|Trách nhiệm|
-|---|---|
-|DEV|Chuẩn bị thay đổi|
-|PO/PM|Phê duyệt triển khai|
-|QTUD|Thực hiện deploy|
-|Tester|Kiểm thử sau deploy|
+| Vai trò | Trách nhiệm                                 |
+| ------- | ------------------------------------------- |
+| DEV     | Chuẩn bị thay đổi                           |
+| PO/PM   | Phê duyệt triển khai                        |
+| QTUD    | Thực hiện deploy (QTUD - quản trị ứng dụng) |
+| Tester  | Kiểm thử sau deploy                         |
 
 Luồng tổng thể:
 
