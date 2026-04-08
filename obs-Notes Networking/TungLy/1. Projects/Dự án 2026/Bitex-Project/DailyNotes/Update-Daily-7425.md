@@ -9,6 +9,13 @@ tags:
 Project: "[[Dự án Bitex]]"
 Liên kết:
 ---
+# 08/04/2026
+---
+Xử lý performance cho Bitex
+- Chuyển cache list sang dictionary
+- Portal dashboard => cache waiting approve khi lưu giá trị liên quan approve thì sẽ tự clear cache
+- Ghi log app 
+- Đọc nội dung mail dùng password app
 # 12/02/2026
 ---
 -  Xử lý lỗi loading app do không lấy được cấu hình và báo lỗi không đọc file được
