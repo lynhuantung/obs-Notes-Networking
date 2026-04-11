@@ -11,13 +11,13 @@ Project:
 
 ## 🔹 Tổng quan 5 tiêu chí đánh giá
 
-|Mục|Tiêu chí|Giá trị|
-|---|---|---|
-|1|KPI tuân thủ quy trình|100%|
-|2|KPI giờ giấc làm việc|20%|
-|3|Hoàn thành công việc đúng hạn|85.7%|
-|4|Chất lượng sản phẩm bàn giao|25%|
-|5|Hiệu suất thực hiện công việc|21%|
+| Mục | Tiêu chí                      | Giá trị |
+| --- | ----------------------------- | ------- |
+| 1   | KPI tuân thủ quy trình        | 100%    |
+| 2   | KPI giờ giấc làm việc         | 20%     |
+| 3   | Hoàn thành công việc đúng hạn | 82.8%   |
+| 4   | Chất lượng sản phẩm bàn giao  | 25%     |
+| 5   | Hiệu suất thực hiện công việc | 21%     |
 
 ---
 
@@ -105,3 +105,4 @@ Project:
     [https://tcda.vnrlocal.com/Pages_Customize/pointusp.html](https://tcda.vnrlocal.com/Pages_Customize/pointusp.html)
     
 
+------------------
