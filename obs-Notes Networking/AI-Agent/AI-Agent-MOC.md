@@ -6,71 +6,105 @@ tags: [moc, ai, skill, agent]
 type: moc
 Related:
   - "[[4-3 Cursor AI Memory Bank]]"
+  - "[[4-3a Che do Plan va Act]]"
   - "[[4-4 He thong Zettelkasten]]"
 ---
 
 # 🤖 AI-Agent — Map of Content
 
-> Trung tâm lưu trữ toàn bộ Skill, Agent, Prompt phục vụ tự động hóa công việc.
+> Trung tâm nháp Skill, Agent, Knowledge — khi sẵn sàng deploy sang source code.
 
 ---
 
-## 📐 Triết lý
-- **TungLy/** = Ghi chú thuần (meeting, daily, zettelkasten) — *con người viết*
-- **AI-Agent/** = Skill & Agent — *máy thực thi theo lệnh*
-- Hai thế giới liên kết nhau qua wikilinks
+## 📐 Triết lý 2 Layer
+
+```
+LAYER 1 — Obsidian (nháp + mạng lưới)       LAYER 2 — Source code (production)
+──────────────────────────────────────       ──────────────────────────────────
+AI-Agent/Skills/HRM/Skill-xxx.md      →      .claude/skills/hrm-xxx/SKILL.md
+AI-Agent/Agents/Agent-HRM.md          →      .claude/agents/hrm-agent.md
+AI-Agent/Knowledge/                   →      ai/{domain}/knowledge/
+```
 
 ---
 
-## 🛠️ Skills theo Domain
+## 🛠️ Skills
+
+### Common *(dùng cho mọi domain)*
+| Skill | Mô tả | Lệnh kích hoạt |
+|---|---|---|
+| [[Skills/Common/Skill-kb-learn]] | Nạp knowledge **kỹ thuật** (Redis, SQL, API...) | `"nạp vào"` / `"lưu kỹ thuật"` |
+| [[Skills/HRM/Skill-nghiepvu-learn]] | Nạp knowledge **nghiệp vụ** (ATT, SAL, INS...) | `"nạp nghiệp vụ"` / `"lưu nghiệp vụ"` |
 
 ### HRM
-| Skill | Mô tả | Dùng khi |
+| Skill | Mô tả | Status |
 |---|---|---|
-| [[Skills/HRM/Skill-config]] | Cấu hình Database | Đổi môi trường DEV/UAT/PROD |
-| [[Skills/HRM/Skill-Store-sql]] | Sinh Stored Procedure | Tạo store mới cho bảng |
+| [[Skills/HRM/Skill-config]] | Cấu hình Database | `ready` |
+| [[Skills/HRM/Skill-Store-sql]] | Sinh Stored Procedure | `ready` |
+| [[Skills/HRM/Skill-nghiepvu-learn]] | Nạp nghiệp vụ HRM vào mạng lưới | `ready` |
 
 ### VnPay
-| Skill | Mô tả | Dùng khi |
-|---|---|---|
-| *(chưa có)* | | |
-
-### Common
-| Skill | Mô tả | Dùng khi |
+| Skill | Mô tả | Status |
 |---|---|---|
 | *(chưa có)* | | |
 
 ---
 
 ## 🤖 Agents
-*(Agent = tập hợp nhiều skill + context dự án)*
-
-| Agent | Domain | Skills dùng |
-|---|---|---|
-| *(chưa có)* | | |
+| Agent | Domain | Mô tả | Status |
+|---|---|---|---|
+| *(chưa có)* | | | |
 
 ---
 
-## 💬 Prompts hay dùng
-*(Các prompt template tái sử dụng)*
+## 📚 Knowledge Base
 
-| Prompt | Mục đích |
+> Xem [[Knowledge/_README]] để hiểu cách nạp
+
+| Thư mục | Nội dung | Nạp bằng |
+|---|---|---|
+| [[Knowledge/case-studies/]] | Cases đã giải quyết | `Skill-kb-learn` |
+| [[Knowledge/patterns/]] | Patterns tái sử dụng | `Skill-kb-learn` |
+| [[Knowledge/rules/]] | Quy tắc học được | `Skill-kb-learn` |
+
+### Rules hiện có
+- [[Knowledge/rules/hrm-rules.md]] — HRM rules (5 rules)
+
+### Patterns hiện có
+- [[Knowledge/patterns/infra/redis-crash-after-windows-update]] — Redis lỗi sau Windows Update
+
+---
+
+## 📋 Templates
+| Template | Dùng để tạo |
 |---|---|
-| *(chưa có)* | |
+| [[Skills/_template/Template-Skill]] | Skill mới |
+| [[Skills/_template/Template-Agent]] | Agent mới |
+| [[Skills/_template/Template-Case-Study]] | Case study thủ công |
+
+---
+
+## ✅ Cách dùng nhanh
+
+### Nạp knowledge (AI tự làm)
+> Chỉ cần nói: **"tôi vừa gặp vấn đề X, cần nạp vào"**
+> → AI hỏi đủ thông tin → tự tạo file đúng chỗ → liên kết Zettelkasten
+
+### Tạo Skill mới
+1. Copy `Template-Skill.md` → `Skills/{Domain}/Skill-{ten}.md`
+2. Điền PHẦN 1 (Obsidian) + PHẦN 2 (Production)
+3. Set `status: draft` → viết → `status: ready`
+4. Cập nhật bảng Skills ở trên
+
+### Deploy sang source code
+Copy **PHẦN 2** của Skill → `.claude/skills/{ten}/SKILL.md`
 
 ---
 
 ## 🔗 Liên kết Zettelkasten
 - [[4-3 Cursor AI Memory Bank]] — triết lý AI nhớ context
-- [[4-3a Che do Plan va Act]] — chế độ làm việc với AI
-- [[4-4 He thong Zettelkasten]] — hệ thống ghi chú nền tảng
+- [[4-3a Che do Plan va Act]] — chế độ Plan/Act
+- [[4-4 He thong Zettelkasten]] — hệ thống bộ nhớ ngoài
 - [[2-1 Nang cap NET 8]] — context kỹ thuật HRM
 - [[2-2 Toi uu SQL Server]] — context tối ưu DB
-
----
-
-## 📋 Cách thêm Skill mới
-1. Tạo file trong `Skills/{Domain}/Skill-{tên}.md`
-2. Dùng frontmatter: `type: skill`, `domain: xxx`, `status: active`
-3. Thêm vào bảng trên theo đúng domain
-4. Liên kết với Zettelkasten node liên quan trong `Area/`
+- [[2-4 Dich vu Redis]] — context Redis
