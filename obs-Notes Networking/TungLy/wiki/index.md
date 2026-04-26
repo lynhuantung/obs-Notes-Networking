@@ -80,6 +80,17 @@ last-analyzed: 2026-04-26
 | [[wiki/sources/SysLog-NghiepVu-Chi-Tiet]] | 29 lỗi nghiệp vụ SE chi tiết (Sys00001–Sys00029) | 2026-04-26 |
 | [[wiki/sources/WarmupStatus-Performance-2026]] | WarmupStatus 6 services + Identity Razor warmup (2026-04-20) | 2026-04-26 |
 | [[wiki/sources/GitNexus-Daily-Note]] | Ghi chú GitNexus: chạy lại analyze khi tách nhánh | 2026-04-26 |
+| [[wiki/sources/INS-InsuranceMonthJoin]] | Logic xác định tháng tham gia BH — InsuranceMonthJoin | 2026-04-26 |
+| [[wiki/sources/INS-InsurancePayback]] | Logic hoàn trả BH khi đóng sai/thừa — InsurancePayback | 2026-04-26 |
+| [[wiki/sources/INS-InsuranceRecordDayCount]] | Đếm ngày thực tế bản ghi BH trong tháng — DayCount formula | 2026-04-26 |
+| [[wiki/sources/INS-Nghi14Ngay]] | Quy tắc nghỉ ốm hưởng BHXH: 14 ngày làm việc, không cắt bản ghi | 2026-04-26 |
+| [[wiki/sources/INS-NghiThaiSan]] | Chế độ thai sản: 6 tháng, 100% lương, không cắt bản ghi BH | 2026-04-26 |
+| [[wiki/sources/INS-iBHXH-Analyze]] | Phân tích luồng tích hợp HRM → iBHXH khai báo điện tử | 2026-04-26 |
+| [[wiki/sources/INS-C70-TinhLuong]] | Bảng tổng hợp lương C70: cột BH NLĐ + NSDLĐ, đối soát D02 | 2026-04-26 |
+| [[wiki/sources/INS-D02-ChungTu]] | Biểu mẫu D02-TS: tham gia/điều chỉnh BH, Venn so sánh phiên bản | 2026-04-26 |
+| [[wiki/sources/INS-FishBone-Analysis]] | FishBone 4M + 5 Whys phân tích nguyên nhân gốc rễ lỗi BH | 2026-04-26 |
+| [[wiki/sources/INS-TruyNguyenNhan]] | Phương pháp 4M Root Cause Analysis theo Kaizen Nhật Bản: 5 Whys, CAPA matrix, checklist định vị lỗi INS | 2026-04-26 |
+| [[wiki/sources/INS-VennD02]] | So sánh D02-VNPT / D02-Viettel / iBHXH (TS24) — Venn diagram, bảng chi tiết, lỗi tích hợp, flowchart tư vấn chọn phần mềm | 2026-04-26 |
 
 ---
 

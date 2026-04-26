@@ -1,7 +1,7 @@
 ---
 type: overview
 date-updated: 2026-04-26
-sources-ingested: 22
+sources-ingested: 33
 last-analyzed: 2026-04-26
 ---
 
@@ -19,16 +19,18 @@ Tư vấn triển khai phần mềm **HRM (Bizzi / FIT-HRM)** cho doanh nghiệp
 
 | Chỉ số | Giá trị |
 |--------|---------|
-| Sources đã ingest | 22 |
+| Sources đã ingest | 33 |
 | Trang Projects | 5 (2 active, 3 archived) |
 | Trang Entities | 5 |
 | Trang Concepts | 13 |
-| Trang Sources | 22 |
-| Trang Synthesis | 3 (disk) / 2 (indexed) |
-| Orphan pages | 2 |
+| Trang Sources | 33 |
+| Trang Synthesis | 3 |
+| Tổng trang nội dung | 59 |
+| Orphan pages | 1 (Vault-Structure) |
 | Ghost pages (log ≠ disk) | 6 |
+| Index ↔ Disk | ✅ KHỚP HOÀN TOÀN |
 | Cập nhật lần cuối | 2026-04-26 |
-| Lần analyze gần nhất | 2026-04-26 |
+| Lần analyze gần nhất | 2026-04-26 (lần 4) |
 
 ## Dự án đang hoạt động (2026)
 
@@ -42,13 +44,18 @@ Tư vấn triển khai phần mềm **HRM (Bizzi / FIT-HRM)** cho doanh nghiệp
 
 ## Gaps & To-Do
 
-- [ ] **[RỦI RO CAO]** Tạo `wiki/concepts/BaoHiem-Module.md` — nội dung đầy đủ có trong synthesis, chỉ cần extract
-- [ ] **[RỦI RO CAO]** Xác định `pvcfc` — xuất hiện trong WarmupStatus; tạo entity/project page nếu là khách hàng riêng
-- [ ] Tạo `wiki/entities/Bitex.md` — dự án đang starting, chưa có entity profile
-- [ ] Thêm `hoat-dong-wiki-26-04-2026-v4` vào `wiki/index.md` (hoặc xóa nếu là draft tạm)
-- [ ] Ghi chú 6 ghost pages trong log (được ghi nhưng không lưu trên disk): digest-2026-04-26-daily, hoat-dong-wiki v1/v2/v3, tong-hop-hom-nay, huong-dan-wiki-system
-- [ ] Tạo `wiki/concepts/MISA-Integration.md` — nhắc nhiều trong VnPay-INS và BaoHiem research
-- [ ] Liên kết `wiki/concepts/Vault-Structure` từ ít nhất 1 project/concept khác
-- [ ] Ingest thêm nguồn cho TrungDong (hiện 2 nguồn) — go-live docs, final report
-- [ ] Ingest archived project lessons learned (LTG, Toyota HVN, Taisun, FGL, TBV, AMIS, OPA, UNIS)
-- [ ] Ingest các tài liệu dự án VnPay còn lại (GAP analysis, QC test plan)
+> Cập nhật lần analyze thứ 4 — 2026-04-26
+
+- [ ] 🔴 **[RỦI RO CAO]** Ingest tài liệu Bitex — dự án 2026 ACTIVE nhưng **0 sources**
+- [ ] 🔴 **[RỦI RO CAO]** Xác định `pvcfc` — xuất hiện trong WarmupStatus production; tạo entity/project nếu cần
+- [ ] 🟡 Tạo `wiki/entities/Bitex.md` — chưa có entity profile
+- [ ] 🟡 Tạo `wiki/concepts/iBHXH-Portal.md` — đủ trọng lượng sau 9 INS sources (2026-04-26)
+- [ ] 🟡 Tạo `wiki/concepts/MISA-Integration.md` — nhắc nhiều trong VnPay-INS và BaoHiem research
+- [ ] 🟡 Ingest thêm nguồn cho TrungDong (hiện 2 nguồn) — go-live docs, final report
+- [ ] 🟡 Ingest thêm nguồn cho HongNgoc (hiện 1 nguồn)
+- [ ] 🟢 Liên kết `wiki/concepts/Vault-Structure` từ ít nhất 1 project/concept khác (hết orphan)
+- [ ] 🟢 Thêm cross-links giữa 9 INS sources với nhau
+- [ ] 🟢 Ingest archived project lessons learned (LTG, Toyota HVN, Taisun, FGL, TBV, AMIS, OPA, UNIS)
+- [ ] 🟢 Ingest các tài liệu dự án VnPay còn lại (GAP analysis, QC test plan)
+- ~~[ ] Tạo `wiki/concepts/BaoHiem-Module.md`~~ → ĐÃ được cover bởi 9 ghi chú INS (2026-04-26) ✅
+- ~~[ ] Thêm `hoat-dong-wiki-26-04-2026-v4` vào `wiki/index.md`~~ → ĐÃ thêm ✅

@@ -9,7 +9,7 @@ related:
   - "[[TungLy/wiki/projects/VnPay-Project|VnPay-Project]]"
   - "[[TungLy/wiki/projects/TrungDong-Project|TrungDong-Project]]"
   - "[[TungLy/wiki/projects/HongNgoc-Project|HongNgoc-Project]]"
-date-updated: 2026-04-25
+date-updated: 2026-04-26
 ---
 # HRM Modules — Các Phân Hệ FIT-HRM
 ## Tổng quan
@@ -32,10 +32,29 @@ FIT-HRM bao gồm 6 phân hệ chính. Mỗi dự án triển khai có thể ch�
 - **Đang dùng tại**: [[wiki/projects/TrungDong-Project]]
 
 ### 3. Bảo Hiểm (Insurance)
-- Bảo hiểm xã hội (BHXH)
-- Bảo hiểm y tế (BHYT)
-- Bảo hiểm thất nghiệp (BHTN)
-- Khai báo cơ quan bảo hiểm
+- Bảo hiểm xã hội (BHXH), y tế (BHYT), thất nghiệp (BHTN)
+- Khai báo cơ quan bảo hiểm qua **iBHXH** (cổng điện tử)
+- Xuất chứng từ **D02-TS** (tham gia/điều chỉnh), D03a (ốm đau, thai sản)
+- Tổng hợp bảng lương **C70** (NLĐ + NSDLĐ đóng BH)
+- Tích hợp **MISA** xuất dữ liệu kế toán BH
+- **Logic cốt lõi**:
+  - `InsuranceMonthJoin` — xác định tháng tham gia BH
+  - `InsuranceRecordDayCount` — đếm ngày thực tế đóng BH trong tháng
+  - `InsurancePayback` — hoàn trả khi đóng sai/thừa
+- **Chế độ hưởng**:
+  - Nghỉ ốm: 75% lương đóng BH, tối đa 30–60 ngày/năm → [[wiki/sources/INS-Nghi14Ngay]]
+  - Nghỉ thai sản: 100% lương đóng BH, 6 tháng → [[wiki/sources/INS-NghiThaiSan]]
+- **Nguyên tắc quan trọng**: nghỉ ốm / thai sản **KHÔNG cắt** bản ghi BH
+- **Phân tích lỗi**: [[wiki/sources/INS-FishBone-Analysis]] — FishBone 4M + 5 Whys
+- **Truy nguyên nhân gốc rễ**: [[wiki/sources/INS-TruyNguyenNhan]] — 4M Kaizen, CAPA matrix, 5 Whys thực chiến
+- **So sánh phần mềm kê khai**: [[wiki/sources/INS-VennD02]] — D02-VNPT vs D02-Viettel vs iBHXH (TS24)
+- **Đang dùng tại**: [[wiki/projects/VnPay-Project]]
+
+**Ghi chú nguồn INS (2026-04-26)**:
+> Toàn bộ tài liệu phân hệ BH đã được ingest từ thư mục `1. Projects/Nghiệp vụ HRM/INS/`.
+> Xem: [[wiki/sources/INS-InsuranceMonthJoin]], [[wiki/sources/INS-InsurancePayback]],
+> [[wiki/sources/INS-InsuranceRecordDayCount]], [[wiki/sources/INS-D02-ChungTu]],
+> [[wiki/sources/INS-C70-TinhLuong]], [[wiki/sources/INS-iBHXH-Analyze]]
 
 ### 4. Chấm Công (Attendance / Timekeeping)
 - Quản lý ca làm việc
@@ -66,4 +85,6 @@ FIT-HRM bao gồm 6 phân hệ chính. Mỗi dự án triển khai có thể ch�
 
 ## Common Issues
 
-*(Cần ingest thêm lessons learned để điền vào đây)*
+- Bảo hiểm: sai tháng tham gia, sai đếm ngày, cắt bản ghi khi nghỉ ốm → xem [[wiki/sources/INS-FishBone-Analysis]]
+- Lương: công thức không đồng bộ khi thay đổi chính sách lương giữa kỳ
+- Chấm công: lệch timezone khi tích hợp máy chấm công → xem [[wiki/sources/H-VnPay-Att-17042025]]

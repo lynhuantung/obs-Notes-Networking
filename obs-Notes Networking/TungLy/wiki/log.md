@@ -5,6 +5,64 @@
 
 ---
 
+## [2026-04-26] ingest | INS — Phân hệ Bảo Hiểm HRM (13 ảnh, 9 ghi chú)
+
+Nguồn: `1. Projects/Nghiệp vụ HRM/INS/` — 16 file (13 PNG đọc được, 2 PDF + 1 DOCX không đọc được)
+
+Tạo mới (9 trang):
+- `wiki/sources/INS-InsuranceMonthJoin.md` — Logic xác định tháng tham gia BH
+- `wiki/sources/INS-InsurancePayback.md` — Logic hoàn trả BH
+- `wiki/sources/INS-InsuranceRecordDayCount.md` — Đếm ngày bản ghi BH (+ DayCount_InsuranceRecord)
+- `wiki/sources/INS-Nghi14Ngay.md` — Quy tắc nghỉ ốm hưởng BHXH
+- `wiki/sources/INS-NghiThaiSan.md` — Chế độ thai sản
+- `wiki/sources/INS-iBHXH-Analyze.md` — Phân tích tích hợp iBHXH điện tử
+- `wiki/sources/INS-C70-TinhLuong.md` — Bảng lương C70 + đối soát BH
+- `wiki/sources/INS-D02-ChungTu.md` — Chứng từ D02-TS (Venn + ThemPhanTu)
+- `wiki/sources/INS-FishBone-Analysis.md` — FishBone 4M + 5 Whys RCA
+
+Cập nhật:
+- `wiki/concepts/HRM-Modules.md` — Bổ sung chi tiết phân hệ Bảo Hiểm + cross-links
+- `wiki/index.md` — Thêm 9 dòng vào bảng Sources
+- `wiki/overview.md` — Tăng sources-ingested
+
+---
+
+## [2026-04-26] ingest | INS — TruyNguyenNhan + VennD02 (2 file còn sót)
+
+Tạo mới:
+- `wiki/sources/INS-TruyNguyenNhan.md` — Phương pháp 4M Root Cause Analysis theo Kaizen Nhật Bản: 5 Whys, CAPA matrix, 9 checklist bước định vị lỗi INS
+- `wiki/sources/INS-VennD02.md` — So sánh D02-VNPT / D02-Viettel / iBHXH (TS24): Venn diagram, bảng chi tiết, lỗi tích hợp, flowchart tư vấn
+
+Cập nhật:
+- `wiki/concepts/HRM-Modules.md` — Thêm 2 cross-links mới vào mục Bảo Hiểm
+- `wiki/index.md` — Thêm 2 dòng vào bảng Sources (tổng 33)
+- `wiki/overview.md` — sources-ingested: 31 → 33
+
+---
+
+## [2026-04-26] analyze | Wiki Analyze — health check lần 4
+
+Stats: 31 sources, 5 projects (2 active, 3 archived), 13 concepts, 5 entities, 3 synthesis (57 trang tổng)
+Orphans: 1 (Vault-Structure)
+Ghost pages (log ≠ disk): 6 trang (vẫn còn từ lần trước)
+Index ↔ Disk: KHỚP HOÀN TOÀN — wiki STABLE, không thay đổi so với lần 3
+Gaps tồn đọng: iBHXH-Portal concept, MISA-Integration concept, pvcfc entity, cross-links INS
+Cập nhật: wiki/overview.md (lần 3 → 4, gaps list refresh: iBHXH-Portal nâng từ 🟢 lên 🟡)
+
+---
+
+## [2026-04-26] analyze | Wiki Analyze — health check lần 3
+
+Stats: 31 sources, 5 projects (2 active, 3 archived), 13 concepts, 5 entities, 3 synthesis (57 trang tổng)
+Orphans: 1 (Vault-Structure không được link đến từ trang nội dung nào)
+Ghost pages (log ≠ disk): 6 trang (vẫn còn từ lần trước)
+Index ↔ Disk: KHỚP HOÀN TOÀN — 31 sources trên index = 31 trên disk
+Dự án thiếu nguồn: Bitex (0🔴), HongNgoc (1🟡), Marico (1🟡), TrungDong (2🟡)
+Gaps mới: iBHXH-Portal concept, D02-TS form concept, FIT-HRM vs MISA synthesis
+Cập nhật: wiki/overview.md (stats + gaps list refresh)
+
+---
+
 ## [2026-04-26] analyze | Wiki Analyze — health check lần 2
 
 Stats: 22 sources, 5 projects (2 active, 3 archived), 13 concepts, 5 entities, 3 synthesis (48 trang tổng)
