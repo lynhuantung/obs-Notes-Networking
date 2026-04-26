@@ -7,10 +7,21 @@ tags:
   - sso
   - jwt
   - "2025"
-date-updated: 2026-04-25
+date-updated: 2026-04-26
 related:
 - "[[wiki/entities/HongNgoc]]"
 - "[[wiki/concepts/HRM-Modules]]"
+
+# --- CHART FIELDS ---
+status: archived
+start-date: 2025-01-01
+end-date: 2025-06-30
+project-type: upgrade
+industry: other
+team-size: 2
+effort-mandays: 0
+modules:
+  - evaluation
 ---
 
 # Dự án HongNgoc

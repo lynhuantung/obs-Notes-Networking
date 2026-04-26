@@ -7,13 +7,26 @@ tags:
   - danh-gia
   - kpi
   - "2025"
-date-updated: 2026-04-25
+date-updated: 2026-04-26
 related:
 - "[[wiki/entities/TrungDong]]"
 - "[[wiki/entities/Hai.NguyenNgoc]]"
 - "[[wiki/entities/Minh.NguyenVan]]"
 - "[[wiki/concepts/Project-Phases]]"
 - "[[wiki/concepts/HRM-Modules]]"
+
+# --- CHART FIELDS ---
+status: archived
+start-date: 2024-09-21
+end-date: 2025-01-22
+project-type: new-deployment
+industry: manufacturing
+team-size: 4
+effort-mandays: 29.5
+modules:
+  - evaluation
+  - insurance
+  - talent
 ---
 
 # Dự án TrungDong

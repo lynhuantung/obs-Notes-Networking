@@ -12,6 +12,7 @@ related:
 - "[[wiki/concepts/HRM-Deploy-Checklist]]"
 - "[[wiki/concepts/HRM-SQL-Troubleshooting]]"
 - "[[wiki/sources/Nhat-ky-van-de-nghiep-vu]]"
+- "[[wiki/sources/SysLog-NghiepVu-Chi-Tiet]]"
 ---
 
 # HRM — Code Quality

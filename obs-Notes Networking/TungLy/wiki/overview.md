@@ -18,11 +18,11 @@ Tư vấn triển khai phần mềm **HRM (Bizzi / FIT-HRM)** cho doanh nghiệp
 
 | Chỉ số | Giá trị |
 |--------|---------|
-| Sources đã ingest | 21 |
+| Sources đã ingest | 25 |
 | Trang Projects | 4 |
 | Trang Entities | 5 |
 | Trang Concepts | 13 |
-| Trang Sources | 18 |
+| Trang Sources | 22 |
 | Trang Synthesis | 2 |
 | Cập nhật lần cuối | 2026-04-26 |
 

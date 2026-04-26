@@ -9,6 +9,9 @@ tags:
   - net8
   - "2025"
 date-updated: 2026-04-25
+date-ingested: 2026-04-25
+category: architecture
+project: vnpay
 related:
 - "[[wiki/projects/VnPay-Project]]"
 - "[[wiki/concepts/Net8-Migration]]"

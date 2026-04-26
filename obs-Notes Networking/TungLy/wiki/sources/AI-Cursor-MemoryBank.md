@@ -7,6 +7,9 @@ tags:
   - memory-bank
   - "2025"
 date-updated: 2026-04-25
+date-ingested: 2026-04-25
+category: research
+project: general
 related:
 - "[[wiki/concepts/AI-DevTools]]"
 ---

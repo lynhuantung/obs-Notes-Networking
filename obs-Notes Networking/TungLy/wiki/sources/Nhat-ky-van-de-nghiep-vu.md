@@ -7,6 +7,8 @@ tags:
   - troubleshooting
   - se-team
 date-ingested: 2026-04-26
+category: syslog
+project: general
 date-updated: 2026-04-26
 source-file: 0. Daily/2026-Apr-17/Nhat-ky-van-de-nghiep-vu.md
 related:

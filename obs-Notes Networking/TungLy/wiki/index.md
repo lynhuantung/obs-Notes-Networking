@@ -75,6 +75,10 @@ date-updated: 2026-04-26
 | [[wiki/sources/Monthly-07-2024-TongHop]] | Tháng 07/2024: Epic bảo mật + phân hệ | 2026-04-25 |
 | [[wiki/sources/Nhat-ky-van-de-he-thong]] | 22 vấn đề kỹ thuật IIS/SQL/Log/Network (Sys000–Sys022) | 2026-04-26 |
 | [[wiki/sources/Nhat-ky-van-de-nghiep-vu]] | 29 vấn đề nghiệp vụ SE: deploy, merge, store, quy trình | 2026-04-26 |
+| [[wiki/sources/SysLog-HeThong-Chi-Tiet]] | 23 lỗi IIS/SQL/Log/Network chi tiết (Sys000–Sys022) | 2026-04-26 |
+| [[wiki/sources/SysLog-NghiepVu-Chi-Tiet]] | 29 lỗi nghiệp vụ SE chi tiết (Sys00001–Sys00029) | 2026-04-26 |
+| [[wiki/sources/WarmupStatus-Performance-2026]] | WarmupStatus 6 services + Identity Razor warmup (2026-04-20) | 2026-04-26 |
+| [[wiki/sources/GitNexus-Daily-Note]] | Ghi chú GitNexus: chạy lại analyze khi tách nhánh | 2026-04-26 |
 
 ---
 

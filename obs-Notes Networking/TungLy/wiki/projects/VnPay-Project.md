@@ -9,12 +9,28 @@ tags:
   - kubernetes
   - docker
   - "2025"
-date-updated: 2026-04-25
+date-updated: 2026-04-26
 related: 
   - "[[wiki/entities/VnPay]]"
   - "[[wiki/concepts/Net8-Migration]]"
   - "[[wiki/concepts/Project-Phases]]"
   - "[[wiki/concepts/HRM-Modules]]"
+
+# --- CHART FIELDS ---
+status: post-golive
+start-date: 2024-10-22
+end-date: 2025-09-10
+project-type: new-deployment
+industry: fintech
+team-size: 7
+effort-mandays: 0
+modules:
+  - hrm
+  - payroll
+  - attendance
+  - insurance
+  - evaluation
+  - recruitment
 ---
 
 # Dự án VnPay

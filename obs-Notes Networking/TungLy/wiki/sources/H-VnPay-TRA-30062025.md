@@ -9,6 +9,9 @@ tags:
   - priority
   - "2025"
 date-updated: 2026-04-25
+date-ingested: 2026-04-25
+category: meeting
+project: vnpay
 related:
 - "[[wiki/projects/VnPay-Project]]"
 - "[[wiki/concepts/Project-Phases]]"

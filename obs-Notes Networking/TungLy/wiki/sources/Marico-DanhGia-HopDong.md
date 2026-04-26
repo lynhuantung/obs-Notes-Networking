@@ -6,6 +6,9 @@ tags:
   - bug
   - "2024"
 date-updated: 2026-04-25
+date-ingested: 2026-04-25
+category: guide
+project: marico
 related:
 - "[[wiki/projects/Marico-Project]]"
 - "[[wiki/concepts/HRM-Modules]]"

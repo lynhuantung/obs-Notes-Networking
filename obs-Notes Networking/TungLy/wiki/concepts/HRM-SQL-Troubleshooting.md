@@ -13,6 +13,7 @@ related:
 - "[[wiki/concepts/HRM-Security-Config]]"
 - "[[wiki/sources/Nhat-ky-van-de-he-thong]]"
 - "[[wiki/sources/Nhat-ky-van-de-nghiep-vu]]"
+- "[[wiki/sources/SysLog-HeThong-Chi-Tiet]]"
 ---
 
 # HRM — SQL Server Troubleshooting

@@ -8,6 +8,9 @@ tags:
   - kendo-ui
   - "2025"
 date-updated: 2026-04-25
+date-ingested: 2026-04-25
+category: guide
+project: general
 related:
 - "[[wiki/concepts/KienThuc-KyThuat]]"
 ---

@@ -8,6 +8,9 @@ tags:
   - technical
   - "2025"
 date-updated: 2026-04-25
+date-ingested: 2026-04-25
+category: guide
+project: hongnoc
 related:
 - "[[wiki/projects/HongNgoc-Project]]"
 - "[[wiki/concepts/HRM-Modules]]"

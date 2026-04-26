@@ -6,6 +6,9 @@ tags:
   - phan-he
   - "2024"
 date-updated: 2026-04-25
+date-ingested: 2026-04-25
+category: research
+project: general
 related:
 - "[[wiki/concepts/HRM-Modules]]"
 - "[[wiki/synthesis/Cong-Viec-Thang-07-2024]]"

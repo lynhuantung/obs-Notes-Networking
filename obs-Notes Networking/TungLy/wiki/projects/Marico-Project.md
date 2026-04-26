@@ -5,10 +5,21 @@ tags:
   - danh-gia
   - hop-dong
   - "2024"
-date-updated: 2026-04-25
+date-updated: 2026-04-26
 related:
 - "[[wiki/concepts/HRM-Modules]]"
 - "[[wiki/sources/Marico-DanhGia-HopDong]]"
+
+# --- CHART FIELDS ---
+status: archived
+start-date: 2024-01-01
+end-date: 2024-12-31
+project-type: modify
+industry: fmcg
+team-size: 1
+effort-mandays: 11
+modules:
+  - evaluation
 ---
 
 # Dự án Marico

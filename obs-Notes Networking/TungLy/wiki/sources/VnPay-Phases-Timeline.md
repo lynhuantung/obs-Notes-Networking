@@ -8,6 +8,9 @@ tags:
   - uat
   - "2025"
 date-updated: 2026-04-25
+date-ingested: 2026-04-25
+category: architecture
+project: vnpay
 related:
 - "[[wiki/projects/VnPay-Project]]"
 - "[[wiki/concepts/Project-Phases]]"

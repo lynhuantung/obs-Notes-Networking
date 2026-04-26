@@ -7,6 +7,8 @@ tags:
   - troubleshooting
   - system
 date-ingested: 2026-04-26
+category: syslog
+project: general
 date-updated: 2026-04-26
 source-file: 0. Daily/2026-Apr-17/Nhat-ky-van-de-he-thong.md
 related:

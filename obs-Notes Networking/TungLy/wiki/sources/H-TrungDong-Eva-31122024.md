@@ -7,6 +7,9 @@ tags:
   - manday
   - "2024"
 date-updated: 2026-04-25
+date-ingested: 2026-04-25
+category: meeting
+project: trungdong
 related:
 - "[[wiki/projects/TrungDong-Project]]"
 - "[[wiki/concepts/Nguon-Luc]]"

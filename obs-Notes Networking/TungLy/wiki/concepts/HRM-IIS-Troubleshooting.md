@@ -6,12 +6,15 @@ tags:
   - troubleshooting
   - deploy
 date-updated: 2026-04-26
+
 related:
 - "[[wiki/concepts/HRM-Deploy-Checklist]]"
 - "[[wiki/concepts/HRM-SQL-Troubleshooting]]"
 - "[[wiki/concepts/HRM-Log-Monitoring]]"
 - "[[wiki/sources/Nhat-ky-van-de-he-thong]]"
 - "[[wiki/sources/Nhat-ky-van-de-nghiep-vu]]"
+- "[[wiki/sources/SysLog-HeThong-Chi-Tiet]]"
+- "[[wiki/sources/WarmupStatus-Performance-2026]]"
 ---
 
 # HRM — IIS Troubleshooting

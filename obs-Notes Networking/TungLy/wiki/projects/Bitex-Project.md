@@ -4,10 +4,20 @@ tags:
   - bitex
   - hrm
   - "2026"
-date-updated: 2026-04-25
+date-updated: 2026-04-26
 related:
 - "[[wiki/concepts/Project-Phases]]"
 - "[[wiki/concepts/HRM-Modules]]"
+
+# --- CHART FIELDS ---
+status: starting
+start-date: 2026-04-01
+end-date: 2026-12-31
+project-type: new-deployment
+industry: other
+team-size: 0
+effort-mandays: 0
+modules: []
 ---
 
 # Dự án Bitex

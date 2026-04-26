@@ -5,6 +5,66 @@
 
 ---
 
+## [2026-04-26] tonghop | Hoạt động wiki ngày 26/04/2026 — cú pháp chart v4
+
+Đọc: dữ liệu từ phiên (index, log, digest, BaoHiem-Research)
+Tạo tổng hợp: `wiki/synthesis/hoat-dong-wiki-26-04-2026-v4.md`
+
+---
+
+## [2026-04-26] tonghop | Hoạt động wiki ngày 26/04/2026 — chuẩn mới (story telling v3)
+
+Đọc: `wiki/index.md`, `wiki/log.md`, `wiki/synthesis/digest-2026-04-26-daily`, `wiki/synthesis/BaoHiem-NghiepVu-Research-20260426`
+Tạo tổng hợp: `wiki/synthesis/hoat-dong-wiki-26-04-2026-v3.md`
+
+---
+
+## [2026-04-26] tonghop | Hoạt động wiki ngày 26/04/2026 — story telling
+
+Đọc: `wiki/index.md`, `wiki/log.md`, `wiki/synthesis/digest-2026-04-26-daily`, `wiki/synthesis/BaoHiem-NghiepVu-Research-20260426`
+Tạo tổng hợp: `wiki/synthesis/hoat-dong-wiki-26-04-2026-v2.md`
+
+---
+
+## [2026-04-26] tonghop | Hoạt động wiki ngày 26/04/2026
+
+Đọc: `wiki/index.md`, `wiki/log.md`, `wiki/synthesis/digest-2026-04-26-daily`, `wiki/synthesis/BaoHiem-NghiepVu-Research-20260426`
+Tạo tổng hợp: `wiki/synthesis/hoat-dong-wiki-26-04-2026.md`
+
+---
+
+## [2026-04-26] tonghop | Báo cáo tổng hợp hôm nay
+
+Đọc: `wiki/index.md`, `wiki/log.md`, `wiki/sources/Nhat-ky-van-de-he-thong`, `wiki/sources/Nhat-ky-van-de-nghiep-vu`, `wiki/sources/WarmupStatus-Performance-2026`, `wiki/sources/GitNexus-Daily-Note`, `wiki/synthesis/BaoHiem-NghiepVu-Research-20260426`, `wiki/synthesis/digest-2026-04-26-daily`
+Tạo tổng hợp: `wiki/synthesis/tong-hop-hom-nay-20260426.md`
+
+---
+
+## [2026-04-26] digest | Daily — 26/04/2026
+
+Tạo: `wiki/synthesis/digest-2026-04-26-daily.md`
+Stats: 2 ingest, 1 research, 4 sources mới, 22 tổng sources, 5 projects
+
+---
+
+## [2026-04-26] ingest | 2026-Apr-17 Daily — 65 files (SysLog chi tiết + WarmupStatus + GitNexus)
+
+Tạo mới:
+- `wiki/sources/SysLog-HeThong-Chi-Tiet.md` (23 lỗi Sys000–Sys022 IIS/SQL/Log/Network)
+- `wiki/sources/SysLog-NghiepVu-Chi-Tiet.md` (29 lỗi Sys00001–Sys00029 nghiệp vụ SE)
+- `wiki/sources/WarmupStatus-Performance-2026.md` (6 services + Identity Razor warmup)
+- `wiki/sources/GitNexus-Daily-Note.md` (ghi chú GitNexus khi tách nhánh)
+
+Cập nhật:
+- `wiki/concepts/HRM-IIS-Troubleshooting.md` (thêm source links)
+- `wiki/concepts/HRM-SQL-Troubleshooting.md` (thêm source links)
+- `wiki/concepts/HRM-Code-Quality.md` (thêm source links)
+- `wiki/index.md` (thêm 4 dòng Sources)
+- `wiki/overview.md` (sources-ingested: 25)
+
+
+---
+
 ## [2026-04-26] ingest | Nhật Ký Vấn Đề Hệ Thống (Sys000–Sys022)
 
 Tạo: `wiki/sources/Nhat-ky-van-de-he-thong.md`
