@@ -1,7 +1,7 @@
 ---
 type: overview
 date-updated: 2026-04-26
-sources-ingested: 21
+sources-ingested: 22
 ---
 
 # Wiki Overview
@@ -18,13 +18,14 @@ Tư vấn triển khai phần mềm **HRM (Bizzi / FIT-HRM)** cho doanh nghiệp
 
 | Chỉ số | Giá trị |
 |--------|---------|
-| Sources đã ingest | 25 |
-| Trang Projects | 4 |
+| Sources đã ingest | 22 |
+| Trang Projects | 5 |
 | Trang Entities | 5 |
 | Trang Concepts | 13 |
 | Trang Sources | 22 |
-| Trang Synthesis | 2 |
+| Trang Synthesis | 3 |
 | Cập nhật lần cuối | 2026-04-26 |
+| Lần analyze gần nhất | 2026-04-26 |
 
 ## Dự án đang hoạt động (2026)
 
@@ -38,7 +39,11 @@ Tư vấn triển khai phần mềm **HRM (Bizzi / FIT-HRM)** cho doanh nghiệp
 
 ## Gaps & To-Do
 
-- [ ] Ingest các tài liệu dự án VnPay (GAP analysis, QC test plan)
-- [ ] Ingest meeting notes TrungDong
-- [ ] Tạo trang concept cho từng phân hệ HRM chi tiết
-- [ ] Ingest archived project lessons learned
+- [ ] **[RỦI RO CAO]** Tạo `wiki/entities/Bitex.md` — dự án đang starting, chưa có entity profile
+- [ ] Thêm `hoat-dong-wiki-26-04-2026-v4` vào `wiki/index.md` (hoặc xóa nếu là temp)
+- [ ] Tạo `wiki/concepts/BaoHiem-Module.md` — nghiệp vụ phức tạp, đã có synthesis nhưng thiếu concept
+- [ ] Tạo `wiki/concepts/MISA-Integration.md` — nhắc nhiều trong VnPay-INS và BaoHiem research
+- [ ] Ingest thêm nguồn cho TrungDong (hiện 2 nguồn) — go-live docs, final report
+- [ ] Liên kết `wiki/concepts/Vault-Structure` từ ít nhất 1 project/concept khác
+- [ ] Ingest archived project lessons learned (LTG, Toyota HVN, Taisun, FGL, TBV, AMIS, OPA, UNIS)
+- [ ] Ingest các tài liệu dự án VnPay còn lại (GAP analysis, QC test plan)

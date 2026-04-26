@@ -5,6 +5,17 @@
 
 ---
 
+## [2026-04-26] analyze | Wiki Analyze — health check toàn bộ
+
+Stats: 22 sources, 5 projects, 13 concepts, 5 entities, 3 synthesis (51 trang tổng)
+Orphans: 2 (hoat-dong-wiki-26-04-2026-v4 chưa vào index; Vault-Structure không được link đến)
+Dự án thiếu nguồn: Bitex (0), HongNgoc (1), Marico (1), TrungDong (2)
+Gaps mới phát hiện: entity/Bitex chưa có; concept BaoHiem-Module và MISA-Integration chưa có
+Fixes: overview.md sources-ingested 21→22, Projects 4→5, Synthesis 2→3
+Cập nhật: wiki/overview.md
+
+---
+
 ## [2026-04-26] tonghop | Hoạt động wiki ngày 26/04/2026 — cú pháp chart v4
 
 Đọc: dữ liệu từ phiên (index, log, digest, BaoHiem-Research)
