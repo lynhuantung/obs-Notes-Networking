@@ -5,6 +5,30 @@
 
 ---
 
+## [2026-04-26] analyze | Cập nhật rule chuẩn hóa diagram — flows/ vs architecture/
+
+Vấn đề: flows/ và architecture/ đang bị trộn lẫn diagram (sequenceDiagram trong architecture, subgraph cấu trúc trong flows).
+
+Cập nhật 2 file:
+
+**CLAUDE.md** (rule toàn cục):
+- Thêm thư mục `flows/`, `architecture/`, `glossary/`, `api/` vào cấu trúc wiki
+- Thêm section "Quy tắc chuẩn hóa Diagram (BẮT BUỘC)"
+  - flows/: cho phép flowchart, sequenceDiagram, stateDiagram — mô tả bước thực hiện
+  - architecture/: cho phép flowchart+subgraph, ASCII tree, code block — mô tả cấu trúc tĩnh
+  - Bảng phân loại nhanh + nguyên tắc + ví dụ đúng
+  - 5 quy tắc cứng KHÔNG BAO GIỜ vi phạm
+
+**.claude/skills/01-wiki-ingest/SKILL.md**:
+- Thêm "Bước 3b — Phân loại nội dung → flows/ hoặc architecture/"
+  - Tiêu chí tạo flows/ (thứ tự bước, ai làm gì, rẽ nhánh, message giữa hệ thống)
+  - Tiêu chí tạo architecture/ (component, kết nối tĩnh, folder, hạ tầng)
+  - Diagram cho phép cho từng loại (✅/❌ rõ ràng)
+  - Quy tắc cứng: không trộn, nếu có cả hai → tạo 2 trang riêng
+- Thêm section "Quy tắc Diagram" ở cuối với bảng phân loại + code mẫu
+
+---
+
 ## [2026-04-26] analyze | Viết lại architecture/ — Thêm code structure, Mermaid, SQL snippets
 
 Vấn đề: 4 trang architecture chỉ có văn bản mô tả, thiếu code structure/diagram thực tế.
