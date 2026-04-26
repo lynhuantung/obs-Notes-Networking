@@ -1,7 +1,7 @@
 ---
 type: overview
 date-updated: 2026-04-26
-sources-ingested: 33
+sources-ingested: 34
 last-analyzed: 2026-04-26
 ---
 
@@ -19,13 +19,13 @@ Tư vấn triển khai phần mềm **HRM (Bizzi / FIT-HRM)** cho doanh nghiệp
 
 | Chỉ số | Giá trị |
 |--------|---------|
-| Sources đã ingest | 33 |
+| Sources đã ingest | 34 |
 | Trang Projects | 5 (2 active, 3 archived) |
 | Trang Entities | 5 |
 | Trang Concepts | 13 |
-| Trang Sources | 33 |
+| Trang Sources | 34 |
 | Trang Synthesis | 3 |
-| Tổng trang nội dung | 59 |
+| Tổng trang nội dung | 60 |
 | Orphan pages | 1 (Vault-Structure) |
 | Ghost pages (log ≠ disk) | 6 |
 | Index ↔ Disk | ✅ KHỚP HOÀN TOÀN |

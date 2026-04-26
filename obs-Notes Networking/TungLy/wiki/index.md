@@ -91,6 +91,7 @@ last-analyzed: 2026-04-26
 | [[wiki/sources/INS-FishBone-Analysis]] | FishBone 4M + 5 Whys phân tích nguyên nhân gốc rễ lỗi BH | 2026-04-26 |
 | [[wiki/sources/INS-TruyNguyenNhan]] | Phương pháp 4M Root Cause Analysis theo Kaizen Nhật Bản: 5 Whys, CAPA matrix, checklist định vị lỗi INS | 2026-04-26 |
 | [[wiki/sources/INS-VennD02]] | So sánh D02-VNPT / D02-Viettel / iBHXH (TS24) — Venn diagram, bảng chi tiết, lỗi tích hợp, flowchart tư vấn chọn phần mềm | 2026-04-26 |
+| [[wiki/sources/INS-Kaizen-08]] | Nhật ký vấn đề BH (Kaizen #08, 2017): 5 Whys D02/C70, ON-OFF thai sản, timezone bug, kế hoạch giảm bug Pareto | 2026-04-26 |
 
 ---
 

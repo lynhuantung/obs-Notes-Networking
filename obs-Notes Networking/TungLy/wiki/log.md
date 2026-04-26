@@ -5,6 +5,20 @@
 
 ---
 
+## [2026-04-26] ingest | INS — Nhật Ký Vấn Đề BH Kaizen #08 (2017)
+
+Nguồn: `Projects/Nghiệp vụ HRM/INS/IssuesLog/INS_Kaizen_08.md`
+
+Tạo mới:
+- `wiki/sources/INS-Kaizen-08.md` — Nhật ký vấn đề BH: 5 Whys D02/C70/Tên Công Việc/Tiền BH, ON-OFF thai sản, timezone bug, kế hoạch giảm bug Pareto 09–10/2017
+
+Cập nhật:
+- `wiki/concepts/HRM-Modules.md` — Thêm cross-link INS-Kaizen-08
+- `wiki/index.md` — Thêm 1 dòng vào bảng Sources (tổng 34)
+- `wiki/overview.md` — sources-ingested: 33 → 34
+
+---
+
 ## [2026-04-26] ingest | INS — Phân hệ Bảo Hiểm HRM (13 ảnh, 9 ghi chú)
 
 Nguồn: `1. Projects/Nghiệp vụ HRM/INS/` — 16 file (13 PNG đọc được, 2 PDF + 1 DOCX không đọc được)

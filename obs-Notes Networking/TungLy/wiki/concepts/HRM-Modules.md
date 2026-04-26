@@ -48,6 +48,7 @@ FIT-HRM bao gồm 6 phân hệ chính. Mỗi dự án triển khai có thể ch�
 - **Phân tích lỗi**: [[wiki/sources/INS-FishBone-Analysis]] — FishBone 4M + 5 Whys
 - **Truy nguyên nhân gốc rễ**: [[wiki/sources/INS-TruyNguyenNhan]] — 4M Kaizen, CAPA matrix, 5 Whys thực chiến
 - **So sánh phần mềm kê khai**: [[wiki/sources/INS-VennD02]] — D02-VNPT vs D02-Viettel vs iBHXH (TS24)
+- **Nhật ký vấn đề Kaizen #08 (2017)**: [[wiki/sources/INS-Kaizen-08]] — ON-OFF thai sản, timezone bug, 5 Whys D02/C70, kế hoạch giảm bug Pareto
 - **Đang dùng tại**: [[wiki/projects/VnPay-Project]]
 
 **Ghi chú nguồn INS (2026-04-26)**:
