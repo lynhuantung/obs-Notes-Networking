@@ -5,6 +5,88 @@
 
 ---
 
+## [2026-04-26] analyze | Viết lại architecture/ — Thêm code structure, Mermaid, SQL snippets
+
+Vấn đề: 4 trang architecture chỉ có văn bản mô tả, thiếu code structure/diagram thực tế.
+
+Viết lại toàn bộ 4 trang dựa trên raw sources (Confluence docs VnPay):
+
+**HRM-System-Architecture.md**:
+- Mermaid graph K8s cluster (13 services, màu sắc, warning SPOF)
+- Mermaid sequenceDiagram: login flow + Integration API flow
+- ASCII tree: Windows Service + Hangfire flow
+- Redis WarmupStatus key structure
+
+**HRM-Auth-Architecture.md**:
+- Mermaid graph: 3 mô hình auth (Local, JWT SSO, IDS4)
+- Mermaid sequenceDiagram: OAuth2 Authorization Code Flow
+- C# code: IDS4 client config, JWT Bearer validation
+- JSON: JWT SSO config, JWT payload mẫu
+- SQL: VnrDecrypt usage pattern
+- Security checklist đầy đủ
+
+**HRM-Database-Architecture.md**:
+- ASCII tree: Solution structure + Database schema
+- SQL: CLR setup scripts, Memory Optimized setup, MAXDOP
+- C# code: Entity structure (feature-based), DIServices pattern, Compiled Model
+- SQL: Performance monitoring queries (top slow, blocking)
+- Backup/restore checklist
+
+**HRM-Deployment-Architecture.md**:
+- ASCII tree: Solution folder structure
+- ASCII tree: IIS deployment folder structure (wwwroot)
+- XML: web.config keys bắt buộc
+- Table: IIS Application Pools config
+- PowerShell: phân quyền IIS_IUSRS
+- YAML: K8s Deployment manifest + Traefik IngressRoute
+- Shell: git workflow chuyển nhánh .NET8 ↔ .NETFramework
+- ASCII tree: Multi-tenant structure
+- S3 bucket structure + PowerShell upload/download
+- C# code: WarmupService pattern (StartAsync, WarmupRazorViewAsync)
+- Mermaid graph: Deploy pipeline + Monitoring stack
+
+---
+
+## [2026-04-26] analyze | Cập nhật flows/ — Thêm Mermaid flowchart vào 5 trang
+
+Thay thế toàn bộ sơ đồ text thuần (``` code block) bằng **Mermaid flowchart** với màu sắc và decision node:
+
+- `Flow-TinhLuong-Monthly.md` — 1 diagram: end-to-end 9 bước, decision node nghỉ ốm/thai sản
+- `Flow-KhaiBaoiBHXH.md` — 1 diagram: 8 bước, decision node C70↔D02 + duyệt/từ chối
+- `Flow-Deploy-HRM.md` — 2 diagram: IIS upbuild (10 bước + rollback) + K8s (7 bước + rollback)
+- `Flow-UAT-Process.md` — 1 diagram: 10 bước, vòng lặp fix/reopen + sign-off gate
+- `Flow-Onboarding-NhanVien.md` — 1 diagram: 8 bước, decision node BHXH cũ + SSO
+
+---
+
+## [2026-04-26] analyze | Wiki Restructure — Thêm flows/ + architecture/ + glossary/
+
+Lý do: Wiki thiếu 3 thư mục so với kiến trúc mục tiêu (hrm-wiki). Toàn bộ nội dung được tổng hợp từ 34 sources đã ingest.
+
+Tạo mới — `wiki/flows/` (5 trang):
+- `Flow-TinhLuong-Monthly.md` — Quy trình tính lương tháng end-to-end (9 bước)
+- `Flow-KhaiBaoiBHXH.md` — Quy trình khai báo BHXH điện tử (8 bước)
+- `Flow-Deploy-HRM.md` — Quy trình deploy/upbuild + warmup (10 bước, có K8s variant)
+- `Flow-UAT-Process.md` — Quy trình UAT: đào tạo → test → fix → sign-off (10 bước)
+- `Flow-Onboarding-NhanVien.md` — Quy trình onboarding nhân viên mới (8 bước)
+
+Tạo mới — `wiki/architecture/` (4 trang):
+- `HRM-System-Architecture.md` — Tổng quan: IIS vs K8s, 13 services, luồng request, điểm nghẽn
+- `HRM-Auth-Architecture.md` — JWT SSO, Identity Server 4, VnrDecrypt, RBAC, CORS
+- `HRM-Database-Architecture.md` — SQL Server, CLR, Memory Optimized, MAXDOP, backup
+- `HRM-Deployment-Architecture.md` — IIS config, K8s manifest, multi-tenant, S3, warmup
+
+Tạo mới — `wiki/glossary/` (1 trang):
+- `HRM-Glossary.md` — ~60 thuật ngữ & viết tắt: BH (BHXH/BHYT/BHTN), D02/C70, SE/BA/QC, IIS, CLR, K8s, JWT, Phases...
+
+Cập nhật:
+- `wiki/index.md` — Thêm 3 section mới: Flows, Architecture, Glossary (đầu trang)
+- `wiki/overview.md` — Tổng trang: 60 → 70; Gaps cập nhật; wiki-version: v2
+
+Stats: 10 trang mới, 70 tổng trang, cấu trúc wiki đầy đủ hơn (7/8 thư mục — còn thiếu api/)
+
+---
+
 ## [2026-04-26] ingest | INS — Nhật Ký Vấn Đề BH Kaizen #08 (2017)
 
 Nguồn: `Projects/Nghiệp vụ HRM/INS/IssuesLog/INS_Kaizen_08.md`

@@ -10,6 +10,37 @@ last-analyzed: 2026-04-26
 
 ---
 
+## Flows (Quy trình nghiệp vụ)
+
+| Trang | Mô tả ngắn | Cập nhật |
+|-------|-----------|---------|
+| [[wiki/flows/Flow-TinhLuong-Monthly]] | Quy trình tính lương tháng: Chấm công → BH → Lương → C70 → Báo cáo | 2026-04-26 |
+| [[wiki/flows/Flow-KhaiBaoiBHXH]] | Quy trình khai báo BHXH điện tử: D02-TS lên cổng iBHXH hàng tháng | 2026-04-26 |
+| [[wiki/flows/Flow-Deploy-HRM]] | Quy trình deploy/upbuild + warmup IIS và Kubernetes | 2026-04-26 |
+| [[wiki/flows/Flow-UAT-Process]] | Quy trình UAT: đào tạo → test → fix → sign-off → go-live | 2026-04-26 |
+| [[wiki/flows/Flow-Onboarding-NhanVien]] | Quy trình onboarding nhân viên mới vào HRM | 2026-04-26 |
+
+---
+
+## Architecture (Kiến trúc hệ thống)
+
+| Trang | Mô tả ngắn | Cập nhật |
+|-------|-----------|---------|
+| [[wiki/architecture/HRM-System-Architecture]] | Kiến trúc tổng quan: IIS vs K8s, 13 services VnPay, luồng request | 2026-04-26 |
+| [[wiki/architecture/HRM-Auth-Architecture]] | Kiến trúc xác thực: JWT SSO, Identity Server 4, VnrDecrypt, RBAC | 2026-04-26 |
+| [[wiki/architecture/HRM-Database-Architecture]] | Kiến trúc database: SQL Server, CLR, Memory Optimized, MAXDOP | 2026-04-26 |
+| [[wiki/architecture/HRM-Deployment-Architecture]] | Kiến trúc deploy: IIS config, K8s, multi-tenant, S3, warmup | 2026-04-26 |
+
+---
+
+## Glossary (Từ điển thuật ngữ)
+
+| Trang | Mô tả ngắn | Cập nhật |
+|-------|-----------|---------|
+| [[wiki/glossary/HRM-Glossary]] | Từ điển đầy đủ: BH (BHXH/BHYT/BHTN), D02/C70, SE/BA/QC, IIS, CLR... | 2026-04-26 |
+
+---
+
 ## Projects
 
 | Trang | Mô tả ngắn | Cập nhật |
