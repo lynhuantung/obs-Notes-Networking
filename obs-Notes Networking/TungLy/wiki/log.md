@@ -5,6 +5,26 @@
 
 ---
 
+## [2026-04-26] analyze | Wiki Analyze — health check lần 2
+
+Stats: 22 sources, 5 projects (2 active, 3 archived), 13 concepts, 5 entities, 3 synthesis (48 trang tổng)
+Orphans: 2 (Vault-Structure không có inbound link; hoat-dong-wiki-v4 chưa vào index → đã fix)
+Ghost pages (log ≠ disk): 6 trang (digest-daily, v1/v2/v3, tong-hop-hom-nay, huong-dan-wiki-system)
+Dự án thiếu nguồn: Bitex (0), HongNgoc (1), Marico (1), TrungDong (2)
+Gaps mới phát hiện: pvcfc chưa có entity; BaoHiem-Module + MISA-Integration chưa có concept
+Fixes: index.md thêm hoat-dong-wiki-v4; overview.md cập nhật stats + gaps list
+Cập nhật: wiki/overview.md, wiki/index.md
+
+---
+
+## [2026-04-26] tonghop | Hệ thống LLM Wiki — hướng dẫn & sức khỏe tổng thể
+
+Đọc: `wiki/index.md`, `wiki/log.md`, `wiki/overview.md`
+Tạo synthesis: `wiki/synthesis/huong-dan-wiki-system-26-04-2026.md`
+Nội dung: kiến trúc 3 lớp, thống kê 51 trang, biểu đồ phân bố, quan hệ giữa các thành phần, gaps & khuyến nghị
+
+---
+
 ## [2026-04-26] analyze | Wiki Analyze — health check toàn bộ
 
 Stats: 22 sources, 5 projects, 13 concepts, 5 entities, 3 synthesis (51 trang tổng)

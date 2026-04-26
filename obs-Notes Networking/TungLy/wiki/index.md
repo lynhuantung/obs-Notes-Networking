@@ -1,6 +1,7 @@
 ---
 type: index
 date-updated: 2026-04-26
+last-analyzed: 2026-04-26
 ---
 
 # Wiki Index
@@ -88,6 +89,7 @@ date-updated: 2026-04-26
 |-------|--------|-----|
 | [[wiki/synthesis/VnPay-Lessons-Learned]] | Tổng hợp bài học từ dự án VnPay (scale, UAT, tích hợp) | 2026-04-25 |
 | [[wiki/synthesis/BaoHiem-NghiepVu-Research-20260426]] | Nghiên cứu toàn diện nghiệp vụ Bảo hiểm: chứng từ, nghỉ 14 ngày, tích hợp MISA, BH tự nguyện | 2026-04-26 |
+| [[wiki/synthesis/hoat-dong-wiki-26-04-2026-v4]] | Tổng hợp hoạt động wiki 26/04/2026 — biểu đồ, quy luật, câu hỏi suy ngẫm | 2026-04-26 |
 
 ---
 
