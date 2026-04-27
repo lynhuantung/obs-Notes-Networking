@@ -217,6 +217,8 @@ last-analyzed: 2026-04-27
 | [[wiki/synthesis/hoat-dong-wiki-27-04-2026]] | Tổng hợp hoạt động wiki 27/04/2026 — tăng trưởng 50+ trang, 6 entities mới, 3 RCA | 2026-04-27 |
 | [[wiki/synthesis/hoat-dong-wiki-27-04-2026-v2]] | Tổng hợp v2 ngày 27/04/2026 — bug-fix VNWs Sys024, routing bug TaskScheduleService | 2026-04-27 |
 | [[wiki/synthesis/toan-canh-wiki-ket-thuc-ngay-27-04-2026]] | Toàn cảnh wiki kết thúc ngày 27/04/2026 — 120+ trang, INS/SYS, 3 RCA, 6 entity mới | 2026-04-27 |
+| [[wiki/synthesis/QuickPack-Research-20260427]] | Nghiên cứu toàn diện QPVN: 8 phân hệ, GAP phức tạp, khủng hoảng SE, kỹ thuật, bài học | 2026-04-27 |
+| [[wiki/synthesis/Bitex-Research-20260427]] | Báo cáo toàn diện dự án Bitex-AKW: 2HĐ-1HT, 5 giai đoạn, 7 rủi ro, bài học PM, hậu go-live 82% | 2026-04-27 |
 
 ---
 

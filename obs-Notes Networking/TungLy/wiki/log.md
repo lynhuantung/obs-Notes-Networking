@@ -139,6 +139,14 @@ Tồn đọng:
 Cập nhật: wiki/overview.md (v3→v4), wiki/index.md (thêm 2 synthesis, last-analyzed)
 
 ---
+## [2026-04-27] tonghop | Kết thúc ngày 27/04/2026 — FINAL (sau Bitex + QuickPack)
+
+Đọc: `wiki/index.md`, `wiki/log.md`, `wiki/overview.md`, `wiki/synthesis/toan-canh-wiki-ket-thuc-ngay-27-04-2026`, `wiki/projects/Bitex-Project`, `wiki/projects/QuickPack-Project`
+Tạo synthesis: `wiki/synthesis/ket-thuc-ngay-27-04-2026-final.md`
+Nội dung: ~130 trang, Bitex gap đỏ đã đóng, QuickPack onboard, 4 biểu đồ, tỷ lệ Query>Ingest, 3 quy luật mới, 10 khuyến nghị, 3 câu hỏi suy ngẫm
+
+---
+
 ## [2026-04-27] tonghop | Toàn cảnh wiki kết thúc ngày 27/04/2026
 
 Đọc: `wiki/index.md`, `wiki/log.md`, `wiki/synthesis/hoat-dong-wiki-27-04-2026`, `wiki/synthesis/hoat-dong-wiki-27-04-2026-v2`
@@ -683,3 +691,15 @@ Tạo: `wiki/sources/Bitex-Project-Overview.md`, `wiki/sources/Bitex-Chat-ChiHuy
 Tạo: `wiki/flows/Flow-Bitex-Phases.md`
 Cập nhật: `wiki/projects/Bitex-Project.md`, `wiki/index.md`, `wiki/overview.md`
 Nguồn: 19 file trong `1. Projects/Dự án 2026/Bitex-Project/` (Goals, Scope, Timeline, Risks, Resources, Phases, DailyNotes, Meeting_Notes)
+
+## [2026-04-27] research | Dự án Bitex-AKW — toàn cảnh triển khai, rủi ro, bài học PM
+
+Nguồn: 5 trang wiki (Bitex-Project, Flow-Bitex-Phases, Bitex-Project-Overview, Bitex-Chat-ChiHuyThiCong, Bitex-TaskList-PostGoLive)
+Kết quả: Tạo `wiki/synthesis/Bitex-Research-20260427.md`
+Cập nhật: `wiki/index.md`, `wiki/log.md`
+
+## [2026-04-27] research | Dự án QuickPack Việt Nam (QPVN) — 8 phân hệ, GAP, nguồn lực, kỹ thuật
+Nguồn wiki: 4 trang (QuickPack-Project, entities/QuickPack, QuickPack-Project-Overview, Flow-QuickPack-Phases)
+Nguồn thô: 14 files (Goals, Scope, Timeline, Risks, Resources, GAP, Issues, Phases, Meeting Notes)
+Kết quả: Tạo `wiki/synthesis/QuickPack-Research-20260427.md`
+Cập nhật: `wiki/index.md`, `wiki/log.md`
