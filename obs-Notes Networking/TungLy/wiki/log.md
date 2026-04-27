@@ -110,6 +110,14 @@ Tồn đọng:
 Cập nhật: wiki/overview.md (v3→v4), wiki/index.md (thêm 2 synthesis, last-analyzed)
 
 ---
+## [2026-04-27] tonghop | Toàn cảnh wiki kết thúc ngày 27/04/2026
+
+Đọc: `wiki/index.md`, `wiki/log.md`, `wiki/synthesis/hoat-dong-wiki-27-04-2026`, `wiki/synthesis/hoat-dong-wiki-27-04-2026-v2`
+Tạo synthesis: `wiki/synthesis/toan-canh-wiki-ket-thuc-ngay-27-04-2026.md`
+Nội dung: 120+ trang, INS 85% phủ, SYS lần đầu khai thác, 6 entity mới, 3 RCA, vòng lặp wiki→bug-fix hoàn chỉnh, 4 biểu đồ, 10 khuyến nghị, 3 câu hỏi suy ngẫm
+
+---
+
 ## [2026-04-27] tonghop | Tổng kết cuối ngày 27/04/2026 — Bug-fix VNWs + toàn cảnh
 
 Đọc: `wiki/index.md`, `wiki/log.md`, `wiki/synthesis/hoat-dong-wiki-27-04-2026`
