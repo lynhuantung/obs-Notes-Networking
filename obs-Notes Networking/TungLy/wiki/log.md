@@ -5,6 +5,103 @@
 
 ---
 
+## [2026-04-27] research | VnPay — Báo cáo toàn diện
+
+Đọc: 10 trang wiki + 3 file thô (log lỗi T10/2025, tri thức thô, danh sách dự án)
+Tạo báo cáo: `wiki/synthesis/VnPay-Research-20260427.md`
+Chủ đề: khách hàng, kiến trúc 13 services, timeline 8 giai đoạn, sự cố nghẽn, tích hợp MISA, lessons learned
+
+---
+
+## [2026-04-27] ingest | Nhóm 1 rà soát — LTG-TAL, HVN, FGL, AMIS-ISO, HongNgoc
+
+Tạo mới (6 source pages):
+- `wiki/sources/LTG-TAL-Supplement-Jul2024.md` — bình luận BẮT BUỘC trước duyệt, tự tạo mục tiêu GAP, Nhóm NV vào phân quyền tự động, scheduler task, cảnh báo L&D
+- `wiki/sources/HVN-SYS-KhoadoituongKyCong-2024.md` — khóa đối tượng 2 kỳ công/tháng; NV→NhómNV→LoạiKyCong
+- `wiki/sources/FGL-Survey-RedirectJWT-2024.md` — SurveyAuthen/Index redirect gateway, JWT (CodeEmp/ProfileName/OrgstructureName)
+- `wiki/sources/AMIS-ISO-AgileScrum-2024.md` — mẫu quy trình ISO 7 mục, Agile Scrum Misa, chuẩn hóa khối sản xuất VnR
+- `wiki/sources/HongNgoc-AutoLogin-JWT-2025.md` — auto-login đánh giá cũ→mới qua SSO_SecretKey JWT shared
+
+Cập nhật: `wiki/index.md`, `wiki/overview.md` (sources 64→70, tổng ~112 trang)
+
+---
+
+## [2026-04-27] ingest | Đợt 3 — UNIS/VCBs bổ sung + OPA/LDAP + Interview + ATT bug + Daily 2025
+
+Tạo mới (9 source pages):
+- `wiki/sources/UNIS-INS-Jun2024-Supplement.md` — BH tự nguyện kick-off 10/06, thêm quốc tịch người thân
+- `wiki/sources/VCBs-TAL-Jul2024-Supplement.md` — TAL: field "Khía cạnh", chọn người khảo sát
+- `wiki/sources/StandardUI-SE-2024.md` — 6 nhóm tiêu chuẩn SE: UI, button, validate, thông báo
+- `wiki/sources/Daily-2024-OPA-LDAP-Permission.md` — OPA cache API v3, OpenLDAP Ubuntu, sp_GetPermissionNew EntityType
+- `wiki/sources/Daily-2024-Vietcap-SSO-Security.md` — XSS HasXSSConfig, LTG SSO email, GetIntegratedUserList
+- `wiki/sources/Daily-2025-CursorAI-Net8.md` — Cursor Memory Bank, FormCollection→IFormCollection migration
+- `wiki/sources/Interview-SE-VnResource-2024.md` — quy trình phỏng vấn SE, 5 khía cạnh đánh giá
+- `wiki/sources/ATT-BUG01-PhepNam-NgayLe.md` — sai tổng công khi phép trùng lễ, fix TimesheetSummary
+- (Nhóm A, C, D rỗng — bỏ qua)
+
+Cập nhật: `wiki/index.md`, `wiki/overview.md` (sources 55→64, tổng ~106 trang)
+
+---
+
+## [2026-04-27] ingest | Đợt 2 — Daily 2024 + FIT + PKM
+
+Tạo mới:
+- `wiki/sources/Daily-2024-SSO-Auth.md` — Okta OIDC (Colgate), Azure AD, ADFS (FIT), auth.config patterns
+- `wiki/sources/Daily-2024-Security-Fixes.md` — XSS grid, SQL Injection, Broken Access Control (GetUserList, GetEnum)
+- `wiki/sources/Daily-2024-SQL-Performance.md` — Get_MasterDataForUser refactor, CPU 38750ms→672ms, temp table
+- `wiki/sources/Daily-2024-Cache-Redis.md` — 5-pool cache, Task.Run HttpContext bug+fix, Redis 7.2.5 migration
+- `wiki/sources/Daily-2024-INS-Bugs.md` — C70 hotfix nghỉ ốm dài ngày, VDSC leavedayTypeCount bug
+- `wiki/sources/Daily-2024-PowerBI-Integration.md` — Power Query Bearer token, API_SP_GET_BANK, dynamic columns
+- `wiki/sources/FIT-Meetings-2024.md` — mail server per company, BH chu kỳ 15-14, ADFS SSO claims mapping
+- `wiki/entities/FIT.md` — FIT project nội bộ (ADFS, BH 15-14, mail per company)
+- `wiki/concepts/PKM-Methods.md` — PARA, Zettelkasten, Socrates, Second Brain, Microservice decision framework
+
+Cập nhật: `wiki/index.md`, `wiki/overview.md` (sources 47→55, entities 10→11, concepts 13→14, tổng ~97 trang)
+
+---
+
+## [2026-04-27] analyze | Wiki Analyze — health check lần 6
+
+Stats: 34 sources, 5 projects (2 active, 3 archived), 13 concepts, 5 entities, 3 synthesis, 5 flows, 4 architecture, 1 glossary → **70 trang tổng**
+Orphans: 1 (Vault-Structure — tồn đọng từ lần trước)
+Ghost pages (log ≠ disk): 6 trang (tồn đọng đã biết)
+Index ↔ Disk: ✅ KHỚP HOÀN TOÀN — wiki STABLE, không có ingest mới kể từ 2026-04-26
+Dự án thiếu nguồn: Bitex (0🔴), HongNgoc (1🟡), Marico (1🟡 archived), TrungDong (2🟡)
+Gaps tồn đọng: pvcfc entity, iBHXH-Portal concept, MISA-Integration concept, api/ folder, 2 flows còn thiếu
+Cập nhật: wiki/overview.md (lần 5 → 6, date-updated: 2026-04-27)
+
+---
+
+## [2026-04-27] ingest | Đợt 1 Batch Ingest — Projects 2024 + 2025 Archived
+
+**Nguồn**: 1.Projects/LTG/, 1.Projects/UNI/, 1.Projects/VCBs/, 1.Projects/Taisun/, 1.Projects/FGL/, 1.Projects/HVN/, 1.Projects/Toyota/, 1.Projects/AMIS/, 3.ARCHIEVED/dự án 2024/(TBV, Karcher), 3.ARCHIEVED/dự án 2025/(TrungDong supplement, Terumo, Giao ban 2025), 1.Projects/07-2024 tổng hợp/, 1.Projects/SaaS-VnR/, 2.RESOURCE/Nghiep-vu-HRM/
+
+**Tạo mới — Sources (13 trang)**:
+- `wiki/sources/LTG-INS-Meetings-2024.md` — 2 họp BH LTG: ca 24h, nghỉ 14 ngày custom, ngày nghỉ không dùng Cat_DayOff
+- `wiki/sources/LTG-TAL-Meetings-2024.md` — 4 họp Nhân Tài LTG: kế thừa, GAP đào tạo, phân quyền tự động nhóm NV
+- `wiki/sources/LTG-SYS-Meetings-2024.md` — 2 họp SYS LTG: kiêm nhiệm đa pháp nhân, store Get_Data_PermissionConCurrent_New
+- `wiki/sources/UNIS-INS-Meetings-2024.md` — BH tự nguyện giáo viên VN + nước ngoài, đăng ký người thân
+- `wiki/sources/TBV-INS-Meeting-2024.md` — BH nâng cao: trích nộp thiếu, chốt dòng, cảnh báo, AMIS D02
+- `wiki/sources/Karcher-INS-Meeting-2024.md` — nghỉ 14 ngày không có module Công → enum từ chứng từ
+- `wiki/sources/MultiProject-SYS-Meetings-2024.md` — Taisun/FGL/HVN/Toyota/AMIS: khóa đối tượng, survey redirect, phân quyền tự động, ISO
+- `wiki/sources/VCBs-FAC-TAL-Meetings-2024.md` — Quản lý tài sản FAC đầy đủ (6 quy trình + QR) + TAL khung năng lực
+- `wiki/sources/TrungDong-Eva-Meetings-2025-Supplement.md` — KPI 4 quý, UAT2 18 task, nhân tài lĩnh vực
+- `wiki/sources/Terumo-SYS-Meeting-2024.md` — tách user main/portal HRM V3
+- `wiki/sources/GiaoBan-2025-TongHop.md` — 28 giao ban VnR: ISO, nhân sự, KPI, P.QTNNL, Succession
+- `wiki/sources/NghiepVu-ATT-SAL.md` — nghiệp vụ ATT01–ATT05 (chấm công) + SAL01 (lương)
+- `wiki/sources/SaaS-VnR-Meetings-2023-2024.md` — K8s multi-tenant, MinIO, chuyển đổi codebase SaaS
+
+**Tạo mới — Entities (6 trang)**:
+- `wiki/entities/LTG.md`, `wiki/entities/UNIS.md`, `wiki/entities/TBV.md`
+- `wiki/entities/Karcher.md`, `wiki/entities/VCBs.md`, `wiki/entities/Terumo.md`
+
+**Tạo mới — Projects (1 trang)**:
+- `wiki/projects/LTG-Project.md`
+
+**Cập nhật**:
+- `wiki/index.md` — thêm 13 sources, 6 entities, 1 project
+- `wiki/overview.md` — sources: 34→47, entities: 5→10, projects: 5→6, tổng: ~89 trang, version: v3
+
 ## [2026-04-26] analyze | Cập nhật rule chuẩn hóa diagram — flows/ vs architecture/
 
 Vấn đề: flows/ và architecture/ đang bị trộn lẫn diagram (sequenceDiagram trong architecture, subgraph cấu trúc trong flows).

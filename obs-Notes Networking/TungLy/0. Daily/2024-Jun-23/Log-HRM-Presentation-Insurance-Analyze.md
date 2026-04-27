@@ -1,0 +1,9 @@
+---
+aliases:
+  - Log PTBH
+date: 2024-06-02
+---
+
+Đường dẫn log PTBH: Log\HRM.Presentation.Main\Insurance\InsuranceAnalyze
+
+

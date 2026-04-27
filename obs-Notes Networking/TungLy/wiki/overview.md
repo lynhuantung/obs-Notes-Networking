@@ -1,9 +1,9 @@
 ---
 type: overview
-date-updated: 2026-04-26
-sources-ingested: 34
-last-analyzed: 2026-04-26
-wiki-version: v2 (flows + architecture + glossary added)
+date-updated: 2026-04-27
+sources-ingested: 55
+last-analyzed: 2026-04-27
+wiki-version: v3 (Đợt 1: archived 2024+2025; Đợt 2: Daily 2024+FIT+PKM; Đợt 3: UNIS/VCBs/OPA/LDAP/Interview/ATT bug)
 ---
 
 # Wiki Overview
@@ -20,20 +20,20 @@ Tư vấn triển khai phần mềm **HRM (Bizzi / FIT-HRM)** cho doanh nghiệp
 
 | Chỉ số | Giá trị |
 |--------|---------|
-| Sources đã ingest | 34 |
-| Trang Projects | 5 (2 active, 3 archived) |
-| Trang Entities | 5 |
-| Trang Concepts | 13 |
-| Trang Sources | 34 |
+| Sources đã ingest | 70 (+6 từ Nhóm 1 rà soát) |
+| Trang Projects | 6 (2 active, 4 archived) |
+| Trang Entities | 11 |
+| Trang Concepts | 14 |
+| Trang Sources | 70 |
 | Trang Synthesis | 3 |
-| **Trang Flows** | **5 (MỚI)** |
-| **Trang Architecture** | **4 (MỚI)** |
-| **Trang Glossary** | **1 (MỚI)** |
-| Tổng trang nội dung | **70 trang** |
+| **Trang Flows** | **5** |
+| **Trang Architecture** | **4** |
+| **Trang Glossary** | **1** |
+| Tổng trang nội dung | **~112 trang** |
 | Orphan pages | 1 (Vault-Structure) |
-| Index ↔ Disk | ✅ KHỚP HOÀN TOÀN |
-| Cập nhật lần cuối | 2026-04-26 |
-| Lần analyze gần nhất | 2026-04-26 (lần 5 — restructure) |
+| Index ↔ Disk | ✅ KHỚP |
+| Cập nhật lần cuối | 2026-04-27 |
+| Lần analyze gần nhất | 2026-04-27 (lần 6 + Đợt 1 + Đợt 2 batch ingest) |
 
 ## Dự án đang hoạt động (2026)
 
@@ -47,7 +47,7 @@ Tư vấn triển khai phần mềm **HRM (Bizzi / FIT-HRM)** cho doanh nghiệp
 
 ## Gaps & To-Do
 
-> Cập nhật lần analyze thứ 5 — 2026-04-26 (sau restructure: thêm flows/ + architecture/ + glossary/)
+> Cập nhật lần analyze thứ 6 — 2026-04-27 (health check + Đợt 1 + Đợt 2 batch ingest)
 
 - [ ] 🔴 **[RỦI RO CAO]** Ingest tài liệu Bitex — dự án 2026 ACTIVE nhưng **0 sources**
 - [ ] 🔴 **[RỦI RO CAO]** Xác định `pvcfc` — xuất hiện trong WarmupStatus production; tạo entity/project nếu cần
@@ -63,6 +63,9 @@ Tư vấn triển khai phần mềm **HRM (Bizzi / FIT-HRM)** cho doanh nghiệp
 - [ ] 🟢 Thêm cross-links giữa 9 INS sources với nhau
 - [ ] 🟢 Ingest archived project lessons learned (LTG, Toyota HVN, Taisun, FGL, TBV, AMIS, OPA, UNIS)
 - [ ] 🟢 Ingest các tài liệu dự án VnPay còn lại (GAP analysis, QC test plan)
+- ~~[ ] Tạo `wiki/concepts/PKM-Methods.md`~~ → ĐÃ tạo (Đợt 2) ✅
+- ~~[ ] Ingest Daily 2024 notes~~ → ĐÃ gộp thành 6 source pages (Đợt 2) ✅
+- ~~[ ] Ingest FIT project~~ → ĐÃ tạo entity + source (Đợt 2) ✅
 - ~~[ ] Tạo `wiki/concepts/BaoHiem-Module.md`~~ → ĐÃ cover bởi 9 INS sources ✅
 - ~~[ ] Tạo `wiki/flows/`~~ → ĐÃ tạo 5 trang flows (2026-04-26) ✅
 - ~~[ ] Tạo `wiki/architecture/`~~ → ĐÃ tạo 4 trang architecture (2026-04-26) ✅

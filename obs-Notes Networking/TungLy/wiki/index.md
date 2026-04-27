@@ -1,6 +1,6 @@
 ---
 type: index
-date-updated: 2026-04-26
+date-updated: 2026-04-27
 last-analyzed: 2026-04-26
 ---
 
@@ -50,6 +50,7 @@ last-analyzed: 2026-04-26
 | [[wiki/projects/HongNgoc-Project]] | Nâng cấp phân hệ Đánh giá, SSO JWT | 2026-04-25 |
 | [[wiki/projects/Bitex-Project]] | Dự án 2026 đang triển khai | 2026-04-25 |
 | [[wiki/projects/Marico-Project]] | Modify đánh giá hợp đồng (9 tasks), archived 2024 | 2026-04-25 |
+| [[wiki/projects/LTG-Project]] | Phase 3 post-UAT: kiêm nhiệm đa pháp nhân, INS ca 24h, TAL đầy đủ | 2026-04-27 |
 
 ---
 
@@ -62,6 +63,13 @@ last-analyzed: 2026-04-26
 | [[wiki/entities/VnPay]] | Khách hàng | Công ty thanh toán, nâng cấp HRM .NET 8 |
 | [[wiki/entities/TrungDong]] | Khách hàng | Doanh nghiệp, triển khai HRM |
 | [[wiki/entities/HongNgoc]] | Khách hàng | Bệnh viện Hồng Ngọc |
+| [[wiki/entities/LTG]] | Khách hàng | LTG Group — kiêm nhiệm đa pháp nhân, TAL đầy đủ, INS ca 24h |
+| [[wiki/entities/UNIS]] | Khách hàng | Đại học Quốc Tế — BH tự nguyện giáo viên nước ngoài |
+| [[wiki/entities/TBV]] | Khách hàng | TBV — BH nâng cao, tích hợp AMIS D02 |
+| [[wiki/entities/Karcher]] | Khách hàng | Kärcher VN — nghỉ 14 ngày không có module Công |
+| [[wiki/entities/VCBs]] | Khách hàng | Vietcombank Securities — module FAC (tài sản) + TAL |
+| [[wiki/entities/Terumo]] | Khách hàng | Terumo VN — tách user main/portal HRM V3 |
+| [[wiki/entities/FIT]] | Dự án nội bộ | FIT project — ADFS SSO, chu kỳ BH 15-14, mail server per company |
 
 ---
 
@@ -75,6 +83,7 @@ last-analyzed: 2026-04-26
 | [[wiki/concepts/Net8-Migration]] | Quá trình nâng cấp từ .NET Framework lên .NET 8 |
 | [[wiki/concepts/AI-DevTools]] | Cursor AI, Memory Bank, stack kỹ thuật TungLy |
 | [[wiki/concepts/Vault-Structure]] | Cấu trúc vault TungLy, quy ước đặt tên, danh sách dự án |
+| [[wiki/concepts/PKM-Methods]] | PARA, Zettelkasten, Truy vấn Socrates, Second Brain, Microservice decision framework |
 | [[wiki/concepts/HRM-IIS-Troubleshooting]] | Lỗi IIS Pool thường gặp: 405, IIS_IUSRS, OutOfMemory, 403.14 |
 | [[wiki/concepts/HRM-SQL-Troubleshooting]] | CLR, Memory Optimized Filegroup, MAXDOP, cache config limit |
 | [[wiki/concepts/HRM-Log-Monitoring]] | Toolkit chẩn đoán: Event Viewer, Log Request, Task Scheduler |
@@ -123,6 +132,39 @@ last-analyzed: 2026-04-26
 | [[wiki/sources/INS-TruyNguyenNhan]] | Phương pháp 4M Root Cause Analysis theo Kaizen Nhật Bản: 5 Whys, CAPA matrix, checklist định vị lỗi INS | 2026-04-26 |
 | [[wiki/sources/INS-VennD02]] | So sánh D02-VNPT / D02-Viettel / iBHXH (TS24) — Venn diagram, bảng chi tiết, lỗi tích hợp, flowchart tư vấn chọn phần mềm | 2026-04-26 |
 | [[wiki/sources/INS-Kaizen-08]] | Nhật ký vấn đề BH (Kaizen #08, 2017): 5 Whys D02/C70, ON-OFF thai sản, timezone bug, kế hoạch giảm bug Pareto | 2026-04-26 |
+| [[wiki/sources/LTG-INS-Meetings-2024]] | LTG: họp BH 2024 — Ca 24h, nghỉ 14 ngày, ngày nghỉ custom | 2026-04-27 |
+| [[wiki/sources/LTG-TAL-Meetings-2024]] | LTG: họp Nhân Tài 2024 — kế thừa, phân quyền tự động, GAP đào tạo | 2026-04-27 |
+| [[wiki/sources/LTG-SYS-Meetings-2024]] | LTG: họp SYS — kiêm nhiệm đa pháp nhân, store Get_Data_Permission_New | 2026-04-27 |
+| [[wiki/sources/UNIS-INS-Meetings-2024]] | UNIS: BH tự nguyện giáo viên VN + nước ngoài, đăng ký người thân | 2026-04-27 |
+| [[wiki/sources/TBV-INS-Meeting-2024]] | TBV: BH nâng cao — trích nộp thiếu, chốt dòng, cảnh báo, AMIS | 2026-04-27 |
+| [[wiki/sources/Karcher-INS-Meeting-2024]] | Karcher: nghỉ 14 ngày không có module Công — enum từ chứng từ | 2026-04-27 |
+| [[wiki/sources/MultiProject-SYS-Meetings-2024]] | Taisun/FGL/HVN/Toyota/AMIS: khóa đối tượng, survey redirect, phân quyền tự động | 2026-04-27 |
+| [[wiki/sources/VCBs-FAC-TAL-Meetings-2024]] | VCBs: quản lý tài sản FAC đầy đủ + TAL khung năng lực | 2026-04-27 |
+| [[wiki/sources/TrungDong-Eva-Meetings-2025-Supplement]] | TrungDong Phase II bổ sung: KPI 4 quý, UAT2 prep 32 modify | 2026-04-27 |
+| [[wiki/sources/Terumo-SYS-Meeting-2024]] | Terumo: tách user main/portal HRM V3 | 2026-04-27 |
+| [[wiki/sources/GiaoBan-2025-TongHop]] | Giao ban VnR 2025: ISO, nhân sự, KPI, P.QTNNL, Succession | 2026-04-27 |
+| [[wiki/sources/NghiepVu-ATT-SAL]] | Nghiệp vụ Chấm công (ATT01–05) và Tính lương (SAL01) | 2026-04-27 |
+| [[wiki/sources/SaaS-VnR-Meetings-2023-2024]] | SaaS VnR: K8s multi-tenant, MinIO, chuyển đổi codebase 2023–2024 | 2026-04-27 |
+| [[wiki/sources/Daily-2024-SSO-Auth]] | SSO patterns 2024: Okta OIDC (Colgate), Azure AD, ADFS (FIT), auth.config | 2026-04-27 |
+| [[wiki/sources/Daily-2024-Security-Fixes]] | Bảo mật HRM 2024: XSS grid, SQL Injection store, Broken Access Control | 2026-04-27 |
+| [[wiki/sources/Daily-2024-SQL-Performance]] | Refactor Get_MasterDataForUser: temp table, CPU 38750ms→672ms | 2026-04-27 |
+| [[wiki/sources/Daily-2024-Cache-Redis]] | Cache 5 pools, Task.Run HttpContext bug+fix, Redis 7.2.5 migration | 2026-04-27 |
+| [[wiki/sources/Daily-2024-INS-Bugs]] | INS bugs: C70 hotfix nghỉ ốm dài ngày, VDSC leavedayTypeCount reset | 2026-04-27 |
+| [[wiki/sources/Daily-2024-PowerBI-Integration]] | Power BI + HRM API: Bearer token, Power Query, API_SP_GET_BANK | 2026-04-27 |
+| [[wiki/sources/FIT-Meetings-2024]] | FIT: mail server per company, BH chu kỳ 15-14, ADFS SSO | 2026-04-27 |
+| [[wiki/sources/UNIS-INS-Jun2024-Supplement]] | UNIS họp BH tự nguyện 10/06/2024 — kick-off phân tích, thêm quốc tịch người thân | 2026-04-27 |
+| [[wiki/sources/VCBs-TAL-Jul2024-Supplement]] | VCBs TAL 22/07/2024 — field "Khía cạnh", chọn người khảo sát, ma trận mức-hành vi | 2026-04-27 |
+| [[wiki/sources/StandardUI-SE-2024]] | Tiêu chuẩn SE (Nghĩa): UI, button, control, validate, thông báo, màn hình mới | 2026-04-27 |
+| [[wiki/sources/Daily-2024-OPA-LDAP-Permission]] | OPA cache API v3, OpenLDAP cài Ubuntu, sp_GetPermissionNew theo EntityType | 2026-04-27 |
+| [[wiki/sources/Daily-2024-Vietcap-SSO-Security]] | Vietcap XSS filter HasXSSConfig, LTG SSO email, GetIntegratedUserList API | 2026-04-27 |
+| [[wiki/sources/Daily-2025-CursorAI-Net8]] | Cursor AI Memory Bank, .NET 8 FormCollection→IFormCollection, VnPay DLL bug | 2026-04-27 |
+| [[wiki/sources/Interview-SE-VnResource-2024]] | Quy trình phỏng vấn SE VnResource — 5 khía cạnh đánh giá, tiêu chí PASS | 2026-04-27 |
+| [[wiki/sources/ATT-BUG01-PhepNam-NgayLe]] | ATT-BUG01: sai tổng công khi phép năm trùng ngày lễ — fix hrm_get_TimesheetSummary | 2026-04-27 |
+| [[wiki/sources/LTG-TAL-Supplement-Jul2024]] | LTG TAL bổ sung: bình luận BẮT BUỘC trước duyệt, tự tạo mục tiêu GAP, scheduler task, cảnh báo L&D | 2026-04-27 |
+| [[wiki/sources/HVN-SYS-KhoadoituongKyCong-2024]] | HVN: khóa đối tượng theo loại kỳ công — NV → Nhóm NV → Loại kỳ công | 2026-04-27 |
+| [[wiki/sources/FGL-Survey-RedirectJWT-2024]] | FGL: tích hợp Survey qua redirect JWT — SurveyAuthen/Index gateway pattern | 2026-04-27 |
+| [[wiki/sources/AMIS-ISO-AgileScrum-2024]] | AMIS ISO: mẫu quy trình 7 mục, Agile Scrum Misa, chuẩn hóa quy trình sản xuất | 2026-04-27 |
+| [[wiki/sources/HongNgoc-AutoLogin-JWT-2025]] | HongNgoc: auto-login đánh giá cũ→mới qua JWT SSO_SecretKey shared | 2026-04-27 |
 
 ---
 
@@ -131,6 +173,7 @@ last-analyzed: 2026-04-26
 | Trang | Chủ đề | Tạo |
 |-------|--------|-----|
 | [[wiki/synthesis/VnPay-Lessons-Learned]] | Tổng hợp bài học từ dự án VnPay (scale, UAT, tích hợp) | 2026-04-25 |
+| [[wiki/synthesis/VnPay-Research-20260427]] | Báo cáo toàn diện VnPay: khách hàng, 13 services K8s, timeline, sự cố, gaps, gợi ý | 2026-04-27 |
 | [[wiki/synthesis/BaoHiem-NghiepVu-Research-20260426]] | Nghiên cứu toàn diện nghiệp vụ Bảo hiểm: chứng từ, nghỉ 14 ngày, tích hợp MISA, BH tự nguyện | 2026-04-26 |
 | [[wiki/synthesis/hoat-dong-wiki-26-04-2026-v4]] | Tổng hợp hoạt động wiki 26/04/2026 — biểu đồ, quy luật, câu hỏi suy ngẫm | 2026-04-26 |
 
