@@ -1,9 +1,9 @@
 ---
 type: overview
 date-updated: 2026-04-27
-sources-ingested: 55
+sources-ingested: 79
 last-analyzed: 2026-04-27
-wiki-version: v3 (Đợt 1: archived 2024+2025; Đợt 2: Daily 2024+FIT+PKM; Đợt 3: UNIS/VCBs/OPA/LDAP/Interview/ATT bug)
+wiki-version: v4.1 (lần 10: batch SYS — 4 sources + HRM-SysDB-Schema + 3 flows + 1 API page)
 ---
 
 # Wiki Overview
@@ -20,20 +20,20 @@ Tư vấn triển khai phần mềm **HRM (Bizzi / FIT-HRM)** cho doanh nghiệp
 
 | Chỉ số | Giá trị |
 |--------|---------|
-| Sources đã ingest | 70 (+6 từ Nhóm 1 rà soát) |
-| Trang Projects | 6 (2 active, 4 archived) |
-| Trang Entities | 11 |
-| Trang Concepts | 14 |
-| Trang Sources | 70 |
-| Trang Synthesis | 3 |
-| **Trang Flows** | **5** |
-| **Trang Architecture** | **4** |
+| Sources đã ingest (disk) | **75** (+4 INS batch: NhatKy-2017, Troubleshooting-5Why, ThietKe-V8, TaiLieuBH-01-Schema) |
+| Trang Projects | 6 (2 active: VnPay, Bitex | 4 archived) |
+| Trang Entities | 12 |
+| Trang Concepts | 15 |
+| Trang Sources | 72 |
+| **Trang Flows** | **7** (+1: Flow-BaoHiem-Monthly) |
+| **Trang Architecture** | **6** (+1: INS-Architecture) |
 | **Trang Glossary** | **1** |
-| Tổng trang nội dung | **~112 trang** |
-| Orphan pages | 1 (Vault-Structure) |
-| Index ↔ Disk | ✅ KHỚP |
+| Tổng trang nội dung | **~115 trang** (index/log/overview thêm 3 = 118) |
+| Orphan pages | 1 (Vault-Structure — tồn đọng) |
+| Ghost pages (log ≠ disk) | 3 (rca-schedule-vnws, rca-inoac-redis, rca-redis-stop) |
+| Index ↔ Disk | ⚠️ 2 synthesis chưa vào index.md |
 | Cập nhật lần cuối | 2026-04-27 |
-| Lần analyze gần nhất | 2026-04-27 (lần 6 + Đợt 1 + Đợt 2 batch ingest) |
+| Lần analyze gần nhất | 2026-04-27 (lần 7 — đếm lại thực tế disk) |
 
 ## Dự án đang hoạt động (2026)
 
@@ -47,26 +47,33 @@ Tư vấn triển khai phần mềm **HRM (Bizzi / FIT-HRM)** cho doanh nghiệp
 
 ## Gaps & To-Do
 
-> Cập nhật lần analyze thứ 6 — 2026-04-27 (health check + Đợt 1 + Đợt 2 batch ingest)
+> Cập nhật lần analyze thứ 7 — 2026-04-27 (đếm thực tế disk, fix lệch số liệu, ghost pages)
 
+- [ ] 🔴 **[GHOST PAGES]** 3 trang RCA có trong log nhưng không có file — kiểm tra/tạo lại:
+  - `wiki/synthesis/rca-schedule-vnws-opa-20260418.md`
+  - `wiki/synthesis/rca-inoac-redis-cache-20260427.md`
+  - `wiki/synthesis/rca-redis-stop-restart-20260427.md`
 - [ ] 🔴 **[RỦI RO CAO]** Ingest tài liệu Bitex — dự án 2026 ACTIVE nhưng **0 sources**
 - [ ] 🔴 **[RỦI RO CAO]** Xác định `pvcfc` — xuất hiện trong WarmupStatus production; tạo entity/project nếu cần
+- [ ] 🟡 Thêm 2 synthesis trang mới vào `wiki/index.md`:
+  - `hoat-dong-wiki-27-04-2026.md`
+  - `hoat-dong-wiki-27-04-2026-v2.md`
 - [ ] 🟡 Tạo `wiki/entities/Bitex.md` — chưa có entity profile
-- [ ] 🟡 Tạo `wiki/concepts/iBHXH-Portal.md` — đủ trọng lượng sau 9 INS sources
+- [ ] 🟡 Tạo `wiki/concepts/iBHXH-Portal.md` — đủ trọng lượng sau 9+ INS sources
 - [ ] 🟡 Tạo `wiki/concepts/MISA-Integration.md` — nhắc nhiều trong VnPay-INS và BaoHiem research
-- [ ] 🟡 Tạo `wiki/flows/Flow-OffBoarding-NhanVien.md` — quy trình nghỉ việc chưa có
-- [ ] 🟡 Tạo `wiki/flows/Flow-TuyenDung.md` — quy trình tuyển dụng từ đăng tin đến onboarding
-- [ ] 🟡 Tạo `wiki/api/API-iBHXH-Integration.md` — tài liệu API tích hợp iBHXH
+- [ ] 🟡 Tạo `wiki/flows/Flow-OffBoarding-NhanVien.md`
+- [ ] 🟡 Tạo `wiki/flows/Flow-TuyenDung.md`
+- [ ] 🟡 Tạo `wiki/api/API-iBHXH-Integration.md`
 - [ ] 🟡 Ingest thêm nguồn cho TrungDong (hiện 2 nguồn) — go-live docs, final report
-- [ ] 🟡 Ingest thêm nguồn cho HongNgoc (hiện 1 nguồn)
+- [ ] 🟡 Ingest thêm nguồn cho HongNgoc (hiện 2 nguồn)
 - [ ] 🟢 Liên kết `wiki/concepts/Vault-Structure` từ ít nhất 1 project/concept khác (hết orphan)
-- [ ] 🟢 Thêm cross-links giữa 9 INS sources với nhau
-- [ ] 🟢 Ingest archived project lessons learned (LTG, Toyota HVN, Taisun, FGL, TBV, AMIS, OPA, UNIS)
-- [ ] 🟢 Ingest các tài liệu dự án VnPay còn lại (GAP analysis, QC test plan)
-- ~~[ ] Tạo `wiki/concepts/PKM-Methods.md`~~ → ĐÃ tạo (Đợt 2) ✅
-- ~~[ ] Ingest Daily 2024 notes~~ → ĐÃ gộp thành 6 source pages (Đợt 2) ✅
-- ~~[ ] Ingest FIT project~~ → ĐÃ tạo entity + source (Đợt 2) ✅
-- ~~[ ] Tạo `wiki/concepts/BaoHiem-Module.md`~~ → ĐÃ cover bởi 9 INS sources ✅
-- ~~[ ] Tạo `wiki/flows/`~~ → ĐÃ tạo 5 trang flows (2026-04-26) ✅
-- ~~[ ] Tạo `wiki/architecture/`~~ → ĐÃ tạo 4 trang architecture (2026-04-26) ✅
-- ~~[ ] Tạo `wiki/glossary/`~~ → ĐÃ tạo HRM-Glossary (2026-04-26) ✅
+- [ ] 🟢 Thêm cross-links giữa 9+ INS sources với nhau
+- [ ] 🟢 Ingest archived project lessons learned (LTG, Toyota HVN, Taisun, FGL, TBV, AMIS)
+- [ ] 🟢 Ingest các tài liệu VnPay còn lại (GAP analysis, QC test plan)
+- ~~[ ] Tạo `wiki/concepts/PKM-Methods.md`~~ → ĐÃ tạo ✅
+- ~~[ ] Ingest Daily 2024 notes~~ → ĐÃ gộp thành 6+ source pages ✅
+- ~~[ ] Ingest FIT project~~ → ĐÃ tạo entity + source ✅
+- ~~[ ] Tạo `wiki/concepts/BaoHiem-Module.md`~~ → ĐÃ cover bởi 9+ INS sources ✅
+- ~~[ ] Tạo `wiki/flows/`~~ → ĐÃ tạo 7 trang flows ✅
+- ~~[ ] Tạo `wiki/architecture/`~~ → ĐÃ tạo 6 trang architecture ✅
+- ~~[ ] Tạo `wiki/glossary/`~~ → ĐÃ tạo HRM-Glossary ✅

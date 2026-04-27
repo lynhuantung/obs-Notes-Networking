@@ -16,6 +16,8 @@ date-updated: 2026-04-26
 source-file: Projects/Nghiệp vụ HRM/INS/IssuesLog/INS_Kaizen_08.md
 related:
   - "[[wiki/concepts/HRM-Modules]]"
+  - "[[wiki/concepts/Kaizen-Methodology]]"
+  - "[[wiki/sources/INS-Kaizen-08-Cards]]"
   - "[[wiki/sources/INS-FishBone-Analysis]]"
   - "[[wiki/sources/INS-TruyNguyenNhan]]"
   - "[[wiki/sources/INS-D02-ChungTu]]"
@@ -146,6 +148,8 @@ Giảm 64% bug, 78% won't fix nhờ áp dụng Kaizen.
 ## Liên kết
 
 - [[wiki/concepts/HRM-Modules]] — Tổng quan phân hệ Bảo hiểm
+- [[wiki/concepts/Kaizen-Methodology]] — Lý thuyết Kaizen: 5S, 4 phương pháp, mẫu thẻ (trang concept mới)
+- [[wiki/sources/INS-Kaizen-08-Cards]] — 11 thẻ Kaizen thực thi Ins0001–Ins0011 (trang mới từ bộ thẻ)
 - [[wiki/sources/INS-FishBone-Analysis]] — FishBone 4M (kế thừa triết lý từ tài liệu này)
 - [[wiki/sources/INS-TruyNguyenNhan]] — 5 Whys CAPA matrix (mở rộng từ Kaizen #08)
 - [[wiki/sources/INS-D02-ChungTu]] — Chi tiết biểu mẫu D02-TS

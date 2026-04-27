@@ -6,7 +6,8 @@ tags:
   - hrm
   - bao-hiem
   - viet-tat
-date-updated: 2026-04-26
+  - llm-wiki
+date-updated: 2026-04-27
 related:
   - "[[wiki/concepts/HRM-Modules]]"
   - "[[wiki/concepts/Project-Phases]]"
@@ -152,6 +153,32 @@ Xem chi tiết: [[wiki/concepts/Project-Phases]]
 | Tuyển dụng | Recruitment | REC |
 
 Xem chi tiết: [[wiki/concepts/HRM-Modules]]
+
+---
+
+## LLM Wiki — Thuật ngữ hệ thống wiki này
+
+| Thuật ngữ | Giải thích |
+|-----------|-----------|
+| **Ingest** | Đọc file nguồn trong `raw/` → tóm tắt → tạo/cập nhật các trang wiki liên quan. Một lần ingest có thể chạm 5–15 trang. |
+| **Query** | Đặt câu hỏi → LLM đọc `wiki/index.md` → tìm trang liên quan → trả lời có citation `[[wiki/...]]`. |
+| **Lint** | Kiểm tra sức khỏe toàn bộ wiki: orphan pages, dead links, mâu thuẫn, thiếu cross-link, nội dung cũ. |
+| **Research** | Nghiên cứu chuyên sâu một chủ đề — đọc cả wiki lẫn raw, xuất báo cáo lưu vào `wiki/synthesis/`. |
+| **Source** | Trang tóm tắt một file đã ingest — lưu tại `wiki/sources/<tên>.md`. Là "bản ghi nhận" file đã được xử lý. |
+| **Synthesis** | Trang phân tích tổng hợp, bài học, so sánh — lưu tại `wiki/synthesis/`. Tạo khi query/research có insight mới. |
+| **Orphan page** | Trang wiki không có trang nào khác link đến (không có inbound link). Phát hiện khi lint. |
+| **Ghost page** | Trang có trong `wiki/log.md` nhưng không có file trên disk. |
+| **Cross-link** | Liên kết Obsidian `[[wiki/path/to/page]]` giữa các trang wiki với nhau. |
+| **Frontmatter** | Phần YAML đầu mỗi trang wiki (giữa `---`): `type`, `tags`, `created`, `updated`, `related`. |
+| **Raw** | Thư mục `raw/` — tài liệu nguồn gốc, immutable. LLM chỉ đọc, không bao giờ sửa. |
+| **Wiki root** | Thư mục `wiki/` — nơi LLM viết và duy trì. |
+| **domain** | Trường frontmatter phân loại nội dung: `ins` (Bảo hiểm), `payroll` (Lương), `attendance` (Chấm công), `system` (Kỹ thuật SYS). |
+| **Flow** | Trang `wiki/flows/` — mô tả thứ tự bước, ai làm gì, rẽ nhánh điều kiện. Dùng Mermaid `flowchart` hoặc `sequenceDiagram`. |
+| **Architecture** | Trang `wiki/architecture/` — mô tả component, kết nối tĩnh, layer hệ thống. Dùng Mermaid `flowchart + subgraph`. |
+| **Analyze (GitNexus)** | Lệnh `npx gitnexus analyze` — lập chỉ mục code để GitNexus hiểu cấu trúc codebase. |
+| **wiki/index.md** | Trang LUÔN đọc đầu tiên — danh mục toàn bộ wiki, dùng để tìm trang liên quan. |
+| **wiki/log.md** | Append-only log — ghi lại mọi hoạt động ingest/query/lint theo thời gian. Không sửa entry cũ. |
+| **wiki/overview.md** | Tổng quan domain + trạng thái wiki: số sources, pages, gaps, to-do. |
 
 ---
 

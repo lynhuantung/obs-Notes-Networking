@@ -5,6 +5,111 @@
 
 ---
 
+## [2026-04-27] ingest | SYS batch — 4 tài liệu kỹ thuật hệ thống HRM
+
+Tạo:
+- `wiki/sources/Sys-TaiLieuHeThong-01.md` — 8 bảng DB SYS, UML, 50+ webconfig keys, bảo mật
+- `wiki/sources/Sys-TaiLieuPhanQuyen-02.md` — Phân quyền: nhóm quyền, màn hình/nút/tab
+- `wiki/sources/Sys-TaiLieuLDAP-03.md` — Tích hợp LDAP/Active Directory
+- `wiki/sources/Sys-TaiLieuGetAPIToExcel-07.md` — HRM API → Excel Power Query
+- `wiki/architecture/HRM-SysDB-Schema.md` — Schema đầy đủ 8 bảng SYS
+- `wiki/flows/Flow-PhanQuyen-HeThong.md` — Luồng phân quyền chức năng + dữ liệu
+- `wiki/flows/Flow-ResetPassword.md` — 3 luồng bảo mật password
+- `wiki/flows/Flow-LDAP-Login.md` — Luồng cấu hình và đăng nhập LDAP
+- `wiki/api/HRM-API-Excel-Integration.md` — API Excel integration guide
+
+Cập nhật:
+- `wiki/architecture/HRM-Auth-Architecture.md` — thêm LDAP + SYS DB links
+- `wiki/concepts/HRM-Security-Config.md` — thêm webconfig keys + password policy
+- `wiki/index.md` — thêm 3 flows + 1 architecture + 4 sources + API section
+---
+
+## [2026-04-27] ingest | INS folder batch — 17 file root + tailieubaohiem_01
+
+Tạo sources:
+- `wiki/sources/INS-NhatKy-VanDe-2017.md` — Nhật ký vấn đề INS 2017 (D02, ON/OFF thai sản, timezone bug, Pareto)
+- `wiki/sources/INS-Troubleshooting-5Why.md` — 5-Why RCA: Tên Công Việc, Số Tiền BH, C70A=0; 4M framework
+- `wiki/sources/INS-ThietKe-V8.md` — Thiết kế chức năng INS V8: nghiệp vụ, biểu mẫu, IBHXH/EBHXH
+- `wiki/sources/INS-TaiLieuBH-01-Schema.md` — Schema database đầy đủ: 72+ fields, mã lỗi Err001-Err008
+
+Tạo flows:
+- `wiki/flows/Flow-BaoHiem-Monthly.md` — Luồng INS01: flowchart + sequenceDiagram, ON/OFF thai sản
+
+Tạo architecture:
+- `wiki/architecture/INS-Architecture.md` — Layer architecture 4 phân hệ + bảng trung tâm chi tiết
+
+Files đã tồn tại (skip): INS-Overview, INS-BC-D02, INS-Thai-San-On-Off, INS-Phan-Tich-BH-Lech-Thang, INS-FAQ-Phan-Tich-BH, INS-Chan-Doan-Su-Co, INS-Nguyen-Nhan-Ten-Cong-Viec, INS-Nguyen-Nhan-So-Tien-BH, INS-C70-FAQ, INS-BrainStorming-T10-2017, INS-Thiet-Ke-Chuc-Nang, INS-Bieu-Mau, INS-Nghiep-Vu, INS-IBHXH, INS-EBHXH, INS-Database-Tables, INS-Quy-Trinh → nội dung đã được tổng hợp vào 4 sources + 2 trang mới
+
+Cập nhật: `wiki/index.md` — thêm 4 sources + 1 flow + 1 architecture
+Cập nhật: `wiki/overview.md` — sources +4, flows +1, architecture +1
+
+---
+
+## [2026-04-27] ingest | Ins_Kaizen_08 — 11 thẻ Kaizen BH + lý thuyết Kaizen
+
+Tạo: `wiki/sources/INS-Kaizen-08-Cards.md` — 11 thẻ Kaizen thực thi (Ins0001–Ins0011, 2017–2018)
+Tạo: `wiki/concepts/Kaizen-Methodology.md` — Lý thuyết Kaizen: 5S, 4 phương pháp, mẫu thẻ
+Cập nhật: `wiki/sources/INS-Kaizen-08.md` — thêm cross-links sang 2 trang mới
+Cập nhật: `wiki/index.md` — thêm 1 source + 1 concept
+Cập nhật: `wiki/overview.md` — sources-ingested +2
+
+---
+
+## [2026-04-27] ingest | INS-TaiLieuBaoHiem-01 — Tài liệu BH toàn diện v8.0.1.x
+
+Tạo: `wiki/sources/INS-TaiLieuBaoHiem-01.md`
+Tạo: `wiki/architecture/INS-Database-Schema.md`
+Cập nhật: `wiki/index.md`, `wiki/overview.md`
+
+---
+
+## [2026-04-27] ingest | Batch Toàn bộ thư mục — 7 nhóm quét + 4 source mới
+
+**Quét**: 7 nhóm file trên toàn bộ TungLy/ (loại trừ wiki/)
+**Kết quả đánh giá từng nhóm:**
+- Nhóm C (Danh sách dự án 14 file): **Rỗng** — bỏ qua
+- Nhóm F (Story 07-2024 6 file): **Rỗng** — bỏ qua
+- Nhóm B (Daily Aug-Sep 2024): Hầu hết đã cover bởi Daily-2024-* sources trước → bỏ qua
+- Nhóm A (SaaS VnR meetings 16 file): **Nội dung phong phú** → tạo source mới
+- Nhóm E (Interview 4 file): **Hồ sơ ứng viên chi tiết** → tạo source tổng hợp
+- Nhóm G (Learning resources): Microservice SSO + Confluence vs WikiJS → tạo source mới
+- Nhóm D (Daily 2025 Jan-Feb): HongNgoc/PEWVN/INOAC/Lotte → tạo source mới
+
+**Tạo mới (4 trang):**
+- `wiki/sources/SaaS-VnR-Meetings-Detail-2023.md` — 16 buổi họp K8s/MinIO/Identity 07–10/2023
+- `wiki/sources/Interview-SE-Candidates-2024.md` — 4 ứng viên Thái Bảo An, Mã Tấn Vĩnh, Nguyễn Hoàng Trung, Trần Công Duy
+- `wiki/sources/Learning-MicroService-Confluence-Tools.md` — SSO 3 tình huống + Confluence vs WikiJS
+- `wiki/sources/Daily-2025-Jan-Feb-Projects.md` — HongNgoc, PEWVN, INOAC, Lotte Okta, TVC, VnPay SSO Jan-Feb 2025
+
+**Phát hiện mới:**
+- Dự án Lotte Mark (SSO Okta OIDC) — chưa có entity/project trong wiki
+- Dự án INOAC (chấm công + phân quyền) — chưa có entity
+- Dự án TVC — đã biết nhưng file rỗng, không có nội dung
+
+Cập nhật: `wiki/index.md` (+4 dòng), `wiki/overview.md` (sources 67→71)
+
+---
+
+
+Stats thực tế trên disk:
+- Sources: 67 trang (overview cũ ghi 70 — lệch 3, đã fix)
+- Projects: 6 (2 active: VnPay, Bitex | 4 archived)
+- Entities: 12 | Concepts: 14 | Synthesis: 6 | Flows: 5 | Architecture: 4 | Glossary: 1
+- **Tổng: ~115 trang nội dung**
+
+Phát hiện mới:
+- Ghost pages (3): rca-schedule-vnws, rca-inoac-redis, rca-redis-stop — log có, disk không có
+- 2 synthesis trang chưa vào index.md → đã fix
+- overview.md lệch sources (70→67) và synthesis (3→6) → đã fix
+
+Tồn đọng:
+- Orphans: 1 (Vault-Structure)
+- Bitex: dự án ACTIVE, 0 sources 🔴
+- Chưa có: Bitex entity, iBHXH-Portal concept, MISA-Integration concept, api/ folder
+
+Cập nhật: wiki/overview.md (v3→v4), wiki/index.md (thêm 2 synthesis, last-analyzed)
+
+---
 ## [2026-04-27] tonghop | Tổng kết cuối ngày 27/04/2026 — Bug-fix VNWs + toàn cảnh
 
 Đọc: `wiki/index.md`, `wiki/log.md`, `wiki/synthesis/hoat-dong-wiki-27-04-2026`

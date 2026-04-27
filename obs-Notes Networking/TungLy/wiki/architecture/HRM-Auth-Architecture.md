@@ -7,18 +7,23 @@ tags:
   - identity-server
   - oauth2
   - security
-date-updated: 2026-04-26
+date-updated: 2026-04-27
 related:
   - "[[wiki/concepts/HRM-Security-Config]]"
   - "[[wiki/sources/HongNgoc-DanhGia-SSO]]"
   - "[[wiki/sources/VnPay-System-Architecture]]"
   - "[[wiki/architecture/HRM-System-Architecture]]"
+  - "[[wiki/architecture/HRM-SysDB-Schema]]"
+  - "[[wiki/sources/Sys-TaiLieuHeThong-01]]"
+  - "[[wiki/sources/Sys-TaiLieuLDAP-03]]"
+  - "[[wiki/flows/Flow-LDAP-Login]]"
+  - "[[wiki/flows/Flow-ResetPassword]]"
 ---
 
 # HRM — Kiến Trúc Xác Thực (Auth Architecture)
 
-> **Phạm vi**: SSO, JWT, OAuth2, VnrDecrypt, RBAC  
-> **Nguồn**: HongNgoc (JWT SSO) + VnPay (Identity IDS4)
+> **Phạm vi**: SSO, JWT, OAuth2, VnrDecrypt, RBAC, LDAP  
+> **Nguồn**: HongNgoc (JWT SSO) + VnPay (Identity IDS4) + SYS docs (LDAP, DB schema)
 
 ---
 
@@ -288,11 +293,33 @@ JWT SSO (HongNgoc):
 
 ---
 
+## Mô hình 3 — LDAP / Active Directory
+
+Xem chi tiết: [[wiki/flows/Flow-LDAP-Login]]
+
+**Cấu hình webconfig:**
+```xml
+<add key="IsLdapSignIn" value="true"/>
+<add key="LdapSignInSource" value="@domain.com,"/>
+```
+
+**Bảng liên quan:** `Sys_UserInfo.IsCheckLDAP`, `Sys_UserInfo.LdapConfigID` → `Sys_LdapConfig`
+
+**Đặc điểm:**
+- Hỗ trợ multi-source LDAP (nhiều domain)
+- User LDAP và user thường tồn tại song song
+- Xác thực qua bind LDAP — không lưu password trong DB HRM
+
+---
+
 ## Liên kết liên quan
 
 - [[wiki/sources/HongNgoc-DanhGia-SSO]] — Hướng dẫn config JWT SSO thực tế
 - [[wiki/sources/VnPay-System-Architecture]] — Identity IDS4 trong hệ thống
 - [[wiki/concepts/HRM-Security-Config]] — VnrDecrypt, AllowOrigin, sysadmin policy
 - [[wiki/architecture/HRM-System-Architecture]] — Tổng quan kiến trúc
+- [[wiki/architecture/HRM-SysDB-Schema]] — Schema Sys_UserInfo, Sys_LdapConfig
+- [[wiki/flows/Flow-LDAP-Login]] — Workflow đăng nhập LDAP
+- [[wiki/flows/Flow-ResetPassword]] — Workflow reset password
 - [[wiki/projects/HongNgoc-Project]] — Case study JWT SSO
 - [[wiki/projects/VnPay-Project]] — Case study Identity Server 4

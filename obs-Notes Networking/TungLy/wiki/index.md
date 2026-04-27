@@ -1,7 +1,7 @@
 ---
 type: index
 date-updated: 2026-04-27
-last-analyzed: 2026-04-26
+last-analyzed: 2026-04-27
 ---
 
 # Wiki Index
@@ -19,6 +19,10 @@ last-analyzed: 2026-04-26
 | [[wiki/flows/Flow-Deploy-HRM]] | Quy trình deploy/upbuild + warmup IIS và Kubernetes | 2026-04-26 |
 | [[wiki/flows/Flow-UAT-Process]] | Quy trình UAT: đào tạo → test → fix → sign-off → go-live | 2026-04-26 |
 | [[wiki/flows/Flow-Onboarding-NhanVien]] | Quy trình onboarding nhân viên mới vào HRM | 2026-04-26 |
+| [[wiki/flows/Flow-BaoHiem-Monthly]] | Luồng phân tích BH hàng tháng: INS01 chuỗi giá trị, ON/OFF thai sản, lỗi phân tích | 2026-04-27 |
+| [[wiki/flows/Flow-PhanQuyen-HeThong]] | Phân quyền SYS: 2 loại quyền, tạo nhóm, gán user, PrivilegeNumber bitwise | 2026-04-27 |
+| [[wiki/flows/Flow-ResetPassword]] | Bảo mật đăng nhập, đổi mật khẩu, quên mật khẩu (4 bước) | 2026-04-27 |
+| [[wiki/flows/Flow-LDAP-Login]] | Cấu hình và đăng nhập LDAP/Active Directory HRM | 2026-04-27 |
 
 ---
 
@@ -30,6 +34,9 @@ last-analyzed: 2026-04-26
 | [[wiki/architecture/HRM-Auth-Architecture]] | Kiến trúc xác thực: JWT SSO, Identity Server 4, VnrDecrypt, RBAC | 2026-04-26 |
 | [[wiki/architecture/HRM-Database-Architecture]] | Kiến trúc database: SQL Server, CLR, Memory Optimized, MAXDOP | 2026-04-26 |
 | [[wiki/architecture/HRM-Deployment-Architecture]] | Kiến trúc deploy: IIS config, K8s, multi-tenant, S3, warmup | 2026-04-26 |
+| [[wiki/architecture/INS-Database-Schema]] | Database schema phân hệ INS: 20+ bảng, mapping V6→V8, tỉ lệ BH, enum chứng từ | 2026-04-27 |
+| [[wiki/architecture/INS-Architecture]] | Architecture đầy đủ phân hệ INS: 72 bảng, 4 layer, phần tử BH, cấu hình | 2026-04-27 |
+| [[wiki/architecture/HRM-SysDB-Schema]] | Schema 8 bảng SYS: UserInfo, Group, Resource, GroupPermission2, DataPermission | 2026-04-27 |
 
 ---
 
@@ -38,6 +45,14 @@ last-analyzed: 2026-04-26
 | Trang | Mô tả ngắn | Cập nhật |
 |-------|-----------|---------|
 | [[wiki/glossary/HRM-Glossary]] | Từ điển đầy đủ: BH (BHXH/BHYT/BHTN), D02/C70, SE/BA/QC, IIS, CLR... | 2026-04-26 |
+
+---
+
+## API
+
+| Trang | Mô tả ngắn | Cập nhật |
+|-------|-----------|---------|
+| [[wiki/api/HRM-API-Excel-Integration]] | HRM API → Excel: Bearer token Power Query, SQL direct, Store Procedure | 2026-04-27 |
 
 ---
 
@@ -91,6 +106,7 @@ last-analyzed: 2026-04-26
 | [[wiki/concepts/HRM-Network-Check]] | Test-NetConnection, webSettings.json keys, Symantec/proxy |
 | [[wiki/concepts/HRM-Deploy-Checklist]] | Checklist deploy server mới + upbuild an toàn |
 | [[wiki/concepts/HRM-Code-Quality]] | Quy tắc store, merge, enum, giao tiếp SE-BA-QC |
+| [[wiki/concepts/Kaizen-Methodology]] | Phương pháp Kaizen: 5S, 4 cách cải tiến, mẫu thẻ, liên hệ RCA |
 
 ---
 
@@ -165,6 +181,20 @@ last-analyzed: 2026-04-26
 | [[wiki/sources/FGL-Survey-RedirectJWT-2024]] | FGL: tích hợp Survey qua redirect JWT — SurveyAuthen/Index gateway pattern | 2026-04-27 |
 | [[wiki/sources/AMIS-ISO-AgileScrum-2024]] | AMIS ISO: mẫu quy trình 7 mục, Agile Scrum Misa, chuẩn hóa quy trình sản xuất | 2026-04-27 |
 | [[wiki/sources/HongNgoc-AutoLogin-JWT-2025]] | HongNgoc: auto-login đánh giá cũ→mới qua JWT SSO_SecretKey shared | 2026-04-27 |
+| [[wiki/sources/SaaS-VnR-Meetings-Detail-2023]] | SaaS VnR: 16 biên bản họp chi tiết 07–10/2023 — K8s, MinIO per tenant, Identity Server, Redis cache tenantCode | 2026-04-27 |
+| [[wiki/sources/Interview-SE-Candidates-2024]] | 4 hồ sơ ứng viên SE Backend 2024 — Thái Bảo An, Mã Tấn Vĩnh, Nguyễn Hoàng Trung, Trần Công Duy (PASS) | 2026-04-27 |
+| [[wiki/sources/Learning-MicroService-Confluence-Tools]] | Microservice SSO 3 tình huống + Confluence vs WikiJS so sánh chi tiết | 2026-04-27 |
+| [[wiki/sources/Daily-2025-Jan-Feb-Projects]] | Daily 01–02/2025: HongNgoc SSO, PEWVN, INOAC, Lotte Okta OIDC, TVC, VnPay SSO | 2026-04-27 |
+| [[wiki/sources/INS-Kaizen-08-Cards]] | 11 thẻ Kaizen thực thi INS/SYS (Ins0001–Ins0011, 2017–2018): UX, validate, RAM warning, SE tooling | 2026-04-27 |
+| [[wiki/sources/INS-TaiLieuBaoHiem-01]] | Tài liệu toàn diện INS v8.0.1.x — 9 module: mindmap, nghiệp vụ, DB schema, UML, cấu hình, code diagram | 2026-04-27 |
+| [[wiki/sources/INS-NhatKy-VanDe-2017]] | Nhật ký vấn đề INS 2017: D02 thai sản, ON/OFF, timezone bug, Pareto 70% bug | 2026-04-27 |
+| [[wiki/sources/INS-Troubleshooting-5Why]] | 5-Why RCA: Tên Công Việc, Số Tiền BH, C70A lương = 0 — 4M framework | 2026-04-27 |
+| [[wiki/sources/INS-ThietKe-V8]] | Thiết kế chức năng INS V8: nghiệp vụ, biểu mẫu TK01/TK02/D02/C70A, IBHXH/EBHXH | 2026-04-27 |
+| [[wiki/sources/INS-TaiLieuBH-01-Schema]] | Schema database đầy đủ INS: Ins_ProfileInsuranceMonthly 72+ fields, mã lỗi Err001-Err008 | 2026-04-27 |
+| [[wiki/sources/Sys-TaiLieuHeThong-01]] | Tài liệu hệ thống SYS: 8 bảng DB, UML, 50+ webconfig keys, bảo mật, quên mật khẩu | 2026-04-27 |
+| [[wiki/sources/Sys-TaiLieuPhanQuyen-02]] | Phân quyền HRM: 2 loại quyền, tạo nhóm 2 bước, màn hình/nút/tab | 2026-04-27 |
+| [[wiki/sources/Sys-TaiLieuLDAP-03]] | Tích hợp LDAP: cấu hình, Sys_LdapConfig, multi-source, workflow đăng nhập | 2026-04-27 |
+| [[wiki/sources/Sys-TaiLieuGetAPIToExcel-07]] | Lấy dữ liệu HRM API/SQL/Store → Excel qua Power Query + Bearer token | 2026-04-27 |
 
 ---
 
@@ -176,6 +206,8 @@ last-analyzed: 2026-04-26
 | [[wiki/synthesis/VnPay-Research-20260427]] | Báo cáo toàn diện VnPay: khách hàng, 13 services K8s, timeline, sự cố, gaps, gợi ý | 2026-04-27 |
 | [[wiki/synthesis/BaoHiem-NghiepVu-Research-20260426]] | Nghiên cứu toàn diện nghiệp vụ Bảo hiểm: chứng từ, nghỉ 14 ngày, tích hợp MISA, BH tự nguyện | 2026-04-26 |
 | [[wiki/synthesis/hoat-dong-wiki-26-04-2026-v4]] | Tổng hợp hoạt động wiki 26/04/2026 — biểu đồ, quy luật, câu hỏi suy ngẫm | 2026-04-26 |
+| [[wiki/synthesis/hoat-dong-wiki-27-04-2026]] | Tổng hợp hoạt động wiki 27/04/2026 — tăng trưởng 50+ trang, 6 entities mới, 3 RCA | 2026-04-27 |
+| [[wiki/synthesis/hoat-dong-wiki-27-04-2026-v2]] | Tổng hợp v2 ngày 27/04/2026 — bug-fix VNWs Sys024, routing bug TaskScheduleService | 2026-04-27 |
 
 ---
 
