@@ -5,6 +5,14 @@
 
 ---
 
+## [2026-04-27] tonghop | Tổng kết cuối ngày 27/04/2026 — Bug-fix VNWs + toàn cảnh
+
+Đọc: `wiki/index.md`, `wiki/log.md`, `wiki/synthesis/hoat-dong-wiki-27-04-2026`
+Tạo synthesis: `wiki/synthesis/hoat-dong-wiki-27-04-2026-v2.md`
+Nội dung: bug-fix VNWs Sys024 thực chiến, wiki tra cứu thành công lần đầu, timeline 16 ngày sự cố, routing bug TaskScheduleService, 4 biểu đồ, 10 khuyến nghị, 3 câu hỏi suy ngẫm
+
+---
+
 ## [2026-04-27] tonghop | Hoạt động wiki ngày 27/04/2026
 
 Đọc: `wiki/index.md`, `wiki/log.md`, `wiki/synthesis/hoat-dong-wiki-26-04-2026-v4`
