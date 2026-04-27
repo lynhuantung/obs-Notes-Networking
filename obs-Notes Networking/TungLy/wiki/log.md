@@ -5,6 +5,35 @@
 
 ---
 
+## [2026-04-27] query | Dự án LTG có gì đặc biệt
+
+Đọc: `wiki/projects/LTG-Project`, `wiki/entities/LTG`, `wiki/sources/LTG-INS-Meetings-2024`, `wiki/sources/LTG-TAL-Meetings-2024`, `wiki/sources/LTG-SYS-Meetings-2024`, `wiki/sources/LTG-TAL-Supplement-Jul2024`
+Kết quả: Tổng hợp 4 điểm đặc thù LTG — ca 24h/nghỉ 14 ngày, kiêm nhiệm đa pháp nhân, TAL đầy đủ nhất vault, phân quyền tự động theo nhóm NV
+
+---
+
+## [2026-04-27] query | Tìm hiểu phân quyền hệ thống HRM
+
+Đọc: `wiki/flows/Flow-PhanQuyen-HeThong`, `wiki/sources/Sys-TaiLieuPhanQuyen-02`, `wiki/architecture/HRM-SysDB-Schema`, `wiki/sources/LTG-SYS-Meetings-2024`, `wiki/sources/Daily-2024-OPA-LDAP-Permission`
+Kết quả: Tổng hợp toàn diện 2 loại phân quyền (chức năng/dữ liệu), schema 8 bảng SYS, PrivilegeNumber bitwise, Get_Data_Permission_New pattern, kiêm nhiệm đa pháp nhân
+
+---
+
+## [2026-04-27] query | Tìm hiểu InsSalaryPayBack — điều chỉnh BH cấp code
+
+Đọc: `wiki/sources/INS-InsurancePayback`, `wiki/sources/INS-TaiLieuBH-01-Schema`, `wiki/sources/TBV-INS-Meeting-2024`
+Đọc code: `Ins_InsuranceSalaryPayback.cs`, `Ins_InsurancePayBackServices.cs`, `InsurancePayBackInfo.cshtml`, `hrm_ins_sp_get_SalPayBack_New.sql`, `hrm_ins_sp_get_InsuranceSalaryPayback_Sal.sql`
+Kết quả: Phân tích đầy đủ entity schema (18 fields key), luồng UI (auto-load từ Ins_ProfileInsuranceMonthly), công thức InsSalaryAdjust = InsSalaryPayBack - InsSalary, DisplayCode TU/TT/CD ẩn hiện field
+
+---
+
+## [2026-04-27] query | Tìm hiểu chức năng điều chỉnh bảo hiểm
+
+Đọc: `wiki/synthesis/BaoHiem-NghiepVu-Research-20260426`, `wiki/sources/INS-D02-ChungTu`, `wiki/sources/INS-ThietKe-V8`, `wiki/flows/Flow-BaoHiem-Monthly`, `wiki/architecture/INS-Architecture`
+Kết quả: Tổng hợp toàn diện chức năng điều chỉnh BH — DC (mã 02 D02), Ins_InsuranceSalaryPayback, quy trình cập nhật mức đóng, tình huống truy thu/thoái thu
+
+---
+
 ## [2026-04-27] ingest | SYS batch — 4 tài liệu kỹ thuật hệ thống HRM
 
 Tạo:
@@ -640,3 +669,10 @@ Khởi tạo cấu trúc wiki ban đầu dựa trên nội dung vault hiện có
 - Tạo trang concepts: HRM-Modules, Project-Phases, Nguon-Luc, Net8-Migration
 - Tạo thư mục raw/ (sẵn sàng nhận nguồn mới)
 - Tạo thư mục sources/, synthesis/ (trống, chờ ingest)
+
+## [2026-04-27] ingest | Bitex-Project — Toàn bộ thư mục dự án Bitex-AKW
+
+Tạo: `wiki/sources/Bitex-Project-Overview.md`, `wiki/sources/Bitex-Chat-ChiHuyThiCong.md`, `wiki/sources/Bitex-TaskList-PostGoLive.md`
+Tạo: `wiki/flows/Flow-Bitex-Phases.md`
+Cập nhật: `wiki/projects/Bitex-Project.md`, `wiki/index.md`, `wiki/overview.md`
+Nguồn: 19 file trong `1. Projects/Dự án 2026/Bitex-Project/` (Goals, Scope, Timeline, Risks, Resources, Phases, DailyNotes, Meeting_Notes)

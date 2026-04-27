@@ -1,9 +1,9 @@
 ---
 type: overview
 date-updated: 2026-04-27
-sources-ingested: 79
+sources-ingested: 82
 last-analyzed: 2026-04-27
-wiki-version: v4.1 (lần 10: batch SYS — 4 sources + HRM-SysDB-Schema + 3 flows + 1 API page)
+wiki-version: v4.2 (lần 11: Bitex-Project — 3 sources + 1 flow + update project page)
 ---
 
 # Wiki Overview
