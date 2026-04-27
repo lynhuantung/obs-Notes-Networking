@@ -4,7 +4,8 @@ aliases:
 title: Biên bản họp
 tags:
   - "#meeting"
-date: "{{date}}"
+created: {{date:YYYY-MM-DD}}
+updated: {{date:YYYY-MM-DD}}
 members:
   - tungly
 Related: "[[0.H-]]"

@@ -5,6 +5,14 @@
 
 ---
 
+## [2026-04-27] tonghop | Hoạt động wiki ngày 27/04/2026
+
+Đọc: `wiki/index.md`, `wiki/log.md`, `wiki/synthesis/hoat-dong-wiki-26-04-2026-v4`
+Tạo synthesis: `wiki/synthesis/hoat-dong-wiki-27-04-2026.md`
+Nội dung: tăng trưởng 50+ trang, 6 entities mới, 3 RCA, VnPay research, phân bố nguồn theo khách hàng, khuyến nghị ưu tiên
+
+---
+
 ## [2026-04-27] rootcause | Nhật ký & Phân tích — Sys024 Schedule VNWs không tự chạy (OPA)
 
 Soạn 4 loại output (A/B/C/D) cho vấn đề Schedule lấy hồ sơ ứng viên VNWs dừng 16 ngày do upbuild không stop Windows Service. Lưu tại wiki/synthesis/rca-schedule-vnws-opa-20260418.md + append Nhat-ky-van-de-he-thong.md (Sys024)

@@ -4,14 +4,15 @@ aliases:
 title: Biên bản họp ...
 tags:
   - "#meeting"
-date: <% tp.date.now("YYYY-MM-DD") %>
+created: {{date:YYYY-MM-DD}}
+updated: {{date:YYYY-MM-DD}}
 members:
   - tungly
 Related: "[[0.Meeting]]"
 Link: 
 Project:
 ---
-## Biên bản họp: <% tp.date.now("YYYY-MM-DD") %>
+## Biên bản họp: {{date:YYYY-MM-DD}}
 - Mã cuộc họp: **H-ABC-SYS-090724**
 - **Người tham gia**: UserA , UserB
 - Cuộc họp liên quan [^1]

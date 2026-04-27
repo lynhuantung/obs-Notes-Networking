@@ -1,7 +1,8 @@
 ---
-Mã: <% tp.date.now("YYYYMMDDHHmmss") %>
+Mã: {{date:YYYYMMDDHHmmss}}
 aliases:
-date: <% tp.date.now("YYYY-MM-DD") %>
+created: {{date:YYYY-MM-DD}}
+updated: {{date:YYYY-MM-DD}}
 tags:
   - daily
 Project:

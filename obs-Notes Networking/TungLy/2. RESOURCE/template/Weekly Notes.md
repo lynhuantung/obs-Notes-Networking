@@ -1,9 +1,15 @@
+---
+tags:
+  - weekly
+created: {{date:YYYY-MM-DD}}
+updated: {{date:YYYY-MM-DD}}
+---
 
 ## Báo cáo tuần
 
 **Tuần:** xx
 
-**Ngày:** <% tp.date.now("YYYY-MM-DD") %>
+**Ngày:** {{date:YYYY-MM-DD}}
 
 **Người báo cáo:**  TungLy
 

@@ -1,5 +1,11 @@
+---
+tags:
+  - daily
+created: {{date:YYYY-MM-DD}}
+updated: {{date:YYYY-MM-DD}}
+---
 
-<p align="right">Daily notes: <% tp.date.now("YYYY-MM-DD") %></p>
+<p align="right">Daily notes: {{date:YYYY-MM-DD}}</p>
 
 ## 🏆 Công việc đã hoàn thành
 - [ ] Task 1: 

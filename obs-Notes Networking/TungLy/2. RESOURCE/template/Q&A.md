@@ -1,10 +1,12 @@
 ---
-title: <% tp.file.title %>
-date: <% tp.date.now("YYYY-MM-DD") %>
+title: {{title}}
+created: {{date:YYYY-MM-DD}}
+updated: {{date:YYYY-MM-DD}}
 tags:
   - "#FAQs"
 status: nháp
 ---
+
 
 >[!success]+ Q&A - Phần mềm nhân sự
 >**Hỏi: Phần mềm nhân sự là gì?**
