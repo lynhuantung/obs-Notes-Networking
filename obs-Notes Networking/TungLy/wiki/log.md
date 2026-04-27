@@ -670,7 +670,14 @@ Khởi tạo cấu trúc wiki ban đầu dựa trên nội dung vault hiện có
 - Tạo thư mục raw/ (sẵn sàng nhận nguồn mới)
 - Tạo thư mục sources/, synthesis/ (trống, chờ ingest)
 
-## [2026-04-27] ingest | Bitex-Project — Toàn bộ thư mục dự án Bitex-AKW
+## [2026-04-27] ingest | QuickPack-Project — Toàn bộ thư mục dự án QPVN
+
+Tạo: `wiki/sources/QuickPack-Project-Overview.md`
+Tạo: `wiki/projects/QuickPack-Project.md`
+Tạo: `wiki/entities/QuickPack.md`
+Tạo: `wiki/flows/Flow-QuickPack-Phases.md`
+Cập nhật: `wiki/index.md`, `wiki/overview.md`
+Nguồn: 29 file trong `1. Projects/Dự án 2026/QuickPack-Project/` (Goals, Scope, Timeline, Risks, Phases, DailyNotes, Meeting_Notes, Documents)
 
 Tạo: `wiki/sources/Bitex-Project-Overview.md`, `wiki/sources/Bitex-Chat-ChiHuyThiCong.md`, `wiki/sources/Bitex-TaskList-PostGoLive.md`
 Tạo: `wiki/flows/Flow-Bitex-Phases.md`
