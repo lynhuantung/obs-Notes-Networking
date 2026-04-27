@@ -5,6 +5,24 @@
 
 ---
 
+## [2026-04-27] rootcause | Nhật ký & Phân tích — Sys024 Schedule VNWs không tự chạy (OPA)
+
+Soạn 4 loại output (A/B/C/D) cho vấn đề Schedule lấy hồ sơ ứng viên VNWs dừng 16 ngày do upbuild không stop Windows Service. Lưu tại wiki/synthesis/rca-schedule-vnws-opa-20260418.md + append Nhat-ky-van-de-he-thong.md (Sys024)
+
+---
+
+## [2026-04-27] rootcause | Nhật ký — Sys023 Redis Cache Att_RosterGroup lệch DB (INOAC)
+
+Soạn 4 loại output (A/B/C/D) cho vấn đề Redis cache nhóm ca INOAC. Lưu tại wiki/synthesis/rca-inoac-redis-cache-20260427.md + append Nhat-ky-van-de-he-thong.md
+
+---
+
+## [2026-04-27] rca | Redis tự Stop & Restart — IIS Pools mất kết nối cache
+
+Phân tích live Redis (port 6379 + 6380), xác định root cause: Redis chạy trên Cygwin không có supervisor, AOF bloat 56MB, maxmemory=0. Đề xuất 6 hành động khắc phục. Lưu tại wiki/synthesis/rca-redis-stop-restart-20260427.md
+
+---
+
 ## [2026-04-27] research | VnPay — Báo cáo toàn diện
 
 Đọc: 10 trang wiki + 3 file thô (log lỗi T10/2025, tri thức thô, danh sách dự án)

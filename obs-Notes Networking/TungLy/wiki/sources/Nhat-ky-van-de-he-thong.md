@@ -76,3 +76,58 @@ Tài liệu ghi nhận 22 vấn đề kỹ thuật phát sinh trong quá trình 
 - [[wiki/concepts/HRM-Log-Monitoring]] — toolkit chẩn đoán, Event Viewer, Task Scheduler
 - [[wiki/concepts/HRM-Security-Config]] — VnrDecrypt, AllowOrigin, sysadmin policy
 - [[wiki/concepts/HRM-Network-Check]] — Test-NetConnection, webSettings.json
+
+---
+
+## Sys023 — Redis Cache Att_RosterGroup Lệch DB (INOAC)
+
+- **Lỗi:** Portal V3 hiển thị sai ca làm việc khi đăng ký tăng ca do Redis cache nhóm ca không đồng bộ với database.
+
+**Lý Do**
+- Cache key `Att_RosterGroup` bị stale sau các thao tác cập nhật dữ liệu không trigger invalidation.
+
+**Nguyên nhân**
+- Trigger trong database tác động đến Att_RosterGroup nhưng không notify cache layer
+- Job SQL & Scheduler task trong HRM thay đổi dữ liệu bỏ qua cache invalidation
+- Cập nhật trực tiếp trên SQL & API tích hợp không cập nhật lại cache
+- Import dữ liệu nhóm ca trong HRM không đồng bộ cache
+- Cập nhật gián tiếp giữa các danh mục cache khiến cache bị lệch
+
+**Nguyên nhân gốc:**
+- Kiến trúc cache thiếu cơ chế invalidation tập trung: nhiều luồng ghi dữ liệu (trigger, job, API, import) không được điều phối qua một điểm duy nhất để cập nhật cache.
+
+**Cách phòng tránh**
+- Bổ sung cache invalidation hook tại mọi luồng ghi dữ liệu liên quan đến Att_RosterGroup
+- Bổ sung chức năng xóa toàn bộ Redis cache trên giao diện quản trị
+- Khi nghi ngờ sai dữ liệu: clear cache trên Redis Insight trước khi debug logic
+
+| Tên | ID | Phòng ban | Ngày |
+|-----|----|-----------|------|
+| Tùng Lý | — | SE | 22/01/2025 |
+
+---
+
+## Sys024 — Schedule VNWs Không Tự Chạy (OPA)
+
+- **Lỗi:** Schedule lấy hồ sơ ứng viên từ VNWs không tự động chạy từ ngày 7/4, phải chạy manual ngày 23/4 mới có log.
+
+**Lý Do**
+- Khi cập nhật build mới không thực hiện stop Windows Service trước.
+
+**Nguyên nhân**
+- Triển khai không tuân thủ quy trình upbuild: bỏ qua bước stop Windows Service
+- Windows Service cũ vẫn đang chạy trong khi build mới được ghi đè lên thư mục
+- File binary bị lock hoặc xung đột giữa phiên bản cũ và mới dẫn đến service không nhận config/code mới
+- Không có cơ chế kiểm tra tự động sau upbuild (health check / log alert)
+
+**Nguyên nhân gốc:**
+- Quy trình upbuild thiếu bước bắt buộc **stop Windows Service trước khi cập nhật**, dẫn đến service chạy với binary cũ sau khi deploy.
+
+**Cách phòng tránh**
+- Bắt buộc tuân thủ checklist upbuild: Stop pool → Stop Windows Service → Cập nhật build → Xóa & Install lại Windows Service → Start
+- Bổ sung bước kiểm tra log Windows Service sau upbuild (trong vòng 5–10 phút)
+- Thêm alert/monitor tự động khi schedule task không có log quá X giờ
+
+| Tên | ID | Phòng ban | Ngày |
+|-----|----|-----------|------|
+| Tùng Lý | — | SE | 18/04/2026 |
