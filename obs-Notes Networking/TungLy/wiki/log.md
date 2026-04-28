@@ -687,6 +687,14 @@ Tạo: `wiki/flows/Flow-QuickPack-Phases.md`
 Cập nhật: `wiki/index.md`, `wiki/overview.md`
 Nguồn: 29 file trong `1. Projects/Dự án 2026/QuickPack-Project/` (Goals, Scope, Timeline, Risks, Phases, DailyNotes, Meeting_Notes, Documents)
 
+## [2026-04-28] tonghop | So sánh 3 dự án Golive 2025 — VnPay / QuickPack / Bitex
+
+Đọc: `wiki/projects/VnPay-Project.md`, `wiki/projects/Bitex-Project.md`, `wiki/projects/QuickPack-Project.md`, `wiki/synthesis/toan-canh-wiki-ket-thuc-ngay-27-04-2026.md`, `wiki/projects/LTG-Project.md`
+Tạo synthesis: `wiki/synthesis/hoat-dong-wiki-28-04-2026.md`
+Chủ đề: So sánh toàn diện 3 dự án Golive T12/2025 — pattern rủi ro, timeline, GAP, bài học PM
+
+---
+
 Tạo: `wiki/sources/Bitex-Project-Overview.md`, `wiki/sources/Bitex-Chat-ChiHuyThiCong.md`, `wiki/sources/Bitex-TaskList-PostGoLive.md`
 Tạo: `wiki/flows/Flow-Bitex-Phases.md`
 Cập nhật: `wiki/projects/Bitex-Project.md`, `wiki/index.md`, `wiki/overview.md`
