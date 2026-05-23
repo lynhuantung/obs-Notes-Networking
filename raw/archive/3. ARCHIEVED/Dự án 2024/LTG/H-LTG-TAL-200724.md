@@ -1,0 +1,58 @@
+﻿---
+MÃ£ cuá»™c há»p: H-LTG-TAL-200724
+aliases: 
+title: BiÃªn báº£n há»p quáº£n lÃ½ nhÃ¢n tÃ i
+tags:
+  - "#meeting"
+  - "#quanlynhantai"
+  - "#talent"
+date: 2024-07-20
+members:
+  - tungly
+  - minhnguyendat
+  - tiendang
+Related: "[[0.H-LTG]]"
+Link: https://docs.google.com/spreadsheets/d/1LeOoyFHpXN78jCnxm-tb6ttvRx0__3pyZpR4x0o2Pgo/edit?gid=737863023#gid=737863023
+Project:
+  - "[[Dá»± Ã¡n LTG]]"
+---
+## Há»p quáº£n lÃ½ nhÃ¢n tÃ i - Dá»± Ã¡n LTG
+## BiÃªn báº£n há»p : 20/07/2024
+- MÃ£ cuá»™c há»p: H-LTG-TAL-200724
+- **NgÆ°á»i tham gia**: TungLy, TienDang, MinhNguyendat
+- Cuá»™c há»p liÃªn quan [^1]
+- ThÃ´ng tin thÃªm
+	- Link email [^2]
+	- GAP list [^3]
+## Má»¥c tiÃªu:
+- Táº¡o scheduler task cáº­p nháº­t tÃ¬nh tráº¡ng cho nhÃ¢n viÃªn 
+- Xá»­ lÃ½ nv bá»‹ ká»¹ luáº­t
+
+## ðŸ“CÃ¡c Ã½ chÃ­nh  
+-  Táº¡o scheduler task cáº­p nháº­t tÃ¬nh tráº¡ng cho nhÃ¢n viÃªn (SE - 6 Point)
+- ThÃªm cá»™t ngÃ y nghá»‰ viá»‡c. Náº¿u ngÃ y nghá»‰ viá»‡c sáº½ highlight main vÃ  portal (SE - 4 point)
+- Khi nv káº¿ thá»«a bá»‹ ká»¹ luáº­t, cáº£nh bÃ¡o Ä‘áº¿n nv lÃ m viá»‡c táº¡i L&D  => chÆ°a cÃ³ giáº£i phÃ¡p
+	
+	![[Pasted image 20240720091616.png]]
+
+## Action tiáº¿p theo:
+ 1. Khi nv káº¿ thá»«a bá»‹ ká»¹ luáº­t, cáº£nh bÃ¡o Ä‘áº¿n nv lÃ m viá»‡c táº¡i L&D  => chÆ°a cÃ³ giáº£i phÃ¡p cáº§n chá»‘t vá»›i Bao.Tran vÃ  HoÃ ng.Huynh
+
+# TÃ³m táº¯t
+**5 Ã ChÃ­nh:**
+1. **Táº¡o scheduler task cáº­p nháº­t tÃ¬nh tráº¡ng nhÃ¢n viÃªn**: [[scheduler task]]
+2. **ThÃªm cá»™t ngÃ y nghá»‰ viá»‡c**: [[ngÃ y nghá»‰ viá»‡c]]
+3. **Cáº£nh bÃ¡o nhÃ¢n viÃªn táº¡i L&D vá» nhÃ¢n viÃªn káº¿ thá»«a bá»‹ ká»· luáº­t**: [[cáº£nh bÃ¡o nhÃ¢n viÃªn]]
+4. **Highlight nhÃ¢n viÃªn nghá»‰ viá»‡c trong há»‡ thá»‘ng chÃ­nh vÃ  portal**: [[highlight nhÃ¢n viÃªn nghá»‰ viá»‡c]]
+5. **Xá»­ lÃ½ nhÃ¢n viÃªn bá»‹ ká»· luáº­t**: [[ká»· luáº­t nhÃ¢n viÃªn]]
+
+ --- 
+ ### LiÃªn káº¿t:
+[[0.H-LTG]]
+
+
+
+[^1]: Cuá»™c há»p trÆ°á»›c [[raw/archive/3. ARCHIEVED/Dá»± Ã¡n 2024/LTG/H-LTG-TAL-090724]] 
+[^2]: Email
+[^3]: GAP list: https://docs.google.com/spreadsheets/d/1LeOoyFHpXN78jCnxm-tb6ttvRx0__3pyZpR4x0o2Pgo/edit?gid=737863023#gid=737863023
+

@@ -1,0 +1,12 @@
+---
+aliases: 
+date: 2024-07-13
+tags:
+  - "#new_note"
+  - "#vietcap"
+---
+
+### Hỗ trợ
+- [x] Gửi Hoàng hàm changePassword để xử lý logout tất cả thiết bị trong dự án VietCap 
+- [x] Hỗ trợ viết API center service tích hợp người dùng với identity
+

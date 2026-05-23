@@ -1,0 +1,8 @@
+{
+  "_reqId": "mcp-1779101303382",
+  "query": "dql",
+  "dql": "TABLE tags, created FROM \"wiki/sources/\" SORT created DESC LIMIT 100",
+  "filter": {
+    "limit": 200
+  }
+}

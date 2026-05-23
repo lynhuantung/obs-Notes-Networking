@@ -1,0 +1,19 @@
+{
+  "_reqId": "mcp-1779101303382",
+  "query": "dql",
+  "ts": "2026-05-18T10:48:23.943Z",
+  "data": {
+    "type": "table",
+    "values": [],
+    "headers": [
+      "File",
+      "tags",
+      "created"
+    ],
+    "idMeaning": {
+      "type": "path"
+    }
+  },
+  "error": null,
+  "count": 0
+}

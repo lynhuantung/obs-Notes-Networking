@@ -1,0 +1,6 @@
+
+Betrimet
+/Cat_GetData/GetListApprovedGradeDetail
+
+00716_hrm_cat_sp_get_ApprovedGradeDetail.sql
+
