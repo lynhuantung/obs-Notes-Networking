@@ -1,9 +1,9 @@
 ---
 type: overview
 date-updated: 2026-04-27
-sources-ingested: 79
+sources-ingested: 82
 last-analyzed: 2026-04-27
-wiki-version: v4.1 (lần 10: batch SYS — 4 sources + HRM-SysDB-Schema + 3 flows + 1 API page)
+wiki-version: v4.3 (lần 12: QuickPack-Project — 1 source + 1 project + 1 entity + 1 flow)
 ---
 
 # Wiki Overview
@@ -21,11 +21,11 @@ Tư vấn triển khai phần mềm **HRM (Bizzi / FIT-HRM)** cho doanh nghiệp
 | Chỉ số | Giá trị |
 |--------|---------|
 | Sources đã ingest (disk) | **75** (+4 INS batch: NhatKy-2017, Troubleshooting-5Why, ThietKe-V8, TaiLieuBH-01-Schema) |
-| Trang Projects | 6 (2 active: VnPay, Bitex | 4 archived) |
-| Trang Entities | 12 |
+| Trang Projects | 7 (3 active: VnPay, Bitex, QuickPack | 4 archived) |
+| Trang Entities | 13 |
 | Trang Concepts | 15 |
-| Trang Sources | 72 |
-| **Trang Flows** | **7** (+1: Flow-BaoHiem-Monthly) |
+| Trang Sources | 73 |
+| **Trang Flows** | **11** (+1: Flow-QuickPack-Phases) |
 | **Trang Architecture** | **6** (+1: INS-Architecture) |
 | **Trang Glossary** | **1** |
 | Tổng trang nội dung | **~115 trang** (index/log/overview thêm 3 = 118) |
@@ -39,6 +39,7 @@ Tư vấn triển khai phần mềm **HRM (Bizzi / FIT-HRM)** cho doanh nghiệp
 
 - **VnPay**: Nâng cấp .NET 8, timeline 01/01–19/04/2025 (đã hoàn thành giai đoạn chính)
 - **Bitex**: Dự án mới 2026, đang trong giai đoạn khởi động
+- **QuickPack (QPVN)**: Đã Golive 01/12/2025, đang Project Acceptance 01–02/2026
 
 ## Dự án đã hoàn thành (archived)
 

@@ -20,6 +20,8 @@ last-analyzed: 2026-04-27
 | [[wiki/flows/Flow-UAT-Process]] | Quy trình UAT: đào tạo → test → fix → sign-off → go-live | 2026-04-26 |
 | [[wiki/flows/Flow-Onboarding-NhanVien]] | Quy trình onboarding nhân viên mới vào HRM | 2026-04-26 |
 | [[wiki/flows/Flow-BaoHiem-Monthly]] | Luồng phân tích BH hàng tháng: INS01 chuỗi giá trị, ON/OFF thai sản, lỗi phân tích | 2026-04-27 |
+| [[wiki/flows/Flow-Bitex-Phases]] | Sơ đồ 5 giai đoạn dự án Bitex-AKW: Khảo sát → Cài đặt → Đào tạo → UAT → Golive | 2026-04-27 |
+| [[wiki/flows/Flow-QuickPack-Phases]] | Sơ đồ 6 giai đoạn dự án QuickPack QPVN + Build Management sequence | 2026-04-27 |
 | [[wiki/flows/Flow-PhanQuyen-HeThong]] | Phân quyền SYS: 2 loại quyền, tạo nhóm, gán user, PrivilegeNumber bitwise | 2026-04-27 |
 | [[wiki/flows/Flow-ResetPassword]] | Bảo mật đăng nhập, đổi mật khẩu, quên mật khẩu (4 bước) | 2026-04-27 |
 | [[wiki/flows/Flow-LDAP-Login]] | Cấu hình và đăng nhập LDAP/Active Directory HRM | 2026-04-27 |
@@ -63,7 +65,8 @@ last-analyzed: 2026-04-27
 | [[wiki/projects/VnPay-Project]] | Triển khai HRM đầy đủ + .NET 8 cho VnPay — Kubernetes, 13 services, tích hợp MISA | 2026-04-25 |
 | [[wiki/projects/TrungDong-Project]] | Triển khai HRM cho Trung Đông | 2026-04-25 |
 | [[wiki/projects/HongNgoc-Project]] | Nâng cấp phân hệ Đánh giá, SSO JWT | 2026-04-25 |
-| [[wiki/projects/Bitex-Project]] | Dự án 2026 đang triển khai | 2026-04-25 |
+| [[wiki/projects/Bitex-Project]] | Triển khai HRM Bitex-AKW 2025-2026: 2 hợp đồng 1 hệ thống, golive 01/12/2025, hỗ trợ vận hành | 2026-04-27 |
+| [[wiki/projects/QuickPack-Project]] | Triển khai HRM QPVN 8 phân hệ + .NET Core, golive 01/12/2025, rủi ro thiếu SE thực tế | 2026-04-27 |
 | [[wiki/projects/Marico-Project]] | Modify đánh giá hợp đồng (9 tasks), archived 2024 | 2026-04-25 |
 | [[wiki/projects/LTG-Project]] | Phase 3 post-UAT: kiêm nhiệm đa pháp nhân, INS ca 24h, TAL đầy đủ | 2026-04-27 |
 
@@ -85,6 +88,7 @@ last-analyzed: 2026-04-27
 | [[wiki/entities/VCBs]] | Khách hàng | Vietcombank Securities — module FAC (tài sản) + TAL |
 | [[wiki/entities/Terumo]] | Khách hàng | Terumo VN — tách user main/portal HRM V3 |
 | [[wiki/entities/FIT]] | Dự án nội bộ | FIT project — ADFS SSO, chu kỳ BH 15-14, mail server per company |
+| [[wiki/entities/QuickPack]] | Khách hàng | QuickPack Việt Nam (QPVN) — sản xuất, lương sản phẩm, đồng phục |
 
 ---
 
@@ -195,6 +199,10 @@ last-analyzed: 2026-04-27
 | [[wiki/sources/Sys-TaiLieuPhanQuyen-02]] | Phân quyền HRM: 2 loại quyền, tạo nhóm 2 bước, màn hình/nút/tab | 2026-04-27 |
 | [[wiki/sources/Sys-TaiLieuLDAP-03]] | Tích hợp LDAP: cấu hình, Sys_LdapConfig, multi-source, workflow đăng nhập | 2026-04-27 |
 | [[wiki/sources/Sys-TaiLieuGetAPIToExcel-07]] | Lấy dữ liệu HRM API/SQL/Store → Excel qua Power Query + Bearer token | 2026-04-27 |
+| [[wiki/sources/Bitex-Project-Overview]] | Bitex-AKW: Goals / Scope / Timeline / Risks / Resources / Phases — 5 giai đoạn, rủi ro thực tế, bài học | 2026-04-27 |
+| [[wiki/sources/QuickPack-Project-Overview]] | QuickPack QPVN: 8 phân hệ, GAP 3 module phức tạp, rủi ro SE T8/2025, hạ tầng IIS | 2026-04-27 |
+| [[wiki/sources/Bitex-Chat-ChiHuyThiCong]] | Bitex: Chat log nhóm "Chỉ Huy Thi Công" — 7 issues, quyết định 2 HĐ 1 DA, bài học PM | 2026-04-27 |
+| [[wiki/sources/Bitex-TaskList-PostGoLive]] | Bitex-AKW: Task list hậu go-live Tuyết Anh — 99 tasks, HRE+ATT+Portal+APP | 2026-04-27 |
 
 ---
 
@@ -209,6 +217,8 @@ last-analyzed: 2026-04-27
 | [[wiki/synthesis/hoat-dong-wiki-27-04-2026]] | Tổng hợp hoạt động wiki 27/04/2026 — tăng trưởng 50+ trang, 6 entities mới, 3 RCA | 2026-04-27 |
 | [[wiki/synthesis/hoat-dong-wiki-27-04-2026-v2]] | Tổng hợp v2 ngày 27/04/2026 — bug-fix VNWs Sys024, routing bug TaskScheduleService | 2026-04-27 |
 | [[wiki/synthesis/toan-canh-wiki-ket-thuc-ngay-27-04-2026]] | Toàn cảnh wiki kết thúc ngày 27/04/2026 — 120+ trang, INS/SYS, 3 RCA, 6 entity mới | 2026-04-27 |
+| [[wiki/synthesis/QuickPack-Research-20260427]] | Nghiên cứu toàn diện QPVN: 8 phân hệ, GAP phức tạp, khủng hoảng SE, kỹ thuật, bài học | 2026-04-27 |
+| [[wiki/synthesis/Bitex-Research-20260427]] | Báo cáo toàn diện dự án Bitex-AKW: 2HĐ-1HT, 5 giai đoạn, 7 rủi ro, bài học PM, hậu go-live 82% | 2026-04-27 |
 
 ---
 
